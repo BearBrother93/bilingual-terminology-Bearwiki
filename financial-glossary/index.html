@@ -54,10 +54,27 @@
       .hero{padding-top:37px}
       .footer{gap:15px}
     }
-</style></head><body><header class="top"><div class="shell nav"><a class="brand" href="./" aria-label="维基熊 BearWiki">
+
+/* BearWiki cross-site navigation (finance module) */
+.bw-links{display:flex;align-items:center;gap:17px;margin-left:auto;font-size:12px;font-weight:650;color:#5b7066}
+.bw-links>a{text-decoration:none;color:inherit;white-space:nowrap}
+.bw-links>a:hover,.bw-ent summary:hover{color:var(--teal)}
+.bw-links>a.current{color:var(--teal)}
+.bw-ent{position:relative;white-space:nowrap}
+.bw-ent summary{display:flex;align-items:center;gap:4px;list-style:none;cursor:pointer}
+.bw-ent summary::-webkit-details-marker{display:none}
+.bw-ent summary:after{content:'⌄';font-size:15px;line-height:1}
+.bw-ent[open] summary{color:var(--teal)}
+.bw-ent-items{position:absolute;right:0;top:calc(100% + 15px);z-index:30;min-width:206px;padding:6px;background:white;border:1px solid var(--line);border-radius:12px;box-shadow:0 14px 36px #153d2b23}
+.bw-ent-items>a{display:block;padding:10px 12px;text-decoration:none;border-radius:7px;color:var(--ink)}
+.bw-ent-items>a:hover{background:var(--pale);color:var(--teal)}
+.bw-ent-items small{display:block;color:#85958a;font-weight:400;margin-top:2px;font-size:10px}
+@media(max-width:850px){.bw-links{gap:12px;margin-left:auto}.bw-links>a.current{display:none}}
+@media(max-width:600px){.bw-links{gap:12px}.private{display:none}.bw-links>a{font-size:12px}}
+</style></head><body><header class="top"><div class="shell nav"><a class="brand" href="../" aria-label="维基熊 BearWiki 首页">
 <img class="brand-logo" src="./bearwiki-mark.svg" alt="">
 <span class="brand-copy"><strong>维基熊</strong><small>BEARWIKI</small><em>词有所据，译有所依。</em></span>
-</a><span class="private">财经术语库 <span aria-hidden="true">·</span> EN → ZH</span></div></header><main class="shell"><div class="hero"><div><div class="eyebrow">FINANCE & ACCOUNTING GLOSSARY</div><h1>译名清晰，检索顺手。</h1><p>浏览财经英中术语，可按英文词头索引，也可输入中文或英文查找。参考资料与出处说明以各词条展示为准。</p></div></div><div class="workspace"><aside class="panel sidebar"><div class="sidehead"><strong>术语目录</strong><span class="count" id="count">载入中</span></div><label class="search"><input id="search" type="search" placeholder="搜索中文或 English" aria-label="搜索术语"></label><div class="sidelabel">英文索引 / A–Z</div><div class="alpha" id="alpha"></div><div class="list" id="list" role="listbox" aria-label="检索结果"></div><button id="more" class="more" hidden>显示更多</button><p id="hint" class="info"></p></aside><article id="detail" class="panel detail"><div class="detail-top">正在载入术语表…</div></article></div></main><footer class="footer shell">
+</a><nav class="bw-links" aria-label="主导航"><a href="../">首页</a><a href="./" aria-current="page" class="current">财经术语</a><details class="bw-ent"><summary>娱乐</summary><div class="bw-ent-items"><a href="../entertainment/horizon-riders/">极境飞驰 <small>Horizon Riders · V1.0</small></a></div></details></nav><span class="private">财经术语 · EN → ZH</span></div></header><main class="shell"><div class="hero"><div><div class="eyebrow">FINANCE & ACCOUNTING GLOSSARY</div><h1>译名清晰，检索顺手。</h1><p>浏览财经英中术语，可按英文词头索引，也可输入中文或英文查找。参考资料与出处说明以各词条展示为准。</p></div></div><div class="workspace"><aside class="panel sidebar"><div class="sidehead"><strong>术语目录</strong><span class="count" id="count">载入中</span></div><label class="search"><input id="search" type="search" placeholder="搜索中文或 English" aria-label="搜索术语"></label><div class="sidelabel">英文索引 / A–Z</div><div class="alpha" id="alpha"></div><div class="list" id="list" role="listbox" aria-label="检索结果"></div><button id="more" class="more" hidden>显示更多</button><p id="hint" class="info"></p></aside><article id="detail" class="panel detail"><div class="detail-top">正在载入术语表…</div></article></div></main><footer class="footer shell">
 <div class="footer-brand"><strong>维基熊 BearWiki</strong><span>财经术语库 · 可溯源的双语知识</span></div>
 <div class="footer-note"><strong>词有所据，译有所依。</strong><span id="source-summary">参考资料持续补充与校订。</span></div>
 </footer><script src="./app.js" defer></script></body></html>
