@@ -4,10 +4,13 @@
       "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
       "publisher": "Schweitzer Engineering Laboratories (SEL)",
       "url": "https://selinc.com/products/categories/protective-relays/",
-      "context": "SEL 产品分类明确包含保护继电器、变压器/线路保护；仅证实相关英语技术表达，不涵盖本词条所有并列子项。",
+      "context": "SEL 产品分类明确包含保护继电器、变压器/线路保护；仅证实相关英语技术表达，不涵盖本词条所有并列子项。（拆分后仅作为本义项对应表达的原有佐证；不证明其他子项。）",
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
-      "locator": "Protective Relays"
+      "locator": "Protective Relays",
+      "sourceTermId": 1,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "2": [
@@ -15,10 +18,13 @@
       "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
       "publisher": "Schweitzer Engineering Laboratories (SEL)",
       "url": "https://selinc.com/products/categories/protective-relays/",
-      "context": "资料直接使用 Line Protection、transmission line relays；110/220 kV 数字细分未见该页逐字对应。",
+      "context": "资料直接使用 Line Protection、transmission line relays；110/220 kV 数字细分未见该页逐字对应。（拆分后仅作为本义项对应表达的原有佐证；不证明其他子项。）",
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
-      "locator": "Line Protection"
+      "locator": "Line Protection",
+      "sourceTermId": 2,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "3": [
@@ -26,10 +32,13 @@
       "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
       "publisher": "Schweitzer Engineering Laboratories (SEL)",
       "url": "https://selinc.com/products/categories/protective-relays/",
-      "context": "资料直接使用 Transformer Protection；双绕组、三绕组细分未由该页核实。",
+      "context": "资料直接使用 Transformer Protection；双绕组、三绕组细分未由该页核实。（拆分后仅作为本义项对应表达的原有佐证；不证明其他子项。）",
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
-      "locator": "Transformer Protection"
+      "locator": "Transformer Protection",
+      "sourceTermId": 3,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "4": [
@@ -81,10 +90,13 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "来源包含 guided local control，证实就地控制语境；local mode 未直接证实。",
+      "context": "来源包含 guided local control，证实就地控制语境；local mode 未直接证实。（继承自拆分前词条 #8 的资料，仅作背景；“local — 就地”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
-      "locator": "Substation automation responsibilities"
+      "locator": "Substation automation responsibilities",
+      "sourceTermId": 8,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "9": [
@@ -92,9 +104,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "变电站远方控制行业语境，远方状态这一组合尚缺直接双语对照。",
+      "context": "变电站远方控制行业语境，远方状态这一组合尚缺直接双语对照。（继承自拆分前词条 #9 的资料，仅作背景；“remote — 远方”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 9,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "10": [
@@ -102,9 +117,12 @@
       "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
       "publisher": "Schweitzer Engineering Laboratories (SEL)",
       "url": "https://selinc.com/products/categories/protective-relays/",
-      "context": "来源有 fault 和 protection 系统语境；该多义词条无法凭单一来源完整核对。",
+      "context": "来源有 fault 和 protection 系统语境；该多义词条无法凭单一来源完整核对。（继承自拆分前词条 #10 的资料，仅作背景；“normal — 正常”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 10,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "11": [
@@ -123,9 +141,12 @@
       "title": "Electric Power Illustrated Glossary／Glossary of Terms",
       "publisher": "U.S. OSHA",
       "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
-      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“earthing switch — 接地刀闸”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "13": [
@@ -133,9 +154,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "来源含 switching objects，局部对应开关控制语境。",
+      "context": "来源含 switching objects，局部对应开关控制语境。（继承自拆分前词条 #13 的资料，仅作背景；“switch — 开关”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 13,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "14": [
@@ -143,10 +167,13 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "来源直接使用 Bay Control Unit；公用间隔/主变间隔等复合搭配仍需更直接出处。",
+      "context": "来源直接使用 Bay Control Unit；公用间隔/主变间隔等复合搭配仍需更直接出处。（拆分后仅作为本义项对应表达的原有佐证；不证明其他子项。）",
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
-      "locator": "Bay Control Unit"
+      "locator": "Bay Control Unit",
+      "sourceTermId": 14,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "15": [
@@ -154,9 +181,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "仅为变电站保护控制背景；enable/take out of service 未见对应术语定义。",
+      "context": "仅为变电站保护控制背景；enable/take out of service 未见对应术语定义。（继承自拆分前词条 #15 的资料，仅作背景；“enable / put into service — 投入”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 15,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "16": [
@@ -164,9 +194,12 @@
       "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
       "publisher": "Schweitzer Engineering Laboratories (SEL)",
       "url": "https://selinc.com/products/categories/protective-relays/",
-      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“protection link / function enable link — 压板”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "17": [
@@ -174,9 +207,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。",
+      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。（继承自拆分前词条 #17 的资料，仅作背景；“synchronizing — 同期”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 17,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "18": [
@@ -184,9 +220,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。",
+      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。（继承自拆分前词条 #18 的资料，仅作背景；“quasi-synchronizing — 准同期”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 18,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "20": [
@@ -194,10 +233,13 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "厂商现场描述包含 bay interlocking，支持 interlocking；blocking 需要按保护功能分义。",
+      "context": "厂商现场描述包含 bay interlocking，支持 interlocking；blocking 需要按保护功能分义。（拆分后仅作为本义项对应表达的原有佐证；不证明其他子项。）",
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
-      "locator": "bay interlocking"
+      "locator": "bay interlocking",
+      "sourceTermId": 20,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "21": [
@@ -205,10 +247,13 @@
       "title": "Electric Power Illustrated Glossary／Glossary of Terms",
       "publisher": "U.S. OSHA",
       "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
-      "context": "设备词汇直接使用 substation；“站长、正值、值长”等人员职务尚未逐项验证。",
+      "context": "设备词汇直接使用 substation；“站长、正值、值长”等人员职务尚未逐项验证。（拆分后仅作为本义项对应表达的原有佐证；不证明其他子项。）",
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
-      "locator": "Substations"
+      "locator": "Substations",
+      "sourceTermId": 21,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "22": [
@@ -236,9 +281,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "变电站远程测量语境，telemetry value 具体用语未直接核对。",
+      "context": "变电站远程测量语境，telemetry value 具体用语未直接核对。（继承自拆分前词条 #24 的资料，仅作背景；“telemetry value — 遥测量”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 24,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "25": [
@@ -246,9 +294,12 @@
       "title": "Substation Automation—Protection & Control Engineer: bay control units",
       "publisher": "Hitachi Energy",
       "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "context": "变电站控制语境，telecontrol point 具体用语未直接核对。",
+      "context": "变电站控制语境，telecontrol point 具体用语未直接核对。（继承自拆分前词条 #25 的资料，仅作背景；“telecontrol point — 遥控量”尚未逐项核实，不构成译法直接证据。）",
       "evidenceGrade": "C",
-      "verifiedAt": "2026-11-08"
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 25,
+      "sourcePartIndex": 1,
+      "independentlyVerified": false
     }
   ],
   "267": [
@@ -512,6 +563,2745 @@
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
       "locator": "地电位作业术语定义"
+    }
+  ],
+  "402": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "SEL 产品分类明确包含保护继电器、变压器/线路保护；仅证实相关英语技术表达，不涵盖本词条所有并列子项。（继承自拆分前词条 #1 的资料，仅作背景；“protection message — 保护报文”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective Relays",
+      "sourceTermId": 1,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "403": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "SEL 产品分类明确包含保护继电器、变压器/线路保护；仅证实相关英语技术表达，不涵盖本词条所有并列子项。（继承自拆分前词条 #1 的资料，仅作背景；“protection event — 保护事件”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective Relays",
+      "sourceTermId": 1,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "404": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "SEL 产品分类明确包含保护继电器、变压器/线路保护；仅证实相关英语技术表达，不涵盖本词条所有并列子项。（继承自拆分前词条 #1 的资料，仅作背景；“protection device — 保护装置”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective Relays",
+      "sourceTermId": 1,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "405": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "资料直接使用 Line Protection、transmission line relays；110/220 kV 数字细分未见该页逐字对应。（继承自拆分前词条 #2 的资料，仅作背景；“line protection for 110 kV and above — 110 kV及以上线路保护”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Line Protection",
+      "sourceTermId": 2,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "406": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "资料直接使用 Line Protection、transmission line relays；110/220 kV 数字细分未见该页逐字对应。（继承自拆分前词条 #2 的资料，仅作背景；“line protection for 220 kV and above — 220 kV及以上线路保护”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Line Protection",
+      "sourceTermId": 2,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "407": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "资料直接使用 Transformer Protection；双绕组、三绕组细分未由该页核实。（继承自拆分前词条 #3 的资料，仅作背景；“two-winding transformer protection — 双绕组变压器保护”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer Protection",
+      "sourceTermId": 3,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "408": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "资料直接使用 Transformer Protection；双绕组、三绕组细分未由该页核实。（继承自拆分前词条 #3 的资料，仅作背景；“three-winding transformer protection — 三绕组变压器保护”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer Protection",
+      "sourceTermId": 3,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "409": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源包含 guided local control，证实就地控制语境；local mode 未直接证实。（继承自拆分前词条 #8 的资料，仅作背景；“local mode — 就地状态”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substation automation responsibilities",
+      "sourceTermId": 8,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "410": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站远方控制行业语境，远方状态这一组合尚缺直接双语对照。（继承自拆分前词条 #9 的资料，仅作背景；“remote mode — 远方状态”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 9,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "411": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "来源有 fault 和 protection 系统语境；该多义词条无法凭单一来源完整核对。（继承自拆分前词条 #10 的资料，仅作背景；“fault — 故障”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 10,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "412": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "来源有 fault 和 protection 系统语境；该多义词条无法凭单一来源完整核对。（继承自拆分前词条 #10 的资料，仅作背景；“maintenance — 检修”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 10,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "413": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“earthing switch — 地刀”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "414": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“local close — 就地合闸”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "415": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“local trip — 就地跳闸”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "416": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“remote close command — 远方合闸命令”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 5,
+      "independentlyVerified": false
+    }
+  ],
+  "417": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“remote trip command — 远方跳闸命令”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 6,
+      "independentlyVerified": false
+    }
+  ],
+  "418": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“closing successful — 合闸成功”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 7,
+      "independentlyVerified": false
+    }
+  ],
+  "419": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“closing failed — 合闸失败”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 8,
+      "independentlyVerified": false
+    }
+  ],
+  "420": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“tripping successful — 跳闸成功”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 9,
+      "independentlyVerified": false
+    }
+  ],
+  "421": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。（继承自拆分前词条 #12 的资料，仅作背景；“tripping failed — 跳闸失败”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 12,
+      "sourcePartIndex": 10,
+      "independentlyVerified": false
+    }
+  ],
+  "422": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源含 switching objects，局部对应开关控制语境。（继承自拆分前词条 #13 的资料，仅作背景；“switching operation — 开关操作”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 13,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "423": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源含 switching objects，局部对应开关控制语境。（继承自拆分前词条 #13 的资料，仅作背景；“switch maintenance — 开关检修”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 13,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "424": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源含 switching objects，局部对应开关控制语境。（继承自拆分前词条 #13 的资料，仅作背景；“switch status signal — 开关信号”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 13,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "425": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源直接使用 Bay Control Unit；公用间隔/主变间隔等复合搭配仍需更直接出处。（继承自拆分前词条 #14 的资料，仅作背景；“common bay — 公用间隔”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Bay Control Unit",
+      "sourceTermId": 14,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "426": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源直接使用 Bay Control Unit；公用间隔/主变间隔等复合搭配仍需更直接出处。（继承自拆分前词条 #14 的资料，仅作背景；“main transformer bay — 主变间隔”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Bay Control Unit",
+      "sourceTermId": 14,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "427": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源直接使用 Bay Control Unit；公用间隔/主变间隔等复合搭配仍需更直接出处。（继承自拆分前词条 #14 的资料，仅作背景；“line bay — 线路间隔”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Bay Control Unit",
+      "sourceTermId": 14,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "428": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "仅为变电站保护控制背景；enable/take out of service 未见对应术语定义。（继承自拆分前词条 #15 的资料，仅作背景；“disable / take out of service — 退出”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 15,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "429": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“automatic transfer enable link — 备自投压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "430": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“synchronism-check enable link — 检同期压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "431": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“dead-bus-check enable link — 检无压压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "432": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“control logic enable link — 控制逻辑投入压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 5,
+      "independentlyVerified": false
+    }
+  ],
+  "433": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“general-purpose link — 普通压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 6,
+      "independentlyVerified": false
+    }
+  ],
+  "434": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“synchronizing function enable link — 同期功能压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 7,
+      "independentlyVerified": false
+    }
+  ],
+  "435": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“synchronizing contact mode 12/13/14 link — 同期接点12/13/14方式压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 8,
+      "independentlyVerified": false
+    }
+  ],
+  "436": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“fixed synchronizing contact mode link — 同期接点固定方式压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 9,
+      "independentlyVerified": false
+    }
+  ],
+  "437": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。（继承自拆分前词条 #16 的资料，仅作背景；“quasi-synchronizing enable link — 准同期压板”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 16,
+      "sourcePartIndex": 10,
+      "independentlyVerified": false
+    }
+  ],
+  "438": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。（继承自拆分前词条 #17 的资料，仅作背景；“slip frequency — 同期滑差”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 17,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "439": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。（继承自拆分前词条 #17 的资料，仅作背景；“frequency difference — 同期频差”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 17,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "440": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。（继承自拆分前词条 #17 的资料，仅作背景；“phase-angle difference — 同期相差”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 17,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "441": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。（继承自拆分前词条 #17 的资料，仅作背景；“voltage difference — 同期压差”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 17,
+      "sourcePartIndex": 5,
+      "independentlyVerified": false
+    }
+  ],
+  "442": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。（继承自拆分前词条 #18 的资料，仅作背景；“phase-angle criterion not met — 准同期角差条件不满足”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 18,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "443": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。（继承自拆分前词条 #18 的资料，仅作背景；“frequency-difference criterion not met — 准同期频差条件不满足”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 18,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "444": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。（继承自拆分前词条 #18 的资料，仅作背景；“other synchronizing criteria not met — 准同期其他条件不满足”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 18,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "445": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。（继承自拆分前词条 #18 的资料，仅作背景；“voltage-difference criterion not met — 准同期压差条件不满足”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 18,
+      "sourcePartIndex": 5,
+      "independentlyVerified": false
+    }
+  ],
+  "447": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "厂商现场描述包含 bay interlocking，支持 interlocking；blocking 需要按保护功能分义。（继承自拆分前词条 #20 的资料，仅作背景；“blocking function — 闭锁功能”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "bay interlocking",
+      "sourceTermId": 20,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "448": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "设备词汇直接使用 substation；“站长、正值、值长”等人员职务尚未逐项验证。（继承自拆分前词条 #21 的资料，仅作背景；“substation manager — 站长”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substations",
+      "sourceTermId": 21,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "449": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "设备词汇直接使用 substation；“站长、正值、值长”等人员职务尚未逐项验证。（继承自拆分前词条 #21 的资料，仅作背景；“duty operator — 正值”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substations",
+      "sourceTermId": 21,
+      "sourcePartIndex": 3,
+      "independentlyVerified": false
+    }
+  ],
+  "450": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "设备词汇直接使用 substation；“站长、正值、值长”等人员职务尚未逐项验证。（继承自拆分前词条 #21 的资料，仅作背景；“shift supervisor — 值长”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substations",
+      "sourceTermId": 21,
+      "sourcePartIndex": 4,
+      "independentlyVerified": false
+    }
+  ],
+  "451": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站远程测量语境，telemetry value 具体用语未直接核对。（继承自拆分前词条 #24 的资料，仅作背景；“general telemetry — 通用遥测”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 24,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "452": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制语境，telecontrol point 具体用语未直接核对。（继承自拆分前词条 #25 的资料，仅作背景；“general telecontrol — 通用遥控”尚未逐项核实，不构成译法直接证据。）",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "sourceTermId": 25,
+      "sourcePartIndex": 2,
+      "independentlyVerified": false
+    }
+  ],
+  "26": [
+    {
+      "title": "IEC 104 电力规约与遥脉说明",
+      "publisher": "华为云云市场产品知识库（非标准机构）",
+      "url": "https://www.huaweicloud.com/zhishi/marketplace_product_7886def6-7a74-401e-91c0-8631f719f005.html",
+      "context": "中文技术说明直接解释遥脉；未见来源证实 telemetered pulse count 为固定英文对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "专业术语解释：遥脉",
+      "page": null,
+      "sourceTermId": 26,
+      "independentlyVerified": true,
+      "matchedEnglish": "遥脉为远程脉冲累计量",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "27": [
+    {
+      "title": "变电站综合自动化——远动装置",
+      "publisher": "腾讯云开发者社区（技术文章）",
+      "url": "https://cloud.tencent.com/developer/news/2063946",
+      "context": "中文文章将遥信标为 Tele-indication；原词 remote indication 仅为语义接近项，建议增列更专门的备选。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "四遥术语：Tele-indication",
+      "page": null,
+      "sourceTermId": 27,
+      "independentlyVerified": true,
+      "matchedEnglish": "Tele-indication",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "28": [
+    {
+      "title": "RIO600 — Operating parameter settings of AOM4",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/RIO600-Installation-and-Commissioning-Manual/1.8/en-US/Operating-parameter-settings-of-AOM4",
+      "context": "ABB 模拟量参数表明确使用 upper limit；作为电力设备范围上限用法成立。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Table 1: Operating parameter settings",
+      "page": null,
+      "sourceTermId": 28,
+      "independentlyVerified": true,
+      "matchedEnglish": "Upper limit of the range",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "29": [
+    {
+      "title": "SICAM P38/P39 User Manual — Limit Violation Alarm",
+      "publisher": "Siemens（经第三方说明书镜像站 Manualzz 提供）",
+      "url": "https://manualzz.com/doc/41229532/siemens-sicam-p38--p39-3-phase-power-meter-user-manual",
+      "context": "西门子电力仪表说明书镜像明确使用 limit violation alarm；镜像发布者非厂家，应以原厂手册复核。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "3.8 Limit violation Alarm",
+      "page": null,
+      "sourceTermId": 29,
+      "independentlyVerified": true,
+      "matchedEnglish": "Limit violation Alarm",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "30": [
+    {
+      "title": "IEC 60688:2024 — Electrical measuring transducers for converting AC and DC electrical quantities to analogue or digital signals",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/87033",
+      "context": "IEC 60688 设备测量量清单明确列 current。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Scope / quantities measured",
+      "page": null,
+      "sourceTermId": 30,
+      "independentlyVerified": true,
+      "matchedEnglish": "current",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "31": [
+    {
+      "title": "IEC 60688:2024 — Electrical measuring transducers for converting AC and DC electrical quantities to analogue or digital signals",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/87033",
+      "context": "IEC 60688 设备测量量清单明确列 voltage。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Scope / quantities measured",
+      "page": null,
+      "sourceTermId": 31,
+      "independentlyVerified": true,
+      "matchedEnglish": "voltage",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "32": [
+    {
+      "title": "Time Of Use (TOU) — EM7230/EM7280/EM7290 User Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/em7230_em7280_em7290/em7230_em7280_em7290-user-manual/EM7230_EM7280_EM7290%20User%20Manual/English/BM_EasyLogic_EM7230_EM7280_EM7290_UserManual_DD00509734.xml/%24/C_Operation_TimeOfUseTOU_EM7230_EM7280_EM7290_DD00554800",
+      "context": "厂商电能表资料支持电能和读数语境，但“电度”不一定等于单次 energy reading；需按数据字段分义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Time Of Use (TOU)",
+      "page": null,
+      "sourceTermId": 32,
+      "independentlyVerified": true,
+      "matchedEnglish": "energy consumption (kWh)",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    },
+    {
+      "title": "Rates — Wiser KNX Application User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/wiser-knx/viewer?docidentity=RatesAndSchedules-39FBED64&extension=xml&lang=en&manualidentity=UserManualIntroductionToDITAAndArbo-4969437F",
+      "context": "厂商电能表资料支持电能和读数语境，但“电度”不一定等于单次 energy reading；需按数据字段分义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Rates; electricity kWh",
+      "page": null,
+      "sourceTermId": 32,
+      "independentlyVerified": true,
+      "matchedEnglish": "energy consumption (kWh)",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "33": [
+    {
+      "title": "IEC 60688:2024 — Electrical measuring transducers for converting AC and DC electrical quantities to analogue or digital signals",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/87033",
+      "context": "IEC 60688 直接列为电能参数，符号 cosφ 还需区分功率因数与位移功率因数。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Scope / quantities measured",
+      "page": null,
+      "sourceTermId": 33,
+      "independentlyVerified": true,
+      "matchedEnglish": "power factor",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "34": [
+    {
+      "title": "IEC 60688:2024 — Electrical measuring transducers for converting AC and DC electrical quantities to analogue or digital signals",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/87033",
+      "context": "IEC 60688 电量清单直接列 reactive power。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Scope / quantities measured",
+      "page": null,
+      "sourceTermId": 34,
+      "independentlyVerified": true,
+      "matchedEnglish": "reactive power",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "35": [
+    {
+      "title": "IEC 60688:2024 — Electrical measuring transducers for converting AC and DC electrical quantities to analogue or digital signals",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/87033",
+      "context": "IEC 60688 电量清单直接列 active power。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Scope / quantities measured",
+      "page": null,
+      "sourceTermId": 35,
+      "independentlyVerified": true,
+      "matchedEnglish": "active power",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "36": [
+    {
+      "title": "IEC 60688:2024 — Electrical measuring transducers for converting AC and DC electrical quantities to analogue or digital signals",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/87033",
+      "context": "IEC 标题及正文直接使用 AC/DC；direct current 是 DC 的展开，语义匹配。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Scope / quantities measured",
+      "page": null,
+      "sourceTermId": 36,
+      "independentlyVerified": true,
+      "matchedEnglish": "AC and DC electrical quantities",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "37": [
+    {
+      "title": "SEL-2414 Transformer Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2414/",
+      "context": "SEL 变压器监控设备资料直接在测量指标中使用 temperature。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Flexible I/O / Monitoring",
+      "page": null,
+      "sourceTermId": 37,
+      "independentlyVerified": true,
+      "matchedEnglish": "ambient / top-oil / hotspot temperatures",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "39": [
+    {
+      "title": "Sound and light alarm for transformer station（专利中英文展示）",
+      "publisher": "中国实用新型专利，经 Google Patents 展示；英译为机器生成，慎用",
+      "url": "https://patents.google.com/patent/CN2095448U/en",
+      "context": "变电站声光报警专利的自动英译含 electric bell，能证明应用场景，但不能作为可靠的专业中英权威对照。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Description: electric bell / transformer station",
+      "page": null,
+      "sourceTermId": 39,
+      "independentlyVerified": true,
+      "matchedEnglish": "electric bell",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "40": [
+    {
+      "title": "SEL Real-Time Automation Controller (RTAC) Automation Platform",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/rtac",
+      "context": "SEL RTAC 厂商参数明确含 digital input。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Digital and Analog Input/Outputs",
+      "page": null,
+      "sourceTermId": 40,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital input",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "41": [
+    {
+      "title": "SEL Real-Time Automation Controller (RTAC) Automation Platform",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/rtac",
+      "context": "SEL RTAC 厂商参数明确含 digital output。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Digital and Analog Input/Outputs",
+      "page": null,
+      "sourceTermId": 41,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital output",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "42": [
+    {
+      "title": "SEL-2414 Transformer Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2414/",
+      "context": "SEL 说明变电站数值/状态信号变化记录，但没有以 status change 作为中文“变位”的正式对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Flexible I/O / Monitoring",
+      "page": null,
+      "sourceTermId": 42,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital input transitions",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "44": [
+    {
+      "title": "SEL-2431 Voltage Regulator Control",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2431/",
+      "context": "SEL 调压控制器资料多处直接使用 settings；“定值”在继保设备中通常是保护整定值，不宜泛化为所有 setting。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Features / track tap position / settings",
+      "page": null,
+      "sourceTermId": 44,
+      "independentlyVerified": true,
+      "matchedEnglish": "settings",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "45": [
+    {
+      "title": "REF615 Application Manual — Functional diagrams for protection",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/REF615-Application-Manual/5.0-FP1-IEC/en-US/Functional-diagrams-for-protection",
+      "context": "ABB 继保功能图明确将跳闸信号连接到二进制输出；支持 trip output 的继保设备语境，不代表“出口”的所有义项。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Trip logic / binary outputs / external reset",
+      "page": null,
+      "sourceTermId": 45,
+      "independentlyVerified": true,
+      "matchedEnglish": "trip logic / binary output",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "46": [
+    {
+      "title": "REF615 Application Manual — Functional diagrams for protection",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/REF615-Application-Manual/5.0-FP1-IEC/en-US/Functional-diagrams-for-protection",
+      "context": "ABB 手册证实 reset 可作复归动作；未证明“收回”即 reset/return，需原控制逻辑确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Trip logic / binary outputs / external reset",
+      "page": null,
+      "sourceTermId": 46,
+      "independentlyVerified": true,
+      "matchedEnglish": "external reset / reset input",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "47": [
+    {
+      "title": "SEL-2414 Transformer Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2414/",
+      "context": "SEL 变压器自动化与电压调节设备页直接使用 voltage regulation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Flexible I/O / Monitoring",
+      "page": null,
+      "sourceTermId": 47,
+      "independentlyVerified": true,
+      "matchedEnglish": "voltage regulation",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    },
+    {
+      "title": "SEL-2431 Voltage Regulator Control",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2431/",
+      "context": "SEL 变压器自动化与电压调节设备页直接使用 voltage regulation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Features / track tap position / settings",
+      "page": null,
+      "sourceTermId": 47,
+      "independentlyVerified": true,
+      "matchedEnglish": "voltage regulation",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "48": [
+    {
+      "title": "SEL-2414 Transformer Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2414/",
+      "context": "两家设备厂商均用 tap position 描述分接开关档位。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Flexible I/O / Monitoring",
+      "page": null,
+      "sourceTermId": 48,
+      "independentlyVerified": true,
+      "matchedEnglish": "tap position",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    },
+    {
+      "title": "On-load tap changers type UCL",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/conventional-on-load-tap-changers/on-load-tap-changers-type-ucl",
+      "context": "两家设备厂商均用 tap position 描述分接开关档位。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product scope and tap positions",
+      "page": null,
+      "sourceTermId": 48,
+      "independentlyVerified": true,
+      "matchedEnglish": "tap position",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "49": [
+    {
+      "title": "On-load tap changers type UCL",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/conventional-on-load-tap-changers/on-load-tap-changers-type-ucl",
+      "context": "厂商术语直接列 on-load tap changer 与 tap position；tap 可指分接位置，设备部件需结合上下文。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product scope and tap positions",
+      "page": null,
+      "sourceTermId": 49,
+      "independentlyVerified": true,
+      "matchedEnglish": "tap-changer / tap",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "50": [
+    {
+      "title": "Fundamentals of Instrumentation, Process Control, PLCs and SCADA",
+      "publisher": "Engineering Institute of Technology",
+      "url": "https://www.eit.edu.au/resources/fundamentals-of-instrumentation-process-control-plcs-and-scada-for-plant-operators-and-other-non-instrument-personnel/",
+      "context": "工程教程在 SCADA 系统层级中使用 master station。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "14.3 Master site structure",
+      "page": null,
+      "sourceTermId": 50,
+      "independentlyVerified": true,
+      "matchedEnglish": "master station",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "51": [
+    {
+      "title": "Design, testing, and commissioning of an IEC 61850-based substation automation system",
+      "publisher": "Electrical Engineering Portal",
+      "url": "https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/substation-iec-61850-automation-system-design-testing-commissioning",
+      "context": "IEC 61850 变电站自动化工程资料有同名独立章节。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "4.2 Engineering Workstation (EW)",
+      "page": null,
+      "sourceTermId": 51,
+      "independentlyVerified": true,
+      "matchedEnglish": "Engineering Workstation (EW)",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "52": [
+    {
+      "title": "REF615 Application Manual — Functional diagrams for protection",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/REF615-Application-Manual/5.0-FP1-IEC/en-US/Functional-diagrams-for-protection",
+      "context": "继电保护装置说明涉及二次控制回路相关部件，但该页未直接定义 secondary circuit；待标准定义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Trip logic / binary outputs / external reset",
+      "page": null,
+      "sourceTermId": 52,
+      "independentlyVerified": true,
+      "matchedEnglish": "binary inputs / trip logic",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "53": [
+    {
+      "title": "Time Of Use (TOU) — EM7230/EM7280/EM7290 User Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/em7230_em7280_em7290/em7230_em7280_em7290-user-manual/EM7230_EM7280_EM7290%20User%20Manual/English/BM_EasyLogic_EM7230_EM7280_EM7290_UserManual_DD00509734.xml/%24/C_Operation_TimeOfUseTOU_EM7230_EM7280_EM7290_DD00554800",
+      "context": "施耐德电价分时配置中直接使用 peak/off-peak hours；若泛指时段，prefer periods。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Time Of Use (TOU)",
+      "page": null,
+      "sourceTermId": 53,
+      "independentlyVerified": true,
+      "matchedEnglish": "peak / off-peak hours",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    },
+    {
+      "title": "Configuring peak/off-peak rates — Wiser Home",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/wiser_home_pacific/viewer?docidentity=TariffPlanConfigurationPeakRate-AB3EC34C&extension=xml&lang=en&manualidentity=SystemUserGuideClipsalWiser-A3F02E26",
+      "context": "施耐德电价分时配置中直接使用 peak/off-peak hours；若泛指时段，prefer periods。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Time of use (peak/off-peak hours)",
+      "page": null,
+      "sourceTermId": 53,
+      "independentlyVerified": true,
+      "matchedEnglish": "peak / off-peak hours",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "54": [
+    {
+      "title": "SEL-2401 Satellite-Synchronized Clock",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2401/",
+      "context": "SEL 卫星时钟设备明确通过 GPS 时间源同步变电站设备。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Accurate Time Synchronization",
+      "page": null,
+      "sourceTermId": 54,
+      "independentlyVerified": true,
+      "matchedEnglish": "GPS time source / Accurate Time Synchronization",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "55": [
+    {
+      "title": "REF615 Application Manual — Functional diagrams for protection",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/REF615-Application-Manual/5.0-FP1-IEC/en-US/Functional-diagrams-for-protection",
+      "context": "ABB 继保跳闸逻辑含外部复归 reset；不是所有中文“复归”都等于 restart。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Trip logic / binary outputs / external reset",
+      "page": null,
+      "sourceTermId": 55,
+      "independentlyVerified": true,
+      "matchedEnglish": "external reset / RST_LKOUT",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "56": [
+    {
+      "title": "SEL-2414 Transformer Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2414/",
+      "context": "SEL 变压器监测说明在工况异常时触发 alarm。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Flexible I/O / Monitoring",
+      "page": null,
+      "sourceTermId": 56,
+      "independentlyVerified": true,
+      "matchedEnglish": "alarms",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "57": [
+    {
+      "title": "Keithley Low Level Measurements Handbook — zero drift",
+      "publisher": "Tektronix / Keithley",
+      "url": "https://wustekprdsitecorexp-cd.azurewebsites.net/en/documents/product-article/keithley-low-level-measurements-handbook---eighth-edition",
+      "context": "Tektronix/Keithley 测量手册直接定义 zero drift；属测量仪表技术，不是电网独有术语。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Section 3.2.4 Zero Drift",
+      "page": null,
+      "sourceTermId": 57,
+      "independentlyVerified": true,
+      "matchedEnglish": "zero drift",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "58": [
+    {
+      "title": "远方投退重合闸方案策略研究 / Remote switching of automatic reclosing",
+      "publisher": "《电气技术》学术论文摘要（中英关键词）",
+      "url": "https://dqjs.cesmedia.cn/CN/abstract/abstract912.shtml",
+      "context": "电气技术期刊同页中文“控制字”与英文关键词 control word 一一对应，属于可见的双语证据。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "中英关键词：控制字 / control word",
+      "page": null,
+      "sourceTermId": 58,
+      "independentlyVerified": true,
+      "matchedEnglish": "控制字 / control word",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "59": [
+    {
+      "title": "RIO600 Remote I/O — Deadband supervision",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/RIO600-Installation-and-Commissioning-Manual/1.8/en-US/Deadband-supervision",
+      "context": "ABB 远程 I/O 手册专节定义 Deadband supervision 和 deadband settings。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Deadband supervision",
+      "page": null,
+      "sourceTermId": 59,
+      "independentlyVerified": true,
+      "matchedEnglish": "deadband",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "60": [
+    {
+      "title": "REF615 Application Manual — Functional diagrams for protection",
+      "publisher": "ABB Relion protection and control documentation",
+      "url": "https://techdoc.relays.protection-control.abb/r/REF615-Application-Manual/5.0-FP1-IEC/en-US/Functional-diagrams-for-protection",
+      "context": "ABB 页面使用 trip signal 表示保护跳闸；但“切除”可能指设备解列、负荷切除或故障切除，未能整体证实所有英文备选。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Trip logic / binary outputs / external reset",
+      "page": null,
+      "sourceTermId": 60,
+      "independentlyVerified": true,
+      "matchedEnglish": "trip signal",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "63": [
+    {
+      "title": "IEC 61850 — Distributed Energy Resources",
+      "publisher": "IEC 61850 digital library",
+      "url": "https://iec61850.dvl.iec.ch/what-is-61850/targeted-markets/distrib_resources/",
+      "context": "IEC 61850 行业页可见 disconnect/connect 命令，本站暂以电力设备的断开动作理解；请按开关器件对象区分 open/disconnect。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Grid codes: Disconnect/Connect",
+      "page": null,
+      "sourceTermId": 63,
+      "independentlyVerified": true,
+      "matchedEnglish": "disconnect / connect",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "64": [
+    {
+      "title": "Electricity Transmission, A Primer",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/oe/articles/electricity-transmission-primer",
+      "context": "美国能源部输电系统公开资料的电网示意图使用 transmission lines。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Figure 6: Key Elements of the Electric Power Grid",
+      "page": null,
+      "sourceTermId": 64,
+      "independentlyVerified": true,
+      "matchedEnglish": "Transmission Lines",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "65": [
+    {
+      "title": "Time Of Use (TOU) — EM7230/EM7280/EM7290 User Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/em7230_em7280_em7290/em7230_em7280_em7290-user-manual/EM7230_EM7280_EM7290%20User%20Manual/English/BM_EasyLogic_EM7230_EM7280_EM7290_UserManual_DD00509734.xml/%24/C_Operation_TimeOfUseTOU_EM7230_EM7280_EM7290_DD00554800",
+      "context": "施耐德电力时段计量指南明确指电力 consumers；注意“用电客户”可为 electricity customer。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Time Of Use (TOU)",
+      "page": null,
+      "sourceTermId": 65,
+      "independentlyVerified": true,
+      "matchedEnglish": "consumers",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "68": [
+    {
+      "title": "Electrical Contractors Industry — Standards",
+      "publisher": "U.S. Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/electrical-contractors/standards",
+      "context": "OSHA 标准列表确认 electrical wiring 表述；缺乏本词条“接线”具体电气拓扑/接线操作信息。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Electrical wiring design and methods",
+      "page": null,
+      "sourceTermId": 68,
+      "independentlyVerified": true,
+      "matchedEnglish": "Electrical wiring",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "69": [
+    {
+      "title": "Guidelines for Enforcement of 29 CFR 1910.269",
+      "publisher": "U.S. Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/enforcement/directives/cpl-2-118",
+      "context": "OSHA 电力规程中使用 circuit-switching operations；可佐证操作场景，但倒闸操作还涉及调度指令和操作票。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substation definition; circuit switching operations",
+      "page": null,
+      "sourceTermId": 69,
+      "independentlyVerified": true,
+      "matchedEnglish": "circuit-switching operations",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "70": [
+    {
+      "title": "DOE Fundamentals Handbook — Electrical Science, Volume 4",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/documents/doe-hdbk-1011-92vol4",
+      "context": "DOE 变压器原理文件解释变压器，SEL 厂商产品页列 transformer protection。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer theory / Voltage ratio",
+      "page": null,
+      "sourceTermId": 70,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    },
+    {
+      "title": "Protection, control and metering products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "DOE 变压器原理文件解释变压器，SEL 厂商产品页列 transformer protection。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective relays / motor protection / transmission protection",
+      "page": null,
+      "sourceTermId": 70,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "71": [
+    {
+      "title": "Electricity Transmission, A Primer",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/oe/articles/electricity-transmission-primer",
+      "context": "DOE 资料说明主变电环节但未直接证明 main transformer 这一简称在所有场景适用。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Figure 6: Key Elements of the Electric Power Grid",
+      "page": null,
+      "sourceTermId": 71,
+      "independentlyVerified": true,
+      "matchedEnglish": "Substation Step-Down Transformer",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "72": [
+    {
+      "title": "DOE Fundamentals Handbook — Electrical Science, Volume 4",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/documents/doe-hdbk-1011-92vol4",
+      "context": "DOE 官方电工基础文件直接定义 step-up transformer。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer theory / Voltage ratio",
+      "page": null,
+      "sourceTermId": 72,
+      "independentlyVerified": true,
+      "matchedEnglish": "step-up transformer",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "73": [
+    {
+      "title": "DOE Fundamentals Handbook — Electrical Science, Volume 4",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/documents/doe-hdbk-1011-92vol4",
+      "context": "DOE 官方电工基础文件直接定义 step-down transformer。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer theory / Voltage ratio",
+      "page": null,
+      "sourceTermId": 73,
+      "independentlyVerified": true,
+      "matchedEnglish": "step-down transformer",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "74": [
+    {
+      "title": "United States Electricity Industry Primer",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/node/1508886",
+      "context": "DOE 电力行业入门资料直接列术语 Step-Up Substation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substation types: step-up and step-down",
+      "page": null,
+      "sourceTermId": 74,
+      "independentlyVerified": true,
+      "matchedEnglish": "Step-Up Substation",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "75": [
+    {
+      "title": "On-load tap changers type UCL",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/conventional-on-load-tap-changers/on-load-tap-changers-type-ucl",
+      "context": "厂商资料证实变压器用有载分接开关概念；源译法冗长但语义成立，需注意 hyphen 与缩写格式。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product scope and tap positions",
+      "page": null,
+      "sourceTermId": 75,
+      "independentlyVerified": true,
+      "matchedEnglish": "on-load tap-changers / transformers",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "76": [
+    {
+      "title": "Protection, control and metering products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "SEL 工业电动机保护类别和变压器风机电动机监控资料直接使用 motor。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective relays / motor protection / transmission protection",
+      "page": null,
+      "sourceTermId": 76,
+      "independentlyVerified": true,
+      "matchedEnglish": "Motor Protection / motor current",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    },
+    {
+      "title": "SEL-2414 Transformer Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2414/",
+      "context": "SEL 工业电动机保护类别和变压器风机电动机监控资料直接使用 motor。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Flexible I/O / Monitoring",
+      "page": null,
+      "sourceTermId": 76,
+      "independentlyVerified": true,
+      "matchedEnglish": "Motor Protection / motor current",
+      "auditBatch": "batch002",
+      "verificationLimit": "直接证据仅证明列出的英文行业用法，不涵盖可能的全部语义和备选译法。"
+    }
+  ],
+  "77": [
+    {
+      "title": "Protection, control and metering products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "SEL 使用 protective relays；原译 relay protection 是可理解的行业英文，但不等同于 protective relaying，词汇层级需复核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective relays / motor protection / transmission protection",
+      "page": null,
+      "sourceTermId": 77,
+      "independentlyVerified": true,
+      "matchedEnglish": "Protective Relays",
+      "auditBatch": "batch002",
+      "verificationLimit": "只有背景/邻近术语；未直接证实完整译法。"
+    }
+  ],
+  "78": [
+    {
+      "title": "Glossary — Electricity",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/tools/glossary/?id=electricity",
+      "context": "热电厂/火力发电厂可使用 thermal power plant；fossil-fuel plant 不含核能、太阳能热等热电定义范围，备选需注明燃料类别。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "EIA: Fossil fuel plant; GE: Power plants",
+      "page": null,
+      "sourceTermId": 78,
+      "independentlyVerified": true,
+      "matchedEnglish": "fossil fuel plant; thermal power generation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "热电厂/火力发电厂可使用 thermal power plant；fossil-fuel plant 不含核能、太阳能热等热电定义范围，备选需注明燃料类别。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "EIA: Fossil fuel plant; GE: Power plants",
+      "page": null,
+      "sourceTermId": 78,
+      "independentlyVerified": true,
+      "matchedEnglish": "fossil fuel plant; thermal power generation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "79": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "厂商以电磁感应解释发电机工作原理；原英文的每词首字母大写不是术语标题必须。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: science and technology",
+      "page": null,
+      "sourceTermId": 79,
+      "independentlyVerified": true,
+      "matchedEnglish": "electromagnetic induction",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "How electricity is generated",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/energyexplained/electricity/how-electricity-is-generated.php",
+      "context": "厂商以电磁感应解释发电机工作原理；原英文的每词首字母大写不是术语标题必须。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: science and technology",
+      "page": null,
+      "sourceTermId": 79,
+      "independentlyVerified": true,
+      "matchedEnglish": "electromagnetic induction",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "80": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "定子线圈可称 stator coil；此词与ID113 定子绕组高度重叠，改用定子线圈以避免英文完全重复，并保留旧译记录。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: generator stator coils",
+      "page": null,
+      "sourceTermId": 80,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator coils; stator winding insulation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "定子线圈可称 stator coil；此词与ID113 定子绕组高度重叠，改用定子线圈以避免英文完全重复，并保留旧译记录。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: generator stator coils",
+      "page": null,
+      "sourceTermId": 80,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator coils; stator winding insulation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "81": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "厂商在发电机转子电磁感应说明中直接使用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: electromagnetic induction",
+      "page": null,
+      "sourceTermId": 81,
+      "independentlyVerified": true,
+      "matchedEnglish": "magnetic field",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "82": [
+    {
+      "title": "United States Electricity Industry Primer",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/sites/prod/files/2015/12/f28/united-states-electricity-industry-primer.pdf",
+      "context": "存在直接专业用例，three-phase AC 更常泛指三相交流电，非特定电源设备。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "DOE: How does a power plant work",
+      "page": null,
+      "sourceTermId": 82,
+      "independentlyVerified": true,
+      "matchedEnglish": "three-phase AC generator; three-phase armature windings",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "存在直接专业用例，three-phase AC 更常泛指三相交流电，非特定电源设备。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "DOE: How does a power plant work",
+      "page": null,
+      "sourceTermId": 82,
+      "independentlyVerified": true,
+      "matchedEnglish": "three-phase AC generator; three-phase armature windings",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "83": [
+    {
+      "title": "General technical requirements for 24 kV — NXAIR M",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls%2C_Building_Techn/Medium-Voltage_Switchgear_and_Protection/Air-Insulated_Medium-Voltage_Switchgear_up_to_24_kV%2C_/NXAIR_M_singl/General_technical_requirements_fo/%28LV_S8XFM1ZFVSZ4X0FH27G2ZSS5YC%29",
+      "context": "Siemens和Schneider为成套开关设备的直接英文用例；中文开关柜更精确可用 switchgear cabinet/panel（视型号）。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SIEM: general technical requirements",
+      "page": null,
+      "sourceTermId": 83,
+      "independentlyVerified": true,
+      "matchedEnglish": "switchgear",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Applied Standards — PIX Switchgear Installation Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/pix-std-sweden-ig/viewer?docidentity=AppliedStandards-A48114B2&extension=xml&lang=en&manualidentity=InstallationManualSetSeriesPIXSWEDE-4C47F039",
+      "context": "Siemens和Schneider为成套开关设备的直接英文用例；中文开关柜更精确可用 switchgear cabinet/panel（视型号）。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SIEM: general technical requirements",
+      "page": null,
+      "sourceTermId": 83,
+      "independentlyVerified": true,
+      "matchedEnglish": "switchgear",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "84": [
+    {
+      "title": "Work permits in lockout/tagout standard requirements",
+      "publisher": "U.S. Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/laws-regs/standardinterpretations/1991-04-10-0",
+      "context": "仅佐证许可制度英文泛称，不能证明中国“检修工作票”的固定对译；中文工作票与操作票不可混同。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "OSHA: work authorization permits",
+      "page": null,
+      "sourceTermId": 84,
+      "independentlyVerified": true,
+      "matchedEnglish": "work permit / work authorization permit",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "85": [
+    {
+      "title": "电气运行现场安全制度",
+      "publisher": "安全管理网（转载类中文资料，来源待核）",
+      "url": "https://www.safehoo.com/Manage/System/Electric/201512/422942.shtml",
+      "context": "中文制度说明可见，system of monitoring operation terminals...英文组合未经证实，须以单位原始制度确定。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "CN_POL: §6 监盘定位制度",
+      "page": null,
+      "sourceTermId": 85,
+      "independentlyVerified": true,
+      "matchedEnglish": "监盘定位制度",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "86": [
+    {
+      "title": "电气运行现场安全制度",
+      "publisher": "安全管理网（转载类中文资料，来源待核）",
+      "url": "https://www.safehoo.com/Manage/System/Electric/201512/422942.shtml",
+      "context": "中文有明确巡检制度；英文 routine inspection procedure 只是可能释义，不是标准逐字对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "CN_POL: §5; Schneider: Inspection and Maintenance",
+      "page": null,
+      "sourceTermId": 86,
+      "independentlyVerified": true,
+      "matchedEnglish": "巡回检查制度; inspection and maintenance",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Inspection and Maintenance — SureSeT MV Indoor Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/sureset_tech_lit/nnz9886800-sureset-mv-indoor-switchgear-user-guide/English/NNZ9886800%20%28bookmap%29.xml/%24/InspectionAndMaintenance-A092B399",
+      "context": "中文有明确巡检制度；英文 routine inspection procedure 只是可能释义，不是标准逐字对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "CN_POL: §5; Schneider: Inspection and Maintenance",
+      "page": null,
+      "sourceTermId": 86,
+      "independentlyVerified": true,
+      "matchedEnglish": "巡回检查制度; inspection and maintenance",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "87": [
+    {
+      "title": "Inspection and Maintenance — SureSeT MV Indoor Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/sureset_tech_lit/nnz9886800-sureset-mv-indoor-switchgear-user-guide/English/NNZ9886800%20%28bookmap%29.xml/%24/InspectionAndMaintenance-A092B399",
+      "context": "设备切换制度为运行管理规程，英文 changeover procedure 的制度性对译未经核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SCH_M: inspection/operations context",
+      "page": null,
+      "sourceTermId": 87,
+      "independentlyVerified": true,
+      "matchedEnglish": "equipment maintenance and operation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "88": [
+    {
+      "title": "United States Electricity Industry Primer",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/sites/prod/files/2015/12/f28/united-states-electricity-industry-primer.pdf",
+      "context": "能源与发电资料直接使用频率术语；周波属传统中文别称。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "DOE: AC generator",
+      "page": null,
+      "sourceTermId": 88,
+      "independentlyVerified": true,
+      "matchedEnglish": "frequency",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Glossary — Electricity",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/tools/glossary/?id=electricity",
+      "context": "能源与发电资料直接使用频率术语；周波属传统中文别称。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "DOE: AC generator",
+      "page": null,
+      "sourceTermId": 88,
+      "independentlyVerified": true,
+      "matchedEnglish": "frequency",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "89": [
+    {
+      "title": "Disconnecting circuit breaker (DCB)",
+      "publisher": "ABB Review 3/2010",
+      "url": "https://library.e.abb.com/public/8890b6a21acc6898c12577bd0052b773/40-46%203m088_ENG_72dpi.pdf",
+      "context": "ABB明确用于变电站单母线分段方案；英文可依语法采用 sectionalized single-busbar arrangement。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "ABB Review 3/10: Grytten substation",
+      "page": null,
+      "sourceTermId": 89,
+      "independentlyVerified": true,
+      "matchedEnglish": "single sectionalized busbar; bus sectionalizer",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "General technical requirements for 24 kV — NXAIR M",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls%2C_Building_Techn/Medium-Voltage_Switchgear_and_Protection/Air-Insulated_Medium-Voltage_Switchgear_up_to_24_kV%2C_/NXAIR_M_singl/General_technical_requirements_fo/%28LV_S8XFM1ZFVSZ4X0FH27G2ZSS5YC%29",
+      "context": "ABB明确用于变电站单母线分段方案；英文可依语法采用 sectionalized single-busbar arrangement。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "ABB Review 3/10: Grytten substation",
+      "page": null,
+      "sourceTermId": 89,
+      "independentlyVerified": true,
+      "matchedEnglish": "single sectionalized busbar; bus sectionalizer",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "90": [
+    {
+      "title": "General technical requirements for 24 kV — NXAIR M",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls%2C_Building_Techn/Medium-Voltage_Switchgear_and_Protection/Air-Insulated_Medium-Voltage_Switchgear_up_to_24_kV%2C_/NXAIR_M_singl/General_technical_requirements_fo/%28LV_S8XFM1ZFVSZ4X0FH27G2ZSS5YC%29",
+      "context": "Siemens证实double busbar方案，SL 26—2012 7.2.5.1.7列出 double-bus connection 为中英标准别称。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.5.1.7",
+      "page": null,
+      "sourceTermId": 90,
+      "independentlyVerified": true,
+      "matchedEnglish": "double busbar; 双母线接线 double-bus connection",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "Siemens证实double busbar方案，SL 26—2012 7.2.5.1.7列出 double-bus connection 为中英标准别称。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.5.1.7",
+      "page": null,
+      "sourceTermId": 90,
+      "independentlyVerified": true,
+      "matchedEnglish": "double busbar; 双母线接线 double-bus connection",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "91": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "标准条款7.2.5.1.3直接中英配对；其定义为发电机—变压器组接线。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.5.1.3",
+      "page": null,
+      "sourceTermId": 91,
+      "independentlyVerified": true,
+      "matchedEnglish": "单元接线 — unit connection",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    }
+  ],
+  "92": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "source只指发电机输出电压，不能证实“出线电压”一律称output voltage；按出线回路可考虑outgoing feeder voltage。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: output voltage context",
+      "page": null,
+      "sourceTermId": 92,
+      "independentlyVerified": true,
+      "matchedEnglish": "generator output voltage",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "93": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "标准中在中性点接地系统复合术语使用 neutral point，但不是该孤立词的直接中英条目。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.1.2.26-27",
+      "page": null,
+      "sourceTermId": 93,
+      "independentlyVerified": true,
+      "matchedEnglish": "neutral point [in neutral point system]",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "94": [
+    {
+      "title": "Large-Medium Distribution Transformers",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/transformers/distribution-transformers/liquid-filled-distribution-transformers/large-medium-up-to-10-mva-large-up-to-25-mva",
+      "context": "无励磁调压是操作过程；IEC 60214-1:2014 3.7规定该类调压装置须de-energized，区别于仅无负载。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "IEC 60214-1:2014 §3.7",
+      "page": null,
+      "sourceTermId": 94,
+      "independentlyVerified": true,
+      "matchedEnglish": "off-circuit tap changer; off-circuit tap changing switch",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "IEC 60214-1:2014 — Clause 3.7 (preview)",
+      "publisher": "International Electrotechnical Commission (IEC), distributor preview",
+      "url": "https://standards.iteh.ai/catalog/standards/clc/bef7b443-7161-4d6a-b71b-32e9cbefa1bb/en-60214-1-2014",
+      "context": "无励磁调压是操作过程；IEC 60214-1:2014 3.7规定该类调压装置须de-energized，区别于仅无负载。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "IEC 60214-1:2014 §3.7",
+      "page": null,
+      "sourceTermId": 94,
+      "independentlyVerified": true,
+      "matchedEnglish": "off-circuit tap changer; off-circuit tap changing switch",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Distribution Design & Construction Standard 2023",
+      "publisher": "Bhutan Power Corporation",
+      "url": "https://www.bpc.bt/wp-content/uploads/2024/05/SBD-Interconnection-Up-gradationRe-alignment-works-2024-1-1.pdf",
+      "context": "无励磁调压是操作过程；IEC 60214-1:2014 3.7规定该类调压装置须de-energized，区别于仅无负载。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "IEC 60214-1:2014 §3.7",
+      "page": null,
+      "sourceTermId": 94,
+      "independentlyVerified": true,
+      "matchedEnglish": "off-circuit tap changer; off-circuit tap changing switch",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "95": [
+    {
+      "title": "Glossary — Electricity",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/tools/glossary/?id=electricity",
+      "context": "备用电源可在不同语境指备用供电源、备用电源系统或应急供电，原译法语义合理但缺该词精确对译。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "EIA: standby facility; SL: service power",
+      "page": null,
+      "sourceTermId": 95,
+      "independentlyVerified": true,
+      "matchedEnglish": "standby facility; start/standby power supply",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "备用电源可在不同语境指备用供电源、备用电源系统或应急供电，原译法语义合理但缺该词精确对译。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "EIA: standby facility; SL: service power",
+      "page": null,
+      "sourceTermId": 95,
+      "independentlyVerified": true,
+      "matchedEnglish": "standby facility; start/standby power supply",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "96": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "SL 26—2012 §7.2.1.2.9直接中英对应。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.1.2.9",
+      "page": null,
+      "sourceTermId": 96,
+      "independentlyVerified": true,
+      "matchedEnglish": "架空线 — overhead line",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    }
+  ],
+  "97": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "标准“厂用供电系统”的译法不自动等于“厂用电源”；拟使用station-service power source/plant auxiliary supply需看设备。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.7.2",
+      "page": null,
+      "sourceTermId": 97,
+      "independentlyVerified": true,
+      "matchedEnglish": "厂用供电系统 — service power supply system",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "United States Electricity Industry Primer",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/sites/prod/files/2015/12/f28/united-states-electricity-industry-primer.pdf",
+      "context": "标准“厂用供电系统”的译法不自动等于“厂用电源”；拟使用station-service power source/plant auxiliary supply需看设备。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.7.2",
+      "page": null,
+      "sourceTermId": 97,
+      "independentlyVerified": true,
+      "matchedEnglish": "厂用供电系统 — service power supply system",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "98": [
+    {
+      "title": "HVSI804W Wdg 71 — Technical Data",
+      "publisher": "STAMFORD/AvK, Cummins Generator Technologies",
+      "url": "https://www.stamford-avk-stg.cummins.com/stamford-avk/sites/stamfordavk/files/HVSI804W%20Wdg%2071.pdf",
+      "context": "设备厂家使用generator set/柴油genset；建议用更惯用的diesel generator set。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Cummins: specifications; EIA: internal combustion",
+      "page": null,
+      "sourceTermId": 98,
+      "independentlyVerified": true,
+      "matchedEnglish": "generator set; diesel gen-sets",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Glossary — Electricity",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/tools/glossary/?id=electricity",
+      "context": "设备厂家使用generator set/柴油genset；建议用更惯用的diesel generator set。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Cummins: specifications; EIA: internal combustion",
+      "page": null,
+      "sourceTermId": 98,
+      "independentlyVerified": true,
+      "matchedEnglish": "generator set; diesel gen-sets",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "99": [
+    {
+      "title": "Inspection and Maintenance — SureSeT MV Indoor Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/sureset_tech_lit/nnz9886800-sureset-mv-indoor-switchgear-user-guide/English/NNZ9886800%20%28bookmap%29.xml/%24/InspectionAndMaintenance-A092B399",
+      "context": "一次接线指主回路连接/一次系统接线结构，不能凭出现primary connection确认整个术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SCH_M: primary connections",
+      "page": null,
+      "sourceTermId": 99,
+      "independentlyVerified": true,
+      "matchedEnglish": "primary connection",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "General technical requirements for 24 kV — NXAIR M",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls%2C_Building_Techn/Medium-Voltage_Switchgear_and_Protection/Air-Insulated_Medium-Voltage_Switchgear_up_to_24_kV%2C_/NXAIR_M_singl/General_technical_requirements_fo/%28LV_S8XFM1ZFVSZ4X0FH27G2ZSS5YC%29",
+      "context": "一次接线指主回路连接/一次系统接线结构，不能凭出现primary connection确认整个术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SCH_M: primary connections",
+      "page": null,
+      "sourceTermId": 99,
+      "independentlyVerified": true,
+      "matchedEnglish": "primary connection",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "101": [
+    {
+      "title": "Indication Contacts — ComPacT NS User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/compactnsuserguide/doca0221-compact-ns-user-guide/English/DOCA0221%20ComPacT%20NS%20630-1600%20NS630b-3200_0000665551.xml/%24/NS_electrical_auxiliaries_operation_indication_contacts_0000667035",
+      "context": "在保护及开关控制领域control circuit为控制回路的更自然术语；原control loop在反馈调节情境还可成立。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Schneider: Early-break contacts",
+      "page": null,
+      "sourceTermId": 101,
+      "independentlyVerified": true,
+      "matchedEnglish": "contactor control circuit",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "102": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "SL 26—2012 §7.2.4.3.2直接对应，亦列potential transformer (TV)。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.3.2",
+      "page": null,
+      "sourceTermId": 102,
+      "independentlyVerified": true,
+      "matchedEnglish": "电压互感器 — voltage transformer",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    },
+    {
+      "title": "Applied Standards — PIX Switchgear Installation Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/pix-std-sweden-ig/viewer?docidentity=AppliedStandards-A48114B2&extension=xml&lang=en&manualidentity=InstallationManualSetSeriesPIXSWEDE-4C47F039",
+      "context": "SL 26—2012 §7.2.4.3.2直接对应，亦列potential transformer (TV)。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.3.2",
+      "page": null,
+      "sourceTermId": 102,
+      "independentlyVerified": true,
+      "matchedEnglish": "电压互感器 — voltage transformer",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    }
+  ],
+  "103": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "SL 26—2012 §7.2.4.3.1直接对应，缩略词在中文行业可用CT，标准文本另见TA。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.3.1",
+      "page": null,
+      "sourceTermId": 103,
+      "independentlyVerified": true,
+      "matchedEnglish": "电流互感器 — current transformer",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    },
+    {
+      "title": "Applied Standards — PIX Switchgear Installation Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/pix-std-sweden-ig/viewer?docidentity=AppliedStandards-A48114B2&extension=xml&lang=en&manualidentity=InstallationManualSetSeriesPIXSWEDE-4C47F039",
+      "context": "SL 26—2012 §7.2.4.3.1直接对应，缩略词在中文行业可用CT，标准文本另见TA。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.3.1",
+      "page": null,
+      "sourceTermId": 103,
+      "independentlyVerified": true,
+      "matchedEnglish": "电流互感器 — current transformer",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    }
+  ],
+  "104": [
+    {
+      "title": "Inspection and Maintenance — SureSeT MV Indoor Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/sureset_tech_lit/nnz9886800-sureset-mv-indoor-switchgear-user-guide/English/NNZ9886800%20%28bookmap%29.xml/%24/InspectionAndMaintenance-A092B399",
+      "context": "Schneider检修技术手册使用fuse/fuses，设备含义直接吻合。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Schneider: CPT and VT Compartment",
+      "page": null,
+      "sourceTermId": 104,
+      "independentlyVerified": true,
+      "matchedEnglish": "fuses",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "105": [
+    {
+      "title": "Indication Contacts — ComPacT NS User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://www.productinfo.schneider-electric.com/compactnsuserguide/doca0221-compact-ns-user-guide/English/DOCA0221%20ComPacT%20NS%20630-1600%20NS630b-3200_0000665551.xml/%24/NS_electrical_auxiliaries_operation_indication_contacts_0000667035",
+      "context": "设备厂商直接使用对应英文，中文“手车式断路器”还可称 draw-out circuit breaker。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Schneider: Connecting/Disconnecting withdrawable circuit breaker",
+      "page": null,
+      "sourceTermId": 105,
+      "independentlyVerified": true,
+      "matchedEnglish": "withdrawable circuit breaker",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "General technical requirements for 24 kV — NXAIR M",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls%2C_Building_Techn/Medium-Voltage_Switchgear_and_Protection/Air-Insulated_Medium-Voltage_Switchgear_up_to_24_kV%2C_/NXAIR_M_singl/General_technical_requirements_fo/%28LV_S8XFM1ZFVSZ4X0FH27G2ZSS5YC%29",
+      "context": "设备厂商直接使用对应英文，中文“手车式断路器”还可称 draw-out circuit breaker。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Schneider: Connecting/Disconnecting withdrawable circuit breaker",
+      "page": null,
+      "sourceTermId": 105,
+      "independentlyVerified": true,
+      "matchedEnglish": "withdrawable circuit breaker",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "107": [
+    {
+      "title": "Guidelines for Implementing Advanced Distribution Management Systems",
+      "publisher": "Argonne National Laboratory",
+      "url": "https://publications.anl.gov/anlpubs/2015/08/120642.pdf",
+      "context": "Argonne证明北美调度开关操作单可称switching order，但中国操作票在制度框架上未必一一对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Argonne: Appendix A.1.13 Switch Order Management",
+      "page": null,
+      "sourceTermId": 107,
+      "independentlyVerified": true,
+      "matchedEnglish": "switching order",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "108": [
+    {
+      "title": "Guidelines for Implementing Advanced Distribution Management Systems",
+      "publisher": "Argonne National Laboratory",
+      "url": "https://publications.anl.gov/anlpubs/2015/08/120642.pdf",
+      "context": "图示开关操作单含TIME Issued；但“发令时间”特指命令发布的时间，需确认表单字段。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Argonne: Figure A-12",
+      "page": null,
+      "sourceTermId": 108,
+      "independentlyVerified": true,
+      "matchedEnglish": "TIME Issued",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "110": [
+    {
+      "title": "Guidelines for Implementing Advanced Distribution Management Systems",
+      "publisher": "Argonne National Laboratory",
+      "url": "https://publications.anl.gov/anlpubs/2015/08/120642.pdf",
+      "context": "资料仅展示system operator是特定调度岗位，不能证明“值班员”泛用operator适合所有岗位。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Argonne: Appendix A.1.13",
+      "page": null,
+      "sourceTermId": 110,
+      "independentlyVerified": true,
+      "matchedEnglish": "System Operator",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "111": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "标准明确同步电机=synchronous machine，而synchronous motor对应“同步电动机”。必须修订。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.1.1 and §7.2.4.1.5",
+      "page": null,
+      "sourceTermId": 111,
+      "independentlyVerified": true,
+      "matchedEnglish": "同步电机 — synchronous machine",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    }
+  ],
+  "112": [
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "电机励磁和励磁电流在英文资料中清楚出现；excitation作一般术语可保留。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: generator excitation",
+      "page": null,
+      "sourceTermId": 112,
+      "independentlyVerified": true,
+      "matchedEnglish": "excitation current / excitation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "电机励磁和励磁电流在英文资料中清楚出现；excitation作一般术语可保留。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: generator excitation",
+      "page": null,
+      "sourceTermId": 112,
+      "independentlyVerified": true,
+      "matchedEnglish": "excitation current / excitation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "113": [
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "多处发电机技术资料直接使用stator winding。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: stator winding insulation",
+      "page": null,
+      "sourceTermId": 113,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator winding",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "多处发电机技术资料直接使用stator winding。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: stator winding insulation",
+      "page": null,
+      "sourceTermId": 113,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator winding",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "114": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "GE Vernova直接使用stator core，但“铁”指硅钢铁心材料，现代英语通常不必添iron。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: generator stator core",
+      "page": null,
+      "sourceTermId": 114,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator core",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "GE Vernova直接使用stator core，但“铁”指硅钢铁心材料，现代英语通常不必添iron。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: generator stator core",
+      "page": null,
+      "sourceTermId": 114,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator core",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "115": [
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "GE Vernova维护页面发电机/汽轮机辅助系统中出现cooler；必要时应专指空气冷却器等种类。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: cooler leakage",
+      "page": null,
+      "sourceTermId": 115,
+      "independentlyVerified": true,
+      "matchedEnglish": "cooler",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "116": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "GE Vernova在发电机部件解释中提及rotor/stator core与钢铁锻件；主译rotor core比rotor iron core自然。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: rotor/stator core",
+      "page": null,
+      "sourceTermId": 116,
+      "independentlyVerified": true,
+      "matchedEnglish": "rotor core",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "117": [
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "GE Vernova直接讨论generator rotor winding维修，匹配词义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: repair generator rotor winding",
+      "page": null,
+      "sourceTermId": 117,
+      "independentlyVerified": true,
+      "matchedEnglish": "rotor winding",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "GE Vernova直接讨论generator rotor winding维修，匹配词义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: repair generator rotor winding",
+      "page": null,
+      "sourceTermId": 117,
+      "independentlyVerified": true,
+      "matchedEnglish": "rotor winding",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "118": [
+    {
+      "title": "General technical requirements for 24 kV — NXAIR M",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls%2C_Building_Techn/Medium-Voltage_Switchgear_and_Protection/Air-Insulated_Medium-Voltage_Switchgear_up_to_24_kV%2C_/NXAIR_M_singl/General_technical_requirements_fo/%28LV_S8XFM1ZFVSZ4X0FH27G2ZSS5YC%29",
+      "context": "Siemens技术文件证实绝缘子相关设备类别，未核实support insulator对应“支持绝缘子”的独立英文。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Siemens: busbar compartment",
+      "page": null,
+      "sourceTermId": 118,
+      "independentlyVerified": true,
+      "matchedEnglish": "bushing-type insulators; support insulation",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "119": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "SL 26—2012 §7.2.4.1.2中英逐字对应。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.1.2",
+      "page": null,
+      "sourceTermId": 119,
+      "independentlyVerified": true,
+      "matchedEnglish": "同步发电机 — synchronous generator",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    },
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "SL 26—2012 §7.2.4.1.2中英逐字对应。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.4.1.2",
+      "page": null,
+      "sourceTermId": 119,
+      "independentlyVerified": true,
+      "matchedEnglish": "同步发电机 — synchronous generator",
+      "auditBatch": "batch003",
+      "verificationLimit": "直接双语术语对照（具体语义以所列条款为限）。"
+    }
+  ],
+  "120": [
+    {
+      "title": "Glossary — Electricity",
+      "publisher": "U.S. Energy Information Administration",
+      "url": "https://www.eia.gov/tools/glossary/?id=electricity",
+      "context": "EIA给出明确英文定义，指驱动发电机的内燃机、涡轮等。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "EIA: Prime mover",
+      "page": null,
+      "sourceTermId": 120,
+      "independentlyVerified": true,
+      "matchedEnglish": "prime mover",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "EIA给出明确英文定义，指驱动发电机的内燃机、涡轮等。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "EIA: Prime mover",
+      "page": null,
+      "sourceTermId": 120,
+      "independentlyVerified": true,
+      "matchedEnglish": "prime mover",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "121": [
+    {
+      "title": "Articles — Common issues for aging generators",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/steam-power/resources/articles",
+      "context": "GE Vernova直接用excitation current；SL 26—2012中“励磁电流”旧译excited current，建议优先现代英语常用搭配。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: exciter/rotor winding",
+      "page": null,
+      "sourceTermId": 121,
+      "independentlyVerified": true,
+      "matchedEnglish": "excitation current",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "GE Vernova直接用excitation current；SL 26—2012中“励磁电流”旧译excited current，建议优先现代英语常用搭配。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: exciter/rotor winding",
+      "page": null,
+      "sourceTermId": 121,
+      "independentlyVerified": true,
+      "matchedEnglish": "excitation current",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "122": [
+    {
+      "title": "How a Gas Turbine Generator Works",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "来源直接给出magnetic field，但未核实magnetic field line的完整表达。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "GE: magnetic field",
+      "page": null,
+      "sourceTermId": 122,
+      "independentlyVerified": true,
+      "matchedEnglish": "magnetic field",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "123": [
+    {
+      "title": "Turbine Generators — What Are Turbine Generators?",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/turbine-generators/",
+      "context": "IEEE技术页有induction过程，EMF为通用基础术语；直接标准对译尚待查。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "IEEE: Turbine Generators",
+      "page": null,
+      "sourceTermId": 123,
+      "independentlyVerified": true,
+      "matchedEnglish": "induce alternating current; electromotive force",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "126": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "SL 26—2012 §7.3.1.1.5直接给无刷励磁系统，当前短术语“无刷励磁”可保留brushless excitation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL §7.3.1.1.5",
+      "page": null,
+      "sourceTermId": 126,
+      "independentlyVerified": true,
+      "matchedEnglish": "brushless excitation system; brushless",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "HVSI804W Wdg 71 — Technical Data",
+      "publisher": "STAMFORD/AvK, Cummins Generator Technologies",
+      "url": "https://www.stamford-avk-stg.cummins.com/stamford-avk/sites/stamfordavk/files/HVSI804W%20Wdg%2071.pdf",
+      "context": "SL 26—2012 §7.3.1.1.5直接给无刷励磁系统，当前短术语“无刷励磁”可保留brushless excitation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL §7.3.1.1.5",
+      "page": null,
+      "sourceTermId": 126,
+      "independentlyVerified": true,
+      "matchedEnglish": "brushless excitation system; brushless",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "127": [
+    {
+      "title": "《水利水电工程技术术语》SL 26—2012",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "来源分别有同轴交流励磁机和轴装PMG，但未能直接找到coaxial brushless exciter确切组合，对译暂存。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL §7.3.1.1.4; Cummins PMG",
+      "page": null,
+      "sourceTermId": 127,
+      "independentlyVerified": true,
+      "matchedEnglish": "shaft-mounted pilot exciter; coaxial AC exciter",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "HVSI804W Wdg 71 — Technical Data",
+      "publisher": "STAMFORD/AvK, Cummins Generator Technologies",
+      "url": "https://www.stamford-avk-stg.cummins.com/stamford-avk/sites/stamfordavk/files/HVSI804W%20Wdg%2071.pdf",
+      "context": "来源分别有同轴交流励磁机和轴装PMG，但未能直接找到coaxial brushless exciter确切组合，对译暂存。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL §7.3.1.1.4; Cummins PMG",
+      "page": null,
+      "sourceTermId": 127,
+      "independentlyVerified": true,
+      "matchedEnglish": "shaft-mounted pilot exciter; coaxial AC exciter",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "128": [
+    {
+      "title": "249-7008 Exciter Rotor",
+      "publisher": "Caterpillar Parts",
+      "url": "https://parts.cat.com/en/catcorp/product/249-7008",
+      "context": "Caterpillar和Cummins证实PMG可作pilot exciter，但“永磁副励磁机”是否特指此型，需设备型号核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Caterpillar: pilot exciter; Cummins: high frequency pilot exciter",
+      "page": null,
+      "sourceTermId": 128,
+      "independentlyVerified": true,
+      "matchedEnglish": "permanent magnet generator; pilot exciter",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    },
+    {
+      "title": "HVSI804W Wdg 71 — Technical Data",
+      "publisher": "STAMFORD/AvK, Cummins Generator Technologies",
+      "url": "https://www.stamford-avk-stg.cummins.com/stamford-avk/sites/stamfordavk/files/HVSI804W%20Wdg%2071.pdf",
+      "context": "Caterpillar和Cummins证实PMG可作pilot exciter，但“永磁副励磁机”是否特指此型，需设备型号核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Caterpillar: pilot exciter; Cummins: high frequency pilot exciter",
+      "page": null,
+      "sourceTermId": 128,
+      "independentlyVerified": true,
+      "matchedEnglish": "permanent magnet generator; pilot exciter",
+      "auditBatch": "batch003",
+      "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
     }
   ]
 }
