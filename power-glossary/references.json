@@ -1,1 +1,517 @@
-{}
+{
+  "1": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "SEL 产品分类明确包含保护继电器、变压器/线路保护；仅证实相关英语技术表达，不涵盖本词条所有并列子项。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Protective Relays"
+    }
+  ],
+  "2": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "资料直接使用 Line Protection、transmission line relays；110/220 kV 数字细分未见该页逐字对应。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Line Protection"
+    }
+  ],
+  "3": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "资料直接使用 Transformer Protection；双绕组、三绕组细分未由该页核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer Protection"
+    }
+  ],
+  "4": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "OSHA 行业词汇证实 current transformer 设备语境，但该网页未逐字对应 CT secondary circuit open circuit。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Current Transformers"
+    }
+  ],
+  "5": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "OSHA 词汇说明 potential transformer；“二次回路断线”整体英译需补充设备告警文档。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Potential Transformers"
+    }
+  ],
+  "6": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源显示变电站间隔控制及 interlocking 语境；中国“五防”五项含义不由此网页直接证实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "bay interlocking context"
+    }
+  ],
+  "7": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "产品目录的 Busbar Protection 明确使用 busbar 一词。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Busbar Protection"
+    }
+  ],
+  "8": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源包含 guided local control，证实就地控制语境；local mode 未直接证实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substation automation responsibilities"
+    }
+  ],
+  "9": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站远方控制行业语境，远方状态这一组合尚缺直接双语对照。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "10": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "来源有 fault 和 protection 系统语境；该多义词条无法凭单一来源完整核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "11": [
+    {
+      "title": "IEC 60947-3:2008—Definitions of disconnector and switch-disconnector",
+      "publisher": "IEC text preview via standards.iteh.ai",
+      "url": "https://standards.iteh.ai/catalog/standards/iec/22695480-2d37-4f0b-8edb-24d0cf8ddd56/iec-60947-3-2008",
+      "context": "IEC 行业定义明确列 disconnector 与 switch-disconnector 为不同类别；原“隔离刀闸”应按设备类别细分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Definitions 2.2 and 2.3"
+    }
+  ],
+  "12": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "来源为开关及接地设备的概念背景；词条包含多种控制命令，尚需逐项核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "13": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源含 switching objects，局部对应开关控制语境。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "14": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "来源直接使用 Bay Control Unit；公用间隔/主变间隔等复合搭配仍需更直接出处。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Bay Control Unit"
+    }
+  ],
+  "15": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "仅为变电站保护控制背景；enable/take out of service 未见对应术语定义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "16": [
+    {
+      "title": "Protective Relays: Transmission Line, Transformer, Busbar, and Feeder Protection",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/categories/protective-relays/",
+      "context": "保护装置厂商资料可证行业语境，压板这一中国继电保护专用件的英译尚无直接确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "17": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化语境；滑差、相差、频差的逐项英译待更专业资料。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "18": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制与自动化背景；准同期及各项条件未在来源逐词对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "20": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "厂商现场描述包含 bay interlocking，支持 interlocking；blocking 需要按保护功能分义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "bay interlocking"
+    }
+  ],
+  "21": [
+    {
+      "title": "Electric Power Illustrated Glossary／Glossary of Terms",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "context": "设备词汇直接使用 substation；“站长、正值、值长”等人员职务尚未逐项验证。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Substations"
+    }
+  ],
+  "22": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "数字变电站测控语境，analog signal 具体用语未在本来源直接核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "23": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "数字变电站测控语境，binary signal 具体用语未在本来源直接核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "24": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站远程测量语境，telemetry value 具体用语未直接核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "25": [
+    {
+      "title": "Substation Automation—Protection & Control Engineer: bay control units",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "context": "变电站控制语境，telecontrol point 具体用语未直接核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08"
+    }
+  ],
+  "267": [
+    {
+      "title": "Illustrated Glossary: Transmission Lines",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines",
+      "context": "输电线路定义明确使用 insulators。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Lines components"
+    }
+  ],
+  "351": [
+    {
+      "title": "DL/T 881-2019 ±500 kV 直流输电线路带电作业技术导则：术语摘要",
+      "publisher": "能源行业标准／分析测试百科网标准摘要",
+      "url": "https://m.antpedia.com/standard/8005952.html",
+      "context": "来源中英术语表直接对应“等电位作业—equipotential working”；等电位带电作业为相关复合表述。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "术语：等电位作业"
+    },
+    {
+      "title": "Live Line/Bare Hand Work and Tools",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/energized-deenergized-work/live-line-bare-hand-work",
+      "context": "OSHA 解释带电等电位作业原理，但用语不是 IEC 定义的直译。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Live Line/Bare Hand Work"
+    }
+  ],
+  "352": [
+    {
+      "title": "GB/T 2900.55-2016《电工术语 带电作业》／Electrotechnical terminology—Live working",
+      "publisher": "国家标准全文公开系统／国家标准化管理委员会",
+      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=340EC99A1191D1166C65D67140DEA723",
+      "context": "国家标准的中英文标题直接对应“带电作业—Live working”；live-line work 备选见 OSHA 材料。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "标准中文与英文标题"
+    },
+    {
+      "title": "Live Line/Bare Hand Work and Tools",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/energized-deenergized-work/live-line-bare-hand-work",
+      "context": "OSHA 直接使用 Live Line/Bare Hand Work，支持 live-line work 用法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "页面标题"
+    }
+  ],
+  "380": [
+    {
+      "title": "Illustrated Glossary: Transmission Lines",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines",
+      "context": "OSHA 直接使用 Overhead Transmission Lines 并说明输电线路类型。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Overhead Transmission Lines"
+    }
+  ],
+  "381": [
+    {
+      "title": "Electric Power—Energized vs. Deenergized Work",
+      "publisher": "U.S. Occupational Safety and Health Administration (OSHA)",
+      "url": "https://www.osha.gov/etools/electric-power/energized-deenergized-work",
+      "context": "官方材料直接使用 deenergized work；词条带连字符属书写变体。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Deenergized Work"
+    }
+  ],
+  "382": [
+    {
+      "title": "DL/T 881-2019 ±500 kV 直流输电线路带电作业技术导则：术语摘要",
+      "publisher": "能源行业标准／分析测试百科网标准摘要",
+      "url": "https://m.antpedia.com/standard/8005952.html",
+      "context": "来源中英术语表直接对应“地电位作业—ground potential working”。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "术语：地电位作业"
+    }
+  ],
+  "384": [
+    {
+      "title": "GB/T 5075-2016 电力金具名词术语：中英术语列表（摘要）",
+      "publisher": "中国国家标准／分析测试百科网标准摘要",
+      "url": "https://www.antpedia.com/standard/7401432-1.html",
+      "context": "标准网页术语表直接列“悬垂线夹—Suspension Clamp”。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "术语表"
+    },
+    {
+      "title": "GB/T 5075-2016 电力金具名词术语（官方标准信息）",
+      "publisher": "国家标准全文公开系统／国家标准化管理委员会",
+      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=9382CD35BFF080286D645B1B2B9B9F98",
+      "context": "官方页面确认该标准编号、标题、现行性，不直接展示此条英译。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "标准名称和状态"
+    }
+  ],
+  "385": [
+    {
+      "title": "IEC 60832-1:2010 Live working—Insulating sticks and attachable devices—Part 1",
+      "publisher": "International Electrotechnical Commission (IEC)",
+      "url": "https://webstore.iec.ch/en/publication/3611",
+      "context": "IEC 官方摘要确证 live working—insulating sticks；尚未证实源表 insulated operating rod 是标准首选译法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Title; Abstract"
+    }
+  ],
+  "386": [
+    {
+      "title": "Power Distribution Reliability—reliability indices",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/power-distribution-reliability/",
+      "context": "IEEE 来源直接使用 power distribution reliability，支持供配电可靠性概念；未直接证实精确词组 power supply reliability。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Reliability Indices"
+    },
+    {
+      "title": "Electric Power Annual: Reliability Indices SAIDI, SAIFI and CAIDI",
+      "publisher": "U.S. EIA",
+      "url": "https://www.eia.gov/electricity/Annual/table.php?t=epa_11_02.html",
+      "context": "美国 EIA 的 SAIDI/SAIFI/CAIDI 指标为供电可靠性概念与指标背景。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Reliability Indices definitions"
+    }
+  ],
+  "387": [
+    {
+      "title": "GB/T 25318-2019 锁紧销尺寸和试验（官方标准信息）",
+      "publisher": "国家标准全文公开系统／国家标准化管理委员会",
+      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151",
+      "context": "官方标准证实绝缘子球窝联接锁紧销专业语境；一般弹簧销应按具体零件核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "标准标题"
+    }
+  ],
+  "389": [
+    {
+      "title": "GB/T 25318-2019 锁紧销：R 型销／W 型销术语摘要",
+      "publisher": "中国国家标准／分析测试百科网标准摘要",
+      "url": "https://www.antpedia.com/standard/1379397315.html",
+      "context": "标准摘要术语表列“R型销—R-type pin”，非原候选 R-type spring pin 的逐字对应。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "术语：R型销"
+    },
+    {
+      "title": "GB/T 25318-2019 锁紧销尺寸和试验（官方标准信息）",
+      "publisher": "国家标准全文公开系统／国家标准化管理委员会",
+      "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151",
+      "context": "官方页面确认标准名称和状态；完整型式表不公开。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "标准标题"
+    }
+  ],
+  "390": [
+    {
+      "title": "GB/T 5075-2016 电力金具名词术语：中英术语列表（摘要）",
+      "publisher": "中国国家标准／分析测试百科网标准摘要",
+      "url": "https://www.antpedia.com/standard/7401432-1.html",
+      "context": "标准覆盖输电线路连接金具；本页面没有该词直接中英对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "适用范围"
+    }
+  ],
+  "391": [
+    {
+      "title": "IEC 60832-2:2010 Live working—Insulating sticks and attachable devices—Part 2",
+      "publisher": "IEC",
+      "url": "https://webstore.iec.ch/en/publication/3612",
+      "context": "IEC 附着式工器具标准背景；aligner 未直接核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "标准摘要"
+    }
+  ],
+  "392": [
+    {
+      "title": "IEC 60832-2:2010 Live working—Insulating sticks and attachable devices—Part 2",
+      "publisher": "IEC",
+      "url": "https://webstore.iec.ch/en/publication/3612",
+      "context": "IEC 附着式工器具标准背景；pin puller hook 未直接核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "标准摘要"
+    }
+  ],
+  "393": [
+    {
+      "title": "Engineering Application of New High-strength Steel Q460 in Transmission Towers",
+      "publisher": "华北水利水电大学学报（自然科学版），2011, 32(1):79–82",
+      "url": "https://hbsle.cbpt.cnki.net/portal/journal/portal/client/paper/24e03a1ae4d78cb4ebaaedaa7577a1a5",
+      "context": "论文标题直接使用 high-strength steel Q460 和 transmission towers，证实电力工程应用及英语用词。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Article title and abstract"
+    },
+    {
+      "title": "Q460特高压双回路钢管塔真型试验分析",
+      "publisher": "《电力建设》2011, 32(4):29–33",
+      "url": "https://www.cepc.com.cn/CN/Y2011/V32/I4/29",
+      "context": "《电力建设》论文给出 Q460 钢在特高压输电塔中的应用（材料语境）。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "论文标题与摘要"
+    }
+  ],
+  "394": [
+    {
+      "title": "Illustrated Glossary: Transmission Lines",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines",
+      "context": "高压架空输电线路语境；grading ring 具体译法尚缺可直接查验的非PDF来源。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transmission lines"
+    }
+  ],
+  "396": [
+    {
+      "title": "EIA Glossary: Transmission line, transmission operator, system reliability context",
+      "publisher": "U.S. Energy Information Administration (EIA)",
+      "url": "https://www.eia.gov/tools/glossary/index.php?id=Electric",
+      "context": "EIA 说明 transmission operator 与输电系统管理语境；不支持机构级名称一一对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transmission operator"
+    }
+  ],
+  "397": [
+    {
+      "title": "GB/T 25318-2019 锁紧销：R 型销／W 型销术语摘要",
+      "publisher": "中国国家标准／分析测试百科网标准摘要",
+      "url": "https://www.antpedia.com/standard/1379397315.html",
+      "context": "R 型锁紧销属于绝缘子连接件；拔插器的设计和英文名称暂未查获。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "R-type pin"
+    }
+  ],
+  "398": [
+    {
+      "title": "DL/T 881-2019 ±500 kV 直流输电线路带电作业技术导则：术语摘要",
+      "publisher": "能源行业标准／分析测试百科网标准摘要",
+      "url": "https://m.antpedia.com/standard/8005952.html",
+      "context": "来源定义地电位作业，含“地电位”技术概念；ground potential 为对应核心语义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "地电位作业术语定义"
+    }
+  ]
+}

@@ -1,1 +1,3776 @@
-[{"id":1,"en":"protection; protection message; protection event; protection device","zh":"保护；保护报文；保护事件；保护装置","status":"已修订","note":"“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。","sourceRow":7},{"id":2,"en":"line protection; line protection for 110 kV and above; line protection for 220 kV and above","zh":"线路保护；110 kV及以上线路保护；220 kV及以上线路保护","status":"已修订","note":"规范电压单位为 kV；具体继电器可称 relay。","sourceRow":8},{"id":3,"en":"transformer protection; two-winding transformer protection; three-winding transformer protection","zh":"变压器保护；双绕组变压器保护；三绕组变压器保护","status":"已修订","note":"原文“两卷/三卷”表述改为“双绕组/三绕组”。","sourceRow":9},{"id":4,"en":"CT secondary circuit open circuit","zh":"CT二次回路断线","status":"已修订","note":"原文 CT 断线通常指二次回路断线；需按设备告警上下文核实。","sourceRow":10},{"id":5,"en":"VT/PT secondary circuit open circuit","zh":"PT二次回路断线","status":"已修订","note":"原文 PT 断线通常指电压互感器二次回路断线。","sourceRow":11},{"id":6,"en":"five-prevention interlocking","zh":"五防","status":"已修订","note":"指电气防误操作的五防闭锁；不是 fail-safe unit。","sourceRow":12},{"id":7,"en":"busbar","zh":"母线","status":"已审校","note":"","sourceRow":13},{"id":8,"en":"local; local mode","zh":"就地；就地状态","status":"已修订","note":"状态/控制模式按界面语境区分。","sourceRow":14},{"id":9,"en":"remote; remote mode","zh":"远方；远方状态","status":"已修订","note":"状态/控制模式按界面语境区分。","sourceRow":15},{"id":10,"en":"normal; fault; maintenance","zh":"正常；故障；检修","status":"已修订","note":"overhaul 是大修，不等同一般检修。","sourceRow":16},{"id":11,"en":"disconnector / disconnecting switch","zh":"隔离刀闸","status":"已修订","note":"原注将 switchgear 错释为“开关操作机构”；switchgear 为开关设备（组合）。","sourceRow":17},{"id":12,"en":"earthing switch; earthing switch; local close; local trip; remote close command; remote trip command; closing successful; closing failed; tripping successful; tripping failed","zh":"接地刀闸；地刀；就地合闸；就地跳闸；远方合闸命令；远方跳闸命令；合闸成功；合闸失败；跳闸成功；跳闸失败","status":"已修订","note":"合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。","sourceRow":18},{"id":13,"en":"switch; switching operation; switch maintenance; switch status signal","zh":"开关；开关操作；开关检修；开关信号","status":"已修订","note":"“开关”如指断路器应改 circuit breaker；switchgear 是成套开关设备。","sourceRow":19},{"id":14,"en":"bay; common bay; main transformer bay; line bay","zh":"间隔；公用间隔；主变间隔；线路间隔","status":"已审校","note":"","sourceRow":20},{"id":15,"en":"enable / put into service; disable / take out of service","zh":"投入；退出","status":"已修订","note":"保护功能投退与设备投退按场景选择。","sourceRow":21},{"id":16,"en":"protection link / function enable link; automatic transfer enable link; synchronism-check enable link; dead-bus-check enable link; control logic enable link; general-purpose link; synchronizing function enable link; synchronizing contact mode 12/13/14 link; fixed synchronizing contact mode link; quasi-synchronizing enable link","zh":"压板；备自投压板；检同期压板；检无压压板；控制逻辑投入压板；普通压板；同期功能压板；同期接点12/13/14方式压板；同期接点固定方式压板；准同期压板","status":"已修订","note":"此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。","sourceRow":22},{"id":17,"en":"synchronizing; slip frequency; frequency difference; phase-angle difference; voltage difference","zh":"同期；同期滑差；同期频差；同期相差；同期压差","status":"已修订","note":"“滑差”通常为频率差；指标及单位依装置定义。","sourceRow":23},{"id":18,"en":"quasi-synchronizing; phase-angle criterion not met; frequency-difference criterion not met; other synchronizing criteria not met; voltage-difference criterion not met","zh":"准同期；准同期角差条件不满足；准同期频差条件不满足；准同期其他条件不满足；准同期压差条件不满足","status":"已修订","note":"原文英文末两项顺序错位；改为与中文顺序一致。","sourceRow":24},{"id":19,"en":"ratio; proportional coefficient","zh":"比例；比例系数","status":"已审校","note":"","sourceRow":25},{"id":20,"en":"blocking / interlocking; blocking function","zh":"闭锁；闭锁功能","status":"已修订","note":"保护逻辑用 blocking，机械/电气互锁用 interlocking。","sourceRow":26},{"id":21,"en":"substation; substation manager; duty operator; shift supervisor","zh":"变电站；站长；正值；值长","status":"已修订","note":"正值、值长为岗位称谓，依单位职级核定。","sourceRow":27},{"id":22,"en":"analog signal / analog value","zh":"模拟量","status":"已审校","note":"","sourceRow":28},{"id":23,"en":"binary signal / digital signal","zh":"开关量","status":"已审校","note":"","sourceRow":29},{"id":24,"en":"telemetry value; general telemetry","zh":"遥测量；通用遥测","status":"已修订","note":"telemetering 亦用于测量过程；数据点宜用 telemetry value。","sourceRow":30},{"id":25,"en":"telecontrol point; general telecontrol","zh":"遥控量；通用遥控","status":"已审校","note":"","sourceRow":31},{"id":26,"en":"pulse count / telemetered pulse count","zh":"遥脉量","status":"已修订","note":"通常是脉冲累计值；若专指电能脉冲，应结合系统定义。","sourceRow":32},{"id":27,"en":"remote indication; general remote indication","zh":"遥信量；通用遥信","status":"已审校","note":"","sourceRow":33},{"id":28,"en":"upper limit; lower limit; upper-limit alarm; upper-limit audible alarm; lower-limit alarm; lower-limit audible alarm","zh":"上限值；下限值；越上限报警；越上限响铃；越下限报警；越下限响铃","status":"已审校","note":"","sourceRow":34},{"id":29,"en":"limit violation; above upper limit; below lower limit","zh":"越限；越上限；越下限","status":"已审校","note":"","sourceRow":35},{"id":30,"en":"current (I)","zh":"电流","status":"已审校","note":"","sourceRow":36},{"id":31,"en":"voltage; node 1 voltage limit violation","zh":"电压；节点1电压越限","status":"已修订","note":"原文“越限电压”不必然等于过电压，可高于上限或低于下限。","sourceRow":37},{"id":32,"en":"electrical energy / energy reading","zh":"电度","status":"已修订","note":"原文 active energy 仅限有功电能，需按计量项目核实。","sourceRow":38},{"id":33,"en":"power factor (cos φ)","zh":"功率因数","status":"已审校","note":"","sourceRow":39},{"id":34,"en":"reactive power (Q)","zh":"无功功率","status":"已修订","note":"原文将 P/Q 符号颠倒；补足“功率”。","sourceRow":40},{"id":35,"en":"active power (P)","zh":"有功功率","status":"已修订","note":"原文将 P/Q 符号颠倒；补足“功率”。","sourceRow":41},{"id":36,"en":"direct current (DC)","zh":"直流","status":"已审校","note":"","sourceRow":42},{"id":37,"en":"temperature","zh":"温度","status":"已审校","note":"","sourceRow":43},{"id":38,"en":"electric siren","zh":"电笛","status":"已修订","note":"具体设备也可称 alarm horn。","sourceRow":44},{"id":39,"en":"electric bell / alarm bell","zh":"电铃","status":"已审校","note":"","sourceRow":45},{"id":40,"en":"digital input","zh":"开入","status":"已审校","note":"","sourceRow":46},{"id":41,"en":"digital output; digital output test","zh":"开出；开出传动","status":"已修订","note":"“传动”在继保试验语境通常指输出传动试验。","sourceRow":47},{"id":42,"en":"status change; earthing switch status change; double-point indication discrepancy","zh":"变位；地刀变位；双位置遥信变位不一致","status":"已修订","note":"双位置遥信的两个触点不一致，需按设备定义核实。","sourceRow":48},{"id":43,"en":"template; device template","zh":"模板；装置模板","status":"已审校","note":"","sourceRow":49},{"id":44,"en":"setting; conventional setting; setting template; digital-input setting","zh":"定值；常规定值；定值模板；开入定值","status":"已审校","note":"","sourceRow":50},{"id":45,"en":"output / trip output; digital-output board terminal output","zh":"出口；开出板端子出口","status":"已修订","note":"继保语境中的出口通常是动作出口，不应译为 outlet。","sourceRow":51},{"id":46,"en":"reset / return; digital-output terminal reset; digital output failed to reset within timeout","zh":"收回；开出板端子收回；开出超时未收回","status":"已修订","note":"收回指输出返回/复归，需核对装置逻辑。","sourceRow":52},{"id":47,"en":"voltage regulation; voltage regulation successful; voltage regulation failed; raise tap; lower tap; tap runaway; tap-runaway detection time; stop tap changing; voltage regulation setpoint; remote voltage regulation command","zh":"调压；调压成功；调压失败；调压升档；调压降档；调压滑档；滑档时间；调压停止；调压定值；远方调压命令","status":"已修订","note":"“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。","sourceRow":53},{"id":48,"en":"tap position; tap position; neutral tap position","zh":"档位；分接头档位；中心档位","status":"已修订","note":"变压器调压语境。","sourceRow":54},{"id":49,"en":"tap; tap changing","zh":"分接头；分接头调节","status":"已审校","note":"","sourceRow":55},{"id":50,"en":"master station; supervisory master station","zh":"主站；监控主站","status":"已审校","note":"","sourceRow":56},{"id":51,"en":"engineering workstation; protection engineering workstation; fault recorder workstation","zh":"工程师站；继保工程师站；录波后台","status":"已修订","note":"“录波后台”并非 waveform recording unit 本体。","sourceRow":57},{"id":52,"en":"secondary circuit","zh":"二次回路","status":"已审校","note":"","sourceRow":58},{"id":53,"en":"peak and off-peak periods; peak period; off-peak period","zh":"峰谷时间；峰时；谷时","status":"已审校","note":"","sourceRow":59},{"id":54,"en":"GPS time synchronization","zh":"GPS对时","status":"已审校","note":"","sourceRow":60},{"id":55,"en":"reset","zh":"复归","status":"已审校","note":"","sourceRow":61},{"id":56,"en":"alarm; fault / incident; general alarm; general fault alarm","zh":"告警；事故；告警总；事故总","status":"已修订","note":"“事故”在监控画面通常指事故告警，不宜直译 accident。","sourceRow":62},{"id":57,"en":"zero drift; zero-drift calibration error","zh":"零漂；零漂校验出错","status":"已审校","note":"","sourceRow":63},{"id":58,"en":"control word","zh":"控制字","status":"已审校","note":"","sourceRow":64},{"id":59,"en":"deadband","zh":"死区","status":"已修订","note":"测控阈值常用 deadband；空间盲区等语境用 dead zone。","sourceRow":65},{"id":60,"en":"trip / disconnect / clear","zh":"切除","status":"已修订","note":"按故障切除、负荷切除或设备切除选择；原译 fault clearing 仅适用于故障切除。","sourceRow":66},{"id":61,"en":"lead time / advance time","zh":"提前时间","status":"已修订","note":"须按动作提前量、通知提前量等上下文选译。","sourceRow":67},{"id":62,"en":"time difference threshold for one double-point indication","zh":"1组双位置时差","status":"已修订","note":"原文定义不完整；可能指双位置触点变位不一致判别时间，待装置说明确认。","sourceRow":68},{"id":63,"en":"open / disconnect","zh":"断开","status":"已修订","note":"设备开断用 open，隔离连接用 disconnect。","sourceRow":69},{"id":64,"en":"transmission line","zh":"输电线路","status":"已修订","note":"单数词条。","sourceRow":70},{"id":65,"en":"consumer","zh":"用户","status":"已核对","note":"","sourceRow":71},{"id":66,"en":"pharmaceutical factory","zh":"制药厂","status":"已核对","note":"","sourceRow":72},{"id":67,"en":"machinery manufacturing plant","zh":"机械制造厂","status":"已修订","note":"","sourceRow":73},{"id":68,"en":"wiring","zh":"接线","status":"已核对","note":"","sourceRow":74},{"id":69,"en":"switching operation","zh":"倒闸操作","status":"已修订","note":"","sourceRow":75},{"id":70,"en":"Transformer","zh":"变压器","status":"已核对","note":"","sourceRow":76},{"id":71,"en":"main transformer","zh":"主变","status":"已核对","note":"","sourceRow":77},{"id":72,"en":"step-up transformer","zh":"升压变压器","status":"已修订","note":"原文“升压变”改为规范全称。","sourceRow":78},{"id":73,"en":"step-down transformer","zh":"降压变压器","status":"已修订","note":"原文“降压变”改为规范全称。","sourceRow":79},{"id":74,"en":"step-up substation","zh":"升压站","status":"已修订","note":"","sourceRow":80},{"id":75,"en":"transformer fitted with OLTC(on-load tap-changer)","zh":"有载调压变压器","status":"已核对","note":"","sourceRow":81},{"id":76,"en":"Motor","zh":"电动机","status":"已核对","note":"","sourceRow":82},{"id":77,"en":"relay protection","zh":"继电保护","status":"已修订","note":"原文“继电器保护”易误解为保护继电器本体。","sourceRow":83},{"id":78,"en":"thermal power plant (fossil- fired power plant)","zh":"火力发电厂","status":"已核对","note":"","sourceRow":84},{"id":79,"en":"Electromagnetic Induction Principle","zh":"电磁感应原理","status":"已核对","note":"","sourceRow":85},{"id":80,"en":"stator winding","zh":"定子线圈(绕组)","status":"已核对","note":"","sourceRow":86},{"id":81,"en":"magnetic field","zh":"磁场","status":"已核对","note":"","sourceRow":87},{"id":82,"en":"three-phase AC","zh":"三相交流电","status":"已修订","note":"","sourceRow":88},{"id":83,"en":"switchgear","zh":"开关柜","status":"已核对","note":"","sourceRow":89},{"id":84,"en":"maintenance work permit / work ticket","zh":"检修工作票","status":"已修订","note":"工作票具体制度以业主文件为准。","sourceRow":90},{"id":85,"en":"system of monitoring operation terminals and fixed positions","zh":"监盘定位制度","status":"待确认","note":"“监盘定位制度”为单位内部制度，需制度原文解释后定译。","sourceRow":91},{"id":86,"en":"routine inspection procedure","zh":"巡回检查制度","status":"已修订","note":"","sourceRow":92},{"id":87,"en":"equipment changeover procedure","zh":"设备切换制度","status":"已修订","note":"","sourceRow":93},{"id":88,"en":"frequency","zh":"频率(周波)","status":"已核对","note":"","sourceRow":94},{"id":89,"en":"sectionalized single-busbar arrangement","zh":"单母线分段接线","status":"已修订","note":"补足原文省略的“线/接线”。","sourceRow":95},{"id":90,"en":"double-busbar arrangement","zh":"双母线接线","status":"已修订","note":"","sourceRow":96},{"id":91,"en":"unit connection","zh":"单元接线","status":"已修订","note":"","sourceRow":97},{"id":92,"en":"output voltage","zh":"出线电压","status":"已核对","note":"","sourceRow":98},{"id":93,"en":"neutral point","zh":"中性点","status":"已核对","note":"","sourceRow":99},{"id":94,"en":"off-circuit tap changing","zh":"无励磁调压","status":"已修订","note":"原文“无载调压”指停电/无励磁调压，不是器件 no-load tap-changer。","sourceRow":100},{"id":95,"en":"stand-by power supply","zh":"备用电源","status":"已核对","note":"","sourceRow":101},{"id":96,"en":"overhead line","zh":"架空线路","status":"已修订","note":"原文“架空线”改为完整术语。","sourceRow":102},{"id":97,"en":"auxiliary power source","zh":"厂用电源","status":"已核对","note":"","sourceRow":103},{"id":98,"en":"diesel generator unit","zh":"柴油发电机组","status":"已核对","note":"","sourceRow":104},{"id":99,"en":"primary circuit connection","zh":"一次接线","status":"已修订","note":"","sourceRow":105},{"id":100,"en":"dismantle","zh":"拆","status":"已核对","note":"","sourceRow":106},{"id":101,"en":"control loop","zh":"控制回路","status":"已核对","note":"","sourceRow":107},{"id":102,"en":"voltage transformer (VT/PT)","zh":"电压互感器","status":"已修订","note":"","sourceRow":108},{"id":103,"en":"CT (current transformer)","zh":"电流互感器","status":"已核对","note":"","sourceRow":109},{"id":104,"en":"fuse","zh":"熔断器","status":"已核对","note":"","sourceRow":110},{"id":105,"en":"withdrawable circuit breaker","zh":"手车式断路器","status":"已修订","note":"原文“开关”依设备语境明确为断路器；若非断路器须核对。","sourceRow":111},{"id":106,"en":"power transmission scope","zh":"送电范围","status":"已核对","note":"","sourceRow":112},{"id":107,"en":"switching operation ticket","zh":"操作票","status":"已修订","note":"不同于作业许可工作票。","sourceRow":113},{"id":108,"en":"Issued time","zh":"发令时间","status":"已核对","note":"","sourceRow":114},{"id":109,"en":"Single operator operation","zh":"单人操作","status":"已核对","note":"","sourceRow":115},{"id":110,"en":"operator","zh":"值班员","status":"已核对","note":"","sourceRow":116},{"id":111,"en":"synchronous motor","zh":"同步电机","status":"已核对","note":"","sourceRow":117},{"id":112,"en":"excitation","zh":"励磁","status":"已核对","note":"","sourceRow":118},{"id":113,"en":"stator winding","zh":"定子绕组","status":"已核对","note":"","sourceRow":119},{"id":114,"en":"stator iron core","zh":"定子铁芯","status":"已核对","note":"","sourceRow":120},{"id":115,"en":"cooler","zh":"冷却器","status":"已核对","note":"","sourceRow":121},{"id":116,"en":"rotor iron core","zh":"转子铁芯","status":"已核对","note":"","sourceRow":122},{"id":117,"en":"rotor winding","zh":"转子绕组","status":"已核对","note":"","sourceRow":123},{"id":118,"en":"support insulator","zh":"支持绝缘子","status":"已修订","note":"原文“支持瓷瓶”为俗称。","sourceRow":124},{"id":119,"en":"synchronous generator","zh":"同步发电机","status":"已核对","note":"","sourceRow":125},{"id":120,"en":"prime mover","zh":"原动机","status":"已修订","note":"","sourceRow":126},{"id":121,"en":"excitation current","zh":"励磁电流","status":"已核对","note":"","sourceRow":127},{"id":122,"en":"magnetic field line","zh":"磁力线","status":"已修订","note":"","sourceRow":128},{"id":123,"en":"electromotive force (EMF)","zh":"电动势","status":"已修订","note":"","sourceRow":129},{"id":124,"en":"direct-coupling","zh":"直接耦合","status":"已核对","note":"","sourceRow":130},{"id":125,"en":"enclosed circulating air cooling","zh":"封闭循环空气冷却","status":"已核对","note":"","sourceRow":131},{"id":126,"en":"brushless excitation","zh":"无刷励磁","status":"已核对","note":"","sourceRow":132},{"id":127,"en":"coaxial brushless exciter","zh":"同轴无刷励磁机","status":"已核对","note":"","sourceRow":133},{"id":128,"en":"permanent magnet pilot exciter","zh":"永磁副励磁机","status":"已修订","note":"","sourceRow":134},{"id":129,"en":"insulating varnish","zh":"绝缘漆","status":"已修订","note":"","sourceRow":135},{"id":130,"en":"automatic voltage regulator (AVR)","zh":"自动励磁电压调节器","status":"已修订","note":"原文“自动励磁电压”与英文 regulator 不对应，补足器件名；须核图纸。","sourceRow":136},{"id":131,"en":"short-circuit","zh":"短路","status":"已核对","note":"","sourceRow":137},{"id":132,"en":"aluminum pressed ring","zh":"铝压圈","status":"待确认","note":"结构件名称须据发电机图纸确认。","sourceRow":138},{"id":133,"en":"stainless steel block tooth sole plate","zh":"不锈钢分块齿压板","status":"待确认","note":"结构件名称须据发电机图纸确认。","sourceRow":139},{"id":134,"en":"through bolt","zh":"穿心螺杆","status":"已修订","note":"","sourceRow":140},{"id":135,"en":"squirrel-cage structure","zh":"鼠笼式结构","status":"已核对","note":"","sourceRow":141},{"id":136,"en":"vertical support structure","zh":"立式支撑结构","status":"已核对","note":"","sourceRow":142},{"id":137,"en":"glass fiber","zh":"玻璃纤维","status":"已核对","note":"","sourceRow":143},{"id":138,"en":"conical ring","zh":"锥环","status":"已核对","note":"","sourceRow":144},{"id":139,"en":"stator winding bar","zh":"定子线棒","status":"已修订","note":"","sourceRow":145},{"id":140,"en":"slip layer","zh":"滑移层","status":"已修订","note":"","sourceRow":146},{"id":141,"en":"shaft","zh":"转轴","status":"已修订","note":"","sourceRow":147},{"id":142,"en":"radial air duct cooling","zh":"径向风道冷却","status":"已核对","note":"","sourceRow":148},{"id":143,"en":"enclosed circulating system","zh":"封闭循环系统","status":"已核对","note":"","sourceRow":149},{"id":144,"en":"Maximum continuous output power","zh":"最大连续输出功率","status":"已核对","note":"","sourceRow":150},{"id":145,"en":"AC exciter","zh":"交流励磁机","status":"已核对","note":"","sourceRow":151},{"id":146,"en":"thyristor","zh":"可控硅","status":"已核对","note":"","sourceRow":152},{"id":147,"en":"silicon diode / uncontrolled rectifier diode","zh":"硅二极管（不可控整流器件）","status":"已修订","note":"原文“不可控硅二极管”混用了可控硅与二极管概念。","sourceRow":153},{"id":148,"en":"AC armature winding","zh":"交流电枢绕组","status":"已核对","note":"","sourceRow":154},{"id":149,"en":"silicon rectifier","zh":"硅整流器","status":"已核对","note":"","sourceRow":155},{"id":150,"en":"self-excited","zh":"自励","status":"已核对","note":"","sourceRow":156},{"id":151,"en":"separately excited","zh":"他励","status":"已核对","note":"","sourceRow":157},{"id":152,"en":"Excitation transformer","zh":"励磁变压器","status":"已核对","note":"","sourceRow":158},{"id":153,"en":"Rectifying equipment","zh":"整流装置","status":"已核对","note":"","sourceRow":159},{"id":154,"en":"field flashing circuit","zh":"启励回路","status":"已修订","note":"","sourceRow":160},{"id":155,"en":"overvoltage protection device","zh":"过电压保护装置","status":"已修订","note":"","sourceRow":161},{"id":156,"en":"Digital automatic voltage regulator","zh":"数字式自动电压调节器","status":"已核对","note":"","sourceRow":162},{"id":157,"en":"conduction angle","zh":"导通角","status":"已核对","note":"","sourceRow":163},{"id":158,"en":"field discharge breaker","zh":"灭磁开关","status":"已修订","note":"","sourceRow":164},{"id":159,"en":"sleeve-type structure","zh":"套筒式结构","status":"待确认","note":"结构件名称须据图纸确认。","sourceRow":165},{"id":160,"en":"coaxial structure","zh":"同轴结构","status":"已核对","note":"","sourceRow":166},{"id":161,"en":"regulating deviation (error)","zh":"调整偏差","status":"已核对","note":"","sourceRow":167},{"id":162,"en":"clamping plate","zh":"压板","status":"已修订","note":"发电机结构件语境；与继保功能压板不同义，不合并。","sourceRow":168},{"id":163,"en":"air-cooling system","zh":"空气冷却系统","status":"已核对","note":"","sourceRow":169},{"id":164,"en":"maximum deviation","zh":"最大偏差","status":"已核对","note":"","sourceRow":170},{"id":165,"en":"shaft grounding brush","zh":"大轴接地电刷","status":"已修订","note":"","sourceRow":171},{"id":166,"en":"insulation resistance","zh":"绝缘电阻","status":"已修订","note":"","sourceRow":172},{"id":167,"en":"main steam stop valve","zh":"主汽门","status":"已核对","note":"","sourceRow":173},{"id":168,"en":"field forcing","zh":"强行励磁","status":"已修订","note":"","sourceRow":174},{"id":169,"en":"phase","zh":"相位","status":"已核对","note":"","sourceRow":175},{"id":170,"en":"phase sequence","zh":"相序","status":"已核对","note":"","sourceRow":176},{"id":171,"en":"active load","zh":"有功负荷","status":"已核对","note":"","sourceRow":177},{"id":172,"en":"bearing oil outlet temperature","zh":"轴承排油温度","status":"已修订","note":"","sourceRow":178},{"id":173,"en":"primary winding","zh":"一次绕组","status":"已核对","note":"","sourceRow":179},{"id":174,"en":"secondary winding","zh":"二次绕组","status":"已核对","note":"","sourceRow":180},{"id":175,"en":"alternating flux","zh":"交变磁通","status":"已核对","note":"","sourceRow":181},{"id":176,"en":"electromagnetic induction","zh":"电磁感应","status":"已核对","note":"","sourceRow":182},{"id":177,"en":"voltage drop","zh":"压降","status":"已修订","note":"电路语境；若流体系统则 pressure drop。","sourceRow":183},{"id":178,"en":"impedance","zh":"阻抗","status":"已核对","note":"","sourceRow":184},{"id":179,"en":"turns","zh":"匝数","status":"已核对","note":"","sourceRow":185},{"id":180,"en":"High voltage bushing","zh":"高压套管","status":"已核对","note":"","sourceRow":186},{"id":181,"en":"tap changer","zh":"分接开关","status":"已修订","note":"","sourceRow":187},{"id":182,"en":"Low voltage bushing","zh":"低压套管","status":"已核对","note":"","sourceRow":188},{"id":183,"en":"Buchholz relay / gas relay","zh":"瓦斯继电器","status":"已修订","note":"油浸变压器语境。","sourceRow":189},{"id":184,"en":"explosion vent pipe","zh":"防爆管","status":"已修订","note":"","sourceRow":190},{"id":185,"en":"anchor bolt","zh":"地脚螺栓","status":"待确认","note":"结构件名称须据图纸确认。","sourceRow":191},{"id":186,"en":"Oil sampling valve","zh":"油样活门","status":"已核对","note":"","sourceRow":192},{"id":187,"en":"oil drain valve","zh":"放油阀门","status":"已修订","note":"","sourceRow":193},{"id":188,"en":"Oil conservator","zh":"油枕","status":"已核对","note":"","sourceRow":194},{"id":189,"en":"oil storage tank","zh":"储油箱","status":"已核对","note":"","sourceRow":195},{"id":190,"en":"dehydrating breather","zh":"吸湿器","status":"已修订","note":"","sourceRow":196},{"id":191,"en":"radiator","zh":"散热器","status":"已修订","note":"","sourceRow":197},{"id":192,"en":"gas protection","zh":"瓦斯保护","status":"已核对","note":"","sourceRow":198},{"id":193,"en":"differential protection","zh":"差动保护","status":"已核对","note":"","sourceRow":199},{"id":194,"en":"vent plug or oil drain plug","zh":"放气或放油塞子","status":"已修订","note":"","sourceRow":200},{"id":195,"en":"thermometer","zh":"温度计","status":"已核对","note":"也可能指绕组温度计或油温表，依设备确定。","sourceRow":201},{"id":196,"en":"reactor","zh":"电抗器","status":"已核对","note":"","sourceRow":202},{"id":197,"en":"electrical discharge","zh":"放电现象","status":"已修订","note":"原文 arc discharge 过窄。","sourceRow":203},{"id":198,"en":"surge arrester","zh":"避雷器","status":"已修订","note":"","sourceRow":204},{"id":199,"en":"lead","zh":"引线","status":"已核对","note":"","sourceRow":205},{"id":200,"en":"oil leakage / seepage","zh":"渗油","status":"已修订","note":"","sourceRow":206},{"id":201,"en":"silica gel","zh":"硅胶","status":"已核对","note":"","sourceRow":207},{"id":202,"en":"cooling fin","zh":"散热翅","status":"已修订","note":"","sourceRow":208},{"id":203,"en":"lead connector","zh":"引线接头","status":"已核对","note":"","sourceRow":209},{"id":204,"en":"pressure relief vent","zh":"安全气道","status":"已修订","note":"油浸变压器结构语境。","sourceRow":210},{"id":205,"en":"oil level","zh":"油位","status":"已核对","note":"","sourceRow":211},{"id":206,"en":"remote motor-driven regulation","zh":"远方电动调整","status":"已核对","note":"","sourceRow":212},{"id":207,"en":"manual regulation","zh":"手动调整","status":"已核对","note":"","sourceRow":213},{"id":208,"en":"setting value","zh":"整定值","status":"已修订","note":"","sourceRow":214},{"id":209,"en":"fault recording / disturbance recording","zh":"录波","status":"已修订","note":"原译 Oscilloscope 是示波器。","sourceRow":215},{"id":210,"en":"microprocessor-based protective relay","zh":"微机保护装置","status":"已修订","note":"","sourceRow":216},{"id":211,"en":"reset button","zh":"复位按钮","status":"已核对","note":"","sourceRow":217},{"id":212,"en":"relay protection operator","zh":"继保人员","status":"已核对","note":"","sourceRow":218},{"id":213,"en":"trip enable link","zh":"跳闸压板","status":"已修订","note":"继保语境。","sourceRow":219},{"id":214,"en":"high-input-impedance voltmeter","zh":"高内阻电压表","status":"已修订","note":"","sourceRow":220},{"id":215,"en":"multimeter","zh":"万用表","status":"已核对","note":"","sourceRow":221},{"id":216,"en":"a measurement device with a lamp","zh":"校灯","status":"待确认","note":"“校灯”功能未说明，需确认是试灯还是校验灯。","sourceRow":222},{"id":217,"en":"voltage circuit open-circuit fault","zh":"电压回路断线故障","status":"已修订","note":"","sourceRow":223},{"id":218,"en":"general lockout activated","zh":"总闭锁动作","status":"已修订","note":"","sourceRow":224},{"id":219,"en":"positive terminal / positive pole","zh":"正极","status":"已修订","note":"不能无条件译 anode；电池放电与电解过程电极定义不同。","sourceRow":225},{"id":220,"en":"negative terminal / negative pole","zh":"负极","status":"已修订","note":"不能无条件译 cathode。","sourceRow":226},{"id":221,"en":"polarity","zh":"极性","status":"已核对","note":"","sourceRow":227},{"id":222,"en":"busbar differential protection current transformer","zh":"母差互感器","status":"已修订","note":"若为母差保护专用 CT。","sourceRow":228},{"id":223,"en":"cathode","zh":"负极(阴极)","status":"已核对","note":"与“负极”有交集但电极阴极依工作过程定义，保留。","sourceRow":229},{"id":224,"en":"cathode feedback circuit","zh":"阴极反馈电路","status":"已核对","note":"","sourceRow":230},{"id":225,"en":"busbar differential protection circuit","zh":"母差回路","status":"已修订","note":"","sourceRow":231},{"id":226,"en":"distributed data processing system","zh":"分布式数据处理系统","status":"已核对","note":"","sourceRow":232},{"id":227,"en":"data acquisition system","zh":"数据采集系统","status":"已核对","note":"","sourceRow":233},{"id":228,"en":"I/O interface","zh":"I/O接口","status":"已核对","note":"","sourceRow":234},{"id":229,"en":"optical fiber channel","zh":"光纤通道","status":"已修订","note":"","sourceRow":235},{"id":230,"en":"monitoring system","zh":"监控系统","status":"已核对","note":"","sourceRow":236},{"id":231,"en":"centralized control screen","zh":"集中控制屏","status":"已核对","note":"","sourceRow":237},{"id":232,"en":"manual intervention","zh":"人工干预","status":"已核对","note":"","sourceRow":238},{"id":233,"en":"limit-violation record","zh":"越限记录","status":"已修订","note":"","sourceRow":239},{"id":234,"en":"higher-level dispatcher","zh":"上级调度","status":"已核对","note":"","sourceRow":240},{"id":235,"en":"clock function","zh":"时钟功能","status":"已核对","note":"","sourceRow":241},{"id":236,"en":"five-prevention interlocking function","zh":"五防联锁功能","status":"已修订","note":"","sourceRow":242},{"id":237,"en":"non-synchronous lockout","zh":"非同期闭锁","status":"已核对","note":"","sourceRow":243},{"id":238,"en":"automatic transfer device","zh":"自投装置","status":"已修订","note":"通常指备用电源自动投入。","sourceRow":244},{"id":239,"en":"asynchronous motor","zh":"异步电动机","status":"已核对","note":"","sourceRow":245},{"id":240,"en":"End shield (cover)","zh":"端盖","status":"已核对","note":"","sourceRow":246},{"id":241,"en":"junction box","zh":"接线盒","status":"已核对","note":"","sourceRow":247},{"id":242,"en":"ohmmeter","zh":"电阻表","status":"已核对","note":"","sourceRow":248},{"id":243,"en":"sliding bearing","zh":"滑动轴承","status":"已核对","note":"","sourceRow":249},{"id":244,"en":"rolling bearing","zh":"滚动轴承","status":"已核对","note":"","sourceRow":250},{"id":245,"en":"grease","zh":"润滑脂","status":"已核对","note":"","sourceRow":251},{"id":246,"en":"nameplate","zh":"铭牌","status":"已核对","note":"","sourceRow":252},{"id":247,"en":"ambient temperature","zh":"环境温度","status":"已核对","note":"","sourceRow":253},{"id":248,"en":"spare unit","zh":"备用机组","status":"已核对","note":"","sourceRow":254},{"id":249,"en":"coupling","zh":"靠背轮","status":"已核对","note":"","sourceRow":255},{"id":250,"en":"protective cover / guard","zh":"护罩","status":"已修订","note":"","sourceRow":256},{"id":251,"en":"starting device","zh":"启动装置","status":"已修订","note":"","sourceRow":257},{"id":252,"en":"temperature measurement device","zh":"地测温装置","status":"待确认","note":"原文“地测温装置”疑似缺字或录入错误，待核。","sourceRow":258},{"id":253,"en":"thermograph","zh":"温度记录仪","status":"已核对","note":"","sourceRow":259},{"id":254,"en":"slip-ring short-circuiting device","zh":"滑环短接装置","status":"已修订","note":"去除原文尾部连字符。","sourceRow":260},{"id":255,"en":"rectifier","zh":"整流器","status":"已核对","note":"","sourceRow":261},{"id":256,"en":"fuse element","zh":"熔芯","status":"已修订","note":"","sourceRow":262},{"id":257,"en":"large-capacity low-voltage motor","zh":"大容量低压电动机","status":"已核对","note":"","sourceRow":263},{"id":258,"en":"closing voltage","zh":"合闸电压","status":"已核对","note":"","sourceRow":264},{"id":259,"en":"isolating truck / withdrawable isolator","zh":"隔离手车","status":"已修订","note":"不是断路器。","sourceRow":265},{"id":260,"en":"voltage transformer truck","zh":"电压手车","status":"已修订","note":"通常指电压互感器手车。","sourceRow":266},{"id":261,"en":"electromagnetic lock","zh":"电磁锁","status":"已核对","note":"","sourceRow":267},{"id":262,"en":"chassis","zh":"底盘","status":"已核对","note":"","sourceRow":268},{"id":263,"en":"withdrawable circuit-breaker truck","zh":"断路器手车","status":"已修订","note":"","sourceRow":269},{"id":264,"en":"grounding lockout switch","zh":"接地闭锁开关","status":"已核对","note":"","sourceRow":270},{"id":265,"en":"misoperation-prevention device","zh":"防误装置","status":"已修订","note":"","sourceRow":271},{"id":266,"en":"vacuum circuit breaker","zh":"真空断路器","status":"已修订","note":"","sourceRow":272},{"id":267,"en":"insulator","zh":"绝缘子","status":"已核对","note":"","sourceRow":273},{"id":268,"en":"flashover","zh":"闪络现象","status":"已修订","note":"","sourceRow":274},{"id":269,"en":"insulating operating rod","zh":"绝缘拉杆","status":"已修订","note":"","sourceRow":275},{"id":270,"en":"charging set","zh":"充电装置","status":"已核对","note":"","sourceRow":276},{"id":271,"en":"DC oil pump interlock","zh":"直流油泵联动","status":"已核对","note":"","sourceRow":277},{"id":272,"en":"battery","zh":"蓄电池","status":"已核对","note":"","sourceRow":278},{"id":273,"en":"float charge mode","zh":"浮充状态","status":"已修订","note":"","sourceRow":279},{"id":274,"en":"loss of excitation","zh":"失磁","status":"已修订","note":"","sourceRow":280},{"id":275,"en":"grouting","zh":"灌浆","status":"已核对","note":"","sourceRow":281},{"id":276,"en":"no-load voltage","zh":"空载电压","status":"已修订","note":"去除原文尾部连字符。","sourceRow":282},{"id":277,"en":"zero sequence voltage","zh":"零序电压","status":"已核对","note":"","sourceRow":283},{"id":278,"en":"telemetry / remote measurement","zh":"遥测","status":"已修订","note":"","sourceRow":284},{"id":279,"en":"telecontrol / remote control","zh":"遥控","status":"已修订","note":"capture 误译。","sourceRow":285},{"id":280,"en":"remote signaling","zh":"远处发信号","status":"已核对","note":"","sourceRow":286},{"id":281,"en":"reactance","zh":"电抗","status":"已核对","note":"","sourceRow":287},{"id":282,"en":"real-time operating parameters","zh":"实时运行参数","status":"已修订","note":"","sourceRow":288},{"id":283,"en":"asynchronous","zh":"非同期(异步)","status":"待确认","note":"“非同期”不一定等于异步电机意义的 asynchronous；并列语境应核实。","sourceRow":289},{"id":284,"en":"stator ventilating slot","zh":"定子风槽","status":"已核对","note":"","sourceRow":290},{"id":285,"en":"short-circuit fault interruption","zh":"短路故障开断","status":"已修订","note":"","sourceRow":291},{"id":286,"en":"electromagnetic operating mechanism","zh":"电磁操作机构","status":"已核对","note":"","sourceRow":292},{"id":287,"en":"secondary equipment","zh":"二次设备","status":"已核对","note":"","sourceRow":293},{"id":288,"en":"secondary plug","zh":"二次插头","status":"已核对","note":"","sourceRow":294},{"id":289,"en":"mechanical interlocking","zh":"机械闭锁","status":"已修订","note":"清理原文斜杠。","sourceRow":295},{"id":290,"en":"maintenance-free lead-acid storage battery","zh":"免维护铅酸蓄电池","status":"已核对","note":"","sourceRow":296},{"id":291,"en":"cut-off voltage","zh":"终止电压","status":"已核对","note":"","sourceRow":297},{"id":292,"en":"lifting(jacking) oil pump","zh":"顶轴油泵","status":"已核对","note":"","sourceRow":298},{"id":293,"en":"high frequency skid program","zh":"高频模块方案","status":"待确认","note":"“高频模块方案”需工程上下文；原译 skid program 不可信。","sourceRow":299},{"id":294,"en":"negative-sequence current","zh":"负序电流","status":"已核对","note":"","sourceRow":300},{"id":295,"en":"impulse current","zh":"冲击电流","status":"已核对","note":"","sourceRow":301},{"id":296,"en":"islanding / separation from the grid","zh":"解列","status":"已修订","note":"具体是机组解列、系统解列时译法不同。","sourceRow":302},{"id":297,"en":"condensation","zh":"结露","status":"已修订","note":"","sourceRow":303},{"id":298,"en":"dry-type transformer winding","zh":"干式变压器绕组","status":"已核对","note":"","sourceRow":304},{"id":299,"en":"oil-filled bushing","zh":"充油套管","status":"已核对","note":"","sourceRow":305},{"id":300,"en":"voltage ratio","zh":"电压比","status":"已核对","note":"","sourceRow":306},{"id":301,"en":"internal impedance voltage drop","zh":"内阻抗压降","status":"已核对","note":"","sourceRow":307},{"id":302,"en":"natural oil circulation","zh":"自然油循环","status":"已核对","note":"","sourceRow":308},{"id":303,"en":"magnetomotive force","zh":"磁动势","status":"已修订","note":"原文“磁通势”不规范；按英文 magnetomotive force 校正。","sourceRow":309},{"id":304,"en":"reactive load forecast curve","zh":"无功负荷预报曲线","status":"已核对","note":"","sourceRow":310},{"id":305,"en":"bearing liner","zh":"轴瓦","status":"已核对","note":"","sourceRow":311},{"id":306,"en":"interlock trip","zh":"联跳","status":"已核对","note":"","sourceRow":312},{"id":307,"en":"parallel connection","zh":"并接","status":"已核对","note":"","sourceRow":313},{"id":308,"en":"separately excited rotating silicon rectifier","zh":"他励旋转硅整流器","status":"已核对","note":"","sourceRow":314},{"id":309,"en":"radial air duct","zh":"径向风道","status":"已核对","note":"","sourceRow":315},{"id":310,"en":"self-shunt static excitation system","zh":"自并励静止励磁系统","status":"已修订","note":"","sourceRow":316},{"id":311,"en":"slot wedge","zh":"槽楔","status":"已核对","note":"","sourceRow":317},{"id":312,"en":"axial (flow) fan","zh":"轴流风扇","status":"已核对","note":"","sourceRow":318},{"id":313,"en":"EMF waveform","zh":"电势波形","status":"已修订","note":"","sourceRow":319},{"id":314,"en":"sub-slot ventilation","zh":"通风副槽","status":"已核对","note":"","sourceRow":320},{"id":315,"en":"coil insertion","zh":"嵌线","status":"已修订","note":"","sourceRow":321},{"id":316,"en":"radial wire-inserting slot","zh":"径向嵌线槽","status":"已核对","note":"","sourceRow":322},{"id":317,"en":"rigid-flexible structure","zh":"刚-柔结构","status":"已核对","note":"","sourceRow":323},{"id":318,"en":"axial slip layer","zh":"轴向滑移层","status":"已修订","note":"","sourceRow":324},{"id":319,"en":"insulating spacer block","zh":"绝缘垫块","status":"已修订","note":"","sourceRow":325},{"id":320,"en":"conformable material","zh":"适形材料","status":"已修订","note":"","sourceRow":326},{"id":321,"en":"insulation to ground","zh":"对地绝缘","status":"已修订","note":"","sourceRow":327},{"id":322,"en":"iron core vibration","zh":"铁芯振动","status":"已核对","note":"","sourceRow":328},{"id":323,"en":"diamagnetism","zh":"抗磁性","status":"已核对","note":"","sourceRow":329},{"id":324,"en":"external pressure","zh":"外压","status":"已修订","note":"原译 voltage 与“压”在本结构语境不符，仍应核对设计图。","sourceRow":330},{"id":325,"en":"internal pressure","zh":"内压","status":"已修订","note":"原译 voltage 与“压”在本结构语境不符，仍应核对设计图。","sourceRow":331},{"id":326,"en":"high magnetic permeability","zh":"高导磁","status":"已修订","note":"","sourceRow":332},{"id":327,"en":"relative motion","zh":"相对运动","status":"已核对","note":"","sourceRow":333},{"id":328,"en":"retaining ring","zh":"护环","status":"已核对","note":"","sourceRow":334},{"id":329,"en":"backfeed / reverse energization","zh":"倒送电","status":"已修订","note":"","sourceRow":335},{"id":330,"en":"protection circuit","zh":"保护回路","status":"已核对","note":"","sourceRow":336},{"id":331,"en":"voltage tester pen","zh":"验电笔","status":"已修订","note":"","sourceRow":337},{"id":332,"en":"voltage detector","zh":"验电器","status":"已修订","note":"","sourceRow":338},{"id":333,"en":"emergency power supply","zh":"保安电源","status":"已核对","note":"原文为“保安电源”，区别于一般备用电源。","sourceRow":339},{"id":334,"en":"install and remove grounding conductors","zh":"装拆接地线","status":"已修订","note":"","sourceRow":340},{"id":335,"en":"step down the voltage / voltage reduction","zh":"降压","status":"已修订","note":"“压降”才是 voltage drop。","sourceRow":341},{"id":336,"en":"single phase earthing protection","zh":"单相接地保护","status":"已核对","note":"","sourceRow":342},{"id":337,"en":"auxiliary power system voltage level","zh":"厂用电电压等级","status":"已修订","note":"","sourceRow":343},{"id":338,"en":"neutral point at high-voltage side transformer","zh":"变压器高压侧中性点","status":"已核对","note":"","sourceRow":344},{"id":339,"en":"generator-transformer unit connection","zh":"发变组单元接线","status":"已核对","note":"","sourceRow":345},{"id":340,"en":"single bus with bypass","zh":"单母线带旁路","status":"已核对","note":"","sourceRow":346},{"id":341,"en":"step up the voltage / voltage increase","zh":"升压","status":"已修订","note":"","sourceRow":347},{"id":342,"en":"shift handover system","zh":"交接班制","status":"已核对","note":"","sourceRow":348},{"id":343,"en":"outgoing feeder","zh":"出线","status":"已核对","note":"","sourceRow":349},{"id":344,"en":"incoming feeder","zh":"进线","status":"已核对","note":"","sourceRow":350},{"id":345,"en":"stranded aluminium conductor","zh":"铝绞线","status":"已修订","note":"","sourceRow":351},{"id":346,"en":"spacer rod / spacer","zh":"定位棒/间隔棒","status":"已修订","note":"两种名称依具体构件区分。","sourceRow":352},{"id":347,"en":"clamp","zh":"线夹","status":"已核对","note":"","sourceRow":353},{"id":348,"en":"stay","zh":"拉线","status":"已核对","note":"","sourceRow":354},{"id":349,"en":"Stayed pole","zh":"拉线杆","status":"已核对","note":"","sourceRow":355},{"id":350,"en":"backfill","zh":"回填","status":"已核对","note":"","sourceRow":356},{"id":351,"en":"equipotential live working","zh":"等电位作业","status":"已修订","note":"","sourceRow":357},{"id":352,"en":"live working","zh":"带电作业","status":"已修订","note":"","sourceRow":358},{"id":353,"en":"arc suppression / extinction","zh":"灭弧","status":"已核对","note":"","sourceRow":359},{"id":354,"en":"flash tank / flash vessel","zh":"扩容器","status":"已修订","note":"蒸汽或排污系统语境；expander 过泛。","sourceRow":360},{"id":355,"en":"localization rib","zh":"位筋","status":"待确认","note":"“位筋”疑似原文错字，暂不擅改，须查图纸。","sourceRow":361},{"id":356,"en":"stiffening rib","zh":"加强筋","status":"已修订","note":"","sourceRow":362},{"id":357,"en":"blowdown","zh":"排污","status":"已修订","note":"锅炉系统语境。","sourceRow":363},{"id":358,"en":"non-segregated phase busbar","zh":"共箱母线","status":"已核对","note":"","sourceRow":364},{"id":359,"en":"isolated-phase bus duct","zh":"分相封闭母线","status":"已修订","note":"与共箱母线区分。","sourceRow":365},{"id":360,"en":"enclosed bus","zh":"封闭母线","status":"已核对","note":"","sourceRow":366},{"id":361,"en":"self-synchronizing","zh":"自同期","status":"已修订","note":"","sourceRow":367},{"id":362,"en":"simulated synchronizing","zh":"假同期","status":"已修订","note":"通常指不实际并列的同期试验；须结合运行规程。","sourceRow":368},{"id":363,"en":"lagging phase mode","zh":"迟相方式","status":"已核对","note":"","sourceRow":369},{"id":364,"en":"leading phase mode","zh":"进相方式","status":"已核对","note":"","sourceRow":370},{"id":365,"en":"Pulse","zh":"脉冲","status":"已核对","note":"","sourceRow":371},{"id":366,"en":"Power Save Mode","zh":"节电模式","status":"已核对","note":"","sourceRow":372},{"id":367,"en":"redundant diode","zh":"冗余二极管","status":"已核对","note":"","sourceRow":373},{"id":368,"en":"turns ratio","zh":"匝数比","status":"已核对","note":"","sourceRow":374},{"id":369,"en":"Capacitor","zh":"电容器","status":"已核对","note":"","sourceRow":375},{"id":370,"en":"active power loss","zh":"有功损耗","status":"已核对","note":"","sourceRow":376},{"id":371,"en":"reactive power loss","zh":"无功损耗","status":"已核对","note":"","sourceRow":377},{"id":372,"en":"no-load loss","zh":"空载损耗","status":"已核对","note":"","sourceRow":378},{"id":373,"en":"no-load current","zh":"空载电流","status":"已核对","note":"","sourceRow":379},{"id":374,"en":"positive-sequence impedance","zh":"正序阻抗","status":"已修订","note":"","sourceRow":380},{"id":375,"en":"negative-sequence impedance","zh":"负序阻抗","status":"已修订","note":"","sourceRow":381},{"id":376,"en":"zero-sequence impedance","zh":"零序阻抗","status":"已修订","note":"","sourceRow":382},{"id":377,"en":"sectionalized busbar","zh":"分段母线","status":"已修订","note":"","sourceRow":383},{"id":378,"en":"double busbar","zh":"双母线","status":"已修订","note":"","sourceRow":384},{"id":379,"en":"single busbar","zh":"单母线","status":"已修订","note":"","sourceRow":385}]
+[
+  {
+    "id": 1,
+    "en": "protection; protection message; protection event; protection device",
+    "zh": "保护；保护报文；保护事件；保护装置",
+    "status": "已修订",
+    "note": "“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。",
+    "sourceRow": 7,
+    "referenceIds": [
+      "https://selinc.com/products/categories/protective-relays/"
+    ]
+  },
+  {
+    "id": 2,
+    "en": "line protection; line protection for 110 kV and above; line protection for 220 kV and above",
+    "zh": "线路保护；110 kV及以上线路保护；220 kV及以上线路保护",
+    "status": "已修订",
+    "note": "规范电压单位为 kV；具体继电器可称 relay。",
+    "sourceRow": 8,
+    "referenceIds": [
+      "https://selinc.com/products/categories/protective-relays/"
+    ]
+  },
+  {
+    "id": 3,
+    "en": "transformer protection; two-winding transformer protection; three-winding transformer protection",
+    "zh": "变压器保护；双绕组变压器保护；三绕组变压器保护",
+    "status": "已修订",
+    "note": "原文“两卷/三卷”表述改为“双绕组/三绕组”。",
+    "sourceRow": 9,
+    "referenceIds": [
+      "https://selinc.com/products/categories/protective-relays/"
+    ]
+  },
+  {
+    "id": 4,
+    "en": "CT secondary circuit open circuit",
+    "zh": "CT二次回路断线",
+    "status": "已修订",
+    "note": "原文 CT 断线通常指二次回路断线；需按设备告警上下文核实。",
+    "sourceRow": 10,
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/glossary-terms"
+    ]
+  },
+  {
+    "id": 5,
+    "en": "VT/PT secondary circuit open circuit",
+    "zh": "PT二次回路断线",
+    "status": "已修订",
+    "note": "原文 PT 断线通常指电压互感器二次回路断线。",
+    "sourceRow": 11,
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/glossary-terms"
+    ]
+  },
+  {
+    "id": 6,
+    "en": "five-prevention interlocking",
+    "zh": "五防",
+    "status": "已修订",
+    "note": "指电气防误操作的五防闭锁；不是 fail-safe unit。",
+    "sourceRow": 12,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 7,
+    "en": "busbar",
+    "zh": "母线",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 13,
+    "referenceIds": [
+      "https://selinc.com/products/categories/protective-relays/"
+    ]
+  },
+  {
+    "id": 8,
+    "en": "local; local mode",
+    "zh": "就地；就地状态",
+    "status": "已修订",
+    "note": "状态/控制模式按界面语境区分。",
+    "sourceRow": 14,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 9,
+    "en": "remote; remote mode",
+    "zh": "远方；远方状态",
+    "status": "已修订",
+    "note": "状态/控制模式按界面语境区分。",
+    "sourceRow": 15,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 10,
+    "en": "normal; fault; maintenance",
+    "zh": "正常；故障；检修",
+    "status": "已修订",
+    "note": "overhaul 是大修，不等同一般检修。",
+    "sourceRow": 16,
+    "referenceIds": [
+      "https://selinc.com/products/categories/protective-relays/"
+    ]
+  },
+  {
+    "id": 11,
+    "en": "disconnector / disconnecting switch",
+    "zh": "隔离刀闸",
+    "status": "已修订",
+    "note": "原注将 switchgear 错释为“开关操作机构”；switchgear 为开关设备（组合）。 同原“隔离刀闸”词条合并。注意 disconnector 与 switch-disconnector 在特定标准中不是同一概念，须按设备电压和类别判定。",
+    "sourceRow": 17,
+    "sourceAdditions": [
+      {
+        "sourceFile": "巴盟供电局术语表-CE.xlsx",
+        "sourceRow": 43,
+        "zh": "隔离开关",
+        "en": "disconnector"
+      }
+    ],
+    "zhAlt": [
+      "隔离开关"
+    ],
+    "enAlt": [
+      "disconnector"
+    ],
+    "referenceIds": [
+      "https://standards.iteh.ai/catalog/standards/iec/22695480-2d37-4f0b-8edb-24d0cf8ddd56/iec-60947-3-2008"
+    ]
+  },
+  {
+    "id": 12,
+    "en": "earthing switch; earthing switch; local close; local trip; remote close command; remote trip command; closing successful; closing failed; tripping successful; tripping failed",
+    "zh": "接地刀闸；地刀；就地合闸；就地跳闸；远方合闸命令；远方跳闸命令；合闸成功；合闸失败；跳闸成功；跳闸失败",
+    "status": "已修订",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。",
+    "sourceRow": 18,
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/glossary-terms"
+    ]
+  },
+  {
+    "id": 13,
+    "en": "switch; switching operation; switch maintenance; switch status signal",
+    "zh": "开关；开关操作；开关检修；开关信号",
+    "status": "已修订",
+    "note": "“开关”如指断路器应改 circuit breaker；switchgear 是成套开关设备。",
+    "sourceRow": 19,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 14,
+    "en": "bay; common bay; main transformer bay; line bay",
+    "zh": "间隔；公用间隔；主变间隔；线路间隔",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 20,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 15,
+    "en": "enable / put into service; disable / take out of service",
+    "zh": "投入；退出",
+    "status": "已修订",
+    "note": "保护功能投退与设备投退按场景选择。",
+    "sourceRow": 21,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 16,
+    "en": "protection link / function enable link; automatic transfer enable link; synchronism-check enable link; dead-bus-check enable link; control logic enable link; general-purpose link; synchronizing function enable link; synchronizing contact mode 12/13/14 link; fixed synchronizing contact mode link; quasi-synchronizing enable link",
+    "zh": "压板；备自投压板；检同期压板；检无压压板；控制逻辑投入压板；普通压板；同期功能压板；同期接点12/13/14方式压板；同期接点固定方式压板；准同期压板",
+    "status": "已修订",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。",
+    "sourceRow": 22,
+    "referenceIds": [
+      "https://selinc.com/products/categories/protective-relays/"
+    ]
+  },
+  {
+    "id": 17,
+    "en": "synchronizing; slip frequency; frequency difference; phase-angle difference; voltage difference",
+    "zh": "同期；同期滑差；同期频差；同期相差；同期压差",
+    "status": "已修订",
+    "note": "“滑差”通常为频率差；指标及单位依装置定义。",
+    "sourceRow": 23,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 18,
+    "en": "quasi-synchronizing; phase-angle criterion not met; frequency-difference criterion not met; other synchronizing criteria not met; voltage-difference criterion not met",
+    "zh": "准同期；准同期角差条件不满足；准同期频差条件不满足；准同期其他条件不满足；准同期压差条件不满足",
+    "status": "已修订",
+    "note": "原文英文末两项顺序错位；改为与中文顺序一致。",
+    "sourceRow": 24,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 19,
+    "en": "ratio; proportional coefficient",
+    "zh": "比例；比例系数",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 25,
+    "referenceIds": []
+  },
+  {
+    "id": 20,
+    "en": "blocking / interlocking; blocking function",
+    "zh": "闭锁；闭锁功能",
+    "status": "已修订",
+    "note": "保护逻辑用 blocking，机械/电气互锁用 interlocking。",
+    "sourceRow": 26,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 21,
+    "en": "substation; substation manager; duty operator; shift supervisor",
+    "zh": "变电站；站长；正值；值长",
+    "status": "已修订",
+    "note": "正值、值长为岗位称谓，依单位职级核定。",
+    "sourceRow": 27,
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/glossary-terms"
+    ]
+  },
+  {
+    "id": 22,
+    "en": "analog signal / analog value",
+    "zh": "模拟量",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 28,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 23,
+    "en": "binary signal / digital signal",
+    "zh": "开关量",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 29,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 24,
+    "en": "telemetry value; general telemetry",
+    "zh": "遥测量；通用遥测",
+    "status": "已修订",
+    "note": "telemetering 亦用于测量过程；数据点宜用 telemetry value。",
+    "sourceRow": 30,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 25,
+    "en": "telecontrol point; general telecontrol",
+    "zh": "遥控量；通用遥控",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 31,
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+    ]
+  },
+  {
+    "id": 26,
+    "en": "pulse count / telemetered pulse count",
+    "zh": "遥脉量",
+    "status": "已修订",
+    "note": "通常是脉冲累计值；若专指电能脉冲，应结合系统定义。",
+    "sourceRow": 32,
+    "referenceIds": []
+  },
+  {
+    "id": 27,
+    "en": "remote indication; general remote indication",
+    "zh": "遥信量；通用遥信",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 33,
+    "referenceIds": []
+  },
+  {
+    "id": 28,
+    "en": "upper limit; lower limit; upper-limit alarm; upper-limit audible alarm; lower-limit alarm; lower-limit audible alarm",
+    "zh": "上限值；下限值；越上限报警；越上限响铃；越下限报警；越下限响铃",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 34,
+    "referenceIds": []
+  },
+  {
+    "id": 29,
+    "en": "limit violation; above upper limit; below lower limit",
+    "zh": "越限；越上限；越下限",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 35,
+    "referenceIds": []
+  },
+  {
+    "id": 30,
+    "en": "current (I)",
+    "zh": "电流",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 36,
+    "referenceIds": []
+  },
+  {
+    "id": 31,
+    "en": "voltage; node 1 voltage limit violation",
+    "zh": "电压；节点1电压越限",
+    "status": "已修订",
+    "note": "原文“越限电压”不必然等于过电压，可高于上限或低于下限。",
+    "sourceRow": 37,
+    "referenceIds": []
+  },
+  {
+    "id": 32,
+    "en": "electrical energy / energy reading",
+    "zh": "电度",
+    "status": "已修订",
+    "note": "原文 active energy 仅限有功电能，需按计量项目核实。",
+    "sourceRow": 38,
+    "referenceIds": []
+  },
+  {
+    "id": 33,
+    "en": "power factor (cos φ)",
+    "zh": "功率因数",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 39,
+    "referenceIds": []
+  },
+  {
+    "id": 34,
+    "en": "reactive power (Q)",
+    "zh": "无功功率",
+    "status": "已修订",
+    "note": "原文将 P/Q 符号颠倒；补足“功率”。",
+    "sourceRow": 40,
+    "referenceIds": []
+  },
+  {
+    "id": 35,
+    "en": "active power (P)",
+    "zh": "有功功率",
+    "status": "已修订",
+    "note": "原文将 P/Q 符号颠倒；补足“功率”。",
+    "sourceRow": 41,
+    "referenceIds": []
+  },
+  {
+    "id": 36,
+    "en": "direct current (DC)",
+    "zh": "直流",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 42,
+    "referenceIds": []
+  },
+  {
+    "id": 37,
+    "en": "temperature",
+    "zh": "温度",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 43,
+    "referenceIds": []
+  },
+  {
+    "id": 38,
+    "en": "electric siren",
+    "zh": "电笛",
+    "status": "已修订",
+    "note": "具体设备也可称 alarm horn。",
+    "sourceRow": 44,
+    "referenceIds": []
+  },
+  {
+    "id": 39,
+    "en": "electric bell / alarm bell",
+    "zh": "电铃",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 45,
+    "referenceIds": []
+  },
+  {
+    "id": 40,
+    "en": "digital input",
+    "zh": "开入",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 46,
+    "referenceIds": []
+  },
+  {
+    "id": 41,
+    "en": "digital output; digital output test",
+    "zh": "开出；开出传动",
+    "status": "已修订",
+    "note": "“传动”在继保试验语境通常指输出传动试验。",
+    "sourceRow": 47,
+    "referenceIds": []
+  },
+  {
+    "id": 42,
+    "en": "status change; earthing switch status change; double-point indication discrepancy",
+    "zh": "变位；地刀变位；双位置遥信变位不一致",
+    "status": "已修订",
+    "note": "双位置遥信的两个触点不一致，需按设备定义核实。",
+    "sourceRow": 48,
+    "referenceIds": []
+  },
+  {
+    "id": 43,
+    "en": "template; device template",
+    "zh": "模板；装置模板",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 49,
+    "referenceIds": []
+  },
+  {
+    "id": 44,
+    "en": "setting; conventional setting; setting template; digital-input setting",
+    "zh": "定值；常规定值；定值模板；开入定值",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 50,
+    "referenceIds": []
+  },
+  {
+    "id": 45,
+    "en": "output / trip output; digital-output board terminal output",
+    "zh": "出口；开出板端子出口",
+    "status": "已修订",
+    "note": "继保语境中的出口通常是动作出口，不应译为 outlet。",
+    "sourceRow": 51,
+    "referenceIds": []
+  },
+  {
+    "id": 46,
+    "en": "reset / return; digital-output terminal reset; digital output failed to reset within timeout",
+    "zh": "收回；开出板端子收回；开出超时未收回",
+    "status": "已修订",
+    "note": "收回指输出返回/复归，需核对装置逻辑。",
+    "sourceRow": 52,
+    "referenceIds": []
+  },
+  {
+    "id": 47,
+    "en": "voltage regulation; voltage regulation successful; voltage regulation failed; raise tap; lower tap; tap runaway; tap-runaway detection time; stop tap changing; voltage regulation setpoint; remote voltage regulation command",
+    "zh": "调压；调压成功；调压失败；调压升档；调压降档；调压滑档；滑档时间；调压停止；调压定值；远方调压命令",
+    "status": "已修订",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。",
+    "sourceRow": 53,
+    "referenceIds": []
+  },
+  {
+    "id": 48,
+    "en": "tap position; tap position; neutral tap position",
+    "zh": "档位；分接头档位；中心档位",
+    "status": "已修订",
+    "note": "变压器调压语境。",
+    "sourceRow": 54,
+    "referenceIds": []
+  },
+  {
+    "id": 49,
+    "en": "tap; tap changing",
+    "zh": "分接头；分接头调节",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 55,
+    "referenceIds": []
+  },
+  {
+    "id": 50,
+    "en": "master station; supervisory master station",
+    "zh": "主站；监控主站",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 56,
+    "referenceIds": []
+  },
+  {
+    "id": 51,
+    "en": "engineering workstation; protection engineering workstation; fault recorder workstation",
+    "zh": "工程师站；继保工程师站；录波后台",
+    "status": "已修订",
+    "note": "“录波后台”并非 waveform recording unit 本体。",
+    "sourceRow": 57,
+    "referenceIds": []
+  },
+  {
+    "id": 52,
+    "en": "secondary circuit",
+    "zh": "二次回路",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 58,
+    "referenceIds": []
+  },
+  {
+    "id": 53,
+    "en": "peak and off-peak periods; peak period; off-peak period",
+    "zh": "峰谷时间；峰时；谷时",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 59,
+    "referenceIds": []
+  },
+  {
+    "id": 54,
+    "en": "GPS time synchronization",
+    "zh": "GPS对时",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 60,
+    "referenceIds": []
+  },
+  {
+    "id": 55,
+    "en": "reset",
+    "zh": "复归",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 61,
+    "referenceIds": []
+  },
+  {
+    "id": 56,
+    "en": "alarm; fault / incident; general alarm; general fault alarm",
+    "zh": "告警；事故；告警总；事故总",
+    "status": "已修订",
+    "note": "“事故”在监控画面通常指事故告警，不宜直译 accident。",
+    "sourceRow": 62,
+    "referenceIds": []
+  },
+  {
+    "id": 57,
+    "en": "zero drift; zero-drift calibration error",
+    "zh": "零漂；零漂校验出错",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 63,
+    "referenceIds": []
+  },
+  {
+    "id": 58,
+    "en": "control word",
+    "zh": "控制字",
+    "status": "已审校",
+    "note": "",
+    "sourceRow": 64,
+    "referenceIds": []
+  },
+  {
+    "id": 59,
+    "en": "deadband",
+    "zh": "死区",
+    "status": "已修订",
+    "note": "测控阈值常用 deadband；空间盲区等语境用 dead zone。",
+    "sourceRow": 65,
+    "referenceIds": []
+  },
+  {
+    "id": 60,
+    "en": "trip / disconnect / clear",
+    "zh": "切除",
+    "status": "已修订",
+    "note": "按故障切除、负荷切除或设备切除选择；原译 fault clearing 仅适用于故障切除。",
+    "sourceRow": 66,
+    "referenceIds": []
+  },
+  {
+    "id": 61,
+    "en": "lead time / advance time",
+    "zh": "提前时间",
+    "status": "已修订",
+    "note": "须按动作提前量、通知提前量等上下文选译。",
+    "sourceRow": 67,
+    "referenceIds": []
+  },
+  {
+    "id": 62,
+    "en": "time difference threshold for one double-point indication",
+    "zh": "1组双位置时差",
+    "status": "已修订",
+    "note": "原文定义不完整；可能指双位置触点变位不一致判别时间，待装置说明确认。",
+    "sourceRow": 68,
+    "referenceIds": []
+  },
+  {
+    "id": 63,
+    "en": "open / disconnect",
+    "zh": "断开",
+    "status": "已修订",
+    "note": "设备开断用 open，隔离连接用 disconnect。",
+    "sourceRow": 69,
+    "referenceIds": []
+  },
+  {
+    "id": 64,
+    "en": "transmission line",
+    "zh": "输电线路",
+    "status": "已修订",
+    "note": "单数词条。",
+    "sourceRow": 70,
+    "referenceIds": []
+  },
+  {
+    "id": 65,
+    "en": "consumer",
+    "zh": "用户",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 71,
+    "referenceIds": []
+  },
+  {
+    "id": 68,
+    "en": "wiring",
+    "zh": "接线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 74,
+    "referenceIds": []
+  },
+  {
+    "id": 69,
+    "en": "switching operation",
+    "zh": "倒闸操作",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 75,
+    "referenceIds": []
+  },
+  {
+    "id": 70,
+    "en": "Transformer",
+    "zh": "变压器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 76,
+    "referenceIds": []
+  },
+  {
+    "id": 71,
+    "en": "main transformer",
+    "zh": "主变",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 77,
+    "referenceIds": []
+  },
+  {
+    "id": 72,
+    "en": "step-up transformer",
+    "zh": "升压变压器",
+    "status": "已修订",
+    "note": "原文“升压变”改为规范全称。",
+    "sourceRow": 78,
+    "referenceIds": []
+  },
+  {
+    "id": 73,
+    "en": "step-down transformer",
+    "zh": "降压变压器",
+    "status": "已修订",
+    "note": "原文“降压变”改为规范全称。",
+    "sourceRow": 79,
+    "referenceIds": []
+  },
+  {
+    "id": 74,
+    "en": "step-up substation",
+    "zh": "升压站",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 80,
+    "referenceIds": []
+  },
+  {
+    "id": 75,
+    "en": "transformer fitted with OLTC(on-load tap-changer)",
+    "zh": "有载调压变压器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 81,
+    "referenceIds": []
+  },
+  {
+    "id": 76,
+    "en": "Motor",
+    "zh": "电动机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 82,
+    "referenceIds": []
+  },
+  {
+    "id": 77,
+    "en": "relay protection",
+    "zh": "继电保护",
+    "status": "已修订",
+    "note": "原文“继电器保护”易误解为保护继电器本体。",
+    "sourceRow": 83,
+    "referenceIds": []
+  },
+  {
+    "id": 78,
+    "en": "thermal power plant (fossil- fired power plant)",
+    "zh": "火力发电厂",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 84,
+    "referenceIds": []
+  },
+  {
+    "id": 79,
+    "en": "Electromagnetic Induction Principle",
+    "zh": "电磁感应原理",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 85,
+    "referenceIds": []
+  },
+  {
+    "id": 80,
+    "en": "stator winding",
+    "zh": "定子线圈(绕组)",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 86,
+    "referenceIds": []
+  },
+  {
+    "id": 81,
+    "en": "magnetic field",
+    "zh": "磁场",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 87,
+    "referenceIds": []
+  },
+  {
+    "id": 82,
+    "en": "three-phase AC",
+    "zh": "三相交流电",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 88,
+    "referenceIds": []
+  },
+  {
+    "id": 83,
+    "en": "switchgear",
+    "zh": "开关柜",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 89,
+    "referenceIds": []
+  },
+  {
+    "id": 84,
+    "en": "maintenance work permit / work ticket",
+    "zh": "检修工作票",
+    "status": "已修订",
+    "note": "工作票具体制度以业主文件为准。",
+    "sourceRow": 90,
+    "referenceIds": []
+  },
+  {
+    "id": 85,
+    "en": "system of monitoring operation terminals and fixed positions",
+    "zh": "监盘定位制度",
+    "status": "待确认",
+    "note": "“监盘定位制度”为单位内部制度，需制度原文解释后定译。",
+    "sourceRow": 91,
+    "referenceIds": []
+  },
+  {
+    "id": 86,
+    "en": "routine inspection procedure",
+    "zh": "巡回检查制度",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 92,
+    "referenceIds": []
+  },
+  {
+    "id": 87,
+    "en": "equipment changeover procedure",
+    "zh": "设备切换制度",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 93,
+    "referenceIds": []
+  },
+  {
+    "id": 88,
+    "en": "frequency",
+    "zh": "频率(周波)",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 94,
+    "referenceIds": []
+  },
+  {
+    "id": 89,
+    "en": "sectionalized single-busbar arrangement",
+    "zh": "单母线分段接线",
+    "status": "已修订",
+    "note": "补足原文省略的“线/接线”。",
+    "sourceRow": 95,
+    "referenceIds": []
+  },
+  {
+    "id": 90,
+    "en": "double-busbar arrangement",
+    "zh": "双母线接线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 96,
+    "referenceIds": []
+  },
+  {
+    "id": 91,
+    "en": "unit connection",
+    "zh": "单元接线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 97,
+    "referenceIds": []
+  },
+  {
+    "id": 92,
+    "en": "output voltage",
+    "zh": "出线电压",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 98,
+    "referenceIds": []
+  },
+  {
+    "id": 93,
+    "en": "neutral point",
+    "zh": "中性点",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 99,
+    "referenceIds": []
+  },
+  {
+    "id": 94,
+    "en": "off-circuit tap changing",
+    "zh": "无励磁调压",
+    "status": "已修订",
+    "note": "原文“无载调压”指停电/无励磁调压，不是器件 no-load tap-changer。",
+    "sourceRow": 100,
+    "referenceIds": []
+  },
+  {
+    "id": 95,
+    "en": "stand-by power supply",
+    "zh": "备用电源",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 101,
+    "referenceIds": []
+  },
+  {
+    "id": 96,
+    "en": "overhead line",
+    "zh": "架空线路",
+    "status": "已修订",
+    "note": "原文“架空线”改为完整术语。",
+    "sourceRow": 102,
+    "referenceIds": []
+  },
+  {
+    "id": 97,
+    "en": "auxiliary power source",
+    "zh": "厂用电源",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 103,
+    "referenceIds": []
+  },
+  {
+    "id": 98,
+    "en": "diesel generator unit",
+    "zh": "柴油发电机组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 104,
+    "referenceIds": []
+  },
+  {
+    "id": 99,
+    "en": "primary circuit connection",
+    "zh": "一次接线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 105,
+    "referenceIds": []
+  },
+  {
+    "id": 101,
+    "en": "control loop",
+    "zh": "控制回路",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 107,
+    "referenceIds": []
+  },
+  {
+    "id": 102,
+    "en": "voltage transformer (VT/PT)",
+    "zh": "电压互感器",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 108,
+    "referenceIds": []
+  },
+  {
+    "id": 103,
+    "en": "CT (current transformer)",
+    "zh": "电流互感器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 109,
+    "referenceIds": []
+  },
+  {
+    "id": 104,
+    "en": "fuse",
+    "zh": "熔断器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 110,
+    "referenceIds": []
+  },
+  {
+    "id": 105,
+    "en": "withdrawable circuit breaker",
+    "zh": "手车式断路器",
+    "status": "已修订",
+    "note": "原文“开关”依设备语境明确为断路器；若非断路器须核对。",
+    "sourceRow": 111,
+    "referenceIds": []
+  },
+  {
+    "id": 106,
+    "en": "power transmission scope",
+    "zh": "送电范围",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 112,
+    "referenceIds": []
+  },
+  {
+    "id": 107,
+    "en": "switching operation ticket",
+    "zh": "操作票",
+    "status": "已修订",
+    "note": "不同于作业许可工作票。",
+    "sourceRow": 113,
+    "referenceIds": []
+  },
+  {
+    "id": 108,
+    "en": "Issued time",
+    "zh": "发令时间",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 114,
+    "referenceIds": []
+  },
+  {
+    "id": 109,
+    "en": "Single operator operation",
+    "zh": "单人操作",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 115,
+    "referenceIds": []
+  },
+  {
+    "id": 110,
+    "en": "operator",
+    "zh": "值班员",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 116,
+    "referenceIds": []
+  },
+  {
+    "id": 111,
+    "en": "synchronous motor",
+    "zh": "同步电机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 117,
+    "referenceIds": []
+  },
+  {
+    "id": 112,
+    "en": "excitation",
+    "zh": "励磁",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 118,
+    "referenceIds": []
+  },
+  {
+    "id": 113,
+    "en": "stator winding",
+    "zh": "定子绕组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 119,
+    "referenceIds": []
+  },
+  {
+    "id": 114,
+    "en": "stator iron core",
+    "zh": "定子铁芯",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 120,
+    "referenceIds": []
+  },
+  {
+    "id": 115,
+    "en": "cooler",
+    "zh": "冷却器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 121,
+    "referenceIds": []
+  },
+  {
+    "id": 116,
+    "en": "rotor iron core",
+    "zh": "转子铁芯",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 122,
+    "referenceIds": []
+  },
+  {
+    "id": 117,
+    "en": "rotor winding",
+    "zh": "转子绕组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 123,
+    "referenceIds": []
+  },
+  {
+    "id": 118,
+    "en": "support insulator",
+    "zh": "支持绝缘子",
+    "status": "已修订",
+    "note": "原文“支持瓷瓶”为俗称。",
+    "sourceRow": 124,
+    "referenceIds": []
+  },
+  {
+    "id": 119,
+    "en": "synchronous generator",
+    "zh": "同步发电机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 125,
+    "referenceIds": []
+  },
+  {
+    "id": 120,
+    "en": "prime mover",
+    "zh": "原动机",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 126,
+    "referenceIds": []
+  },
+  {
+    "id": 121,
+    "en": "excitation current",
+    "zh": "励磁电流",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 127,
+    "referenceIds": []
+  },
+  {
+    "id": 122,
+    "en": "magnetic field line",
+    "zh": "磁力线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 128,
+    "referenceIds": []
+  },
+  {
+    "id": 123,
+    "en": "electromotive force (EMF)",
+    "zh": "电动势",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 129,
+    "referenceIds": []
+  },
+  {
+    "id": 124,
+    "en": "direct-coupling",
+    "zh": "直接耦合",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 130,
+    "referenceIds": []
+  },
+  {
+    "id": 125,
+    "en": "enclosed circulating air cooling",
+    "zh": "封闭循环空气冷却",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 131,
+    "referenceIds": []
+  },
+  {
+    "id": 126,
+    "en": "brushless excitation",
+    "zh": "无刷励磁",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 132,
+    "referenceIds": []
+  },
+  {
+    "id": 127,
+    "en": "coaxial brushless exciter",
+    "zh": "同轴无刷励磁机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 133,
+    "referenceIds": []
+  },
+  {
+    "id": 128,
+    "en": "permanent magnet pilot exciter",
+    "zh": "永磁副励磁机",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 134,
+    "referenceIds": []
+  },
+  {
+    "id": 129,
+    "en": "insulating varnish",
+    "zh": "绝缘漆",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 135,
+    "referenceIds": []
+  },
+  {
+    "id": 130,
+    "en": "automatic voltage regulator (AVR)",
+    "zh": "自动励磁电压调节器",
+    "status": "已修订",
+    "note": "原文“自动励磁电压”与英文 regulator 不对应，补足器件名；须核图纸。",
+    "sourceRow": 136,
+    "referenceIds": []
+  },
+  {
+    "id": 131,
+    "en": "short-circuit",
+    "zh": "短路",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 137,
+    "referenceIds": []
+  },
+  {
+    "id": 132,
+    "en": "aluminum pressed ring",
+    "zh": "铝压圈",
+    "status": "待确认",
+    "note": "结构件名称须据发电机图纸确认。",
+    "sourceRow": 138,
+    "referenceIds": []
+  },
+  {
+    "id": 133,
+    "en": "stainless steel block tooth sole plate",
+    "zh": "不锈钢分块齿压板",
+    "status": "待确认",
+    "note": "结构件名称须据发电机图纸确认。",
+    "sourceRow": 139,
+    "referenceIds": []
+  },
+  {
+    "id": 134,
+    "en": "through bolt",
+    "zh": "穿心螺杆",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 140,
+    "referenceIds": []
+  },
+  {
+    "id": 135,
+    "en": "squirrel-cage structure",
+    "zh": "鼠笼式结构",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 141,
+    "referenceIds": []
+  },
+  {
+    "id": 136,
+    "en": "vertical support structure",
+    "zh": "立式支撑结构",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 142,
+    "referenceIds": []
+  },
+  {
+    "id": 137,
+    "en": "glass fiber",
+    "zh": "玻璃纤维",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 143,
+    "referenceIds": []
+  },
+  {
+    "id": 138,
+    "en": "conical ring",
+    "zh": "锥环",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 144,
+    "referenceIds": []
+  },
+  {
+    "id": 139,
+    "en": "stator winding bar",
+    "zh": "定子线棒",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 145,
+    "referenceIds": []
+  },
+  {
+    "id": 140,
+    "en": "slip layer",
+    "zh": "滑移层",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 146,
+    "referenceIds": []
+  },
+  {
+    "id": 141,
+    "en": "shaft",
+    "zh": "转轴",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 147,
+    "referenceIds": []
+  },
+  {
+    "id": 142,
+    "en": "radial air duct cooling",
+    "zh": "径向风道冷却",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 148,
+    "referenceIds": []
+  },
+  {
+    "id": 143,
+    "en": "enclosed circulating system",
+    "zh": "封闭循环系统",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 149,
+    "referenceIds": []
+  },
+  {
+    "id": 144,
+    "en": "Maximum continuous output power",
+    "zh": "最大连续输出功率",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 150,
+    "referenceIds": []
+  },
+  {
+    "id": 145,
+    "en": "AC exciter",
+    "zh": "交流励磁机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 151,
+    "referenceIds": []
+  },
+  {
+    "id": 146,
+    "en": "thyristor",
+    "zh": "可控硅",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 152,
+    "referenceIds": []
+  },
+  {
+    "id": 147,
+    "en": "silicon diode / uncontrolled rectifier diode",
+    "zh": "硅二极管（不可控整流器件）",
+    "status": "已修订",
+    "note": "原文“不可控硅二极管”混用了可控硅与二极管概念。",
+    "sourceRow": 153,
+    "referenceIds": []
+  },
+  {
+    "id": 148,
+    "en": "AC armature winding",
+    "zh": "交流电枢绕组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 154,
+    "referenceIds": []
+  },
+  {
+    "id": 149,
+    "en": "silicon rectifier",
+    "zh": "硅整流器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 155,
+    "referenceIds": []
+  },
+  {
+    "id": 150,
+    "en": "self-excited",
+    "zh": "自励",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 156,
+    "referenceIds": []
+  },
+  {
+    "id": 151,
+    "en": "separately excited",
+    "zh": "他励",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 157,
+    "referenceIds": []
+  },
+  {
+    "id": 152,
+    "en": "Excitation transformer",
+    "zh": "励磁变压器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 158,
+    "referenceIds": []
+  },
+  {
+    "id": 153,
+    "en": "Rectifying equipment",
+    "zh": "整流装置",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 159,
+    "referenceIds": []
+  },
+  {
+    "id": 154,
+    "en": "field flashing circuit",
+    "zh": "启励回路",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 160,
+    "referenceIds": []
+  },
+  {
+    "id": 155,
+    "en": "overvoltage protection device",
+    "zh": "过电压保护装置",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 161,
+    "referenceIds": []
+  },
+  {
+    "id": 156,
+    "en": "Digital automatic voltage regulator",
+    "zh": "数字式自动电压调节器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 162,
+    "referenceIds": []
+  },
+  {
+    "id": 157,
+    "en": "conduction angle",
+    "zh": "导通角",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 163,
+    "referenceIds": []
+  },
+  {
+    "id": 158,
+    "en": "field discharge breaker",
+    "zh": "灭磁开关",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 164,
+    "referenceIds": []
+  },
+  {
+    "id": 159,
+    "en": "sleeve-type structure",
+    "zh": "套筒式结构",
+    "status": "待确认",
+    "note": "结构件名称须据图纸确认。",
+    "sourceRow": 165,
+    "referenceIds": []
+  },
+  {
+    "id": 160,
+    "en": "coaxial structure",
+    "zh": "同轴结构",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 166,
+    "referenceIds": []
+  },
+  {
+    "id": 161,
+    "en": "regulating deviation (error)",
+    "zh": "调整偏差",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 167,
+    "referenceIds": []
+  },
+  {
+    "id": 162,
+    "en": "clamping plate",
+    "zh": "压板",
+    "status": "已修订",
+    "note": "发电机结构件语境；与继保功能压板不同义，不合并。",
+    "sourceRow": 168,
+    "referenceIds": []
+  },
+  {
+    "id": 163,
+    "en": "air-cooling system",
+    "zh": "空气冷却系统",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 169,
+    "referenceIds": []
+  },
+  {
+    "id": 164,
+    "en": "maximum deviation",
+    "zh": "最大偏差",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 170,
+    "referenceIds": []
+  },
+  {
+    "id": 165,
+    "en": "shaft grounding brush",
+    "zh": "大轴接地电刷",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 171,
+    "referenceIds": []
+  },
+  {
+    "id": 166,
+    "en": "insulation resistance",
+    "zh": "绝缘电阻",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 172,
+    "referenceIds": []
+  },
+  {
+    "id": 167,
+    "en": "main steam stop valve",
+    "zh": "主汽门",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 173,
+    "referenceIds": []
+  },
+  {
+    "id": 168,
+    "en": "field forcing",
+    "zh": "强行励磁",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 174,
+    "referenceIds": []
+  },
+  {
+    "id": 169,
+    "en": "phase",
+    "zh": "相位",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 175,
+    "referenceIds": []
+  },
+  {
+    "id": 170,
+    "en": "phase sequence",
+    "zh": "相序",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 176,
+    "referenceIds": []
+  },
+  {
+    "id": 171,
+    "en": "active load",
+    "zh": "有功负荷",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 177,
+    "referenceIds": []
+  },
+  {
+    "id": 172,
+    "en": "bearing oil outlet temperature",
+    "zh": "轴承排油温度",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 178,
+    "referenceIds": []
+  },
+  {
+    "id": 173,
+    "en": "primary winding",
+    "zh": "一次绕组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 179,
+    "referenceIds": []
+  },
+  {
+    "id": 174,
+    "en": "secondary winding",
+    "zh": "二次绕组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 180,
+    "referenceIds": []
+  },
+  {
+    "id": 175,
+    "en": "alternating flux",
+    "zh": "交变磁通",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 181,
+    "referenceIds": []
+  },
+  {
+    "id": 176,
+    "en": "electromagnetic induction",
+    "zh": "电磁感应",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 182,
+    "referenceIds": []
+  },
+  {
+    "id": 177,
+    "en": "voltage drop",
+    "zh": "压降",
+    "status": "已修订",
+    "note": "电路语境；若流体系统则 pressure drop。",
+    "sourceRow": 183,
+    "referenceIds": []
+  },
+  {
+    "id": 178,
+    "en": "impedance",
+    "zh": "阻抗",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 184,
+    "referenceIds": []
+  },
+  {
+    "id": 179,
+    "en": "turns",
+    "zh": "匝数",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 185,
+    "referenceIds": []
+  },
+  {
+    "id": 180,
+    "en": "High voltage bushing",
+    "zh": "高压套管",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 186,
+    "referenceIds": []
+  },
+  {
+    "id": 181,
+    "en": "tap changer",
+    "zh": "分接开关",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 187,
+    "referenceIds": []
+  },
+  {
+    "id": 182,
+    "en": "Low voltage bushing",
+    "zh": "低压套管",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 188,
+    "referenceIds": []
+  },
+  {
+    "id": 183,
+    "en": "Buchholz relay / gas relay",
+    "zh": "瓦斯继电器",
+    "status": "已修订",
+    "note": "油浸变压器语境。",
+    "sourceRow": 189,
+    "referenceIds": []
+  },
+  {
+    "id": 184,
+    "en": "explosion vent pipe",
+    "zh": "防爆管",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 190,
+    "referenceIds": []
+  },
+  {
+    "id": 185,
+    "en": "anchor bolt",
+    "zh": "地脚螺栓",
+    "status": "待确认",
+    "note": "结构件名称须据图纸确认。",
+    "sourceRow": 191,
+    "referenceIds": []
+  },
+  {
+    "id": 186,
+    "en": "Oil sampling valve",
+    "zh": "油样活门",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 192,
+    "referenceIds": []
+  },
+  {
+    "id": 187,
+    "en": "oil drain valve",
+    "zh": "放油阀门",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 193,
+    "referenceIds": []
+  },
+  {
+    "id": 188,
+    "en": "Oil conservator",
+    "zh": "油枕",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 194,
+    "referenceIds": []
+  },
+  {
+    "id": 189,
+    "en": "oil storage tank",
+    "zh": "储油箱",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 195,
+    "referenceIds": []
+  },
+  {
+    "id": 190,
+    "en": "dehydrating breather",
+    "zh": "吸湿器",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 196,
+    "referenceIds": []
+  },
+  {
+    "id": 191,
+    "en": "radiator",
+    "zh": "散热器",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 197,
+    "referenceIds": []
+  },
+  {
+    "id": 192,
+    "en": "gas protection",
+    "zh": "瓦斯保护",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 198,
+    "referenceIds": []
+  },
+  {
+    "id": 193,
+    "en": "differential protection",
+    "zh": "差动保护",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 199,
+    "referenceIds": []
+  },
+  {
+    "id": 194,
+    "en": "vent plug or oil drain plug",
+    "zh": "放气或放油塞子",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 200,
+    "referenceIds": []
+  },
+  {
+    "id": 195,
+    "en": "thermometer",
+    "zh": "温度计",
+    "status": "已核对",
+    "note": "也可能指绕组温度计或油温表，依设备确定。",
+    "sourceRow": 201,
+    "referenceIds": []
+  },
+  {
+    "id": 196,
+    "en": "reactor",
+    "zh": "电抗器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 202,
+    "referenceIds": []
+  },
+  {
+    "id": 197,
+    "en": "electrical discharge",
+    "zh": "放电现象",
+    "status": "已修订",
+    "note": "原文 arc discharge 过窄。",
+    "sourceRow": 203,
+    "referenceIds": []
+  },
+  {
+    "id": 198,
+    "en": "surge arrester",
+    "zh": "避雷器",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 204,
+    "referenceIds": []
+  },
+  {
+    "id": 199,
+    "en": "lead",
+    "zh": "引线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 205,
+    "referenceIds": []
+  },
+  {
+    "id": 200,
+    "en": "oil leakage / seepage",
+    "zh": "渗油",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 206,
+    "referenceIds": []
+  },
+  {
+    "id": 201,
+    "en": "silica gel",
+    "zh": "硅胶",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 207,
+    "referenceIds": []
+  },
+  {
+    "id": 202,
+    "en": "cooling fin",
+    "zh": "散热翅",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 208,
+    "referenceIds": []
+  },
+  {
+    "id": 203,
+    "en": "lead connector",
+    "zh": "引线接头",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 209,
+    "referenceIds": []
+  },
+  {
+    "id": 204,
+    "en": "pressure relief vent",
+    "zh": "安全气道",
+    "status": "已修订",
+    "note": "油浸变压器结构语境。",
+    "sourceRow": 210,
+    "referenceIds": []
+  },
+  {
+    "id": 205,
+    "en": "oil level",
+    "zh": "油位",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 211,
+    "referenceIds": []
+  },
+  {
+    "id": 206,
+    "en": "remote motor-driven regulation",
+    "zh": "远方电动调整",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 212,
+    "referenceIds": []
+  },
+  {
+    "id": 207,
+    "en": "manual regulation",
+    "zh": "手动调整",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 213,
+    "referenceIds": []
+  },
+  {
+    "id": 208,
+    "en": "setting value",
+    "zh": "整定值",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 214,
+    "referenceIds": []
+  },
+  {
+    "id": 209,
+    "en": "fault recording / disturbance recording",
+    "zh": "录波",
+    "status": "已修订",
+    "note": "原译 Oscilloscope 是示波器。",
+    "sourceRow": 215,
+    "referenceIds": []
+  },
+  {
+    "id": 210,
+    "en": "microprocessor-based protective relay",
+    "zh": "微机保护装置",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 216,
+    "referenceIds": []
+  },
+  {
+    "id": 211,
+    "en": "reset button",
+    "zh": "复位按钮",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 217,
+    "referenceIds": []
+  },
+  {
+    "id": 212,
+    "en": "relay protection operator",
+    "zh": "继保人员",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 218,
+    "referenceIds": []
+  },
+  {
+    "id": 213,
+    "en": "trip enable link",
+    "zh": "跳闸压板",
+    "status": "已修订",
+    "note": "继保语境。",
+    "sourceRow": 219,
+    "referenceIds": []
+  },
+  {
+    "id": 214,
+    "en": "high-input-impedance voltmeter",
+    "zh": "高内阻电压表",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 220,
+    "referenceIds": []
+  },
+  {
+    "id": 215,
+    "en": "multimeter",
+    "zh": "万用表",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 221,
+    "referenceIds": []
+  },
+  {
+    "id": 216,
+    "en": "a measurement device with a lamp",
+    "zh": "校灯",
+    "status": "待确认",
+    "note": "“校灯”功能未说明，需确认是试灯还是校验灯。",
+    "sourceRow": 222,
+    "referenceIds": []
+  },
+  {
+    "id": 217,
+    "en": "voltage circuit open-circuit fault",
+    "zh": "电压回路断线故障",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 223,
+    "referenceIds": []
+  },
+  {
+    "id": 218,
+    "en": "general lockout activated",
+    "zh": "总闭锁动作",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 224,
+    "referenceIds": []
+  },
+  {
+    "id": 219,
+    "en": "positive terminal / positive pole",
+    "zh": "正极",
+    "status": "已修订",
+    "note": "不能无条件译 anode；电池放电与电解过程电极定义不同。",
+    "sourceRow": 225,
+    "referenceIds": []
+  },
+  {
+    "id": 220,
+    "en": "negative terminal / negative pole",
+    "zh": "负极",
+    "status": "已修订",
+    "note": "不能无条件译 cathode。",
+    "sourceRow": 226,
+    "referenceIds": []
+  },
+  {
+    "id": 221,
+    "en": "polarity",
+    "zh": "极性",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 227,
+    "referenceIds": []
+  },
+  {
+    "id": 222,
+    "en": "busbar differential protection current transformer",
+    "zh": "母差互感器",
+    "status": "已修订",
+    "note": "若为母差保护专用 CT。",
+    "sourceRow": 228,
+    "referenceIds": []
+  },
+  {
+    "id": 223,
+    "en": "cathode",
+    "zh": "负极(阴极)",
+    "status": "已核对",
+    "note": "与“负极”有交集但电极阴极依工作过程定义，保留。",
+    "sourceRow": 229,
+    "referenceIds": []
+  },
+  {
+    "id": 224,
+    "en": "cathode feedback circuit",
+    "zh": "阴极反馈电路",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 230,
+    "referenceIds": []
+  },
+  {
+    "id": 225,
+    "en": "busbar differential protection circuit",
+    "zh": "母差回路",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 231,
+    "referenceIds": []
+  },
+  {
+    "id": 226,
+    "en": "distributed data processing system",
+    "zh": "分布式数据处理系统",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 232,
+    "referenceIds": []
+  },
+  {
+    "id": 227,
+    "en": "data acquisition system",
+    "zh": "数据采集系统",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 233,
+    "referenceIds": []
+  },
+  {
+    "id": 228,
+    "en": "I/O interface",
+    "zh": "I/O接口",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 234,
+    "referenceIds": []
+  },
+  {
+    "id": 229,
+    "en": "optical fiber channel",
+    "zh": "光纤通道",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 235,
+    "referenceIds": []
+  },
+  {
+    "id": 230,
+    "en": "monitoring system",
+    "zh": "监控系统",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 236,
+    "referenceIds": []
+  },
+  {
+    "id": 231,
+    "en": "centralized control screen",
+    "zh": "集中控制屏",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 237,
+    "referenceIds": []
+  },
+  {
+    "id": 232,
+    "en": "manual intervention",
+    "zh": "人工干预",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 238,
+    "referenceIds": []
+  },
+  {
+    "id": 233,
+    "en": "limit-violation record",
+    "zh": "越限记录",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 239,
+    "referenceIds": []
+  },
+  {
+    "id": 234,
+    "en": "higher-level dispatcher",
+    "zh": "上级调度",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 240,
+    "referenceIds": []
+  },
+  {
+    "id": 235,
+    "en": "clock function",
+    "zh": "时钟功能",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 241,
+    "referenceIds": []
+  },
+  {
+    "id": 236,
+    "en": "five-prevention interlocking function",
+    "zh": "五防联锁功能",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 242,
+    "referenceIds": []
+  },
+  {
+    "id": 237,
+    "en": "non-synchronous lockout",
+    "zh": "非同期闭锁",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 243,
+    "referenceIds": []
+  },
+  {
+    "id": 238,
+    "en": "automatic transfer device",
+    "zh": "自投装置",
+    "status": "已修订",
+    "note": "通常指备用电源自动投入。",
+    "sourceRow": 244,
+    "referenceIds": []
+  },
+  {
+    "id": 239,
+    "en": "asynchronous motor",
+    "zh": "异步电动机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 245,
+    "referenceIds": []
+  },
+  {
+    "id": 240,
+    "en": "End shield (cover)",
+    "zh": "端盖",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 246,
+    "referenceIds": []
+  },
+  {
+    "id": 241,
+    "en": "junction box",
+    "zh": "接线盒",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 247,
+    "referenceIds": []
+  },
+  {
+    "id": 242,
+    "en": "ohmmeter",
+    "zh": "电阻表",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 248,
+    "referenceIds": []
+  },
+  {
+    "id": 243,
+    "en": "sliding bearing",
+    "zh": "滑动轴承",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 249,
+    "referenceIds": []
+  },
+  {
+    "id": 244,
+    "en": "rolling bearing",
+    "zh": "滚动轴承",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 250,
+    "referenceIds": []
+  },
+  {
+    "id": 245,
+    "en": "grease",
+    "zh": "润滑脂",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 251,
+    "referenceIds": []
+  },
+  {
+    "id": 246,
+    "en": "nameplate",
+    "zh": "铭牌",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 252,
+    "referenceIds": []
+  },
+  {
+    "id": 247,
+    "en": "ambient temperature",
+    "zh": "环境温度",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 253,
+    "referenceIds": []
+  },
+  {
+    "id": 248,
+    "en": "spare unit",
+    "zh": "备用机组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 254,
+    "referenceIds": []
+  },
+  {
+    "id": 249,
+    "en": "coupling",
+    "zh": "靠背轮",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 255,
+    "referenceIds": []
+  },
+  {
+    "id": 250,
+    "en": "protective cover / guard",
+    "zh": "护罩",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 256,
+    "referenceIds": []
+  },
+  {
+    "id": 251,
+    "en": "starting device",
+    "zh": "启动装置",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 257,
+    "referenceIds": []
+  },
+  {
+    "id": 252,
+    "en": "temperature measurement device",
+    "zh": "地测温装置",
+    "status": "待确认",
+    "note": "原文“地测温装置”疑似缺字或录入错误，待核。",
+    "sourceRow": 258,
+    "referenceIds": []
+  },
+  {
+    "id": 253,
+    "en": "thermograph",
+    "zh": "温度记录仪",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 259,
+    "referenceIds": []
+  },
+  {
+    "id": 254,
+    "en": "slip-ring short-circuiting device",
+    "zh": "滑环短接装置",
+    "status": "已修订",
+    "note": "去除原文尾部连字符。",
+    "sourceRow": 260,
+    "referenceIds": []
+  },
+  {
+    "id": 255,
+    "en": "rectifier",
+    "zh": "整流器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 261,
+    "referenceIds": []
+  },
+  {
+    "id": 256,
+    "en": "fuse element",
+    "zh": "熔芯",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 262,
+    "referenceIds": []
+  },
+  {
+    "id": 257,
+    "en": "large-capacity low-voltage motor",
+    "zh": "大容量低压电动机",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 263,
+    "referenceIds": []
+  },
+  {
+    "id": 258,
+    "en": "closing voltage",
+    "zh": "合闸电压",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 264,
+    "referenceIds": []
+  },
+  {
+    "id": 259,
+    "en": "isolating truck / withdrawable isolator",
+    "zh": "隔离手车",
+    "status": "已修订",
+    "note": "不是断路器。",
+    "sourceRow": 265,
+    "referenceIds": []
+  },
+  {
+    "id": 260,
+    "en": "voltage transformer truck",
+    "zh": "电压手车",
+    "status": "已修订",
+    "note": "通常指电压互感器手车。",
+    "sourceRow": 266,
+    "referenceIds": []
+  },
+  {
+    "id": 261,
+    "en": "electromagnetic lock",
+    "zh": "电磁锁",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 267,
+    "referenceIds": []
+  },
+  {
+    "id": 262,
+    "en": "chassis",
+    "zh": "底盘",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 268,
+    "referenceIds": []
+  },
+  {
+    "id": 263,
+    "en": "withdrawable circuit-breaker truck",
+    "zh": "断路器手车",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 269,
+    "referenceIds": []
+  },
+  {
+    "id": 264,
+    "en": "grounding lockout switch",
+    "zh": "接地闭锁开关",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 270,
+    "referenceIds": []
+  },
+  {
+    "id": 265,
+    "en": "misoperation-prevention device",
+    "zh": "防误装置",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 271,
+    "referenceIds": []
+  },
+  {
+    "id": 266,
+    "en": "vacuum circuit breaker",
+    "zh": "真空断路器",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 272,
+    "referenceIds": []
+  },
+  {
+    "id": 267,
+    "en": "insulator",
+    "zh": "绝缘子",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 273,
+    "sourceAdditions": [
+      {
+        "sourceFile": "巴盟供电局术语表-CE.xlsx",
+        "sourceRow": 9,
+        "zh": "绝缘子",
+        "en": "insulator"
+      }
+    ],
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines"
+    ]
+  },
+  {
+    "id": 268,
+    "en": "flashover",
+    "zh": "闪络现象",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 274,
+    "referenceIds": []
+  },
+  {
+    "id": 269,
+    "en": "insulating operating rod",
+    "zh": "绝缘拉杆",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 275,
+    "referenceIds": []
+  },
+  {
+    "id": 270,
+    "en": "charging set",
+    "zh": "充电装置",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 276,
+    "referenceIds": []
+  },
+  {
+    "id": 271,
+    "en": "DC oil pump interlock",
+    "zh": "直流油泵联动",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 277,
+    "referenceIds": []
+  },
+  {
+    "id": 272,
+    "en": "battery",
+    "zh": "蓄电池",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 278,
+    "referenceIds": []
+  },
+  {
+    "id": 273,
+    "en": "float charge mode",
+    "zh": "浮充状态",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 279,
+    "referenceIds": []
+  },
+  {
+    "id": 274,
+    "en": "loss of excitation",
+    "zh": "失磁",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 280,
+    "referenceIds": []
+  },
+  {
+    "id": 275,
+    "en": "grouting",
+    "zh": "灌浆",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 281,
+    "referenceIds": []
+  },
+  {
+    "id": 276,
+    "en": "no-load voltage",
+    "zh": "空载电压",
+    "status": "已修订",
+    "note": "去除原文尾部连字符。",
+    "sourceRow": 282,
+    "referenceIds": []
+  },
+  {
+    "id": 277,
+    "en": "zero sequence voltage",
+    "zh": "零序电压",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 283,
+    "referenceIds": []
+  },
+  {
+    "id": 278,
+    "en": "telemetry / remote measurement",
+    "zh": "遥测",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 284,
+    "referenceIds": []
+  },
+  {
+    "id": 279,
+    "en": "telecontrol / remote control",
+    "zh": "遥控",
+    "status": "已修订",
+    "note": "capture 误译。",
+    "sourceRow": 285,
+    "referenceIds": []
+  },
+  {
+    "id": 280,
+    "en": "remote signaling",
+    "zh": "远处发信号",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 286,
+    "referenceIds": []
+  },
+  {
+    "id": 281,
+    "en": "reactance",
+    "zh": "电抗",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 287,
+    "referenceIds": []
+  },
+  {
+    "id": 282,
+    "en": "real-time operating parameters",
+    "zh": "实时运行参数",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 288,
+    "referenceIds": []
+  },
+  {
+    "id": 283,
+    "en": "asynchronous",
+    "zh": "非同期(异步)",
+    "status": "待确认",
+    "note": "“非同期”不一定等于异步电机意义的 asynchronous；并列语境应核实。",
+    "sourceRow": 289,
+    "referenceIds": []
+  },
+  {
+    "id": 284,
+    "en": "stator ventilating slot",
+    "zh": "定子风槽",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 290,
+    "referenceIds": []
+  },
+  {
+    "id": 285,
+    "en": "short-circuit fault interruption",
+    "zh": "短路故障开断",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 291,
+    "referenceIds": []
+  },
+  {
+    "id": 286,
+    "en": "electromagnetic operating mechanism",
+    "zh": "电磁操作机构",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 292,
+    "referenceIds": []
+  },
+  {
+    "id": 287,
+    "en": "secondary equipment",
+    "zh": "二次设备",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 293,
+    "referenceIds": []
+  },
+  {
+    "id": 288,
+    "en": "secondary plug",
+    "zh": "二次插头",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 294,
+    "referenceIds": []
+  },
+  {
+    "id": 289,
+    "en": "mechanical interlocking",
+    "zh": "机械闭锁",
+    "status": "已修订",
+    "note": "清理原文斜杠。",
+    "sourceRow": 295,
+    "referenceIds": []
+  },
+  {
+    "id": 290,
+    "en": "maintenance-free lead-acid storage battery",
+    "zh": "免维护铅酸蓄电池",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 296,
+    "referenceIds": []
+  },
+  {
+    "id": 291,
+    "en": "cut-off voltage",
+    "zh": "终止电压",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 297,
+    "referenceIds": []
+  },
+  {
+    "id": 292,
+    "en": "lifting(jacking) oil pump",
+    "zh": "顶轴油泵",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 298,
+    "referenceIds": []
+  },
+  {
+    "id": 293,
+    "en": "high frequency skid program",
+    "zh": "高频模块方案",
+    "status": "待确认",
+    "note": "“高频模块方案”需工程上下文；原译 skid program 不可信。",
+    "sourceRow": 299,
+    "referenceIds": []
+  },
+  {
+    "id": 294,
+    "en": "negative-sequence current",
+    "zh": "负序电流",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 300,
+    "referenceIds": []
+  },
+  {
+    "id": 295,
+    "en": "impulse current",
+    "zh": "冲击电流",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 301,
+    "referenceIds": []
+  },
+  {
+    "id": 296,
+    "en": "islanding / separation from the grid",
+    "zh": "解列",
+    "status": "已修订",
+    "note": "具体是机组解列、系统解列时译法不同。",
+    "sourceRow": 302,
+    "referenceIds": []
+  },
+  {
+    "id": 297,
+    "en": "condensation",
+    "zh": "结露",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 303,
+    "referenceIds": []
+  },
+  {
+    "id": 298,
+    "en": "dry-type transformer winding",
+    "zh": "干式变压器绕组",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 304,
+    "referenceIds": []
+  },
+  {
+    "id": 299,
+    "en": "oil-filled bushing",
+    "zh": "充油套管",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 305,
+    "referenceIds": []
+  },
+  {
+    "id": 300,
+    "en": "voltage ratio",
+    "zh": "电压比",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 306,
+    "referenceIds": []
+  },
+  {
+    "id": 301,
+    "en": "internal impedance voltage drop",
+    "zh": "内阻抗压降",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 307,
+    "referenceIds": []
+  },
+  {
+    "id": 302,
+    "en": "natural oil circulation",
+    "zh": "自然油循环",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 308,
+    "referenceIds": []
+  },
+  {
+    "id": 303,
+    "en": "magnetomotive force",
+    "zh": "磁动势",
+    "status": "已修订",
+    "note": "原文“磁通势”不规范；按英文 magnetomotive force 校正。",
+    "sourceRow": 309,
+    "referenceIds": []
+  },
+  {
+    "id": 304,
+    "en": "reactive load forecast curve",
+    "zh": "无功负荷预报曲线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 310,
+    "referenceIds": []
+  },
+  {
+    "id": 305,
+    "en": "bearing liner",
+    "zh": "轴瓦",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 311,
+    "referenceIds": []
+  },
+  {
+    "id": 306,
+    "en": "interlock trip",
+    "zh": "联跳",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 312,
+    "referenceIds": []
+  },
+  {
+    "id": 307,
+    "en": "parallel connection",
+    "zh": "并接",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 313,
+    "referenceIds": []
+  },
+  {
+    "id": 308,
+    "en": "separately excited rotating silicon rectifier",
+    "zh": "他励旋转硅整流器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 314,
+    "referenceIds": []
+  },
+  {
+    "id": 309,
+    "en": "radial air duct",
+    "zh": "径向风道",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 315,
+    "referenceIds": []
+  },
+  {
+    "id": 310,
+    "en": "self-shunt static excitation system",
+    "zh": "自并励静止励磁系统",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 316,
+    "referenceIds": []
+  },
+  {
+    "id": 311,
+    "en": "slot wedge",
+    "zh": "槽楔",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 317,
+    "referenceIds": []
+  },
+  {
+    "id": 312,
+    "en": "axial (flow) fan",
+    "zh": "轴流风扇",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 318,
+    "referenceIds": []
+  },
+  {
+    "id": 313,
+    "en": "EMF waveform",
+    "zh": "电势波形",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 319,
+    "referenceIds": []
+  },
+  {
+    "id": 314,
+    "en": "sub-slot ventilation",
+    "zh": "通风副槽",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 320,
+    "referenceIds": []
+  },
+  {
+    "id": 315,
+    "en": "coil insertion",
+    "zh": "嵌线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 321,
+    "referenceIds": []
+  },
+  {
+    "id": 316,
+    "en": "radial wire-inserting slot",
+    "zh": "径向嵌线槽",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 322,
+    "referenceIds": []
+  },
+  {
+    "id": 317,
+    "en": "rigid-flexible structure",
+    "zh": "刚-柔结构",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 323,
+    "referenceIds": []
+  },
+  {
+    "id": 318,
+    "en": "axial slip layer",
+    "zh": "轴向滑移层",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 324,
+    "referenceIds": []
+  },
+  {
+    "id": 319,
+    "en": "insulating spacer block",
+    "zh": "绝缘垫块",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 325,
+    "referenceIds": []
+  },
+  {
+    "id": 320,
+    "en": "conformable material",
+    "zh": "适形材料",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 326,
+    "referenceIds": []
+  },
+  {
+    "id": 321,
+    "en": "insulation to ground",
+    "zh": "对地绝缘",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 327,
+    "referenceIds": []
+  },
+  {
+    "id": 322,
+    "en": "iron core vibration",
+    "zh": "铁芯振动",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 328,
+    "referenceIds": []
+  },
+  {
+    "id": 323,
+    "en": "diamagnetism",
+    "zh": "抗磁性",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 329,
+    "referenceIds": []
+  },
+  {
+    "id": 324,
+    "en": "external pressure",
+    "zh": "外压",
+    "status": "已修订",
+    "note": "原译 voltage 与“压”在本结构语境不符，仍应核对设计图。",
+    "sourceRow": 330,
+    "referenceIds": []
+  },
+  {
+    "id": 325,
+    "en": "internal pressure",
+    "zh": "内压",
+    "status": "已修订",
+    "note": "原译 voltage 与“压”在本结构语境不符，仍应核对设计图。",
+    "sourceRow": 331,
+    "referenceIds": []
+  },
+  {
+    "id": 326,
+    "en": "high magnetic permeability",
+    "zh": "高导磁",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 332,
+    "referenceIds": []
+  },
+  {
+    "id": 327,
+    "en": "relative motion",
+    "zh": "相对运动",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 333,
+    "referenceIds": []
+  },
+  {
+    "id": 328,
+    "en": "retaining ring",
+    "zh": "护环",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 334,
+    "referenceIds": []
+  },
+  {
+    "id": 329,
+    "en": "backfeed / reverse energization",
+    "zh": "倒送电",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 335,
+    "referenceIds": []
+  },
+  {
+    "id": 330,
+    "en": "protection circuit",
+    "zh": "保护回路",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 336,
+    "referenceIds": []
+  },
+  {
+    "id": 331,
+    "en": "voltage tester pen",
+    "zh": "验电笔",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 337,
+    "referenceIds": []
+  },
+  {
+    "id": 332,
+    "en": "voltage detector",
+    "zh": "验电器",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 338,
+    "referenceIds": []
+  },
+  {
+    "id": 333,
+    "en": "emergency power supply",
+    "zh": "保安电源",
+    "status": "已核对",
+    "note": "原文为“保安电源”，区别于一般备用电源。",
+    "sourceRow": 339,
+    "referenceIds": []
+  },
+  {
+    "id": 334,
+    "en": "install and remove grounding conductors",
+    "zh": "装拆接地线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 340,
+    "referenceIds": []
+  },
+  {
+    "id": 335,
+    "en": "step down the voltage / voltage reduction",
+    "zh": "降压",
+    "status": "已修订",
+    "note": "“压降”才是 voltage drop。",
+    "sourceRow": 341,
+    "referenceIds": []
+  },
+  {
+    "id": 336,
+    "en": "single phase earthing protection",
+    "zh": "单相接地保护",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 342,
+    "referenceIds": []
+  },
+  {
+    "id": 337,
+    "en": "auxiliary power system voltage level",
+    "zh": "厂用电电压等级",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 343,
+    "referenceIds": []
+  },
+  {
+    "id": 338,
+    "en": "neutral point at high-voltage side transformer",
+    "zh": "变压器高压侧中性点",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 344,
+    "referenceIds": []
+  },
+  {
+    "id": 339,
+    "en": "generator-transformer unit connection",
+    "zh": "发变组单元接线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 345,
+    "referenceIds": []
+  },
+  {
+    "id": 340,
+    "en": "single bus with bypass",
+    "zh": "单母线带旁路",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 346,
+    "referenceIds": []
+  },
+  {
+    "id": 341,
+    "en": "step up the voltage / voltage increase",
+    "zh": "升压",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 347,
+    "referenceIds": []
+  },
+  {
+    "id": 342,
+    "en": "shift handover system",
+    "zh": "交接班制",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 348,
+    "referenceIds": []
+  },
+  {
+    "id": 343,
+    "en": "outgoing feeder",
+    "zh": "出线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 349,
+    "referenceIds": []
+  },
+  {
+    "id": 344,
+    "en": "incoming feeder",
+    "zh": "进线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 350,
+    "referenceIds": []
+  },
+  {
+    "id": 345,
+    "en": "stranded aluminium conductor",
+    "zh": "铝绞线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 351,
+    "referenceIds": []
+  },
+  {
+    "id": 346,
+    "en": "spacer rod / spacer",
+    "zh": "定位棒/间隔棒",
+    "status": "已修订",
+    "note": "两种名称依具体构件区分。",
+    "sourceRow": 352,
+    "referenceIds": []
+  },
+  {
+    "id": 347,
+    "en": "clamp",
+    "zh": "线夹",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 353,
+    "referenceIds": []
+  },
+  {
+    "id": 348,
+    "en": "stay",
+    "zh": "拉线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 354,
+    "referenceIds": []
+  },
+  {
+    "id": 349,
+    "en": "Stayed pole",
+    "zh": "拉线杆",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 355,
+    "referenceIds": []
+  },
+  {
+    "id": 350,
+    "en": "backfill",
+    "zh": "回填",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 356,
+    "referenceIds": []
+  },
+  {
+    "id": 351,
+    "en": "equipotential live working",
+    "zh": "等电位作业",
+    "status": "已修订",
+    "note": "与原词条“等电位作业”合并；原首选 equipotential live working。DL/T 881-2019 术语作 equipotential working。",
+    "sourceRow": 357,
+    "sourceAdditions": [
+      {
+        "sourceFile": "巴盟供电局术语表-CE.xlsx",
+        "sourceRow": 5,
+        "zh": "等电位带电作业",
+        "en": "equipotential live-line work"
+      }
+    ],
+    "zhAlt": [
+      "等电位带电作业"
+    ],
+    "enAlt": [
+      "equipotential live-line work"
+    ],
+    "referenceIds": [
+      "https://m.antpedia.com/standard/8005952.html",
+      "https://www.osha.gov/etools/electric-power/energized-deenergized-work/live-line-bare-hand-work"
+    ]
+  },
+  {
+    "id": 352,
+    "en": "live working",
+    "zh": "带电作业",
+    "status": "已修订",
+    "note": "同原库“带电作业”合并；live-line work 可作替代英译，IEC/GB 首选 live working。",
+    "sourceRow": 358,
+    "sourceAdditions": [
+      {
+        "sourceFile": "巴盟供电局术语表-CE.xlsx",
+        "sourceRow": 3,
+        "zh": "带电作业",
+        "en": "live-line work"
+      }
+    ],
+    "enAlt": [
+      "live-line work"
+    ],
+    "referenceIds": [
+      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=340EC99A1191D1166C65D67140DEA723",
+      "https://www.osha.gov/etools/electric-power/energized-deenergized-work/live-line-bare-hand-work"
+    ]
+  },
+  {
+    "id": 353,
+    "en": "arc suppression / extinction",
+    "zh": "灭弧",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 359,
+    "referenceIds": []
+  },
+  {
+    "id": 354,
+    "en": "flash tank / flash vessel",
+    "zh": "扩容器",
+    "status": "已修订",
+    "note": "蒸汽或排污系统语境；expander 过泛。",
+    "sourceRow": 360,
+    "referenceIds": []
+  },
+  {
+    "id": 355,
+    "en": "localization rib",
+    "zh": "位筋",
+    "status": "待确认",
+    "note": "“位筋”疑似原文错字，暂不擅改，须查图纸。",
+    "sourceRow": 361,
+    "referenceIds": []
+  },
+  {
+    "id": 356,
+    "en": "stiffening rib",
+    "zh": "加强筋",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 362,
+    "referenceIds": []
+  },
+  {
+    "id": 357,
+    "en": "blowdown",
+    "zh": "排污",
+    "status": "已修订",
+    "note": "锅炉系统语境。",
+    "sourceRow": 363,
+    "referenceIds": []
+  },
+  {
+    "id": 358,
+    "en": "non-segregated phase busbar",
+    "zh": "共箱母线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 364,
+    "referenceIds": []
+  },
+  {
+    "id": 359,
+    "en": "isolated-phase bus duct",
+    "zh": "分相封闭母线",
+    "status": "已修订",
+    "note": "与共箱母线区分。",
+    "sourceRow": 365,
+    "referenceIds": []
+  },
+  {
+    "id": 360,
+    "en": "enclosed bus",
+    "zh": "封闭母线",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 366,
+    "referenceIds": []
+  },
+  {
+    "id": 361,
+    "en": "self-synchronizing",
+    "zh": "自同期",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 367,
+    "referenceIds": []
+  },
+  {
+    "id": 362,
+    "en": "simulated synchronizing",
+    "zh": "假同期",
+    "status": "已修订",
+    "note": "通常指不实际并列的同期试验；须结合运行规程。",
+    "sourceRow": 368,
+    "referenceIds": []
+  },
+  {
+    "id": 363,
+    "en": "lagging phase mode",
+    "zh": "迟相方式",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 369,
+    "referenceIds": []
+  },
+  {
+    "id": 364,
+    "en": "leading phase mode",
+    "zh": "进相方式",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 370,
+    "referenceIds": []
+  },
+  {
+    "id": 365,
+    "en": "Pulse",
+    "zh": "脉冲",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 371,
+    "referenceIds": []
+  },
+  {
+    "id": 366,
+    "en": "Power Save Mode",
+    "zh": "节电模式",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 372,
+    "referenceIds": []
+  },
+  {
+    "id": 367,
+    "en": "redundant diode",
+    "zh": "冗余二极管",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 373,
+    "referenceIds": []
+  },
+  {
+    "id": 368,
+    "en": "turns ratio",
+    "zh": "匝数比",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 374,
+    "referenceIds": []
+  },
+  {
+    "id": 369,
+    "en": "Capacitor",
+    "zh": "电容器",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 375,
+    "referenceIds": []
+  },
+  {
+    "id": 370,
+    "en": "active power loss",
+    "zh": "有功损耗",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 376,
+    "referenceIds": []
+  },
+  {
+    "id": 371,
+    "en": "reactive power loss",
+    "zh": "无功损耗",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 377,
+    "referenceIds": []
+  },
+  {
+    "id": 372,
+    "en": "no-load loss",
+    "zh": "空载损耗",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 378,
+    "referenceIds": []
+  },
+  {
+    "id": 373,
+    "en": "no-load current",
+    "zh": "空载电流",
+    "status": "已核对",
+    "note": "",
+    "sourceRow": 379,
+    "referenceIds": []
+  },
+  {
+    "id": 374,
+    "en": "positive-sequence impedance",
+    "zh": "正序阻抗",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 380,
+    "referenceIds": []
+  },
+  {
+    "id": 375,
+    "en": "negative-sequence impedance",
+    "zh": "负序阻抗",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 381,
+    "referenceIds": []
+  },
+  {
+    "id": 376,
+    "en": "zero-sequence impedance",
+    "zh": "零序阻抗",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 382,
+    "referenceIds": []
+  },
+  {
+    "id": 377,
+    "en": "sectionalized busbar",
+    "zh": "分段母线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 383,
+    "referenceIds": []
+  },
+  {
+    "id": 378,
+    "en": "double busbar",
+    "zh": "双母线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 384,
+    "referenceIds": []
+  },
+  {
+    "id": 379,
+    "en": "single busbar",
+    "zh": "单母线",
+    "status": "已修订",
+    "note": "",
+    "sourceRow": 385,
+    "referenceIds": []
+  },
+  {
+    "id": 380,
+    "en": "overhead transmission line",
+    "zh": "架空输电线路",
+    "status": "已初核",
+    "note": "指用于输送电能的架空高压输电线路。",
+    "sourceRow": 2,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines"
+    ]
+  },
+  {
+    "id": 381,
+    "en": "de-energized work",
+    "zh": "停电作业",
+    "status": "已初核",
+    "note": "可参照 OSHA 对 deenergized work 的界定；具体在电网作业中也可采用 dead working。",
+    "sourceRow": 4,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/energized-deenergized-work"
+    ]
+  },
+  {
+    "id": 382,
+    "en": "ground potential working",
+    "zh": "地电位作业",
+    "status": "已初核",
+    "note": "人员位于接地构件上，使用绝缘工器具进行带电操作；英语对应 ground potential working。",
+    "sourceRow": 6,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "enAlt": [
+      "ground-potential live-line work"
+    ],
+    "referenceIds": [
+      "https://m.antpedia.com/standard/8005952.html"
+    ]
+  },
+  {
+    "id": 383,
+    "en": "state grid standard design",
+    "zh": "国网典设",
+    "status": "待确认",
+    "note": "“国网典设”指国家电网典型设计/标准化设计；英文是否为机构官方译法待核对。",
+    "sourceRow": 7,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": []
+  },
+  {
+    "id": 384,
+    "en": "suspension clamp",
+    "zh": "悬垂线夹",
+    "status": "已初核",
+    "note": "GB/T 5075-2016 术语直接列为 Suspension Clamp。",
+    "sourceRow": 8,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.antpedia.com/standard/7401432-1.html",
+      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=9382CD35BFF080286D645B1B2B9B9F98"
+    ]
+  },
+  {
+    "id": 385,
+    "en": "insulating stick",
+    "zh": "绝缘操作杆",
+    "status": "已初核",
+    "note": "IEC 60832-1 官方名称为 insulating sticks。源表译法 insulated operating rod 有语义差异，按具体杆类核实。",
+    "sourceRow": 10,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "enAlt": [
+      "insulated operating rod"
+    ],
+    "referenceIds": [
+      "https://webstore.iec.ch/en/publication/3611"
+    ]
+  },
+  {
+    "id": 386,
+    "en": "power supply reliability",
+    "zh": "供电可靠性",
+    "status": "已初核",
+    "note": "泛指供电连续性/可靠程度，注意与 transmission system reliability（输电系统可靠性）区分。",
+    "sourceRow": 11,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://technav.ieee.org/topic/power-distribution-reliability/",
+      "https://www.eia.gov/electricity/Annual/table.php?t=epa_11_02.html"
+    ]
+  },
+  {
+    "id": 387,
+    "en": "spring pin",
+    "zh": "弹簧销",
+    "status": "待确认",
+    "note": "“弹簧销”在绝缘子球窝连接处一般为锁紧销（locking device/pin）；请依零件图确认具体型式。",
+    "sourceRow": 12,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151"
+    ]
+  },
+  {
+    "id": 388,
+    "en": "M-type spring pin",
+    "zh": "M型弹簧销",
+    "status": "待确认",
+    "note": "“M型”在已检的 GB/T 25318-2019 信息中未找到，已见 R 型和 W 型。须查原始图纸，暂保留待确认。",
+    "sourceRow": 13,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": []
+  },
+  {
+    "id": 389,
+    "en": "R-type pin",
+    "zh": "R型弹簧销",
+    "status": "已初核",
+    "note": "GB/T 25318-2019 的相关术语表可见 R-type pin；源表 R-type spring pin 暂列备选。",
+    "sourceRow": 14,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "enAlt": [
+      "R-type spring pin"
+    ],
+    "referenceIds": [
+      "https://www.antpedia.com/standard/1379397315.html",
+      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151"
+    ]
+  },
+  {
+    "id": 390,
+    "en": "socket clevis",
+    "zh": "碗头挂板",
+    "status": "待确认",
+    "note": "电力绝缘子连接金具，socket clevis 为可查到的行业器件名称；需按图纸核对挂板细分型号。",
+    "sourceRow": 15,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.antpedia.com/standard/7401432-1.html"
+    ]
+  },
+  {
+    "id": 391,
+    "en": "socket clevis aligner",
+    "zh": "扶正器",
+    "status": "待确认",
+    "note": "指用于校正/扶正绝缘子球窝接头的专用装置；英文为描述性译名，暂无标准级直接对照。",
+    "sourceRow": 16,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://webstore.iec.ch/en/publication/3612"
+    ]
+  },
+  {
+    "id": 392,
+    "en": "pin puller hook",
+    "zh": "拔销钩",
+    "status": "待确认",
+    "note": "拆装绝缘子锁紧销的专用钩具；英文为描述性译名，待找到厂商型号或图纸验证。",
+    "sourceRow": 17,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://webstore.iec.ch/en/publication/3612"
+    ]
+  },
+  {
+    "id": 393,
+    "en": "Q460 steel",
+    "zh": "Q460钢",
+    "status": "已初核",
+    "note": "Q460 高强钢用于输电铁塔，属电力工程材料术语。",
+    "sourceRow": 21,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://hbsle.cbpt.cnki.net/portal/journal/portal/client/paper/24e03a1ae4d78cb4ebaaedaa7577a1a5",
+      "https://www.cepc.com.cn/CN/Y2011/V32/I4/29"
+    ]
+  },
+  {
+    "id": 394,
+    "en": "grading ring",
+    "zh": "均压环",
+    "status": "待确认",
+    "note": "用于高压绝缘子串改善电位分布、控制电场强度；英文 grading ring 有电力行业直接用例。",
+    "sourceRow": 22,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines"
+    ]
+  },
+  {
+    "id": 395,
+    "en": "Bayannur Power Supply Branch",
+    "zh": "巴彦淖尔供电公司",
+    "status": "待确认",
+    "note": "机构专名需核实其现行英文官方名称；Bayannur Power Supply Branch 暂作原表候选，不得标称官方。",
+    "sourceRow": 31,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": []
+  },
+  {
+    "id": 396,
+    "en": "transmission management department",
+    "zh": "输电管理处",
+    "status": "待确认",
+    "note": "属于输电运维机构名称；管理处在具体组织架构中可能翻译为 department/office，待核实。",
+    "sourceRow": 32,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.eia.gov/tools/glossary/index.php?id=Electric"
+    ]
+  },
+  {
+    "id": 397,
+    "en": "R-pin extractor/inserter",
+    "zh": "R销子拔插器",
+    "status": "待确认",
+    "note": "R 型绝缘子锁紧销插拔专用装置；当前英译为描述性工作译名，待技术图样核实。",
+    "sourceRow": 35,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://www.antpedia.com/standard/1379397315.html"
+    ]
+  },
+  {
+    "id": 398,
+    "en": "ground potential",
+    "zh": "地电位",
+    "status": "已初核",
+    "note": "可用 ground potential 表示地电位。",
+    "sourceRow": 36,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": [
+      "https://m.antpedia.com/standard/8005952.html"
+    ]
+  },
+  {
+    "id": 399,
+    "en": "side-opening aligner",
+    "zh": "单侧开口扶正器",
+    "status": "待确认",
+    "note": "电力锁紧销工器具中的具体开口构造；厂商装置术语待核实。",
+    "sourceRow": 37,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": []
+  },
+  {
+    "id": 400,
+    "en": "center-opening aligner",
+    "zh": "居中开口扶正器",
+    "status": "待确认",
+    "note": "电力锁紧销工器具中的具体开口构造；厂商装置术语待核实。",
+    "sourceRow": 38,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": []
+  },
+  {
+    "id": 401,
+    "en": "wire rollers",
+    "zh": "收线装置",
+    "status": "待确认",
+    "note": "“wire rollers”一般指导线滚轮，不一定是整套收线装置；需结合机械图纸辨别 winching/take-up/reeling 机构。",
+    "sourceRow": 44,
+    "sourceFile": "巴盟供电局术语表-CE.xlsx",
+    "category": "电力 / 输配电与线路检修",
+    "referenceIds": []
+  }
+]
