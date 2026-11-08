@@ -1738,43 +1738,65 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 135,
-    "referenceIds": []
+    "referenceIds": [
+      "https://multimedia.3m.com/mws/media/1421445O/3m-electrical-insulating-sealer-1601-c-data-sheet.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 130,
     "en": "automatic voltage regulator (AVR)",
     "zh": "自动励磁电压调节器",
     "status": "已修订",
-    "note": "原文“自动励磁电压”与英文 regulator 不对应，补足器件名；须核图纸。",
+    "note": "原文“自动励磁电压”与英文 regulator 不对应，补足器件名；须核图纸。 标准用名通常为“自动电压调节器”或“自动励磁调节器”；原中文组合不一定为标准设备名称。",
     "sourceRow": 136,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf",
+      "https://new.abb.com/power-electronics/excitation-and-synchronization/Unitrol-excitation-systems/unitrol-1000-series/unitrol-1005/main-features"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 131,
-    "en": "short-circuit",
+    "en": "short circuit",
     "zh": "短路",
-    "status": "已核对",
+    "status": "已修订",
     "note": "",
     "sourceRow": 137,
-    "referenceIds": []
+    "referenceIds": [
+      "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf"
+    ],
+    "verificationStatus": "已按明确中英对照核查",
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 132,
     "en": "aluminum pressed ring",
     "zh": "铝压圈",
     "status": "待确认",
-    "note": "结构件名称须据发电机图纸确认。",
+    "note": "结构件名称须据发电机图纸确认。 原译缺图纸佐证；具体压圈形状、定位功能及英文型号待核实。",
     "sourceRow": 138,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "未取得可用来源，译法待核实",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 133,
     "en": "stainless steel block tooth sole plate",
     "zh": "不锈钢分块齿压板",
     "status": "待确认",
-    "note": "结构件名称须据发电机图纸确认。",
+    "note": "结构件名称须据发电机图纸确认。 原译 stainless steel block tooth sole plate 疑似误解“齿压板”；须按原厂装配图重审。",
     "sourceRow": 139,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "未取得可用来源，译法待核实",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 134,
@@ -1783,7 +1805,12 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 140,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/EP2237388A1"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 135,
@@ -1792,16 +1819,26 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 141,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5866959A/en"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 136,
     "en": "vertical support structure",
     "zh": "立式支撑结构",
     "status": "已核对",
-    "note": "",
+    "note": "仅有通用支承背景，缺设备结构定义。",
     "sourceRow": 142,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5866959A/en"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 137,
@@ -1810,7 +1847,12 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 143,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US8288915B2/en"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 138,
@@ -1819,16 +1861,28 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 144,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US4126799A/en",
+      "https://patents.justia.com/patent/5693996"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 139,
-    "en": "stator winding bar",
+    "en": "stator bar",
     "zh": "定子线棒",
     "status": "已修订",
-    "note": "",
+    "note": "发电机制造商常用 stator bar；原 stator winding bar 可作为说明性别称。",
     "sourceRow": 145,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.gevernova.com/gas-power/services/generators/parts",
+      "https://www.gevernova.com/gas-power/services/generators/upgrades/generator-stator-rewinds"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 140,
@@ -1837,7 +1891,12 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 146,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US20090078450A1/en"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 141,
@@ -1846,34 +1905,54 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 147,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/services/generator-services/GEA33584-L1-Sensors-Rotor-Shaft-Grounding-Braids.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 142,
     "en": "radial air duct cooling",
     "zh": "径向风道冷却",
     "status": "已核对",
-    "note": "",
+    "note": "radial ventilation / radial ducts 有资料；完整短语尚未确证。",
     "sourceRow": 148,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5866959A/en"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 143,
     "en": "enclosed circulating system",
     "zh": "封闭循环系统",
     "status": "已核对",
-    "note": "",
+    "note": "可能指 closed-circuit air cooling system；须有循环介质和边界描述。",
     "sourceRow": 149,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5866959A/en"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 144,
     "en": "Maximum continuous output power",
     "zh": "最大连续输出功率",
     "status": "已核对",
-    "note": "",
+    "note": "注意 kVA（视在功率）与 kW（有功功率）不可混译；需看铭牌。",
     "sourceRow": 150,
-    "referenceIds": []
+    "referenceIds": [
+      "https://dealers.doosanportablepower.com/emea/documents/Service/01_Portable%20Compressors/Compressor%20Manuals/02_7-26_7-31_7-41_7-51_P90_P180_HP140/46671281-EN-B_06-18_OM_7-26E-7-31E-7-41.pdf"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 145,
@@ -1882,7 +1961,12 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 151,
-    "referenceIds": []
+    "referenceIds": [
+      "https://nj.gov/comptroller/sandytransparency/contracts/pdf/18488_siemens_proposal.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 146,
@@ -1891,16 +1975,28 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 152,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/fc499c8246fc201ec1257a0700544800/UNITROL%20control%20upgrade_flyer_EN.pdf",
+      "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 147,
     "en": "silicon diode / uncontrolled rectifier diode",
     "zh": "硅二极管（不可控整流器件）",
     "status": "已修订",
-    "note": "原文“不可控硅二极管”混用了可控硅与二极管概念。",
+    "note": "原文“不可控硅二极管”混用了可控硅与二极管概念。 硅整流二极管为不可控整流元件，不能混同 thyristor（晶闸管/可控硅）。",
     "sourceRow": 153,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.aaronequipment.com/equipmentattachments/41809001_mmd_pro_65_airman_generator_model_sdg65s_series_service_manual.pdf",
+      "https://www.semikron-danfoss.com/products/p/sks-290f-b6u-195-v16-su-230b4447"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 148,
@@ -1909,7 +2005,12 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 154,
-    "referenceIds": []
+    "referenceIds": [
+      "https://nj.gov/comptroller/sandytransparency/contracts/pdf/18488_siemens_proposal.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 149,
@@ -1918,43 +2019,71 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 155,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.aaronequipment.com/equipmentattachments/41809001_mmd_pro_65_airman_generator_model_sdg65s_series_service_manual.pdf",
+      "https://openjicareport.jica.go.jp/pdf/11810165_04.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 150,
     "en": "self-excited",
     "zh": "自励",
     "status": "已核对",
-    "note": "",
+    "note": "在名词性词头可选 self-excitation，形容词用 self-excited。",
     "sourceRow": 156,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.cummins.com/sites/default/files/2024-08/t030-Liquid-cooled-gen-set-application-manual.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 151,
-    "en": "separately excited",
+    "en": "separate excitation",
     "zh": "他励",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "主译按 SL 标准用名 separate excitation；形容词用 separately excited。",
     "sourceRow": 157,
-    "referenceIds": []
+    "referenceIds": [
+      "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "https://www.cummins.com/sites/default/files/2024-08/t030-Liquid-cooled-gen-set-application-manual.pdf"
+    ],
+    "verificationStatus": "已按明确中英对照核查",
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 152,
-    "en": "Excitation transformer",
+    "en": "excitation transformer",
     "zh": "励磁变压器",
-    "status": "已核对",
+    "status": "已修订",
     "note": "",
     "sourceRow": 158,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/fc499c8246fc201ec1257a0700544800/UNITROL%20control%20upgrade_flyer_EN.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 153,
-    "en": "Rectifying equipment",
+    "en": "rectifier unit",
     "zh": "整流装置",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "整流装置若仅指整流器本体可用 rectifier，成套设备可称 rectifier unit。",
     "sourceRow": 159,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.semikron-danfoss.com/products/p/sks-290f-b6u-195-v16-su-230b4447",
+      "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 154,
@@ -1963,7 +2092,13 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 160,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.reivax.com/us/excitation-system/what-is-an-excitation-system/",
+      "https://www.reivax.com/wp-content/uploads/2020/06/Standard-Excitation-System-Design-Specification.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 155,
@@ -1972,43 +2107,67 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 161,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US8232778B1"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 156,
-    "en": "Digital automatic voltage regulator",
+    "en": "digital automatic voltage regulator (AVR)",
     "zh": "数字式自动电压调节器",
-    "status": "已核对",
+    "status": "已修订",
     "note": "",
     "sourceRow": 162,
-    "referenceIds": []
+    "referenceIds": [
+      "https://new.abb.com/power-electronics/excitation-and-synchronization/Unitrol-excitation-systems/unitrol-1000-series/unitrol-1005/main-features"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 157,
     "en": "conduction angle",
     "zh": "导通角",
     "status": "已核对",
-    "note": "",
+    "note": "导通角 conduction angle 不等于触发角 firing angle。",
     "sourceRow": 163,
-    "referenceIds": []
+    "referenceIds": [
+      "https://m.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/product%20training/content/pt_thyristor-genelecpresentation.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 158,
     "en": "field discharge breaker",
     "zh": "灭磁开关",
     "status": "已修订",
-    "note": "",
+    "note": "厂商常用 field breaker / field circuit breaker；原 field discharge breaker 待设备选型确认。",
     "sourceRow": 164,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.reivax.com/us/excitation-system/what-is-an-excitation-system/",
+      "https://www.reivax.com/wp-content/uploads/2020/06/Standard-Excitation-System-Design-Specification.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 159,
     "en": "sleeve-type structure",
     "zh": "套筒式结构",
     "status": "待确认",
-    "note": "结构件名称须据图纸确认。",
+    "note": "结构件名称须据图纸确认。 无结构图，英文尚待核实。",
     "sourceRow": 165,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "未取得可用来源，译法待核实",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 160,
@@ -2017,25 +2176,38 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 166,
-    "referenceIds": []
+    "referenceIds": [
+      "https://nj.gov/comptroller/sandytransparency/contracts/pdf/18488_siemens_proposal.pdf"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 161,
     "en": "regulating deviation (error)",
     "zh": "调整偏差",
     "status": "已核对",
-    "note": "",
+    "note": "调节误差、调整偏差、设定值偏差须据测量/控制语境区分。",
     "sourceRow": 167,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "未取得可用来源，译法待核实",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 162,
     "en": "clamping plate",
     "zh": "压板",
     "status": "已修订",
-    "note": "发电机结构件语境；与继保功能压板不同义，不合并。",
+    "note": "发电机结构件语境；与继保功能压板不同义，不合并。 这是发电机定子结构件的压板，与继保投入压板（link）不同义。",
     "sourceRow": 168,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US20090184594A1/en"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 163,
@@ -2044,16 +2216,27 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 169,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5866959A/en",
+      "https://www.gevernova.com/gas-power/services/generators/parts"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 164,
     "en": "maximum deviation",
     "zh": "最大偏差",
     "status": "已核对",
-    "note": "",
+    "note": "缺少限定对象，无法确认最大偏差是电压、频率还是机械尺寸偏差。",
     "sourceRow": 170,
-    "referenceIds": []
+    "referenceIds": [
+      "https://cdn.standards.iteh.ai/samples/15761/812511e5e8304cceab3c7b4ee2ae59f2/ISO-8528-5-1993.pdf"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 165,
@@ -2062,7 +2245,13 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 171,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/services/generator-services/GEA33584-L1-Sensors-Rotor-Shaft-Grounding-Braids.pdf",
+      "https://www.gevernova.com/gas-power/services/generators/parts"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 166,
@@ -2071,7 +2260,12 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 172,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.megger.com/en/products/mtr105-and-mtr105x"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 167,
@@ -2080,25 +2274,42 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 173,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US20200362729A1/en",
+      "https://restservice.epri.com/publicdownload/000000000001026587/0/Product"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 168,
-    "en": "field forcing",
+    "en": "forced excitation",
     "zh": "强行励磁",
     "status": "已修订",
-    "note": "",
+    "note": "SL/UNIDO 标准推荐 forced excitation；field forcing 可作为控制动作语境备选。",
     "sourceRow": 174,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf",
+      "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf"
+    ],
+    "verificationStatus": "已按明确中英对照核查",
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 169,
     "en": "phase",
     "zh": "相位",
     "status": "已核对",
-    "note": "",
+    "note": "phase 可指交流相、相位；需用语境消歧。",
     "sourceRow": 175,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/ElectricPowerFundamentals-A486095B"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 170,
@@ -2107,16 +2318,27 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 176,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/ElectricPowerFundamentals-A486095B",
+      "https://content.fluke.com/pdf/catalog/catalog-eng/files/assets/common/downloads/publication.pdf"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 171,
     "en": "active load",
     "zh": "有功负荷",
     "status": "已核对",
-    "note": "",
+    "note": "缺少量纲与语境；可能指 active-power load，暂不贸然修改。",
     "sourceRow": 177,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/ElectricPowerFundamentals-A486095B"
+    ],
+    "verificationStatus": "仅相关背景，译法待核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 172,
@@ -2125,7 +2347,12 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 178,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.scirp.net/journal/paperinformation?paperid=65008"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 173,
@@ -2134,7 +2361,12 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 179,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 174,
@@ -2143,7 +2375,12 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 180,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 175,
@@ -2152,7 +2389,12 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 181,
-    "referenceIds": []
+    "referenceIds": [
+      "https://restservice.epri.com/publicdownload/000000000001012352/0/Product"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 176,
@@ -2161,7 +2403,13 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 182,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 177,
@@ -2170,7 +2418,12 @@
     "status": "已修订",
     "note": "电路语境；若流体系统则 pressure drop。",
     "sourceRow": 183,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemVoltageConsiderations-A48BD3C4"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 178,
@@ -2179,806 +2432,1274 @@
     "status": "已核对",
     "note": "",
     "sourceRow": 184,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemVoltageConsiderations-A48BD3C4"
+    ],
+    "verificationStatus": "已找到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch004"
   },
   {
     "id": 179,
     "en": "turns",
     "zh": "匝数",
     "status": "已核对",
-    "note": "",
+    "note": "绕组匝数/匝数比中的 turns 已在英文原厂科普页明确使用。",
     "sourceRow": 185,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 180,
-    "en": "High voltage bushing",
+    "en": "high-voltage bushing",
     "zh": "高压套管",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "高压套管明确用 high-voltage bushing；词条大小写规范为小写。",
     "sourceRow": 186,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-hv-bushing-wells"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 181,
     "en": "tap changer",
     "zh": "分接开关",
     "status": "已修订",
-    "note": "",
+    "note": "分接开关（泛称）用 tap changer；有载与无励磁分接开关需要分别限定。",
     "sourceRow": 187,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/motor-drive-mechanisms/motor-drive-mechanisms-type-bul2",
+      "https://acespex.se.com/rpt/prodhelp.php?doc=pms_0235&grp=spex_pms&host=CTW&ndx=0000032132"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 182,
-    "en": "Low voltage bushing",
+    "en": "low-voltage bushing",
     "zh": "低压套管",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "低压套管明确用 low-voltage bushing；词头用小写。",
     "sourceRow": 188,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-lv-bushings"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 183,
     "en": "Buchholz relay / gas relay",
     "zh": "瓦斯继电器",
     "status": "已修订",
-    "note": "油浸变压器语境。",
+    "note": "油浸变压器语境。；瓦斯继电器在油浸变压器中优先 Buchholz relay；gas relay 也可说明，不同于一般可燃气体检测器。",
     "sourceRow": 189,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/delivery-times-for-transformer-components",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/pressure-and-flow-devices"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 184,
-    "en": "explosion vent pipe",
+    "en": "explosion vent (pipe)",
     "zh": "防爆管",
     "status": "已修订",
-    "note": "",
+    "note": "传统有防爆膜的防爆管/安全气道称 explosion vent 或 explosion vent pipe；不得误作可复位压力释放阀。",
     "sourceRow": 190,
-    "referenceIds": []
+    "referenceIds": [
+      "https://eepower.com/technical-articles/transformer-accessories-and-fittings/",
+      "https://patents.google.com/patent/CN211654524U/zh"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 185,
     "en": "anchor bolt",
     "zh": "地脚螺栓",
     "status": "待确认",
-    "note": "结构件名称须据图纸确认。",
+    "note": "结构件名称须据图纸确认。；变压器箱体基础固定语境实际使用 anchor bolts；虽为通用机械件，但在该设备中有明确应用。",
     "sourceRow": 191,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.scotech-electrical.com/news/1500kva-22-0-4kv-transformer-tank-is-manufactu-51858362.html"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 186,
-    "en": "Oil sampling valve",
+    "en": "oil sampling valve",
     "zh": "油样活门",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "油样活门按油浸变压器取样阀用 oil sampling valve；有些设备将取样口集成于放油阀。",
     "sourceRow": 192,
-    "referenceIds": []
+    "referenceIds": [
+      "https://zeeyielec.com/transformer-accessories/transformer-valves/",
+      "https://www.scotech-electrical.com/news/1500kva-22-0-4kv-transformer-tank-is-manufactu-51858362.html"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 187,
     "en": "oil drain valve",
     "zh": "放油阀门",
     "status": "已修订",
-    "note": "",
+    "note": "放油阀门用 oil drain valve；须区别取样阀门。",
     "sourceRow": 193,
-    "referenceIds": []
+    "referenceIds": [
+      "https://zeeyielec.com/transformer-accessories/transformer-valves/",
+      "https://www.scotech-electrical.com/news/1500kva-22-0-4kv-transformer-tank-is-manufactu-51858362.html"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 188,
-    "en": "Oil conservator",
+    "en": "oil conservator / conservator",
     "zh": "油枕",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "油枕指油浸变压器储油柜（conservator），不是一般油库储罐。",
     "sourceRow": 194,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/liquid-level-indicators/conventional-liquid-level-indicators",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/dehydrating-breathers/conventional"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 189,
     "en": "oil storage tank",
     "zh": "储油箱",
     "status": "已核对",
-    "note": "",
+    "note": "有独立储油用油罐/软体储油罐实例；不得与装在变压器上的油枕自动等同。",
     "sourceRow": 195,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.musthane.com/our-solutions/flexible-tank/transformer-oil-storage-tank/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 190,
     "en": "dehydrating breather",
     "zh": "吸湿器",
     "status": "已修订",
-    "note": "",
+    "note": "厂商明确使用 dehydrating breather，内装 silica gel。",
     "sourceRow": 196,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/dehydrating-breathers/conventional"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 191,
     "en": "radiator",
     "zh": "散热器",
     "status": "已修订",
-    "note": "",
+    "note": "变压器散热器用 radiator。",
     "sourceRow": 197,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.swindustry.com/en/swan-neck-type/",
+      "https://lexmarkradiators.com/manufacturing-coating-quality/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 192,
     "en": "gas protection",
     "zh": "瓦斯保护",
     "status": "已核对",
-    "note": "",
+    "note": "来源证明瓦斯继电器可实施气体触发保护，但未直接以 gas protection 命名该完整保护功能；建议核对装置说明书。",
     "sourceRow": 198,
-    "referenceIds": []
+    "referenceIds": [
+      "https://blog.se.com/sustainability/2020/06/02/exploring-power-transformer-protection-for-power-systems/",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/pressure-and-flow-devices"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 193,
     "en": "differential protection",
     "zh": "差动保护",
     "status": "已核对",
-    "note": "",
+    "note": "厂家资料明确使用 differential protection；用于变压器及母线须加适用对象。",
     "sourceRow": 199,
-    "referenceIds": []
+    "referenceIds": [
+      "https://blog.se.com/sustainability/2020/06/02/exploring-power-transformer-protection-for-power-systems/",
+      "https://selinc.com/products/487B/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 194,
-    "en": "vent plug or oil drain plug",
-    "zh": "放气或放油塞子",
+    "en": "air vent plug",
+    "zh": "放气塞",
     "status": "已修订",
-    "note": "",
+    "note": "原条目“放气或放油塞子”包含两个可独立更换部件；本 ID 改成放气塞，另建 ID493 放油塞。",
     "sourceRow": 200,
-    "referenceIds": []
+    "referenceIds": [
+      "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "https://www.swindustry.com/en/swan-neck-type/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005",
+    "splitFrom": 194,
+    "splitIndex": 1,
+    "splitCount": 2
   },
   {
     "id": 195,
     "en": "thermometer",
     "zh": "温度计",
     "status": "已核对",
-    "note": "也可能指绕组温度计或油温表，依设备确定。",
+    "note": "也可能指绕组温度计或油温表，依设备确定。；厂商目录明确 thermometer、oil temperature indicator；温度计如为油温计可标注具体量。",
     "sourceRow": 201,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/delivery-times-for-transformer-components"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 196,
     "en": "reactor",
     "zh": "电抗器",
     "status": "已核对",
-    "note": "",
+    "note": "日立能源公开专业产品目录用 reactor；注意与核反应堆同形词不同义。",
     "sourceRow": 202,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/products-and-solutions/transformers/reactors-and-inductors"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 197,
     "en": "electrical discharge",
     "zh": "放电现象",
     "status": "已修订",
-    "note": "原文 arc discharge 过窄。",
+    "note": "原文 arc discharge 过窄。；仅核对电气放电相关设备绝缘语境，未直接证明独立“放电现象 = electrical discharge”；保留待核。",
     "sourceRow": 203,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-hv-bushing-wells",
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemProtection-A4A695C5"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 198,
     "en": "surge arrester",
     "zh": "避雷器",
     "status": "已修订",
-    "note": "",
+    "note": "施耐德明确使用 surge arrester；不是 surge protector 或 lightning rod 的无条件同义词。",
     "sourceRow": 204,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemProtection-A4A695C5"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 199,
     "en": "lead",
     "zh": "引线",
     "status": "已核对",
-    "note": "",
+    "note": "页面明确使用 transformer lead termination、current-carrying conductor；在变压器出线语境 lead 合理但含义依对象确定。",
     "sourceRow": 205,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-lv-bushings",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-hv-bushing-wells"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 200,
-    "en": "oil leakage / seepage",
+    "en": "oil leakage / oil seepage",
     "zh": "渗油",
     "status": "已修订",
-    "note": "",
+    "note": "液位指示器页明确使用 oil leakages；seepage 为渗漏的程度描述而非该页原文直对。",
     "sourceRow": 206,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/liquid-level-indicators/conventional-liquid-level-indicators"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 201,
     "en": "silica gel",
     "zh": "硅胶",
     "status": "已核对",
-    "note": "",
+    "note": "说明吸湿器装有 silica gel；若“硅胶”为有机硅橡胶则为 silicone gel/rubber，不应混译。",
     "sourceRow": 207,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/dehydrating-breathers/conventional"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 202,
     "en": "cooling fin",
     "zh": "散热翅",
     "status": "已修订",
-    "note": "",
+    "note": "变压器散热片/散热翅为 radiator fin / cooling fin；厂商列表明确 fins。",
     "sourceRow": 208,
-    "referenceIds": []
+    "referenceIds": [
+      "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "https://www.swindustry.com/en/swan-neck-type/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 203,
     "en": "lead connector",
     "zh": "引线接头",
     "status": "已核对",
-    "note": "",
+    "note": "页面说明引线端接，但并未使用完整 lead connector 专用名称；需按接头结构（terminal/joint/connector）核对。",
     "sourceRow": 209,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-lv-bushings"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 204,
-    "en": "pressure relief vent",
+    "en": "explosion vent / explosion vent pipe",
     "zh": "安全气道",
     "status": "已修订",
-    "note": "油浸变压器结构语境。",
+    "note": "油浸变压器结构语境。；中文专利说明“安全气道”是带防爆膜、压力升高即破裂的管道；专业英文说明相同结构用 explosion vent。与可复位 pressure relief valve 不同。",
     "sourceRow": 210,
-    "referenceIds": []
+    "referenceIds": [
+      "https://eepower.com/technical-articles/transformer-accessories-and-fittings/",
+      "https://patents.google.com/patent/CN211654524U/zh"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 205,
     "en": "oil level",
     "zh": "油位",
     "status": "已核对",
-    "note": "",
+    "note": "厂家直接使用 oil level，注意区分读数与仪表名称。",
     "sourceRow": 211,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/liquid-level-indicators/conventional-liquid-level-indicators"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 206,
-    "en": "remote motor-driven regulation",
+    "en": "remote motor-operated tap adjustment",
     "zh": "远方电动调整",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "证明远方方式与电动分接开关存在，但没有原短语 remote motor-driven regulation 的逐词证据；推荐注明语境为远方电动调挡。",
     "sourceRow": 212,
-    "referenceIds": []
+    "referenceIds": [
+      "https://manualzz.com/doc/63857200/mr-tapcon-230-basic-operating-instructions-manual",
+      "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/motor-drive-mechanisms/motor-drive-mechanisms-type-bul2"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 207,
-    "en": "manual regulation",
+    "en": "manual tap-change operation",
     "zh": "手动调整",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "手动调整在分接开关语境可写 manual tap-change operation；不是泛指任意手工操作。",
     "sourceRow": 213,
-    "referenceIds": []
+    "referenceIds": [
+      "https://manualzz.com/doc/63857200/mr-tapcon-230-basic-operating-instructions-manual"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 208,
     "en": "setting value",
     "zh": "整定值",
     "status": "已修订",
-    "note": "",
+    "note": "装置参数称 relay settings；整定值可能为 setpoint、setting 或 setting value，应结合继保定值项目选择，现未直接证实完整词组。",
     "sourceRow": 214,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/selu/courses/app/487b/",
+      "https://selinc.com/products"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 209,
     "en": "fault recording / disturbance recording",
     "zh": "录波",
     "status": "已修订",
-    "note": "原译 Oscilloscope 是示波器。",
+    "note": "原译 Oscilloscope 是示波器。；SEL 英文资料直接使用 digital fault recording、disturbance recording；旧译 oscilloscope 不适用。",
     "sourceRow": 215,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/events/",
+      "https://selinc.com/products"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 210,
     "en": "microprocessor-based protective relay",
     "zh": "微机保护装置",
     "status": "已修订",
-    "note": "",
+    "note": "SEL 产品页面提及 microprocessor-based relays；按独立设备可用 microprocessor-based protective relay。",
     "sourceRow": 216,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 211,
     "en": "reset button",
     "zh": "复位按钮",
     "status": "已核对",
-    "note": "",
+    "note": "保护继电器前面板实际标有 TARGET RESET；通用复位按钮可用 reset button。",
     "sourceRow": 217,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/api/download/3067"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 212,
     "en": "relay protection operator",
     "zh": "继保人员",
     "status": "已核对",
-    "note": "",
+    "note": "未有足以支持“继保人员 = relay protection operator”的可靠英文专业用例；职位可能是 protection engineer / protection technician，需职位职责。",
     "sourceRow": 218,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "无合格来源；译法待核",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 213,
     "en": "trip enable link",
     "zh": "跳闸压板",
     "status": "已修订",
-    "note": "继保语境。",
+    "note": "继保语境。；中文来源明确出口压板包括跳闸压板，英文源提供 trip circuit 语境；未见独立英文 trip enable link，暂不升级为已核。",
     "sourceRow": 219,
-    "referenceIds": []
+    "referenceIds": [
+      "https://pu.cgmia.org.cn/News/Detail/11831",
+      "https://selinc.com/products/2652/"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 214,
     "en": "high-input-impedance voltmeter",
     "zh": "高内阻电压表",
     "status": "已修订",
-    "note": "",
+    "note": "福禄克明确 high impedance voltmeter，用于高输入阻抗测量；推荐保留高输入阻抗的技术含义。",
     "sourceRow": 220,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-ph/learn/blog/electrical-calibration/using-precision-digital-multimeters",
+      "https://www.fluke.com/en-ca/learn/blog/digital-multimeters/dual-impedance-digital-multimeters"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 215,
     "en": "multimeter",
     "zh": "万用表",
     "status": "已核对",
-    "note": "",
+    "note": "厂家明确 multimeter；区别 digital multimeter 与 analog multimeter。",
     "sourceRow": 221,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-ca/learn/blog/digital-multimeters/dual-impedance-digital-multimeters"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 216,
     "en": "a measurement device with a lamp",
     "zh": "校灯",
     "status": "待确认",
-    "note": "“校灯”功能未说明，需确认是试灯还是校验灯。",
+    "note": "“校灯”功能未说明，需确认是试灯还是校验灯。；未找到“校灯”准确仪器定义；不能擅自推断为 test lamp 或 lamp tester，更不能使用原笼统句代替术语。",
     "sourceRow": 222,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "无合格来源；译法待核",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 217,
     "en": "voltage circuit open-circuit fault",
     "zh": "电压回路断线故障",
     "status": "已修订",
-    "note": "",
+    "note": "仅可确认电压继电保护与电压互感器背景；原译 voltage circuit open-circuit fault 可能不是设备告警标准名称，待实际告警表。",
     "sourceRow": 223,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 218,
     "en": "general lockout activated",
     "zh": "总闭锁动作",
     "status": "已修订",
-    "note": "",
+    "note": "缺保护装置报警码与英文界面，general lockout activated 未获证实；须区分 master lockout / general blocking / 86 lockout。",
     "sourceRow": 224,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "无合格来源；译法待核",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 219,
     "en": "positive terminal / positive pole",
     "zh": "正极",
     "status": "已修订",
-    "note": "不能无条件译 anode；电池放电与电解过程电极定义不同。",
+    "note": "不能无条件译 anode；电池放电与电解过程电极定义不同。；厂家明确 positive terminal；不能脱离电极过程直接译 anode。",
     "sourceRow": 225,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 220,
     "en": "negative terminal / negative pole",
     "zh": "负极",
     "status": "已修订",
-    "note": "不能无条件译 cathode。",
+    "note": "不能无条件译 cathode。；厂家明确 negative terminal；不能脱离电极过程直接译 cathode。",
     "sourceRow": 226,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 221,
     "en": "polarity",
     "zh": "极性",
     "status": "已核对",
-    "note": "",
+    "note": "福禄克使用 polarity；直流测量与电极语境需分别处理。",
     "sourceRow": 227,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter",
+      "https://www.fluke.com/en-ie/learn/blog/digital-multimeters/multimeter-dial-button-jacks-display"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 222,
     "en": "busbar differential protection current transformer",
     "zh": "母差互感器",
     "status": "已修订",
-    "note": "若为母差保护专用 CT。",
+    "note": "若为母差保护专用 CT。；资料可证明母差保护使用 CT；未确证原组合是专用互感器型号，也可能仅为保护回路的 CT。",
     "sourceRow": 228,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/nadigest/5c51d645347bdf0001f1f280/Master/17705_MAIN%20%28bookmap%29_0000054913.xml/%24/MiCOMApplications-BusbarCPT_0000285683",
+      "https://selinc.com/products/487B/"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 223,
     "en": "cathode",
     "zh": "负极(阴极)",
     "status": "已核对",
-    "note": "与“负极”有交集但电极阴极依工作过程定义，保留。",
+    "note": "与“负极”有交集但电极阴极依工作过程定义，保留。；仅有负极/极性用例；阴极 cathode 不必总是负极，需特定电化学工作过程，不能认为括注两者普遍等价。",
     "sourceRow": 229,
-    "referenceIds": []
-  },
-  {
-    "id": 224,
-    "en": "cathode feedback circuit",
-    "zh": "阴极反馈电路",
-    "status": "已核对",
-    "note": "",
-    "sourceRow": 230,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter",
+      "https://control.com/textbook/dc-electricity/electrical-sources-and-loads/"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 225,
     "en": "busbar differential protection circuit",
     "zh": "母差回路",
     "status": "已修订",
-    "note": "",
+    "note": "有母差保护方案与 CT 回路资料，但没有直接证实本独立组合的固定叫法，应按电路图核实。",
     "sourceRow": 231,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/nadigest/5c51d645347bdf0001f1f280/Master/17705_MAIN%20%28bookmap%29_0000054913.xml/%24/MiCOMApplications-BusbarCPT_0000285683",
+      "https://selinc.com/products/487B/"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 226,
     "en": "distributed data processing system",
     "zh": "分布式数据处理系统",
     "status": "已核对",
-    "note": "",
+    "note": "证明电力监控系统存在分布式自动化/数据采集，但无直接 distributed data processing system 完整用例；属跨行业词，按电力用例暂保留。",
     "sourceRow": 232,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products/2440/"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 227,
     "en": "data acquisition system",
     "zh": "数据采集系统",
     "status": "已核对",
-    "note": "",
+    "note": "厂商用 data acquisition 描述电力监控系统；系统名称 data acquisition system 为合理固定用法。",
     "sourceRow": 233,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products/2440/"
+    ],
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 228,
     "en": "I/O interface",
     "zh": "I/O接口",
     "status": "已核对",
-    "note": "",
+    "note": "资料明确 I/O 与接口模块用法，但 I/O interface 的确切硬件范围须按设备清单确认。",
     "sourceRow": 234,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products"
+    ],
+    "verificationStatus": "仅部分证据/背景；完整译法待核",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch005"
   },
   {
     "id": 229,
     "en": "optical fiber channel",
     "zh": "光纤通道",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "用于电力继电保护通信或站内光纤链路；光纤通道的 channel 和 link 需按信号链路说明区分。",
     "sourceRow": 235,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/solutions/digital-secondary-systems/time-domain-link/",
+      "https://selinc.com/products/2505/"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 230,
     "en": "monitoring system",
     "zh": "监控系统",
     "status": "已核对",
-    "note": "",
+    "note": "变电站监控系统可结合语境用 substation monitoring system；单说 monitoring system 范围较宽。",
     "sourceRow": 236,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 231,
     "en": "centralized control screen",
     "zh": "集中控制屏",
     "status": "已核对",
-    "note": "",
+    "note": "来源支持集中监控/HMI，但没有直接出现 centralized control screen 完整专名；需依据盘柜形式区分 control panel、control desk 与 HMI screen。",
     "sourceRow": 237,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 232,
     "en": "manual intervention",
     "zh": "人工干预",
     "status": "已核对",
-    "note": "",
+    "note": "电力自动化的人工操作语境成立，但这两份来源未直接出现 manual intervention 对应固定组合；按通用英语暂保留。",
     "sourceRow": 238,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 233,
     "en": "limit-violation record",
     "zh": "越限记录",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "支持越限报警及事件记录，未直接确证 limit-violation record 这一完整名称；也可视产品界面作 limit violation event/log。",
     "sourceRow": 239,
-    "referenceIds": []
+    "referenceIds": [
+      "https://nathaniellindsey.gitbooks.io/scada-user-s-guide/content/scada_procedures/responding_to_scada_alarms.html",
+      "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 234,
-    "en": "higher-level dispatcher",
+    "en": "higher-level dispatch center",
     "zh": "上级调度",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "“上级调度”指调度机构/调度指令还是调度人员不明，higher-level dispatcher 易误指个人；暂改上级调度中心语境下的 higher-level dispatch center，需图纸确认。",
     "sourceRow": 240,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "https://selinc.com/products/RTAC/"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 235,
     "en": "clock function",
     "zh": "时钟功能",
     "status": "已核对",
-    "note": "",
+    "note": "支持时钟同步功能，但未出现 clock function 对应栏目；可能指实时时钟或对时功能，需根据设备界面核对。",
     "sourceRow": 241,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products/RTAC/",
+      "https://selinc.com/products/2240/"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 236,
     "en": "five-prevention interlocking function",
     "zh": "五防联锁功能",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "五防是五项防误操作要求；不能直接把 five-prevention 当英语标准固定术语。原英文保留待确认，专业表达可考虑 five-point misoperation-prevention interlocking。",
     "sourceRow": 242,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.ncdqh.com.cn/file/hygf/200612/15554.html",
+      "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 237,
     "en": "non-synchronous lockout",
     "zh": "非同期闭锁",
     "status": "已核对",
-    "note": "",
+    "note": "保护装置在条件不符时禁止合闸，但 non-synchronous lockout 未找到直接用例；按装置功能可考虑 out-of-synchronism closing block。",
     "sourceRow": 243,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.manualslib.com/manual/3120773/Abb-Relion-Rec615.html?page=643"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 238,
     "en": "automatic transfer device",
     "zh": "自投装置",
-    "status": "已修订",
-    "note": "通常指备用电源自动投入。",
+    "status": "已核对",
+    "note": "通常指备用电源自动投入。；“自投”一般指备用电源自动投入，不能将其不加限定地等同 generic automatic transfer device；应按 BATS/备用电源自动投入装置复核。",
     "sourceRow": 244,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 239,
-    "en": "asynchronous motor",
+    "en": "induction motor (asynchronous motor)",
     "zh": "异步电动机",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "WEG 用 induction motor，专利用 asynchronous motor；异步电动机两种表达均可，优先 induction motor。",
     "sourceRow": 245,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "https://patents.google.com/patent/US5285125A/en"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 240,
-    "en": "End shield (cover)",
+    "en": "end shield",
     "zh": "端盖",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "电动机端盖常指 endshield/end shield；不是所有机械端盖都叫 endshield。",
     "sourceRow": 246,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 241,
-    "en": "junction box",
+    "en": "terminal box (motor)",
     "zh": "接线盒",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "电动机外部接线盒的专业名称通常是 terminal box，而 junction box 为更泛化称呼。",
     "sourceRow": 247,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 242,
     "en": "ohmmeter",
     "zh": "电阻表",
     "status": "已核对",
-    "note": "",
+    "note": "福禄克电气测量基础资料明确 ohmmeter 用于测量电阻。",
     "sourceRow": 248,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/calibration/common-electrical-measurements-instruments-calculations"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 243,
-    "en": "sliding bearing",
+    "en": "sleeve bearing (plain bearing)",
     "zh": "滑动轴承",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "电机设备目录的滑动轴承常称 sleeve bearing，机械分类可用 plain bearing；滑动轴承≠滚动轴承。",
     "sourceRow": 249,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "https://evolution.skf.com/en/coatings-to-improve-bearing-performance/"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 244,
     "en": "rolling bearing",
     "zh": "滚动轴承",
     "status": "已核对",
-    "note": "",
+    "note": "SKF 和 WEG 均使用 rolling bearing。",
     "sourceRow": 250,
-    "referenceIds": []
+    "referenceIds": [
+      "https://evolution.skf.com/us/degradable/",
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 245,
     "en": "grease",
     "zh": "润滑脂",
     "status": "已核对",
-    "note": "",
+    "note": "润滑脂为 grease；需区别润滑油 lubricant/oil。",
     "sourceRow": 251,
-    "referenceIds": []
+    "referenceIds": [
+      "https://evolution.skf.com/us/degradable/",
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 246,
     "en": "nameplate",
     "zh": "铭牌",
     "status": "已核对",
-    "note": "",
+    "note": "电动机铭牌有明确厂商用例。",
     "sourceRow": 252,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 247,
     "en": "ambient temperature",
     "zh": "环境温度",
     "status": "已核对",
-    "note": "",
+    "note": "WEG 厂商技术目录第27页明确 Ambient Temperature。",
     "sourceRow": 253,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 248,
     "en": "spare unit",
     "zh": "备用机组",
     "status": "已核对",
-    "note": "",
+    "note": "备用机组是否指 standby generator set / standby unit 不确定；现有目录没有 spare unit 直接对应，需回到供电语境确认。",
     "sourceRow": 254,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 249,
     "en": "coupling",
     "zh": "靠背轮",
     "status": "已核对",
-    "note": "",
+    "note": "“靠背轮”一般作为传动联轴器使用，coupling 有较强语义合理性但该页未直接证实；需结合装配图。",
     "sourceRow": 255,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 250,
     "en": "protective cover / guard",
     "zh": "护罩",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "厂家明确有 fan cover，但本词条“护罩”泛指其他安全防护件，不宜据此认定全部护罩都能译 fan cover。",
     "sourceRow": 256,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 251,
     "en": "starting device",
     "zh": "启动装置",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "电机启动方式已有用例，未直接检到 starting device 的完整名称；应区分 motor starter 与 starting device。",
     "sourceRow": 257,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 252,
     "en": "temperature measurement device",
     "zh": "地测温装置",
     "status": "待确认",
-    "note": "原文“地测温装置”疑似缺字或录入错误，待核。",
+    "note": "原文“地测温装置”疑似缺字或录入错误，待核。；原始中文“地测温装置”疑似缺字，尚无法判定是否为定子/轴承/接地测温设备；不推断翻译，待用户提供原文图纸。",
     "sourceRow": 258,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "尚未找到合格直接来源；译法待确认",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 253,
-    "en": "thermograph",
+    "en": "temperature recorder (temperature data logger)",
     "zh": "温度记录仪",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "现代电子设备建议按功能使用 temperature recorder 或 temperature data logger；thermograph 可能偏历史机械式图表记录仪。",
     "sourceRow": 259,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/product/calibration-tools/temperature-calibration/digital-thermometer-readouts/2620t-2635t",
+      "https://www.fluke.com/en-us/products/calibration-tools/data-acquisition-and-general-test/data-acquisition"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 254,
     "en": "slip-ring short-circuiting device",
     "zh": "滑环短接装置",
-    "status": "已修订",
-    "note": "去除原文尾部连字符。",
+    "status": "已核对",
+    "note": "去除原文尾部连字符。；美国授权专利明确涉及滑环短接装置，短接机构的精确机构称谓需按设备具体结构细化。",
     "sourceRow": 260,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5285125A/en"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 255,
     "en": "rectifier",
     "zh": "整流器",
     "status": "已核对",
-    "note": "",
+    "note": "施耐德直流充电设备说明书明确使用 rectifier/rectifier modules。",
     "sourceRow": 261,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 256,
     "en": "fuse element",
     "zh": "熔芯",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "西门子规格书同时使用 fuse element、fuse link，熔芯应依熔断器结构与整只熔断体 fuse-link 区分。",
     "sourceRow": 262,
-    "referenceIds": []
+    "referenceIds": [
+      "https://mall.industry.siemens.com/goos/catalog/Pages/mmpdata.ashx?MLFB1=3NA3801-6&lang=en"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 257,
     "en": "large-capacity low-voltage motor",
     "zh": "大容量低压电动机",
     "status": "已核对",
-    "note": "",
+    "note": "资料涉及低压电动机，但没有同时证实大容量这一具体限定词，未据此确认完整复合词译法。",
     "sourceRow": 263,
-    "referenceIds": []
+    "referenceIds": [
+      "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 258,
     "en": "closing voltage",
     "zh": "合闸电压",
     "status": "已核对",
-    "note": "",
+    "note": "“合闸电压”可能指合闸线圈额定电压或允许合闸电压范围，目前仅找到开关柜合闸机构背景资料，不能直接作为固定英文。",
     "sourceRow": 264,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 259,
-    "en": "isolating truck / withdrawable isolator",
+    "en": "isolating truck",
     "zh": "隔离手车",
     "status": "已修订",
-    "note": "不是断路器。",
+    "note": "不是断路器。；施耐德手册使用 Isolating Truck，开关柜隔离手车与断路器手车不同。",
     "sourceRow": 265,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 260,
     "en": "voltage transformer truck",
     "zh": "电压手车",
-    "status": "已修订",
-    "note": "通常指电压互感器手车。",
+    "status": "已核对",
+    "note": "通常指电压互感器手车。；厂家明确 metering truck 内装 VT，但没有在该页直接命名为 voltage transformer truck；作为备选可记 VT truck。",
     "sourceRow": 266,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 261,
     "en": "electromagnetic lock",
     "zh": "电磁锁",
     "status": "已核对",
-    "note": "",
+    "note": "手册支持电气/机械联锁背景，但并未在对应页面直接出现 electromagnetic lock 完整用例。",
     "sourceRow": 267,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 262,
     "en": "chassis",
     "zh": "底盘",
     "status": "已核对",
-    "note": "",
+    "note": "设备底盘可能是 chassis 或 truck frame，现有资料仅能支持手车结构背景，需明确机械部件。",
     "sourceRow": 268,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 263,
-    "en": "withdrawable circuit-breaker truck",
+    "en": "circuit-breaker truck / withdrawable circuit breaker unit",
     "zh": "断路器手车",
     "status": "已修订",
-    "note": "",
+    "note": "专用手车可称 circuit-breaker truck；文中 withdrawable unit 强调抽出式组件，较原表达简洁。",
     "sourceRow": 269,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 264,
     "en": "grounding lockout switch",
     "zh": "接地闭锁开关",
     "status": "已核对",
-    "note": "",
+    "note": "支持接地开关联锁安全功能，但未找到 grounding lockout switch 直述，术语应按原理图核对。",
     "sourceRow": 270,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "https://www.ncdqh.com.cn/file/hygf/200612/15554.html"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 265,
     "en": "misoperation-prevention device",
     "zh": "防误装置",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "中文规范解释防误装置，英文厂家手册解释联锁，两者未构成同源直接中英对应证据；待进一步查专业双语标准。",
     "sourceRow": 271,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.ncdqh.com.cn/file/hygf/200612/15554.html",
+      "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 266,
     "en": "vacuum circuit breaker",
     "zh": "真空断路器",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "设备手册直接以 vacuum circuit breaker 命名。",
     "sourceRow": 272,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 267,
     "en": "insulator",
     "zh": "绝缘子",
     "status": "已核对",
-    "note": "",
+    "note": "电力传输绝缘子的 insulator 英文用法明确；此 ID 已保留旧术语库的额外源表信息。",
     "sourceRow": 273,
     "sourceAdditions": [
       {
@@ -2989,107 +3710,166 @@
       }
     ],
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines"
-    ]
+      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines",
+      "https://eshop.se.com/in/blog/post/types-of-insulators-used-in-power-transmission-lines.html",
+      "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 268,
     "en": "flashover",
     "zh": "闪络现象",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "绝缘试验材料直接使用 flashover，若专指现象可用 flashover phenomenon，但无需固定带 phenomenon。",
     "sourceRow": 274,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1",
+      "https://eshop.se.com/in/blog/post/types-of-insulators-used-in-power-transmission-lines.html"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 269,
     "en": "insulating operating rod",
     "zh": "绝缘拉杆",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "资料证明绝缘材料与操作杆是不同部件，尚未找到“绝缘拉杆”整体英文直用例；不能与绝缘操作杆 hot stick 混同。",
     "sourceRow": 275,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1"
+    ],
+    "verificationStatus": "仅背景或部分证据；完整译法仍需核实",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 270,
-    "en": "charging set",
+    "en": "battery charger (DC charging unit)",
     "zh": "充电装置",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "变电站直流电源/蓄电池充电装置一般指 battery charger；原 charging set 不够规范，按直流系统语境建议 battery charger。",
     "sourceRow": 276,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 271,
     "en": "DC oil pump interlock",
     "zh": "直流油泵联动",
-    "status": "已核对",
-    "note": "",
+    "status": "待确认",
+    "note": "当前缺少直流油泵联动控制的具体回路、条件及厂家英文文档；DC oil pump interlock 可能把联动误作闭锁，不确认。",
     "sourceRow": 277,
-    "referenceIds": []
+    "referenceIds": [],
+    "verificationStatus": "尚未找到合格直接来源；译法待确认",
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 272,
     "en": "battery",
     "zh": "蓄电池",
     "status": "已核对",
-    "note": "",
+    "note": "施耐德直流充电资料明确 battery 用于后备供电。",
     "sourceRow": 278,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 273,
     "en": "float charge mode",
     "zh": "浮充状态",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "原 float charge mode 有直接用例，需区分浮充状态与浮充模式的设备界面写法。",
     "sourceRow": 279,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 274,
     "en": "loss of excitation",
     "zh": "失磁",
-    "status": "已修订",
-    "note": "",
+    "status": "已核对",
+    "note": "SEL 使用 loss of field 描述发电机失磁保护；运行故障现象可称 loss of excitation。",
     "sourceRow": 280,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products/400G/"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 275,
     "en": "grouting",
     "zh": "灌浆",
     "status": "已核对",
-    "note": "",
+    "note": "水轮发电机支承底板的基础灌浆/重新灌浆有电力设备厂商的明确英文用例；grouting 此处仅在水力发电设备基础施工和维护语境中归入电力库，勿当作电气专用术语。",
     "sourceRow": 281,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.old.kingsbury.com/bearing-sole-plates"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 276,
     "en": "no-load voltage",
     "zh": "空载电压",
-    "status": "已修订",
-    "note": "去除原文尾部连字符。",
+    "status": "已核对",
+    "note": "去除原文尾部连字符。；施耐德隔离变压器产品规格明确列出 No load voltage（232 V），可确认电力变压器参数语境的英文使用；不是所有设备的开路测量都与此一义项相同。",
     "sourceRow": 282,
-    "referenceIds": []
+    "referenceIds": [
+      "https://eshop.se.com/sa/imd-it-s63-h-single-phase-isolated-transformer-6-3kva.html"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 277,
-    "en": "zero sequence voltage",
+    "en": "zero-sequence voltage",
     "zh": "零序电压",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订",
+    "note": "SEL 保护技术论文印刷第3页直接使用 zero-sequence voltage component 和 zero-sequence voltage，属于继电保护专业英文用例；原 zero sequence voltage 建议规范连字符。",
     "sourceRow": 283,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/api/download/3418/"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 278,
-    "en": "telemetry / remote measurement",
+    "en": "telemetry",
     "zh": "遥测",
     "status": "已修订",
-    "note": "",
+    "note": "SEL-849 电动机保护装置在电力配电系统明确采用 telemetry 功能表述；remote measurement 可描述遥测测量，但不必与 telemetry 视为等值固定术语。",
     "sourceRow": 284,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products/849/?vidId=108814"
+    ],
+    "verificationStatus": "已检专业英文用例；非中英直接对照",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch006"
   },
   {
     "id": 279,
@@ -5600,5 +6380,23 @@
     "splitIndex": 2,
     "splitCount": 2,
     "verificationStatus": "尚未开展来源核查"
+  },
+  {
+    "id": 493,
+    "en": "oil drain plug",
+    "zh": "放油塞",
+    "status": "已拆分并核查",
+    "note": "从原词条 #194“放气或放油塞子”拆出；指变压器散热器下部的排油堵塞，不等于放油阀门。",
+    "sourceRow": 200,
+    "referenceIds": [
+      "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "https://www.swindustry.com/en/swan-neck-type/"
+    ],
+    "splitFrom": 194,
+    "splitIndex": 2,
+    "splitCount": 2,
+    "verificationStatus": "已检到专业英文用例；非双语直对",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch005"
   }
 ]

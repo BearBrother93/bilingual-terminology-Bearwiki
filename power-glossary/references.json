@@ -311,6 +311,38 @@
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
       "locator": "Lines components"
+    },
+    {
+      "title": "Types of Insulators Used in Power Transmission Lines",
+      "publisher": "Schneider Electric",
+      "url": "https://eshop.se.com/in/blog/post/types-of-insulators-used-in-power-transmission-lines.html",
+      "context": "电力传输绝缘子的 insulator 英文用法明确；此 ID 已保留旧术语库的额外源表信息。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Types of insulators / flashover voltage",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 267,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "insulators / insulator",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Before Energizing for the First Time — EvoPacT MV CB User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1",
+      "context": "电力传输绝缘子的 insulator 英文用法明确；此 ID 已保留旧术语库的额外源表信息。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Dielectric Withstand Test / flashover / insulators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 267,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "insulators / insulator",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
     }
   ],
   "351": [
@@ -3302,6 +3334,3386 @@
       "matchedEnglish": "permanent magnet generator; pilot exciter",
       "auditBatch": "batch003",
       "verificationLimit": "B仅证实专业英文用法；C仅提供背景，不能证明固定中英对应。"
+    }
+  ],
+  "129": [
+    {
+      "title": "3M Electrical Insulating Sealers 1601-C, 1602-R — Data Sheet",
+      "publisher": "3M",
+      "url": "https://multimedia.3m.com/mws/media/1421445O/3m-electrical-insulating-sealer-1601-c-data-sheet.pdf",
+      "context": "3M 将电气绝缘封护材料称为 insulating varnish，证实用语，但非中英双语直对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product Description / p. 1",
+      "page": null,
+      "sourceTermId": 129,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "insulating varnish"
+    }
+  ],
+  "130": [
+    {
+      "title": "小水电技术导则：术语和定义（SHP/TG 001:2019）",
+      "publisher": "UNIDO / International Network on Small Hydro Power",
+      "url": "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf",
+      "context": "标准明确“自动电压调节器”；原中文“自动励磁电压调节器”有术语叠加，译文宜按 AVR 理解；中文需结合设备铭牌核对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SHP/TG 001:2019 §11.5.6; ABB main features",
+      "page": null,
+      "sourceTermId": 130,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "automatic voltage regulator"
+    },
+    {
+      "title": "UNITROL 1005 — Main features",
+      "publisher": "ABB",
+      "url": "https://new.abb.com/power-electronics/excitation-and-synchronization/Unitrol-excitation-systems/unitrol-1000-series/unitrol-1005/main-features",
+      "context": "标准明确“自动电压调节器”；原中文“自动励磁电压调节器”有术语叠加，译文宜按 AVR 理解；中文需结合设备铭牌核对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SHP/TG 001:2019 §11.5.6; ABB main features",
+      "page": null,
+      "sourceTermId": 130,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "automatic voltage regulator"
+    }
+  ],
+  "131": [
+    {
+      "title": "水利水电工程技术术语（SL 26—2012）",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "标准直接给出中文“短路”和英文 short circuit。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.2.3.2.3",
+      "page": null,
+      "sourceTermId": 131,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "short circuit"
+    }
+  ],
+  "134": [
+    {
+      "title": "Multi-parts assembled through bolts of stator core (EP2237388A1)",
+      "publisher": "European Patent Office / patent record",
+      "url": "https://patents.google.com/patent/EP2237388A1",
+      "context": "专利明确指出 through bolts 穿过发电机定子铁心叠片。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Technical Field / Related Prior Art",
+      "page": null,
+      "sourceTermId": 134,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "through bolt"
+    }
+  ],
+  "135": [
+    {
+      "title": "Cooling arrangements for rotating electrical machines (US5866959A)",
+      "publisher": "GEC Alsthom / US patent record",
+      "url": "https://patents.google.com/patent/US5866959A/en",
+      "context": "专业文献使用 squirrel cage；“式结构”系描述性修饰，不表示原文已有逐词对应。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Definitions / FIG.1",
+      "page": null,
+      "sourceTermId": 135,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "squirrel cage induction motor"
+    }
+  ],
+  "136": [
+    {
+      "title": "Cooling arrangements for rotating electrical machines (US5866959A)",
+      "publisher": "GEC Alsthom / US patent record",
+      "url": "https://patents.google.com/patent/US5866959A/en",
+      "context": "只证实支承结构背景，未证明 vertical support structure 是设备图纸上的具体零件名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Definitions",
+      "page": null,
+      "sourceTermId": 136,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "stator core supported in a frame"
+    }
+  ],
+  "137": [
+    {
+      "title": "Multi-part through bolts of stator core (US8288915B2)",
+      "publisher": "US patent record",
+      "url": "https://patents.google.com/patent/US8288915B2/en",
+      "context": "发电机定子穿心螺杆专利出现 glass fiber tube，支持材料名 glass fiber。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Description / FIG.7",
+      "page": null,
+      "sourceTermId": 137,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "glass fiber tube"
+    }
+  ],
+  "138": [
+    {
+      "title": "Device for securing end connectors of electric machine stator winding (US4126799A)",
+      "publisher": "US patent record",
+      "url": "https://patents.google.com/patent/US4126799A/en",
+      "context": "专利在定子端部支撑组件中明确使用 conical ring。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Description / Figure 2",
+      "page": null,
+      "sourceTermId": 138,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "conical ring"
+    },
+    {
+      "title": "Device for holding the bar ends of a stator winding (US5693996)",
+      "publisher": "US patent record",
+      "url": "https://patents.justia.com/patent/5693996",
+      "context": "专利在定子端部支撑组件中明确使用 conical ring。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Description / Figure 2",
+      "page": null,
+      "sourceTermId": 138,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "conical ring"
+    }
+  ],
+  "139": [
+    {
+      "title": "Power Plant Generator Replacement Parts",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/services/generators/parts",
+      "context": "GE Vernova 使用 stator bars；以 stator bar 为优先简洁译法，旧 stator winding bar 可作为说明性备选。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Typical spare generator parts; New Stator Bars and Insulation",
+      "page": null,
+      "sourceTermId": 139,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator bars"
+    },
+    {
+      "title": "Generator Stator Rewinds",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/services/generators/upgrades/generator-stator-rewinds",
+      "context": "GE Vernova 使用 stator bars；以 stator bar 为优先简洁译法，旧 stator winding bar 可作为说明性备选。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Typical spare generator parts; New Stator Bars and Insulation",
+      "page": null,
+      "sourceTermId": 139,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator bars"
+    }
+  ],
+  "140": [
+    {
+      "title": "Electrical Insulation Tape with Controlled Bonding and Resin Impregnation Properties (US20090078450A1)",
+      "publisher": "US patent record",
+      "url": "https://patents.google.com/patent/US20090078450A1/en",
+      "context": "电机绝缘层结构专利明确使用 slip layer。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Description — generator insulation tape",
+      "page": null,
+      "sourceTermId": 140,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "slip layer"
+    }
+  ],
+  "141": [
+    {
+      "title": "Rotor Shaft Grounding System Copper Braids",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/services/generator-services/GEA33584-L1-Sensors-Rotor-Shaft-Grounding-Braids.pdf",
+      "context": "GE 专业资料使用 rotor shaft；通用转轴可译 shaft。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Rotor Shaft Grounding System; Grounding the Generator Rotor",
+      "page": null,
+      "sourceTermId": 141,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "rotor shaft"
+    }
+  ],
+  "142": [
+    {
+      "title": "Cooling arrangements for rotating electrical machines (US5866959A)",
+      "publisher": "GEC Alsthom / US patent record",
+      "url": "https://patents.google.com/patent/US5866959A/en",
+      "context": "原文径向风道冷却指向气冷通道布置；尚不能确认原组合 radial air duct cooling 是固定英文术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Definitions",
+      "page": null,
+      "sourceTermId": 142,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "radial ducts; radial cooling"
+    }
+  ],
+  "143": [
+    {
+      "title": "Cooling arrangements for rotating electrical machines (US5866959A)",
+      "publisher": "GEC Alsthom / US patent record",
+      "url": "https://patents.google.com/patent/US5866959A/en",
+      "context": "只核实机内循环冷却背景，缺少“封闭循环系统”的精确系统配置。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Definitions",
+      "page": null,
+      "sourceTermId": 143,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "air circulated in the machine"
+    }
+  ],
+  "144": [
+    {
+      "title": "7/26E–7/41 Portable Compressor Generator Operating Manual",
+      "publisher": "Doosan Portable Power",
+      "url": "https://dealers.doosanportablepower.com/emea/documents/Service/01_Portable%20Compressors/Compressor%20Manuals/02_7-26_7-31_7-41_7-51_P90_P180_HP140/46671281-EN-B_06-18_OM_7-26E-7-31E-7-41.pdf",
+      "context": "厂家使用 maximum continuous output，但数值单位为 kVA，不能未经确认就改写为 kW 的 power 输出。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "OPTION — GENERATOR / GENERAL INFORMATION",
+      "page": null,
+      "sourceTermId": 144,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "maximum continuous output"
+    }
+  ],
+  "145": [
+    {
+      "title": "Brushless excitation equipment and automatic voltage regulator — Siemens proposal",
+      "publisher": "Siemens (filed with New Jersey government)",
+      "url": "https://nj.gov/comptroller/sandytransparency/contracts/pdf/18488_siemens_proposal.pdf",
+      "context": "西门子资料明确使用 AC exciter。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Brushless excitation equipment — Basic principle",
+      "page": null,
+      "sourceTermId": 145,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "AC exciter"
+    }
+  ],
+  "146": [
+    {
+      "title": "UNITROL Control Upgrade",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/fc499c8246fc201ec1257a0700544800/UNITROL%20control%20upgrade_flyer_EN.pdf",
+      "context": "ABB 直接将晶闸管器件称 thyristors；UNIDO对应的是可控硅励磁系统，不可将系统名等同器件名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "ABB Control Upgrade; SHP/TG §11.5.2",
+      "page": null,
+      "sourceTermId": 146,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "thyristors; thyristor excitation"
+    },
+    {
+      "title": "小水电技术导则：术语和定义（SHP/TG 001:2019）",
+      "publisher": "UNIDO / International Network on Small Hydro Power",
+      "url": "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf",
+      "context": "ABB 直接将晶闸管器件称 thyristors；UNIDO对应的是可控硅励磁系统，不可将系统名等同器件名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "ABB Control Upgrade; SHP/TG §11.5.2",
+      "page": null,
+      "sourceTermId": 146,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "thyristors; thyristor excitation"
+    }
+  ],
+  "147": [
+    {
+      "title": "Generator Electrical Parts — Silicon Rectifier (Diode Element)",
+      "publisher": "Airman generator service manual (third-party document host)",
+      "url": "https://www.aaronequipment.com/equipmentattachments/41809001_mmd_pro_65_airman_generator_model_sdg65s_series_service_manual.pdf",
+      "context": "发电机手册把硅整流元件明确称 diode element；不可控二极管与可控硅晶闸管须区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Electrical Parts 3.2.1; Product specifications",
+      "page": null,
+      "sourceTermId": 147,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "silicon rectifier (diode element); uncontrolled diode rectifier"
+    },
+    {
+      "title": "SKS 290F B6U 195 V16 SU — Uncontrolled Diode Rectifier",
+      "publisher": "Semikron Danfoss",
+      "url": "https://www.semikron-danfoss.com/products/p/sks-290f-b6u-195-v16-su-230b4447",
+      "context": "发电机手册把硅整流元件明确称 diode element；不可控二极管与可控硅晶闸管须区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Electrical Parts 3.2.1; Product specifications",
+      "page": null,
+      "sourceTermId": 147,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "silicon rectifier (diode element); uncontrolled diode rectifier"
+    }
+  ],
+  "148": [
+    {
+      "title": "Brushless excitation equipment and automatic voltage regulator — Siemens proposal",
+      "publisher": "Siemens (filed with New Jersey government)",
+      "url": "https://nj.gov/comptroller/sandytransparency/contracts/pdf/18488_siemens_proposal.pdf",
+      "context": "AC 励磁机的 rotating armature winding 是交流电枢绕组典型结构；“交流”需由整体设备语境限定。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Brushless excitation equipment — Basic principle",
+      "page": null,
+      "sourceTermId": 148,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "rotating armature winding"
+    }
+  ],
+  "149": [
+    {
+      "title": "Generator Electrical Parts — Silicon Rectifier (Diode Element)",
+      "publisher": "Airman generator service manual (third-party document host)",
+      "url": "https://www.aaronequipment.com/equipmentattachments/41809001_mmd_pro_65_airman_generator_model_sdg65s_series_service_manual.pdf",
+      "context": "发电机服务手册列出 silicon rectifier 并指出为二极管元件；可称 silicon rectifier。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Electrical Parts 3.2.1; Maintenance Manual part C",
+      "page": null,
+      "sourceTermId": 149,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "silicon rectifier"
+    },
+    {
+      "title": "Hydro-mechanical and Electrical Works: Operation & Maintenance Manual",
+      "publisher": "Japan International Cooperation Agency (JICA)",
+      "url": "https://openjicareport.jica.go.jp/pdf/11810165_04.pdf",
+      "context": "发电机服务手册列出 silicon rectifier 并指出为二极管元件；可称 silicon rectifier。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Electrical Parts 3.2.1; Maintenance Manual part C",
+      "page": null,
+      "sourceTermId": 149,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "silicon rectifier"
+    }
+  ],
+  "150": [
+    {
+      "title": "Liquid-cooled Generator Set Application Manual",
+      "publisher": "Cummins",
+      "url": "https://www.cummins.com/sites/default/files/2024-08/t030-Liquid-cooled-gen-set-application-manual.pdf",
+      "context": "Cummins 明确使用 self-excited generator；独立名词可写 self-excitation，现词条形容词写法须注意句法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "4.2.5.1; diagram",
+      "page": null,
+      "sourceTermId": 150,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "self-excited generator"
+    }
+  ],
+  "151": [
+    {
+      "title": "水利水电工程技术术语（SL 26—2012）",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "标准直接给出“它励—separate excitation”；separately excited 仅作形容词备选。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.3.1.1.8; Cummins 4.2.5.2",
+      "page": null,
+      "sourceTermId": 151,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "separate excitation; separately-excited generator"
+    },
+    {
+      "title": "Liquid-cooled Generator Set Application Manual",
+      "publisher": "Cummins",
+      "url": "https://www.cummins.com/sites/default/files/2024-08/t030-Liquid-cooled-gen-set-application-manual.pdf",
+      "context": "标准直接给出“它励—separate excitation”；separately excited 仅作形容词备选。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SL 26—2012 §7.3.1.1.8; Cummins 4.2.5.2",
+      "page": null,
+      "sourceTermId": 151,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "separate excitation; separately-excited generator"
+    }
+  ],
+  "152": [
+    {
+      "title": "UNITROL Control Upgrade",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/fc499c8246fc201ec1257a0700544800/UNITROL%20control%20upgrade_flyer_EN.pdf",
+      "context": "ABB 励磁系统图例明确使用 Excitation Transformer。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "ABB Control Upgrade — schematic legend",
+      "page": null,
+      "sourceTermId": 152,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "excitation transformer (ET)"
+    }
+  ],
+  "153": [
+    {
+      "title": "SKS 290F B6U 195 V16 SU — Uncontrolled Diode Rectifier",
+      "publisher": "Semikron Danfoss",
+      "url": "https://www.semikron-danfoss.com/products/p/sks-290f-b6u-195-v16-su-230b4447",
+      "context": "原 Rectifying equipment 不是最自然词条形式；建议在指装置整机时用 rectifier unit，泛称整流器用 rectifier。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SEMIKRON topology; UNIDO §11.5",
+      "page": null,
+      "sourceTermId": 153,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "rectifier; rectifier unit"
+    },
+    {
+      "title": "小水电技术导则：术语和定义（SHP/TG 001:2019）",
+      "publisher": "UNIDO / International Network on Small Hydro Power",
+      "url": "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf",
+      "context": "原 Rectifying equipment 不是最自然词条形式；建议在指装置整机时用 rectifier unit，泛称整流器用 rectifier。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SEMIKRON topology; UNIDO §11.5",
+      "page": null,
+      "sourceTermId": 153,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "rectifier; rectifier unit"
+    }
+  ],
+  "154": [
+    {
+      "title": "What is an Excitation System?",
+      "publisher": "Reivax North America",
+      "url": "https://www.reivax.com/us/excitation-system/what-is-an-excitation-system/",
+      "context": "两份励磁设备资料使用 field flashing circuit，含启动供电回路组成及作用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "2.2.6 DC Field Flashing; 6.5.2 Field Flashing Circuit",
+      "page": null,
+      "sourceTermId": 154,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "field flashing circuit"
+    },
+    {
+      "title": "Standard Excitation System Design Specification",
+      "publisher": "Reivax",
+      "url": "https://www.reivax.com/wp-content/uploads/2020/06/Standard-Excitation-System-Design-Specification.pdf",
+      "context": "两份励磁设备资料使用 field flashing circuit，含启动供电回路组成及作用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "2.2.6 DC Field Flashing; 6.5.2 Field Flashing Circuit",
+      "page": null,
+      "sourceTermId": 154,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "field flashing circuit"
+    }
+  ],
+  "155": [
+    {
+      "title": "Independent, Redundant Overvoltage Protection for a Generator (US8232778B1)",
+      "publisher": "US patent record",
+      "url": "https://patents.google.com/patent/US8232778B1",
+      "context": "专利使用 overvoltage protection unit；与 general protection device 接近，但具体设备可能为 OPU/relay/circuit，按图纸区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Abstract / claims",
+      "page": null,
+      "sourceTermId": 155,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "overvoltage protection unit"
+    }
+  ],
+  "156": [
+    {
+      "title": "UNITROL 1005 — Main features",
+      "publisher": "ABB",
+      "url": "https://new.abb.com/power-electronics/excitation-and-synchronization/Unitrol-excitation-systems/unitrol-1000-series/unitrol-1005/main-features",
+      "context": "ABB 产品说明逐词使用 digital automatic voltage regulator (AVR)。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Main features",
+      "page": null,
+      "sourceTermId": 156,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital automatic voltage regulator (AVR)"
+    }
+  ],
+  "157": [
+    {
+      "title": "General Electronics Thyristor Training",
+      "publisher": "Littelfuse",
+      "url": "https://m.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/product%20training/content/pt_thyristor-genelecpresentation.pdf",
+      "context": "器件厂家资料明确使用 conduction angle；不可与 firing angle（触发角）混同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "SCR Gating — AC Static Switching",
+      "page": null,
+      "sourceTermId": 157,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "SCR conduction angle"
+    }
+  ],
+  "158": [
+    {
+      "title": "What is an Excitation System?",
+      "publisher": "Reivax North America",
+      "url": "https://www.reivax.com/us/excitation-system/what-is-an-excitation-system/",
+      "context": "原 field discharge breaker 可理解，但主流厂商更常使用 field breaker / field circuit breaker；准确电器型号尚须依据图纸，保留旧译并备注。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "2.2.5 FIELD BREAKER; field suppression",
+      "page": null,
+      "sourceTermId": 158,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "field breaker; field suppression"
+    },
+    {
+      "title": "Standard Excitation System Design Specification",
+      "publisher": "Reivax",
+      "url": "https://www.reivax.com/wp-content/uploads/2020/06/Standard-Excitation-System-Design-Specification.pdf",
+      "context": "原 field discharge breaker 可理解，但主流厂商更常使用 field breaker / field circuit breaker；准确电器型号尚须依据图纸，保留旧译并备注。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "2.2.5 FIELD BREAKER; field suppression",
+      "page": null,
+      "sourceTermId": 158,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "field breaker; field suppression"
+    }
+  ],
+  "160": [
+    {
+      "title": "Brushless excitation equipment and automatic voltage regulator — Siemens proposal",
+      "publisher": "Siemens (filed with New Jersey government)",
+      "url": "https://nj.gov/comptroller/sandytransparency/contracts/pdf/18488_siemens_proposal.pdf",
+      "context": "文件涉及同轴布置结构，但未直接给 coaxial structure 这一独立技术称谓。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Brushless excitation equipment — Basic principle",
+      "page": null,
+      "sourceTermId": 160,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "main generator shaft"
+    }
+  ],
+  "162": [
+    {
+      "title": "Flux Screen for Generators (US20090184594A1)",
+      "publisher": "US patent record",
+      "url": "https://patents.google.com/patent/US20090184594A1/en",
+      "context": "专利明示发电机定子铁心 clamping plate，区别于继电保护功能压板。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Description — stator core lamination terminal piece",
+      "page": null,
+      "sourceTermId": 162,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "clamping plate"
+    }
+  ],
+  "163": [
+    {
+      "title": "Cooling arrangements for rotating electrical machines (US5866959A)",
+      "publisher": "GEC Alsthom / US patent record",
+      "url": "https://patents.google.com/patent/US5866959A/en",
+      "context": "发电机气冷系统语境可以用 air-cooling system；具体开路/闭路气冷另行区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Cooling arrangements; spare generator parts",
+      "page": null,
+      "sourceTermId": 163,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "air cooling; coolers"
+    },
+    {
+      "title": "Power Plant Generator Replacement Parts",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/services/generators/parts",
+      "context": "发电机气冷系统语境可以用 air-cooling system；具体开路/闭路气冷另行区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Cooling arrangements; spare generator parts",
+      "page": null,
+      "sourceTermId": 163,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "air cooling; coolers"
+    }
+  ],
+  "164": [
+    {
+      "title": "ISO 8528-5:1993(E) Preview — Generator Set Voltage Characteristics",
+      "publisher": "ISO preview via iTeh",
+      "url": "https://cdn.standards.iteh.ai/samples/15761/812511e5e8304cceab3c7b4ee2ae59f2/ISO-8528-5-1993.pdf",
+      "context": "标准仅在“稳态电压偏差”的定义中使用 maximum deviation，不能推出孤立词条的唯一专业义项。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "ISO 8528-5:1993 §7.1.4",
+      "page": null,
+      "sourceTermId": 164,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "maximum deviation from the set voltage"
+    }
+  ],
+  "165": [
+    {
+      "title": "Rotor Shaft Grounding System Copper Braids",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/services/generator-services/GEA33584-L1-Sensors-Rotor-Shaft-Grounding-Braids.pdf",
+      "context": "GE 提及 shaft grounding 和 grounding brushes；shaft grounding brush 可作为描述性设备名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Grounding the Generator Rotor; spare parts",
+      "page": null,
+      "sourceTermId": 165,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "shaft grounding; grounding brushes"
+    },
+    {
+      "title": "Power Plant Generator Replacement Parts",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/services/generators/parts",
+      "context": "GE 提及 shaft grounding 和 grounding brushes；shaft grounding brush 可作为描述性设备名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Grounding the Generator Rotor; spare parts",
+      "page": null,
+      "sourceTermId": 165,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "shaft grounding; grounding brushes"
+    }
+  ],
+  "166": [
+    {
+      "title": "MTR105 and MTR105X — Rotating Machine Tester",
+      "publisher": "Megger",
+      "url": "https://www.megger.com/en/products/mtr105-and-mtr105x",
+      "context": "Megger 旋转电机测试页面直接使用 insulation resistance。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "About the product",
+      "page": null,
+      "sourceTermId": 166,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "insulation resistance"
+    }
+  ],
+  "167": [
+    {
+      "title": "Steam Valve Driving Apparatus and Steam Turbine Plant (US20200362729A1)",
+      "publisher": "US patent record",
+      "url": "https://patents.google.com/patent/US20200362729A1/en",
+      "context": "汽轮发电厂主蒸汽停止阀，专利及电力研究文献使用 main steam stop valve。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Steam turbine main steam line; §2.2.2",
+      "page": null,
+      "sourceTermId": 167,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "main steam stop valve"
+    },
+    {
+      "title": "Combined-Cycle Combustion Turbine Steam Turbine Stop and Control Valve Maintenance Guide",
+      "publisher": "Electric Power Research Institute (EPRI)",
+      "url": "https://restservice.epri.com/publicdownload/000000000001026587/0/Product",
+      "context": "汽轮发电厂主蒸汽停止阀，专利及电力研究文献使用 main steam stop valve。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Steam turbine main steam line; §2.2.2",
+      "page": null,
+      "sourceTermId": 167,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "main steam stop valve"
+    }
+  ],
+  "168": [
+    {
+      "title": "小水电技术导则：术语和定义（SHP/TG 001:2019）",
+      "publisher": "UNIDO / International Network on Small Hydro Power",
+      "url": "https://www.unido.org/sites/default/files/files/2021-04/Terms%20and%20Definitions%20%28in%20Chinese%29.pdf",
+      "context": "双语标准均明确“强行励磁 = forced excitation”；field forcing 可在控制动作语境备选。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SHP/TG 001:2019 §11.5.9; SL 26—2012 §7.3.1.4.1",
+      "page": null,
+      "sourceTermId": 168,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "forced excitation"
+    },
+    {
+      "title": "水利水电工程技术术语（SL 26—2012）",
+      "publisher": "中华人民共和国水利部",
+      "url": "https://slgcfy.ylvtc.cn/__local/C/69/B6/BD4B0257ACBBAC9E4CA46C734E4_7F6A608E_125B193.pdf",
+      "context": "双语标准均明确“强行励磁 = forced excitation”；field forcing 可在控制动作语境备选。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-08",
+      "locator": "SHP/TG 001:2019 §11.5.9; SL 26—2012 §7.3.1.4.1",
+      "page": null,
+      "sourceTermId": 168,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "forced excitation"
+    }
+  ],
+  "169": [
+    {
+      "title": "Electrical Distribution Fundamentals — Electric Power Fundamentals",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/ElectricPowerFundamentals-A486095B",
+      "context": "文献给出电相位偏移背景，但未对独立“相位=phase”作双语定义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer vector group",
+      "page": null,
+      "sourceTermId": 169,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "phase angle shift"
+    }
+  ],
+  "170": [
+    {
+      "title": "Electrical Distribution Fundamentals — Electric Power Fundamentals",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/ElectricPowerFundamentals-A486095B",
+      "context": "工程资料明确使用 phase sequence；区别 phase angle。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer vector group; Phase Rotation Indicators",
+      "page": null,
+      "sourceTermId": 170,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "phase sequence"
+    },
+    {
+      "title": "Fluke 9040/9062 Phase Rotation Indicators",
+      "publisher": "Fluke",
+      "url": "https://content.fluke.com/pdf/catalog/catalog-eng/files/assets/common/downloads/publication.pdf",
+      "context": "工程资料明确使用 phase sequence；区别 phase angle。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer vector group; Phase Rotation Indicators",
+      "page": null,
+      "sourceTermId": 170,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "phase sequence"
+    }
+  ],
+  "171": [
+    {
+      "title": "Electrical Distribution Fundamentals — Electric Power Fundamentals",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/ElectricPowerFundamentals-A486095B",
+      "context": "“有功负荷”应结合有功功率用量描述，可考虑 active-power load / active load；现有资料不能证明唯一译名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Power fundamentals / power flow",
+      "page": null,
+      "sourceTermId": 171,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "active power; load"
+    }
+  ],
+  "172": [
+    {
+      "title": "Parallel Correlative Study of the Heat Balance Test Process for Turbo-Generators",
+      "publisher": "Electrical Power Engineering journal (SCIRP)",
+      "url": "https://www.scirp.net/journal/paperinformation?paperid=65008",
+      "context": "发电机效率热平衡研究表格中直接给 bearing oil outlet temperature。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Table 1 / 3 — Bearing oil",
+      "page": null,
+      "sourceTermId": 172,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "bearing oil outlet temperature"
+    }
+  ],
+  "173": [
+    {
+      "title": "What is a Transformer?",
+      "publisher": "Schneider Electric",
+      "url": "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/",
+      "context": "施耐德清楚使用 primary winding。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How do transformers work?",
+      "page": null,
+      "sourceTermId": 173,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "primary winding"
+    }
+  ],
+  "174": [
+    {
+      "title": "What is a Transformer?",
+      "publisher": "Schneider Electric",
+      "url": "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/",
+      "context": "施耐德清楚使用 secondary winding。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How do transformers work?",
+      "page": null,
+      "sourceTermId": 174,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "secondary winding"
+    }
+  ],
+  "175": [
+    {
+      "title": "Mitigation of Geomagnetically Induced Currents in Transformers",
+      "publisher": "Electric Power Research Institute (EPRI)",
+      "url": "https://restservice.epri.com/publicdownload/000000000001012352/0/Product",
+      "context": "EPRI 在变压器磁通描述中使用 alternating flux。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer half-cycle saturation / §2",
+      "page": null,
+      "sourceTermId": 175,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "alternating flux"
+    }
+  ],
+  "176": [
+    {
+      "title": "How Does a Gas Generator Work?",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/gas-power/resources/education/how-a-gas-generator-works",
+      "context": "发电机与变压器工作原理资料支持 electromagnetic induction 原理与术语。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How a generator works; How transformers work",
+      "page": null,
+      "sourceTermId": 176,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "electromagnetic induction; mutual induction"
+    },
+    {
+      "title": "What is a Transformer?",
+      "publisher": "Schneider Electric",
+      "url": "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/",
+      "context": "发电机与变压器工作原理资料支持 electromagnetic induction 原理与术语。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How a generator works; How transformers work",
+      "page": null,
+      "sourceTermId": 176,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "electromagnetic induction; mutual induction"
+    }
+  ],
+  "177": [
+    {
+      "title": "Electrical Distribution Fundamentals — System Voltage Considerations",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemVoltageConsiderations-A48BD3C4",
+      "context": "施耐德公式中直接使用 voltage drop，区别压力降。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Voltage Drop Considerations",
+      "page": null,
+      "sourceTermId": 177,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "voltage drop"
+    }
+  ],
+  "178": [
+    {
+      "title": "Electrical Distribution Fundamentals — System Voltage Considerations",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemVoltageConsiderations-A48BD3C4",
+      "context": "施耐德公式中直接使用 impedance。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Voltage Drop Considerations",
+      "page": null,
+      "sourceTermId": 178,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "impedance"
+    }
+  ],
+  "179": [
+    {
+      "title": "What Is a Transformer?",
+      "publisher": "Schneider Electric",
+      "url": "https://www.se.com/us/en/work/featured-articles/what-is-a-transformer/",
+      "context": "绕组匝数/匝数比中的 turns 已在英文原厂科普页明确使用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How do transformers work?",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 179,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "number of turns",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "180": [
+    {
+      "title": "Pad-mounted HV Bushing Wells",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-hv-bushing-wells",
+      "context": "高压套管明确用 high-voltage bushing；词条大小写规范为小写。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Pad-mounted HV Bushing Wells",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 180,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "high-voltage bushings",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "181": [
+    {
+      "title": "Motor-drive Mechanisms Type BUL2",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/motor-drive-mechanisms/motor-drive-mechanisms-type-bul2",
+      "context": "分接开关（泛称）用 tap changer；有载与无励磁分接开关需要分别限定。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Motor-drive mechanisms / Medium Voltage Transformer Taps",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 181,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "tap-changer",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Transformers — Medium Voltage Transformer Taps",
+      "publisher": "Schneider Electric",
+      "url": "https://acespex.se.com/rpt/prodhelp.php?doc=pms_0235&grp=spex_pms&host=CTW&ndx=0000032132",
+      "context": "分接开关（泛称）用 tap changer；有载与无励磁分接开关需要分别限定。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Motor-drive mechanisms / Medium Voltage Transformer Taps",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 181,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "tap-changer",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "182": [
+    {
+      "title": "Pad-mounted LV Bushings",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-lv-bushings",
+      "context": "低压套管明确用 low-voltage bushing；词头用小写。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Pad-mounted LV Bushings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 182,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "low-voltage bushings",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "183": [
+    {
+      "title": "Delivery Times for Transformer Components",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/delivery-times-for-transformer-components",
+      "context": "瓦斯继电器在油浸变压器中优先 Buchholz relay；gas relay 也可说明，不同于一般可燃气体检测器。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Buchholz Relay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 183,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "Buchholz relay",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Pressure and Flow Devices",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/pressure-and-flow-devices",
+      "context": "瓦斯继电器在油浸变压器中优先 Buchholz relay；gas relay 也可说明，不同于一般可燃气体检测器。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Buchholz Relay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 183,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "Buchholz relay",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "184": [
+    {
+      "title": "Transformer Accessories and Fittings",
+      "publisher": "EEPower / Alex Roderick",
+      "url": "https://eepower.com/technical-articles/transformer-accessories-and-fittings/",
+      "context": "传统有防爆膜的防爆管/安全气道称 explosion vent 或 explosion vent pipe；不得误作可复位压力释放阀。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Explosion Vents / 安全气道技术描述",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 184,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "explosion vent",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "一种电力变压器 (CN211654524U)",
+      "publisher": "中国专利公开文本 / Google Patents",
+      "url": "https://patents.google.com/patent/CN211654524U/zh",
+      "context": "传统有防爆膜的防爆管/安全气道称 explosion vent 或 explosion vent pipe；不得误作可复位压力释放阀。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Explosion Vents / 安全气道技术描述",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 184,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "explosion vent",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "185": [
+    {
+      "title": "1500kVA 22/0.4kV Transformer Tank Is Manufacturing",
+      "publisher": "Jiangshan Scotech Electrical",
+      "url": "https://www.scotech-electrical.com/news/1500kva-22-0-4kv-transformer-tank-is-manufactu-51858362.html",
+      "context": "变压器箱体基础固定语境实际使用 anchor bolts；虽为通用机械件，但在该设备中有明确应用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer Tank — anchor bolts",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 185,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "anchor bolts",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "186": [
+    {
+      "title": "Transformer Valves",
+      "publisher": "Zeeyielec",
+      "url": "https://zeeyielec.com/transformer-accessories/transformer-valves/",
+      "context": "油样活门按油浸变压器取样阀用 oil sampling valve；有些设备将取样口集成于放油阀。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Drain & Sampling Valves / transformer oil tank valves",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 186,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil sampling valve",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "1500kVA 22/0.4kV Transformer Tank Is Manufacturing",
+      "publisher": "Jiangshan Scotech Electrical",
+      "url": "https://www.scotech-electrical.com/news/1500kva-22-0-4kv-transformer-tank-is-manufactu-51858362.html",
+      "context": "油样活门按油浸变压器取样阀用 oil sampling valve；有些设备将取样口集成于放油阀。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Drain & Sampling Valves / transformer oil tank valves",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 186,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil sampling valve",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "187": [
+    {
+      "title": "Transformer Valves",
+      "publisher": "Zeeyielec",
+      "url": "https://zeeyielec.com/transformer-accessories/transformer-valves/",
+      "context": "放油阀门用 oil drain valve；须区别取样阀门。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Drain & Sampling Valves",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 187,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil drain valve",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "1500kVA 22/0.4kV Transformer Tank Is Manufacturing",
+      "publisher": "Jiangshan Scotech Electrical",
+      "url": "https://www.scotech-electrical.com/news/1500kva-22-0-4kv-transformer-tank-is-manufactu-51858362.html",
+      "context": "放油阀门用 oil drain valve；须区别取样阀门。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Drain & Sampling Valves",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 187,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil drain valve",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "188": [
+    {
+      "title": "Conventional Liquid Level Indicators",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/liquid-level-indicators/conventional-liquid-level-indicators",
+      "context": "油枕指油浸变压器储油柜（conservator），不是一般油库储罐。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Conventional level indicators / dehydrating breather",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 188,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "conservator",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Conventional Dehydrating Breather",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/dehydrating-breathers/conventional",
+      "context": "油枕指油浸变压器储油柜（conservator），不是一般油库储罐。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Conventional level indicators / dehydrating breather",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 188,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "conservator",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "189": [
+    {
+      "title": "Transformer Oil Storage Tank",
+      "publisher": "Musthane",
+      "url": "https://www.musthane.com/our-solutions/flexible-tank/transformer-oil-storage-tank/",
+      "context": "有独立储油用油罐/软体储油罐实例；不得与装在变压器上的油枕自动等同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Transformer oil storage tank",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 189,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer oil storage tank",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "190": [
+    {
+      "title": "Conventional Dehydrating Breather",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/dehydrating-breathers/conventional",
+      "context": "厂商明确使用 dehydrating breather，内装 silica gel。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Conventional dehydrating breather",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 190,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "dehydrating breather",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "191": [
+    {
+      "title": "Swan Neck Type Radiator",
+      "publisher": "SWINDUSTRY",
+      "url": "https://www.swindustry.com/en/swan-neck-type/",
+      "context": "变压器散热器用 radiator。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Swan Neck Type Radiator / Manufacturing",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 191,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "radiator",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Manufacturing, Coating & Quality — Transformer Radiators",
+      "publisher": "Lexmark Radiators",
+      "url": "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "context": "变压器散热器用 radiator。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Swan Neck Type Radiator / Manufacturing",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 191,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "radiator",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "192": [
+    {
+      "title": "Exploring Power Transformer Protection for Power Systems",
+      "publisher": "Schneider Electric",
+      "url": "https://blog.se.com/sustainability/2020/06/02/exploring-power-transformer-protection-for-power-systems/",
+      "context": "来源证明瓦斯继电器可实施气体触发保护，但未直接以 gas protection 命名该完整保护功能；建议核对装置说明书。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Table 1 / Buchholz Relay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 192,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Buchholz relay",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Pressure and Flow Devices",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/pressure-and-flow-devices",
+      "context": "来源证明瓦斯继电器可实施气体触发保护，但未直接以 gas protection 命名该完整保护功能；建议核对装置说明书。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Table 1 / Buchholz Relay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 192,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Buchholz relay",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "193": [
+    {
+      "title": "Exploring Power Transformer Protection for Power Systems",
+      "publisher": "Schneider Electric",
+      "url": "https://blog.se.com/sustainability/2020/06/02/exploring-power-transformer-protection-for-power-systems/",
+      "context": "厂家资料明确使用 differential protection；用于变压器及母线须加适用对象。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Table 1 / bus differential protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 193,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "differential protection",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "SEL-487B Bus Differential and Breaker Failure Relay",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/487B/",
+      "context": "厂家资料明确使用 differential protection；用于变压器及母线须加适用对象。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Table 1 / bus differential protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 193,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "differential protection",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "194": [
+    {
+      "title": "Manufacturing, Coating & Quality — Transformer Radiators",
+      "publisher": "Lexmark Radiators",
+      "url": "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "context": "原条目“放气或放油塞子”包含两个可独立更换部件；本 ID 改成放气塞，另建 ID493 放油塞。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Air Vent / Drain Plug / parts table",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 194,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "air vent plug",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Swan Neck Type Radiator",
+      "publisher": "SWINDUSTRY",
+      "url": "https://www.swindustry.com/en/swan-neck-type/",
+      "context": "原条目“放气或放油塞子”包含两个可独立更换部件；本 ID 改成放气塞，另建 ID493 放油塞。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Air Vent / Drain Plug / parts table",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 194,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "air vent plug",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "195": [
+    {
+      "title": "Delivery Times for Transformer Components",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/delivery-times-for-transformer-components",
+      "context": "厂商目录明确 thermometer、oil temperature indicator；温度计如为油温计可标注具体量。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Thermometer / Oil Temperature Indicators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 195,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "thermometer; oil temperature indicators",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "196": [
+    {
+      "title": "Reactors and Inductors",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/transformers/reactors-and-inductors",
+      "context": "日立能源公开专业产品目录用 reactor；注意与核反应堆同形词不同义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Reactors and inductors",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 196,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "reactor",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "197": [
+    {
+      "title": "Pad-mounted HV Bushing Wells",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-hv-bushing-wells",
+      "context": "仅核对电气放电相关设备绝缘语境，未直接证明独立“放电现象 = electrical discharge”；保留待核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product scope / Surge Protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 197,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "partial discharge; electrical fault",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Electrical Distribution Fundamentals: System Protection",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemProtection-A4A695C5",
+      "context": "仅核对电气放电相关设备绝缘语境，未直接证明独立“放电现象 = electrical discharge”；保留待核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product scope / Surge Protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 197,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "partial discharge; electrical fault",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "198": [
+    {
+      "title": "Electrical Distribution Fundamentals: System Protection",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/0100db2301_elecdistfunddesignguide/0100db2301-electrical-distribution-fundamentals-design-guide/English/0100DB2301%20Electrical%20Distribution%20Fundamentals%20Design%20Guide%20%28bookmap%29_DD00648155.xml/%24/SystemProtection-A4A695C5",
+      "context": "施耐德明确使用 surge arrester；不是 surge protector 或 lightning rod 的无条件同义词。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Surge Protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 198,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "surge arrester",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "199": [
+    {
+      "title": "Pad-mounted LV Bushings",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-lv-bushings",
+      "context": "页面明确使用 transformer lead termination、current-carrying conductor；在变压器出线语境 lead 合理但含义依对象确定。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Pad-mounted Bushing Wells",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 199,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer lead termination",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Pad-mounted HV Bushing Wells",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-hv-bushing-wells",
+      "context": "页面明确使用 transformer lead termination、current-carrying conductor；在变压器出线语境 lead 合理但含义依对象确定。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Pad-mounted Bushing Wells",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 199,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer lead termination",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "200": [
+    {
+      "title": "Conventional Liquid Level Indicators",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/liquid-level-indicators/conventional-liquid-level-indicators",
+      "context": "液位指示器页明确使用 oil leakages；seepage 为渗漏的程度描述而非该页原文直对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Conventional liquid level indicators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 200,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil leakages",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "201": [
+    {
+      "title": "Conventional Dehydrating Breather",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/dehydrating-breathers/conventional",
+      "context": "说明吸湿器装有 silica gel；若“硅胶”为有机硅橡胶则为 silicone gel/rubber，不应混译。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Conventional dehydrating breather",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 201,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "silica gel",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "202": [
+    {
+      "title": "Manufacturing, Coating & Quality — Transformer Radiators",
+      "publisher": "Lexmark Radiators",
+      "url": "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "context": "变压器散热片/散热翅为 radiator fin / cooling fin；厂商列表明确 fins。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Radiator manufacturing specifications / parts table",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 202,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "fins; element fin",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Swan Neck Type Radiator",
+      "publisher": "SWINDUSTRY",
+      "url": "https://www.swindustry.com/en/swan-neck-type/",
+      "context": "变压器散热片/散热翅为 radiator fin / cooling fin；厂商列表明确 fins。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Radiator manufacturing specifications / parts table",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 202,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "fins; element fin",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "203": [
+    {
+      "title": "Pad-mounted LV Bushings",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-product-selection/ac-bushings-padmounted-lv-bushings",
+      "context": "页面说明引线端接，但并未使用完整 lead connector 专用名称；需按接头结构（terminal/joint/connector）核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Pad-mounted LV Bushings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 203,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "lead termination",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "204": [
+    {
+      "title": "Transformer Accessories and Fittings",
+      "publisher": "EEPower / Alex Roderick",
+      "url": "https://eepower.com/technical-articles/transformer-accessories-and-fittings/",
+      "context": "中文专利说明“安全气道”是带防爆膜、压力升高即破裂的管道；专业英文说明相同结构用 explosion vent。与可复位 pressure relief valve 不同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Explosion Vents / safety gas passage",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 204,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "explosion vent",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "一种电力变压器 (CN211654524U)",
+      "publisher": "中国专利公开文本 / Google Patents",
+      "url": "https://patents.google.com/patent/CN211654524U/zh",
+      "context": "中文专利说明“安全气道”是带防爆膜、压力升高即破裂的管道；专业英文说明相同结构用 explosion vent。与可复位 pressure relief valve 不同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Explosion Vents / safety gas passage",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 204,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "explosion vent",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "205": [
+    {
+      "title": "Conventional Liquid Level Indicators",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/measurement-and-safety-devices/liquid-level-indicators/conventional-liquid-level-indicators",
+      "context": "厂家直接使用 oil level，注意区分读数与仪表名称。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Conventional liquid level indicators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 205,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil level",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "206": [
+    {
+      "title": "TAPCON 230 basic Operating Instructions (HTML transcription)",
+      "publisher": "Maschinenfabrik Reinhausen / Manualzz",
+      "url": "https://manualzz.com/doc/63857200/mr-tapcon-230-basic-operating-instructions-manual",
+      "context": "证明远方方式与电动分接开关存在，但没有原短语 remote motor-driven regulation 的逐词证据；推荐注明语境为远方电动调挡。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Overview of operating modes / motor-drive mechanisms",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 206,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "remote mode; motor-drive mechanism",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Motor-drive Mechanisms Type BUL2",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/insulation-and-components/transformer-insulation-components/tap-changers/motor-drive-mechanisms/motor-drive-mechanisms-type-bul2",
+      "context": "证明远方方式与电动分接开关存在，但没有原短语 remote motor-driven regulation 的逐词证据；推荐注明语境为远方电动调挡。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Overview of operating modes / motor-drive mechanisms",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 206,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "remote mode; motor-drive mechanism",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "207": [
+    {
+      "title": "TAPCON 230 basic Operating Instructions (HTML transcription)",
+      "publisher": "Maschinenfabrik Reinhausen / Manualzz",
+      "url": "https://manualzz.com/doc/63857200/mr-tapcon-230-basic-operating-instructions-manual",
+      "context": "手动调整在分接开关语境可写 manual tap-change operation；不是泛指任意手工操作。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Manual mode / overview of operating modes",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 207,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "manual operation; tap-change operation",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "208": [
+    {
+      "title": "APP 487B: SEL-487B Bus Differential and Breaker Failure Relay",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/selu/courses/app/487b/",
+      "context": "装置参数称 relay settings；整定值可能为 setpoint、setting 或 setting value，应结合继保定值项目选择，现未直接证实完整词组。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Course topics / relay settings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 208,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "settings",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "SEL Products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "装置参数称 relay settings；整定值可能为 setpoint、setting 或 setting value，应结合继保定值项目选择，现未直接证实完整词组。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Course topics / relay settings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 208,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "settings",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "209": [
+    {
+      "title": "SEL Events and Webinars: Digital Fault Recording",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/events/",
+      "context": "SEL 英文资料直接使用 digital fault recording、disturbance recording；旧译 oscilloscope 不适用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Digital Fault Recording / station PDC",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 209,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital fault recording; disturbance recording",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "SEL Products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "SEL 英文资料直接使用 digital fault recording、disturbance recording；旧译 oscilloscope 不适用。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Digital Fault Recording / station PDC",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 209,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital fault recording; disturbance recording",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "210": [
+    {
+      "title": "SEL Products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "SEL 产品页面提及 microprocessor-based relays；按独立设备可用 microprocessor-based protective relay。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product listings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 210,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "microprocessor-based relays",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "211": [
+    {
+      "title": "SEL-251 Front-Panel Drawing (Target Reset)",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/api/download/3067",
+      "context": "保护继电器前面板实际标有 TARGET RESET；通用复位按钮可用 reset button。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "PDF第1页，继电器面板的 TARGET RESET 标记",
+      "page": 1,
+      "pageVerified": true,
+      "sourceTermId": 211,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "TARGET RESET button",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "213": [
+    {
+      "title": "一、二次设备及倒闸操作术语",
+      "publisher": "中国通用机械工业协会",
+      "url": "https://pu.cgmia.org.cn/News/Detail/11831",
+      "context": "中文来源明确出口压板包括跳闸压板，英文源提供 trip circuit 语境；未见独立英文 trip enable link，暂不升级为已核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "出口压板 definition / Trip Coil Monitor",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 213,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "跳闸压板; trip circuit",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "SEL-2652 Trip Coil Monitor",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2652/",
+      "context": "中文来源明确出口压板包括跳闸压板，英文源提供 trip circuit 语境；未见独立英文 trip enable link，暂不升级为已核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "出口压板 definition / Trip Coil Monitor",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 213,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "跳闸压板; trip circuit",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "214": [
+    {
+      "title": "Using Precision Digital Multimeters in Place of Analog Null Meters",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-ph/learn/blog/electrical-calibration/using-precision-digital-multimeters",
+      "context": "福禄克明确 high impedance voltmeter，用于高输入阻抗测量；推荐保留高输入阻抗的技术含义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Using precision digital multimeters / Impedance basics",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 214,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "high impedance voltmeter",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Dual Impedance Digital Multimeters",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-ca/learn/blog/digital-multimeters/dual-impedance-digital-multimeters",
+      "context": "福禄克明确 high impedance voltmeter，用于高输入阻抗测量；推荐保留高输入阻抗的技术含义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Using precision digital multimeters / Impedance basics",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 214,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "high impedance voltmeter",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "215": [
+    {
+      "title": "Dual Impedance Digital Multimeters",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-ca/learn/blog/digital-multimeters/dual-impedance-digital-multimeters",
+      "context": "厂家明确 multimeter；区别 digital multimeter 与 analog multimeter。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Dual Impedance Digital Multimeters",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 215,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "digital multimeters",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "217": [
+    {
+      "title": "SEL Products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "仅可确认电压继电保护与电压互感器背景；原译 voltage circuit open-circuit fault 可能不是设备告警标准名称，待实际告警表。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product listings / voltage relays",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 217,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "voltage supervision; PT/CT",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "219": [
+    {
+      "title": "How to Measure DC Voltage with a Digital Multimeter",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter",
+      "context": "厂家明确 positive terminal；不能脱离电极过程直接译 anode。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How to Measure DC Voltage",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 219,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "positive terminal",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "220": [
+    {
+      "title": "How to Measure DC Voltage with a Digital Multimeter",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter",
+      "context": "厂家明确 negative terminal；不能脱离电极过程直接译 cathode。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How to Measure DC Voltage",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 220,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "negative terminal",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "221": [
+    {
+      "title": "How to Measure DC Voltage with a Digital Multimeter",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter",
+      "context": "福禄克使用 polarity；直流测量与电极语境需分别处理。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How to Measure DC Voltage / multimeter symbols",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 221,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "polarity",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "The Dials, Buttons, Symbols, and Display of a Digital Multimeter",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-ie/learn/blog/digital-multimeters/multimeter-dial-button-jacks-display",
+      "context": "福禄克使用 polarity；直流测量与电极语境需分别处理。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "How to Measure DC Voltage / multimeter symbols",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 221,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "polarity",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "222": [
+    {
+      "title": "MiCOM Busbar Applications",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/nadigest/5c51d645347bdf0001f1f280/Master/17705_MAIN%20%28bookmap%29_0000054913.xml/%24/MiCOMApplications-BusbarCPT_0000285683",
+      "context": "资料可证明母差保护使用 CT；未确证原组合是专用互感器型号，也可能仅为保护回路的 CT。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Busbar Applications / 487B relay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 222,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "CTs; bus differential protection",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "SEL-487B Bus Differential and Breaker Failure Relay",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/487B/",
+      "context": "资料可证明母差保护使用 CT；未确证原组合是专用互感器型号，也可能仅为保护回路的 CT。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Busbar Applications / 487B relay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 222,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "CTs; bus differential protection",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "223": [
+    {
+      "title": "How to Measure DC Voltage with a Digital Multimeter",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/digital-multimeters/how-to-measure-dc-voltage-with-a-digital-multimeter",
+      "context": "仅有负极/极性用例；阴极 cathode 不必总是负极，需特定电化学工作过程，不能认为括注两者普遍等价。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Voltage polarity",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 223,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "negative pole / terminal",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "Electrical Sources and Electronic Load — Basic DC Theory",
+      "publisher": "Control.com",
+      "url": "https://control.com/textbook/dc-electricity/electrical-sources-and-loads/",
+      "context": "仅有负极/极性用例；阴极 cathode 不必总是负极，需特定电化学工作过程，不能认为括注两者普遍等价。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Voltage polarity",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 223,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "negative pole / terminal",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "225": [
+    {
+      "title": "MiCOM Busbar Applications",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/nadigest/5c51d645347bdf0001f1f280/Master/17705_MAIN%20%28bookmap%29_0000054913.xml/%24/MiCOMApplications-BusbarCPT_0000285683",
+      "context": "有母差保护方案与 CT 回路资料，但没有直接证实本独立组合的固定叫法，应按电路图核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Busbar Applications / Bus Differential",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 225,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "busbar differential protection",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    },
+    {
+      "title": "SEL-487B Bus Differential and Breaker Failure Relay",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/487B/",
+      "context": "有母差保护方案与 CT 回路资料，但没有直接证实本独立组合的固定叫法，应按电路图核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Busbar Applications / Bus Differential",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 225,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "busbar differential protection",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "226": [
+    {
+      "title": "SEL-2440 DPAC Discrete Programmable Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2440/",
+      "context": "证明电力监控系统存在分布式自动化/数据采集，但无直接 distributed data processing system 完整用例；属跨行业词，按电力用例暂保留。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "System Control",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 226,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "data acquisition; automation controller",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "227": [
+    {
+      "title": "SEL-2440 DPAC Discrete Programmable Automation Controller",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2440/",
+      "context": "厂商用 data acquisition 描述电力监控系统；系统名称 data acquisition system 为合理固定用法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "System Control",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 227,
+      "sourcePartIndex": null,
+      "independentlyVerified": true,
+      "matchedEnglish": "data acquisition",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "228": [
+    {
+      "title": "SEL Products",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products",
+      "context": "资料明确 I/O 与接口模块用法，但 I/O interface 的确切硬件范围须按设备清单确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SEL-2240 Axion listing",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 228,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "input/output (I/O)",
+      "sourceMethod": "公开网页或网页文本检索；无纸本页码；英/中术语是否直对请以证据等级为准"
+    }
+  ],
+  "493": [
+    {
+      "title": "Manufacturing, Coating & Quality — Transformer Radiators",
+      "publisher": "Lexmark Radiators",
+      "url": "https://lexmarkradiators.com/manufacturing-coating-quality/",
+      "context": "变压器散热器部件清单单独列出排油塞 drain plug / oil drain plug；与放气塞为不同部件。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Air Vent / Drain Plug; parts table",
+      "page": null,
+      "sourceTermId": 194,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "matchedEnglish": "drain plug",
+      "sourceMethod": "可公开检索网页；无页码"
+    },
+    {
+      "title": "Swan Neck Type Radiator",
+      "publisher": "SWINDUSTRY",
+      "url": "https://www.swindustry.com/en/swan-neck-type/",
+      "context": "变压器散热器部件清单单独列出排油塞 drain plug / oil drain plug；与放气塞为不同部件。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Air Vent / Drain Plug; parts table",
+      "page": null,
+      "sourceTermId": 194,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "matchedEnglish": "drain plug",
+      "sourceMethod": "可公开检索网页；无页码"
+    }
+  ],
+  "229": [
+    {
+      "title": "SEL Time-Domain Link (TiDL) Process Bus Solutions",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/solutions/digital-secondary-systems/time-domain-link/",
+      "context": "用于电力继电保护通信或站内光纤链路；光纤通道的 channel 和 link 需按信号链路说明区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Communications / Fiber-Optic Cable",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 229,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "fiber-optic communications / fiber-optic links",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "SEL-2505 Remote I/O Module",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2505/",
+      "context": "用于电力继电保护通信或站内光纤链路；光纤通道的 channel 和 link 需按信号链路说明区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Fiber-optic communications port",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 229,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "fiber-optic communications / fiber-optic links",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "230": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "变电站监控系统可结合语境用 substation monitoring system；单说 monitoring system 范围较宽。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Remote control and monitoring functions / HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 230,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "monitoring functions / remote monitoring",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Retrofit Concept AEW Daettwil Substation",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation",
+      "context": "变电站监控系统可结合语境用 substation monitoring system；单说 monitoring system 范围较宽。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "HMI, alarm and event recording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 230,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "monitoring functions / remote monitoring",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "231": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "来源支持集中监控/HMI，但没有直接出现 centralized control screen 完整专名；需依据盘柜形式区分 control panel、control desk 与 HMI screen。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Remote control and monitoring functions / HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 231,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "HMI; station control technology",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Retrofit Concept AEW Daettwil Substation",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation",
+      "context": "来源支持集中监控/HMI，但没有直接出现 centralized control screen 完整专名；需依据盘柜形式区分 control panel、control desk 与 HMI screen。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "HMI, alarm and event recording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 231,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "HMI; station control technology",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "232": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "电力自动化的人工操作语境成立，但这两份来源未直接出现 manual intervention 对应固定组合；按通用英语暂保留。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Remote control and monitoring functions / HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 232,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "operation / operator",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Retrofit Concept AEW Daettwil Substation",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation",
+      "context": "电力自动化的人工操作语境成立，但这两份来源未直接出现 manual intervention 对应固定组合；按通用英语暂保留。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "HMI, alarm and event recording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 232,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "operation / operator",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "233": [
+    {
+      "title": "Responding to SCADA Alarms",
+      "publisher": "SCADA User’s Guide (public documentation)",
+      "url": "https://nathaniellindsey.gitbooks.io/scada-user-s-guide/content/scada_procedures/responding_to_scada_alarms.html",
+      "context": "支持越限报警及事件记录，未直接确证 limit-violation record 这一完整名称；也可视产品界面作 limit violation event/log。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Analog limit violation alarms",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 233,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "analog limit violation alarms; event recording",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Retrofit Concept AEW Daettwil Substation",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/news-and-events/customer-stories/retrofit-concept-aew-daettwil-substation",
+      "context": "支持越限报警及事件记录，未直接确证 limit-violation record 这一完整名称；也可视产品界面作 limit violation event/log。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "HMI, alarm and event recording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 233,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "analog limit violation alarms; event recording",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "234": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "“上级调度”指调度机构/调度指令还是调度人员不明，higher-level dispatcher 易误指个人；暂改上级调度中心语境下的 higher-level dispatch center，需图纸确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Remote control and monitoring functions / HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 234,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "higher-level systems / central control center",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "SEL Real-Time Automation Controller (RTAC) Automation Platform",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/RTAC/",
+      "context": "“上级调度”指调度机构/调度指令还是调度人员不明，higher-level dispatcher 易误指个人；暂改上级调度中心语境下的 higher-level dispatch center，需图纸确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SCADA, time synchronization and data management",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 234,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "higher-level systems / central control center",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "235": [
+    {
+      "title": "SEL Real-Time Automation Controller (RTAC) Automation Platform",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/RTAC/",
+      "context": "支持时钟同步功能，但未出现 clock function 对应栏目；可能指实时时钟或对时功能，需根据设备界面核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "SCADA, time synchronization and data management",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 235,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "time synchronization / SNTP",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "SEL-2240 Axion",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/2240/",
+      "context": "支持时钟同步功能，但未出现 clock function 对应栏目；可能指实时时钟或对时功能，需根据设备界面核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "RTU / SCADA data concentrator / HMI / time synchronization",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 235,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "time synchronization / SNTP",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "236": [
+    {
+      "title": "防止电气误操作装置管理规定（试行）",
+      "publisher": "农村电气化信息网（规范文本转载）",
+      "url": "https://www.ncdqh.com.cn/file/hygf/200612/15554.html",
+      "context": "五防是五项防误操作要求；不能直接把 five-prevention 当英语标准固定术语。原英文保留待确认，专业表达可考虑 five-point misoperation-prevention interlocking。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "第三章第十六条：五防具体功能",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 236,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "interlocks / five prescribed misoperation-prevention requirements",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Components and Accessories — SureSeT MV Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "context": "五防是五项防误操作要求；不能直接把 five-prevention 当英语标准固定术语。原英文保留待确认，专业表达可考虑 five-point misoperation-prevention interlocking。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Withdrawable MV circuit breakers / interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 236,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "interlocks / five prescribed misoperation-prevention requirements",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "237": [
+    {
+      "title": "Identification; Function Block; Functionality; Operation Principle — ABB REC615 Technical Manual",
+      "publisher": "ABB manual reproduced by ManualsLib",
+      "url": "https://www.manualslib.com/manual/3120773/Abb-Relion-Rec615.html?page=643",
+      "context": "保护装置在条件不符时禁止合闸，但 non-synchronous lockout 未找到直接用例；按装置功能可考虑 out-of-synchronism closing block。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Synchronism and energizing check SECRSYN",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 237,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "blocking functionality / asynchronous operation mode",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "238": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "“自投”一般指备用电源自动投入，不能将其不加限定地等同 generic automatic transfer device；应按 BATS/备用电源自动投入装置复核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "High-speed bus transfer",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 238,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "high-speed bus transfer / restoration",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "“自投”一般指备用电源自动投入，不能将其不加限定地等同 generic automatic transfer device；应按 BATS/备用电源自动投入装置复核。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Remote control and monitoring functions / HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 238,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "high-speed bus transfer / restoration",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "239": [
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "WEG 用 induction motor，专利用 asynchronous motor；异步电动机两种表达均可，优先 induction motor。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 239,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "three-phase induction motors / asynchronous motors",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "US5285125A — Short-circuiting and Brush-lifting Device for Asynchronous Motors",
+      "publisher": "Siemens AG (US patent via Google Patents)",
+      "url": "https://patents.google.com/patent/US5285125A/en",
+      "context": "WEG 用 induction motor，专利用 asynchronous motor；异步电动机两种表达均可，优先 induction motor。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Title / Abstract / Description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 239,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "three-phase induction motors / asynchronous motors",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "240": [
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "电动机端盖常指 endshield/end shield；不是所有机械端盖都叫 endshield。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": 42,
+      "pageVerified": true,
+      "sourceTermId": 240,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "drive endshield / non-drive endshield",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 41
+    }
+  ],
+  "241": [
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "电动机外部接线盒的专业名称通常是 terminal box，而 junction box 为更泛化称呼。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": 42,
+      "pageVerified": true,
+      "sourceTermId": 241,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "terminal box",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 41
+    },
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "电动机外部接线盒的专业名称通常是 terminal box，而 junction box 为更泛化称呼。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": 27,
+      "pageVerified": true,
+      "sourceTermId": 241,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "terminal box",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 26
+    }
+  ],
+  "242": [
+    {
+      "title": "Electrical Measurements: Units, Devices, and Formulas",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/calibration/common-electrical-measurements-instruments-calculations",
+      "context": "福禄克电气测量基础资料明确 ohmmeter 用于测量电阻。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Ohmmeter section",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 242,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "ohmmeter",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "243": [
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "电机设备目录的滑动轴承常称 sleeve bearing，机械分类可用 plain bearing；滑动轴承≠滚动轴承。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": 27,
+      "pageVerified": true,
+      "sourceTermId": 243,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "sleeve bearings / plain bearings",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 26
+    },
+    {
+      "title": "SKF Coatings Maximize Service Life of Bearings",
+      "publisher": "SKF Evolution",
+      "url": "https://evolution.skf.com/en/coatings-to-improve-bearing-performance/",
+      "context": "电机设备目录的滑动轴承常称 sleeve bearing，机械分类可用 plain bearing；滑动轴承≠滚动轴承。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Plain bearings / lubrication",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 243,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "sleeve bearings / plain bearings",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "244": [
+    {
+      "title": "Inherent Advantages of Biodegradable Lubricants",
+      "publisher": "SKF Evolution",
+      "url": "https://evolution.skf.com/us/degradable/",
+      "context": "SKF 和 WEG 均使用 rolling bearing。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Grease and rolling bearings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 244,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "rolling bearing",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "SKF 和 WEG 均使用 rolling bearing。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 244,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "rolling bearing",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "245": [
+    {
+      "title": "Inherent Advantages of Biodegradable Lubricants",
+      "publisher": "SKF Evolution",
+      "url": "https://evolution.skf.com/us/degradable/",
+      "context": "润滑脂为 grease；需区别润滑油 lubricant/oil。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Grease and rolling bearings",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 245,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "grease / grease nipple",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "润滑脂为 grease；需区别润滑油 lubricant/oil。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": 42,
+      "pageVerified": true,
+      "sourceTermId": 245,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "grease / grease nipple",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 41
+    }
+  ],
+  "246": [
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "电动机铭牌有明确厂商用例。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": 42,
+      "pageVerified": true,
+      "sourceTermId": 246,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "nameplate",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 41
+    }
+  ],
+  "247": [
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "WEG 厂商技术目录第27页明确 Ambient Temperature。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": 27,
+      "pageVerified": true,
+      "sourceTermId": 247,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "ambient temperature",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 26
+    }
+  ],
+  "248": [
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "备用机组是否指 standby generator set / standby unit 不确定；现有目录没有 spare unit 直接对应，需回到供电语境确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": 27,
+      "pageVerified": true,
+      "sourceTermId": 248,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "electric motors / product range",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 26
+    }
+  ],
+  "249": [
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "“靠背轮”一般作为传动联轴器使用，coupling 有较强语义合理性但该页未直接证实；需结合装配图。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": 42,
+      "pageVerified": true,
+      "sourceTermId": 249,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "drive-end / shaft",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 41
+    }
+  ],
+  "250": [
+    {
+      "title": "W22 Three-Phase Electric Motor — Technical Catalog",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/hf8/h29/WEG-w22-three-phase-electric-motor-50029265-brochure-english-web.pdf",
+      "context": "厂家明确有 fan cover，但本词条“护罩”泛指其他安全防护件，不宜据此认定全部护罩都能译 fan cover。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Spare parts exploded view, printed page 42",
+      "page": 42,
+      "pageVerified": true,
+      "sourceTermId": 250,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "fan cover",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 41
+    }
+  ],
+  "251": [
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "电机启动方式已有用例，未直接检到 starting device 的完整名称；应区分 motor starter 与 starting device。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": 27,
+      "pageVerified": true,
+      "sourceTermId": 251,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "starting method",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 26
+    }
+  ],
+  "253": [
+    {
+      "title": "2620T / 2635T Recording Thermometer",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/product/calibration-tools/temperature-calibration/digital-thermometer-readouts/2620t-2635t",
+      "context": "现代电子设备建议按功能使用 temperature recorder 或 temperature data logger；thermograph 可能偏历史机械式图表记录仪。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product overview: recording and logging",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 253,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "recording thermometer / temperature data logger",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Temperature Data Loggers and Data Acquisition Products",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/products/calibration-tools/data-acquisition-and-general-test/data-acquisition",
+      "context": "现代电子设备建议按功能使用 temperature recorder 或 temperature data logger；thermograph 可能偏历史机械式图表记录仪。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Data logger / temperature data acquisition",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 253,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "recording thermometer / temperature data logger",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "254": [
+    {
+      "title": "US5285125A — Short-circuiting and Brush-lifting Device for Asynchronous Motors",
+      "publisher": "Siemens AG (US patent via Google Patents)",
+      "url": "https://patents.google.com/patent/US5285125A/en",
+      "context": "美国授权专利明确涉及滑环短接装置，短接机构的精确机构称谓需按设备具体结构细化。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Title / Abstract / Description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 254,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "short-circuiting and brush-lifting device / slip rings",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "255": [
+    {
+      "title": "Float Charge — Gutor Modular DC Charger Operation Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395",
+      "context": "施耐德直流充电设备说明书明确使用 rectifier/rectifier modules。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Float charge mode / rectifier modules / battery",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 255,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "rectifier modules",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "256": [
+    {
+      "title": "Siemens SENTRON 3NA3801-6 Technical Data",
+      "publisher": "Siemens",
+      "url": "https://mall.industry.siemens.com/goos/catalog/Pages/mmpdata.ashx?MLFB1=3NA3801-6&lang=en",
+      "context": "西门子规格书同时使用 fuse element、fuse link，熔芯应依熔断器结构与整只熔断体 fuse-link 区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "LV HRC fuse element / fuse link",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 256,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "LV HRC fuse element / fuse link",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "257": [
+    {
+      "title": "HGF Low and High Voltage Electric Motor Range — Technical Catalogue",
+      "publisher": "WEG",
+      "url": "https://static.weg.net/medias/downloadcenter/h19/hae/WEG-hgf-low-and-high-voltage-high-performance-electric-motor-range-broa017-brochure-english.pdf",
+      "context": "资料涉及低压电动机，但没有同时证实大容量这一具体限定词，未据此确认完整复合词译法。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Product range and optional features, printed page 27",
+      "page": 27,
+      "pageVerified": true,
+      "sourceTermId": 257,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "low voltage motors / electric motor range",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 26
+    }
+  ],
+  "258": [
+    {
+      "title": "Components and Accessories — SureSeT MV Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "context": "“合闸电压”可能指合闸线圈额定电压或允许合闸电压范围，目前仅找到开关柜合闸机构背景资料，不能直接作为固定英文。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Withdrawable MV circuit breakers / interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 258,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "circuit breakers / closing mechanism",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "259": [
+    {
+      "title": "Operating Interface of the Trucks — PIX-36 Medium Voltage Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "context": "施耐德手册使用 Isolating Truck，开关柜隔离手车与断路器手车不同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Vacuum Circuit Breaker HVX-O / Isolating Truck UTX-O / Metering Truck MTX-O",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 259,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Isolating Truck UTX-O",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "260": [
+    {
+      "title": "Operating Interface of the Trucks — PIX-36 Medium Voltage Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "context": "厂家明确 metering truck 内装 VT，但没有在该页直接命名为 voltage transformer truck；作为备选可记 VT truck。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Vacuum Circuit Breaker HVX-O / Isolating Truck UTX-O / Metering Truck MTX-O",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 260,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Metering Truck MTX-O with voltage transformer",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "261": [
+    {
+      "title": "Components and Accessories — SureSeT MV Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "context": "手册支持电气/机械联锁背景，但并未在对应页面直接出现 electromagnetic lock 完整用例。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Withdrawable MV circuit breakers / interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 261,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "interlocked / mechanical interlock",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "262": [
+    {
+      "title": "Operating Interface of the Trucks — PIX-36 Medium Voltage Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "context": "设备底盘可能是 chassis 或 truck frame，现有资料仅能支持手车结构背景，需明确机械部件。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Vacuum Circuit Breaker HVX-O / Isolating Truck UTX-O / Metering Truck MTX-O",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 262,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "truck / withdrawable unit",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "263": [
+    {
+      "title": "Operating Interface of the Trucks — PIX-36 Medium Voltage Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "context": "专用手车可称 circuit-breaker truck；文中 withdrawable unit 强调抽出式组件，较原表达简洁。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Vacuum Circuit Breaker HVX-O / Isolating Truck UTX-O / Metering Truck MTX-O",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 263,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Vacuum Circuit Breaker HVX-O / withdrawable MV circuit breakers",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Components and Accessories — SureSeT MV Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "context": "专用手车可称 circuit-breaker truck；文中 withdrawable unit 强调抽出式组件，较原表达简洁。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Withdrawable MV circuit breakers / interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 263,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Vacuum Circuit Breaker HVX-O / withdrawable MV circuit breakers",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "264": [
+    {
+      "title": "Components and Accessories — SureSeT MV Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "context": "支持接地开关联锁安全功能，但未找到 grounding lockout switch 直述，术语应按原理图核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Withdrawable MV circuit breakers / interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 264,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "interlock; earthing switch",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "防止电气误操作装置管理规定（试行）",
+      "publisher": "农村电气化信息网（规范文本转载）",
+      "url": "https://www.ncdqh.com.cn/file/hygf/200612/15554.html",
+      "context": "支持接地开关联锁安全功能，但未找到 grounding lockout switch 直述，术语应按原理图核对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "第三章第十六条：五防具体功能",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 264,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "interlock; earthing switch",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "265": [
+    {
+      "title": "防止电气误操作装置管理规定（试行）",
+      "publisher": "农村电气化信息网（规范文本转载）",
+      "url": "https://www.ncdqh.com.cn/file/hygf/200612/15554.html",
+      "context": "中文规范解释防误装置，英文厂家手册解释联锁，两者未构成同源直接中英对应证据；待进一步查专业双语标准。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "第三章第十六条：五防具体功能",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 265,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "防误装置 / interlocking",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Components and Accessories — SureSeT MV Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6055ct2201_sureset_mvmcs_catalog/6055ct2201-sureset-mvmcs-catalog/English/6055CT2201%20SureSeT%20MV%20Catalog_DD00603565.xml/%24/ComponentsAndAccessories-D20AEDB9",
+      "context": "中文规范解释防误装置，英文厂家手册解释联锁，两者未构成同源直接中英对应证据；待进一步查专业双语标准。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Withdrawable MV circuit breakers / interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 265,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "防误装置 / interlocking",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "266": [
+    {
+      "title": "Operating Interface of the Trucks — PIX-36 Medium Voltage Switchgear",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/pix36_ioms/viewer?docidentity=OperatingInterfaceOfTrucks-CB11E43D&extension=xml&lang=en&manualidentity=DocumentTypeProductCategoryRangeNam-C3D9B088",
+      "context": "设备手册直接以 vacuum circuit breaker 命名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Vacuum Circuit Breaker HVX-O / Isolating Truck UTX-O / Metering Truck MTX-O",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 266,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Vacuum Circuit Breaker HVX-O",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Before Energizing for the First Time — EvoPacT MV CB User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1",
+      "context": "设备手册直接以 vacuum circuit breaker 命名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Dielectric Withstand Test / flashover / insulators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 266,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Vacuum Circuit Breaker HVX-O",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "268": [
+    {
+      "title": "Before Energizing for the First Time — EvoPacT MV CB User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1",
+      "context": "绝缘试验材料直接使用 flashover，若专指现象可用 flashover phenomenon，但无需固定带 phenomenon。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Dielectric Withstand Test / flashover / insulators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 268,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "flashover",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    },
+    {
+      "title": "Types of Insulators Used in Power Transmission Lines",
+      "publisher": "Schneider Electric",
+      "url": "https://eshop.se.com/in/blog/post/types-of-insulators-used-in-power-transmission-lines.html",
+      "context": "绝缘试验材料直接使用 flashover，若专指现象可用 flashover phenomenon，但无需固定带 phenomenon。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Types of insulators / flashover voltage",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 268,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "flashover",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "269": [
+    {
+      "title": "Before Energizing for the First Time — EvoPacT MV CB User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/jyt3013100evopact_userguide/jyt3013100-evopact-mv-cb-user-guide/JYT3013100-EvoPacT%20MV%20CB%20User%20Guide/English/JYT3013100%20EvoPacT%20%28bookmap%29_0000670549.xml/%24/BeforeEnergizingForTheFirstTime-CC4CFEE1",
+      "context": "资料证明绝缘材料与操作杆是不同部件，尚未找到“绝缘拉杆”整体英文直用例；不能与绝缘操作杆 hot stick 混同。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-08",
+      "locator": "Dielectric Withstand Test / flashover / insulators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 269,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "insulator / insulating",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "270": [
+    {
+      "title": "Float Charge — Gutor Modular DC Charger Operation Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395",
+      "context": "变电站直流电源/蓄电池充电装置一般指 battery charger；原 charging set 不够规范，按直流系统语境建议 battery charger。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Float charge mode / rectifier modules / battery",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 270,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "DC charger / battery charge",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "272": [
+    {
+      "title": "Float Charge — Gutor Modular DC Charger Operation Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395",
+      "context": "施耐德直流充电资料明确 battery 用于后备供电。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Float charge mode / rectifier modules / battery",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 272,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "battery",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "273": [
+    {
+      "title": "Float Charge — Gutor Modular DC Charger Operation Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/gutor_modular/0000649744-gutor-modular-dc-charger-operation-manual/English/Gutor-Modular-DC-UPS_Operation-Manual_0000649744_01_en_0000649744.xml/%24/M_FloatChargeCPT_0000735395",
+      "context": "原 float charge mode 有直接用例，需区分浮充状态与浮充模式的设备界面写法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Float charge mode / rectifier modules / battery",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 273,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "float charge mode",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "274": [
+    {
+      "title": "SEL-400G Advanced Generator Protection System",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/400G/",
+      "context": "SEL 使用 loss of field 描述发电机失磁保护；运行故障现象可称 loss of excitation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Loss-of-field protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 274,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "loss-of-field protection",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "275": [
+    {
+      "title": "Diagnosing Sole Plates and Grout in Vertical Hydro Generators",
+      "publisher": "Kingsbury",
+      "url": "https://www.old.kingsbury.com/bearing-sole-plates",
+      "context": "水轮发电机支承底板的基础灌浆/重新灌浆有电力设备厂商的明确英文用例；grouting 此处仅在水力发电设备基础施工和维护语境中归入电力库，勿当作电气专用术语。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Sole plate grouting for vertical hydro generators; correct under foundation work",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 275,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "grout / grouting / re-grout sole plates",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "276": [
+    {
+      "title": "Single Phase, Isolated Transformer, 6.3 kVA — Specifications",
+      "publisher": "Schneider Electric",
+      "url": "https://eshop.se.com/sa/imd-it-s63-h-single-phase-isolated-transformer-6-3kva.html",
+      "context": "施耐德隔离变压器产品规格明确列出 No load voltage（232 V），可确认电力变压器参数语境的英文使用；不是所有设备的开路测量都与此一义项相同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Specifications: No load voltage (232 V)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 276,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "No load voltage",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
+    }
+  ],
+  "277": [
+    {
+      "title": "Experience, Improvements in Operation, Limitations, and Successes of an Ungrounded Distribution Network Protection Scheme",
+      "publisher": "SEL; Erroa, Cruz and Calero",
+      "url": "https://selinc.com/api/download/3418/",
+      "context": "SEL 保护技术论文印刷第3页直接使用 zero-sequence voltage component 和 zero-sequence voltage，属于继电保护专业英文用例；原 zero sequence voltage 建议规范连字符。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Section A, printed page 3: zero-sequence voltage component (59N)",
+      "page": 3,
+      "pageVerified": true,
+      "sourceTermId": 277,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "zero-sequence voltage component (59N)",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应",
+      "pageType": "printed",
+      "pdfPageIndex": 3
+    }
+  ],
+  "278": [
+    {
+      "title": "SEL-849 Motor Management Relay — Telemetry Functionality",
+      "publisher": "SEL",
+      "url": "https://selinc.com/products/849/?vidId=108814",
+      "context": "SEL-849 电动机保护装置在电力配电系统明确采用 telemetry 功能表述；remote measurement 可描述遥测测量，但不必与 telemetry 视为等值固定术语。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-08",
+      "locator": "Telemetry Functionality: monitoring, metering and control in distribution systems",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 278,
+      "sourcePartIndex": null,
+      "independentlyVerified": false,
+      "matchedEnglish": "Telemetry Functionality: monitoring, metering and control",
+      "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
     }
   ]
 }
