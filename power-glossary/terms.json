@@ -3873,453 +3873,806 @@
   },
   {
     "id": 279,
-    "en": "telecontrol / remote control",
+    "en": "remote control",
     "zh": "遥控",
-    "status": "已修订",
-    "note": "capture 误译。",
+    "status": "已修订（第七批）",
+    "note": "capture 误译。 电力监控“四遥”中的“遥控”优先 remote control；telecontrol 往往覆盖遥测、遥信、遥控等更广的远动系统，不宜无条件互换。",
     "sourceRow": 285,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.techniques-ingenieur.fr/en/resources/power-and-energy-th4/electricity-networks-and-applications-ti302/telecontrol-systems-for-substations-d4850/functions-of-a-telecontrol-system-2",
+      "https://library.e.abb.com/public/abd02f9b4f4247b8b1c7c322ad4d4456/REX615_iec103prot_2NGA001858_ENa.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "telecontrol / remote control",
+        "after": "remote control",
+        "basis": "电力监控“四遥”中的“遥控”优先 remote control；telecontrol 往往覆盖遥测、遥信、遥控等更广的远动系统，不宜无条件互换。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 280,
     "en": "remote signaling",
     "zh": "远处发信号",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "远处发信号为描述性短语；来源支持远动信号传送背景，但未找到该完整英文搭配的固定术语证据。",
     "sourceRow": 286,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.techniques-ingenieur.fr/en/resources/power-and-energy-th4/electricity-networks-and-applications-ti302/telecontrol-systems-for-substations-d4850/functions-of-a-telecontrol-system-2"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 281,
     "en": "reactance",
     "zh": "电抗",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "“电抗”可用 reactance；注意区别电抗器（reactor）。",
     "sourceRow": 287,
-    "referenceIds": []
+    "referenceIds": [
+      "https://cms-cdn.selinc.com/assets/Literature/Publications/Technical%20Papers/6779_NegativeSequence_NM_20170209_Web3.pdf?v=20171110-231733"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 282,
     "en": "real-time operating parameters",
     "zh": "实时运行参数",
-    "status": "已修订",
-    "note": "",
+    "status": "待补证",
+    "note": "尚无完整 real-time operating parameters 同项用例；仅有监控数据语境，需查设备运行参数界面。",
     "sourceRow": 288,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/abd02f9b4f4247b8b1c7c322ad4d4456/REX615_iec103prot_2NGA001858_ENa.pdf"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 283,
     "en": "asynchronous",
     "zh": "非同期(异步)",
-    "status": "待确认",
-    "note": "“非同期”不一定等于异步电机意义的 asynchronous；并列语境应核实。",
+    "status": "待核实原始语境",
+    "note": "“非同期”不一定等于异步电机意义的 asynchronous；并列语境应核实。 非同期（异步）可能指发电机失步、非同期并列或异步运行；不同语境对应 out-of-step、out-of-synchronism、asynchronous operation 等，不能仅用 asynchronous 定稿。",
     "sourceRow": 289,
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：暂无合格来源，待核实"
   },
   {
     "id": 284,
-    "en": "stator ventilating slot",
+    "en": "stator ventilation slots",
     "zh": "定子风槽",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "优先写 stator ventilation slots / ventilating slots in the stator core；原译 ventilating slot 可理解但应核对图纸是否为槽或风道。",
     "sourceRow": 290,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM%201110-2-3006_2024Apr22.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "stator ventilating slot",
+        "after": "stator ventilation slots",
+        "basis": "优先写 stator ventilation slots / ventilating slots in the stator core；原译 ventilating slot 可理解但应核对图纸是否为槽或风道。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 285,
-    "en": "short-circuit fault interruption",
+    "en": "short-circuit current interruption",
     "zh": "短路故障开断",
-    "status": "已修订",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "技术资料直接证实短路电流开断；“短路故障开断”若特指开关的开断能力，应与故障清除（fault clearing）区分。",
     "sourceRow": 291,
-    "referenceIds": []
+    "referenceIds": [
+      "https://new.abb.com/low-voltage/products/circuit-breakers/sace-infinitus-solid-state-circuit-breaker"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "short-circuit fault interruption",
+        "after": "short-circuit current interruption",
+        "basis": "技术资料直接证实短路电流开断；“短路故障开断”若特指开关的开断能力，应与故障清除（fault clearing）区分。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 286,
     "en": "electromagnetic operating mechanism",
     "zh": "电磁操作机构",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "ABB真空断路器部件图使用 electromagnetic operating mechanism。",
     "sourceRow": 292,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/ec670a5f650d4a519208dff8efb3a631/MA_VM1_A-P_1VCD601003-V8773%28EN%29B2022.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 287,
     "en": "secondary equipment",
     "zh": "二次设备",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "来源仅确认断路器二次回路相关部件，并非对 secondary equipment 全术语的直接支持。",
     "sourceRow": 293,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/fb0fb45e932e441a893f65be572f1074/DEH-50009%20SecoGear_5kV-15kV%20IEEE%20Metal-Clad%20Switchgear_Installation%2C%20operation%2C%20maintenance%20manual.pdf"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 288,
     "en": "secondary plug",
     "zh": "二次插头",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "ABB 开关柜故障排查明确写 Secondary plug。",
     "sourceRow": 294,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/fb0fb45e932e441a893f65be572f1074/DEH-50009%20SecoGear_5kV-15kV%20IEEE%20Metal-Clad%20Switchgear_Installation%2C%20operation%2C%20maintenance%20manual.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 289,
     "en": "mechanical interlocking",
     "zh": "机械闭锁",
-    "status": "已修订",
-    "note": "清理原文斜杠。",
+    "status": "已核查",
+    "note": "清理原文斜杠。 施耐德开关柜应用说明明确采用 mechanical interlocking。",
     "sourceRow": 295,
-    "referenceIds": []
+    "referenceIds": [
+      "https://productinfo.se.com/6045ib2401_hvlcc_mvme_switchgearib/6045ib2401-hvl-cc-mv-metal-enc-switchgear-ib/English/6045IB2401%20HVLcc%20MV%20Metal%20Encl%20Switchgear%20User%20Guide%20%28bookmap%29_0000211959.xml/%24/HVLCcGroundingSwitchApplication-988C0677"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 290,
-    "en": "maintenance-free lead-acid storage battery",
+    "en": "maintenance-free lead-acid battery",
     "zh": "免维护铅酸蓄电池",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "建议去掉 storage 等非必要冗余；特指阀控密封铅酸蓄电池时可使用 VRLA battery。",
     "sourceRow": 296,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.se.com/us/en/faqs/FA158828/"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "maintenance-free lead-acid storage battery",
+        "after": "maintenance-free lead-acid battery",
+        "basis": "建议去掉 storage 等非必要冗余；特指阀控密封铅酸蓄电池时可使用 VRLA battery。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 291,
-    "en": "cut-off voltage",
+    "en": "end-of-discharge voltage",
     "zh": "终止电压",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "蓄电池放电终止电压优先 end-of-discharge voltage；cut-off voltage 可作通用备选，但可能表示保护电路截止阈值。",
     "sourceRow": 297,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.vertiv.com/495b2c/globalassets/products/critical-power/uninterruptible-power-supplies-ups/liebert-exs-ups2/vertiv-liebert-exs-ups-user-manual-15-40-kva-sl-71126.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "cut-off voltage",
+        "after": "end-of-discharge voltage",
+        "basis": "蓄电池放电终止电压优先 end-of-discharge voltage；cut-off voltage 可作通用备选，但可能表示保护电路截止阈值。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 292,
-    "en": "lifting(jacking) oil pump",
+    "en": "jacking oil pump",
     "zh": "顶轴油泵",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "标准设备表达 jacking oil pump；lifting oil pump 可作解释性备选但不保留括号混写。",
     "sourceRow": 298,
-    "referenceIds": []
+    "referenceIds": [
+      "https://unene.ca/essentialcandu/pdf/8%20-%20Nuclear%20Plant%20Systems.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "lifting(jacking) oil pump",
+        "after": "jacking oil pump",
+        "basis": "标准设备表达 jacking oil pump；lifting oil pump 可作解释性备选但不保留括号混写。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 293,
     "en": "high frequency skid program",
     "zh": "高频模块方案",
-    "status": "待确认",
-    "note": "“高频模块方案”需工程上下文；原译 skid program 不可信。",
+    "status": "待核实原始语境",
+    "note": "“高频模块方案”需工程上下文；原译 skid program 不可信。 原译 high frequency skid program 无可靠依据；高频模块可能是高频开关整流充电模块，需提供设备型号及方案文档再定译。",
     "sourceRow": 299,
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：暂无合格来源，待核实"
   },
   {
     "id": 294,
     "en": "negative-sequence current",
     "zh": "负序电流",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "SEL保护论文直接出现 negative-sequence current。",
     "sourceRow": 300,
-    "referenceIds": []
+    "referenceIds": [
+      "https://cms-cdn.selinc.com/assets/Literature/Publications/Technical%20Papers/6779_NegativeSequence_NM_20170209_Web3.pdf?v=20171110-231733"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 295,
     "en": "impulse current",
     "zh": "冲击电流",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "冲击电流可指 inrush current、surge current 或 impulse current 等不同物理过程；ABB资料仅支持短路电流背景，尚不支持原译完整对应。",
     "sourceRow": 301,
-    "referenceIds": []
+    "referenceIds": [
+      "https://new.abb.com/low-voltage/products/circuit-breakers/sace-infinitus-solid-state-circuit-breaker"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 296,
     "en": "islanding / separation from the grid",
     "zh": "解列",
-    "status": "已修订",
-    "note": "具体是机组解列、系统解列时译法不同。",
+    "status": "待补证",
+    "note": "具体是机组解列、系统解列时译法不同。 机组解列可用 generator disconnection from the grid；分岛运行 islanding 与解列操作不完全等值，需按事故/调度语境判断。",
     "sourceRow": 302,
-    "referenceIds": []
+    "referenceIds": [
+      "https://technav.ieee.org/topic/synchronous-generator/"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 297,
     "en": "condensation",
     "zh": "结露",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "ABB开关柜运行条件明确讨论 condensation。",
     "sourceRow": 303,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/5ae8caa784d9400ab4b283a1116a0297/1VAL107003-TG_RevC_AdvanceAdvance27-TechGuide_digital.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 298,
-    "en": "dry-type transformer winding",
+    "en": "dry-type transformer windings",
     "zh": "干式变压器绕组",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "ABB资料明确说明干式变压器绕组，英文可用 dry-type transformer windings；复数依上下文处理。",
     "sourceRow": 304,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/497c37c064b942f2981ab7c1598288ab/42-45%20sr811_EN_72dpi%20v2.pdf.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "dry-type transformer winding",
+        "after": "dry-type transformer windings",
+        "basis": "ABB资料明确说明干式变压器绕组，英文可用 dry-type transformer windings；复数依上下文处理。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 299,
     "en": "oil-filled bushing",
     "zh": "充油套管",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "日立能源产品页面直接使用 oil-filled bushings。",
     "sourceRow": 305,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-for-ac-applications"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 300,
     "en": "voltage ratio",
     "zh": "电压比",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "变压器出厂试验明确使用 voltage ratio。",
     "sourceRow": 306,
-    "referenceIds": []
+    "referenceIds": [
+      "https://download.se.com/files?p_Doc_Ref=Minera_GMX_Manual&p_File_Name=MTOGM001_Manual_GMX_998-20885621_2020-05.pdf&p_enDocType=User+guide"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 301,
     "en": "internal impedance voltage drop",
     "zh": "内阻抗压降",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "出处支持阻抗及压降相关变压器试验背景，未找到 internal impedance voltage drop 的完整固定用法。",
     "sourceRow": 307,
-    "referenceIds": []
+    "referenceIds": [
+      "https://download.se.com/files?p_Doc_Ref=Minera_GMX_Manual&p_File_Name=MTOGM001_Manual_GMX_998-20885621_2020-05.pdf&p_enDocType=User+guide"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 302,
     "en": "natural oil circulation",
     "zh": "自然油循环",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "ABB历史技术文献直接使用 natural oil circulation；该术语在当前变压器冷却系统中仍应结合 ONAN 等冷却方式解释。",
     "sourceRow": 308,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/f90fb593e55343b5b99f078d03b6935e/bbc_mitteilungen_1931_e_11.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 303,
     "en": "magnetomotive force",
     "zh": "磁动势",
-    "status": "已修订",
-    "note": "原文“磁通势”不规范；按英文 magnetomotive force 校正。",
+    "status": "已核查",
+    "note": "原文“磁通势”不规范；按英文 magnetomotive force 校正。 磁动势标准英语为 magnetomotive force (MMF)；不应与 magnetic flux 互换。",
     "sourceRow": 309,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.allaboutcircuits.com/TEXTBOOK/alternating-current/chpt-9/mutual-inductance-and-basic-operation/"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 304,
     "en": "reactive load forecast curve",
     "zh": "无功负荷预报曲线",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "来源仅支持无功负荷预测概念；“预报曲线”这一组合未在来源中核实。",
     "sourceRow": 310,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.sciencedirect.com/science/article/pii/S1474667017346025"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 305,
     "en": "bearing liner",
     "zh": "轴瓦",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "BHEL汽轮机部件工程图直接使用 bearing liner，须与轴承座 bearing housing 区别。",
     "sourceRow": 311,
-    "referenceIds": []
+    "referenceIds": [
+      "https://tenders.bhel.com/sites/default/files/NIT-2023-10-12-06%3A39%3A07.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 306,
-    "en": "interlock trip",
+    "en": "intertripping",
     "zh": "联跳",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "保护装置间联跳常见 intertripping / direct transfer trip (DTT)；interlock trip 可能误指闭锁引起的跳闸。",
     "sourceRow": 312,
-    "referenceIds": []
+    "referenceIds": [
+      "https://selinc.com/products/9l"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "interlock trip",
+        "after": "intertripping",
+        "basis": "保护装置间联跳常见 intertripping / direct transfer trip (DTT)；interlock trip 可能误指闭锁引起的跳闸。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 307,
     "en": "parallel connection",
     "zh": "并接",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "并接在绕组、设备和电路图中可能指并联连接；来源没有完整 parallel connection 的直接用例，仅记录变压器连接语境。",
     "sourceRow": 313,
-    "referenceIds": []
+    "referenceIds": [
+      "https://acespex.se.com/rpt/prodhelp.php?doc=pms_0040&grp=spex_pms&host=AOE&ndx=12128"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 308,
     "en": "separately excited rotating silicon rectifier",
     "zh": "他励旋转硅整流器",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "“他励旋转硅整流器”的结构可能涉及独立励磁和旋转整流组件，未查到完整组合；保留原译待设备图确认。",
     "sourceRow": 314,
-    "referenceIds": []
+    "referenceIds": [
+      "https://technav.ieee.org/topic/synchronous-generator/"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 309,
-    "en": "radial air duct",
+    "en": "radial ventilation duct",
     "zh": "径向风道",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "发电机冷却风道常用 radial ventilation duct；air duct 适用但较泛。",
     "sourceRow": 315,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.mdpi.com/1996-1073/12/18/3442"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "radial air duct",
+        "after": "radial ventilation duct",
+        "basis": "发电机冷却风道常用 radial ventilation duct；air duct 适用但较泛。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 310,
     "en": "self-shunt static excitation system",
     "zh": "自并励静止励磁系统",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "UNIDO/INSHP 指南 §13.3、印刷第34页支持该技术系统；原词为简化表达，必要时可加 silicon-controlled。",
     "sourceRow": 316,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2019-11/P6-2_DES_002-6-2.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 311,
     "en": "slot wedge",
     "zh": "槽楔",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "西门子能源监测文献直接使用 stator slot wedge。",
     "sourceRow": 317,
-    "referenceIds": []
+    "referenceIds": [
+      "https://assets.siemens-energy.com/dam/49dbe3bf-99f6-459b-ace5-b058007ce662/Online-Monitoring-PowerGen-pdf_Original%20file.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 312,
-    "en": "axial (flow) fan",
+    "en": "axial-flow fan",
     "zh": "轴流风扇",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "GE 发电机转子图及专利资料均使用 axial fan / axial flow fan；英文连字符作定语时视句法调整。",
     "sourceRow": 318,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/reference/ger-4212-ge-generator-rotor-design-operational-issues-refurb-options.pdf",
+      "https://patents.google.com/patent/US6791232B2/en"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "axial (flow) fan",
+        "after": "axial-flow fan",
+        "basis": "GE 发电机转子图及专利资料均使用 axial fan / axial flow fan；英文连字符作定语时视句法调整。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 313,
     "en": "EMF waveform",
     "zh": "电势波形",
-    "status": "已修订",
-    "note": "",
+    "status": "待补证",
+    "note": "来源有 EMF 与 waveform 用例，但未核实复合词 EMF waveform 的标准名称及图形含义。",
     "sourceRow": 319,
-    "referenceIds": []
+    "referenceIds": [
+      "https://pubmed.ncbi.nlm.nih.gov/19256668/"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 314,
     "en": "sub-slot ventilation",
     "zh": "通风副槽",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "原词“通风副槽”是否专指转子绕组下的 ventilation subslot 需核图纸；来源仅提供相关结构。",
     "sourceRow": 320,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US20060279145A1/en",
+      "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/reference/ger-4212-ge-generator-rotor-design-operational-issues-refurb-options.pdf"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 315,
     "en": "coil insertion",
     "zh": "嵌线",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "电机定子嵌线工艺在专利说明中明确称 coil insertion。",
     "sourceRow": 321,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US5022139A/en"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 316,
     "en": "radial wire-inserting slot",
     "zh": "径向嵌线槽",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "只能证实槽内嵌线及径向方向，未核实完整“径向嵌线槽”的专有英文名称；自动翻译专利不作直接标准译名。",
     "sourceRow": 322,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/JP2025030755A/en"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 317,
     "en": "rigid-flexible structure",
     "zh": "刚-柔结构",
-    "status": "已核对",
-    "note": "",
+    "status": "待核实原始语境",
+    "note": "刚—柔结构仅见中文描述，未查到发电机特定部件定型英文，需图纸确认指刚柔连接还是刚柔耦合。",
     "sourceRow": 323,
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：暂无合格来源，待核实"
   },
   {
     "id": 318,
     "en": "axial slip layer",
     "zh": "轴向滑移层",
-    "status": "已修订",
-    "note": "",
+    "status": "待补证",
+    "note": "EPRI讨论绕组槽中的滑移面和热位移，但并未直接证实 axial slip layer 这一完整词组。",
     "sourceRow": 324,
-    "referenceIds": []
+    "referenceIds": [
+      "https://restservice.epri.com/publicdownload/000000000001008351/0/Product"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 319,
     "en": "insulating spacer block",
     "zh": "绝缘垫块",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "电气绕组专利说明直接出现 insulating spacer blocks；依数目用单/复数。",
     "sourceRow": 325,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/US4477791"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 320,
     "en": "conformable material",
     "zh": "适形材料",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "EPRI报告明确出现 conformable material；具体是否为适形衬垫等按结构用途备注。",
     "sourceRow": 326,
-    "referenceIds": []
+    "referenceIds": [
+      "https://restservice.epri.com/publicdownload/000000000001008351/0/Product"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 321,
     "en": "insulation to ground",
     "zh": "对地绝缘",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "Fluke电机绝缘测试资料使用 insulation to ground；用于电阻检测时宜具体写 insulation resistance to ground。",
     "sourceRow": 327,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/insulation-testers/reduce-motor-downtime-with-sequential-insulation-resistance-tests"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 322,
-    "en": "iron core vibration",
+    "en": "core vibration",
     "zh": "铁芯振动",
-    "status": "已核对",
-    "note": "",
+    "status": "已修订（第七批）",
+    "note": "电力变压器研究直接使用 core vibration；中文铁芯振动若指定子铁芯，需另注明适用设备。",
     "sourceRow": 328,
-    "referenceIds": []
+    "referenceIds": [
+      "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/hve2.70035"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.7",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "iron core vibration",
+        "after": "core vibration",
+        "basis": "电力变压器研究直接使用 core vibration；中文铁芯振动若指定子铁芯，需另注明适用设备。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 323,
     "en": "diamagnetism",
     "zh": "抗磁性",
-    "status": "已核对",
-    "note": "",
+    "status": "待补证",
+    "note": "文献为 diamagnetic（抗磁的）材料性质应用场景，并非直接界定中文“抗磁性”或电力设备术语；需区分抗磁性 diamagnetism 与抗磁力结构。",
     "sourceRow": 329,
-    "referenceIds": []
+    "referenceIds": [
+      "https://pubmed.ncbi.nlm.nih.gov/19256668/"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：只有背景/部分依据，未确认完整译法"
   },
   {
     "id": 324,
     "en": "external pressure",
     "zh": "外压",
-    "status": "已修订",
-    "note": "原译 voltage 与“压”在本结构语境不符，仍应核对设计图。",
+    "status": "待核实原始语境",
+    "note": "原译 voltage 与“压”在本结构语境不符，仍应核对设计图。 外压为通用工程压力，与原译 voltage 不同；尚无该词条原始结构图或确切对象，暂不作定型电力术语。",
     "sourceRow": 330,
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：暂无合格来源，待核实"
   },
   {
     "id": 325,
     "en": "internal pressure",
     "zh": "内压",
-    "status": "已修订",
-    "note": "原译 voltage 与“压”在本结构语境不符，仍应核对设计图。",
+    "status": "待核实原始语境",
+    "note": "原译 voltage 与“压”在本结构语境不符，仍应核对设计图。 内压的机械压强与电压不可混用；尚无原始部件图说明“内压”指哪一项。",
     "sourceRow": 331,
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：暂无合格来源，待核实"
   },
   {
     "id": 326,
     "en": "high magnetic permeability",
     "zh": "高导磁",
-    "status": "已修订",
-    "note": "",
+    "status": "已核查",
+    "note": "电工钢厂家说明使用 high permeability grades；推荐高导磁 = high magnetic permeability，属于材料性质。",
     "sourceRow": 332,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.thyssenkrupp-steel.com/en/products/electrical-steel/electrical-steel-non-grain-oriented/powercore-pp/powercore-pp.html"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 327,
     "en": "relative motion",
     "zh": "相对运动",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "EPRI明确讨论定子线棒与铁芯之间的 relative thermal movement；范围限热位移语境。",
     "sourceRow": 333,
-    "referenceIds": []
+    "referenceIds": [
+      "https://restservice.epri.com/publicdownload/000000000001008351/0/Product"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 328,
     "en": "retaining ring",
     "zh": "护环",
-    "status": "已核对",
-    "note": "",
+    "status": "已核查",
+    "note": "GE发电机转子技术报告明确使用 retaining ring。",
     "sourceRow": 334,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/reference/ger-4212-ge-generator-rotor-design-operational-issues-refurb-options.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch007",
+    "verificationStatus": "第七批：已核实专业英文用例，非双语直对"
   },
   {
     "id": 329,

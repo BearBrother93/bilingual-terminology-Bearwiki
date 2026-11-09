@@ -6715,5 +6715,911 @@
       "matchedEnglish": "Telemetry Functionality: monitoring, metering and control",
       "sourceMethod": "公开页面或网页检索；按证据等级区分英语用例与概念背景；不视为中文-英文直接对应"
     }
+  ],
+  "279": [
+    {
+      "title": "Functions of a Telecontrol System",
+      "publisher": "Techniques de l’Ingénieur",
+      "url": "https://www.techniques-ingenieur.fr/en/resources/power-and-energy-th4/electricity-networks-and-applications-ti302/telecontrol-systems-for-substations-d4850/functions-of-a-telecontrol-system-2",
+      "context": "电力监控“四遥”中的“遥控”优先 remote control；telecontrol 往往覆盖遥测、遥信、遥控等更广的远动系统，不宜无条件互换。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Section 2; IEC telecontrol definition",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 279,
+      "independentlyVerified": true,
+      "matchedEnglish": "IEC telecontrol definition; remote control, signalling",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    },
+    {
+      "title": "REX615 IEC 60870-5-103 Communication Protocol Manual",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/abd02f9b4f4247b8b1c7c322ad4d4456/REX615_iec103prot_2NGA001858_ENa.pdf",
+      "context": "电力监控“四遥”中的“遥控”优先 remote control；telecontrol 往往覆盖遥测、遥信、遥控等更广的远动系统，不宜无条件互换。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.3.4.3",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 279,
+      "independentlyVerified": true,
+      "matchedEnglish": "remote control operation; remote command",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "280": [
+    {
+      "title": "Functions of a Telecontrol System",
+      "publisher": "Techniques de l’Ingénieur",
+      "url": "https://www.techniques-ingenieur.fr/en/resources/power-and-energy-th4/electricity-networks-and-applications-ti302/telecontrol-systems-for-substations-d4850/functions-of-a-telecontrol-system-2",
+      "context": "远处发信号为描述性短语；来源支持远动信号传送背景，但未找到该完整英文搭配的固定术语证据。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Section 2; IEC telecontrol definition",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 280,
+      "independentlyVerified": true,
+      "matchedEnglish": "signalling / remote information",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "281": [
+    {
+      "title": "Negative-Sequence Overcurrent Considerations for Induction Motor Loads",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://cms-cdn.selinc.com/assets/Literature/Publications/Technical%20Papers/6779_NegativeSequence_NM_20170209_Web3.pdf?v=20171110-231733",
+      "context": "“电抗”可用 reactance；注意区别电抗器（reactor）。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Section III; equivalent-circuit discussion",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 281,
+      "independentlyVerified": true,
+      "matchedEnglish": "magnetizing reactance / negative-sequence reactance",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "282": [
+    {
+      "title": "REX615 IEC 60870-5-103 Communication Protocol Manual",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/abd02f9b4f4247b8b1c7c322ad4d4456/REX615_iec103prot_2NGA001858_ENa.pdf",
+      "context": "尚无完整 real-time operating parameters 同项用例；仅有监控数据语境，需查设备运行参数界面。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.3.4.3",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 282,
+      "independentlyVerified": true,
+      "matchedEnglish": "remote monitoring / control data",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "284": [
+    {
+      "title": "EM 1110-2-3006: Mechanical and Electrical Design of Hydroelectric Power Plants",
+      "publisher": "U.S. Army Corps of Engineers",
+      "url": "https://www.publications.usace.army.mil/Portals/76/Publications/EngineerManuals/EM%201110-2-3006_2024Apr22.pdf",
+      "context": "优先写 stator ventilation slots / ventilating slots in the stator core；原译 ventilating slot 可理解但应核对图纸是否为槽或风道。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Closed Cooling Systems (do not infer a page number)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 284,
+      "independentlyVerified": true,
+      "matchedEnglish": "ventilating slots in the stator core",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "285": [
+    {
+      "title": "SACE Infinitus—Solid-State Circuit Breaker",
+      "publisher": "ABB",
+      "url": "https://new.abb.com/low-voltage/products/circuit-breakers/sace-infinitus-solid-state-circuit-breaker",
+      "context": "技术资料直接证实短路电流开断；“短路故障开断”若特指开关的开断能力，应与故障清除（fault clearing）区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Bidirectional protection; circuit interruption",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 285,
+      "independentlyVerified": true,
+      "matchedEnglish": "interruption of short-circuit currents",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "286": [
+    {
+      "title": "VM1 Circuit Breaker, electromagnetic operating mechanism",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/ec670a5f650d4a519208dff8efb3a631/MA_VM1_A-P_1VCD601003-V8773%28EN%29B2022.pdf",
+      "context": "ABB真空断路器部件图使用 electromagnetic operating mechanism。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Figure 10b (unverified PDF page)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 286,
+      "independentlyVerified": true,
+      "matchedEnglish": "electromagnetic operating mechanism",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "287": [
+    {
+      "title": "SecoGear Installation, Operation and Maintenance Manual",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/fb0fb45e932e441a893f65be572f1074/DEH-50009%20SecoGear_5kV-15kV%20IEEE%20Metal-Clad%20Switchgear_Installation%2C%20operation%2C%20maintenance%20manual.pdf",
+      "context": "来源仅确认断路器二次回路相关部件，并非对 secondary equipment 全术语的直接支持。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Circuit breaker troubleshooting, Table 10-1 (printed p.54 displayed in indexed text; no independent screenshot verification)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 287,
+      "independentlyVerified": true,
+      "matchedEnglish": "secondary plug; breaker secondary circuit",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "288": [
+    {
+      "title": "SecoGear Installation, Operation and Maintenance Manual",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/fb0fb45e932e441a893f65be572f1074/DEH-50009%20SecoGear_5kV-15kV%20IEEE%20Metal-Clad%20Switchgear_Installation%2C%20operation%2C%20maintenance%20manual.pdf",
+      "context": "ABB 开关柜故障排查明确写 Secondary plug。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Circuit breaker troubleshooting, Table 10-1 (printed p.54 displayed in indexed text; no independent screenshot verification)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 288,
+      "independentlyVerified": true,
+      "matchedEnglish": "secondary plug",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "289": [
+    {
+      "title": "HVL/cc Grounding Switch Application—Duplex Switch Interlocking",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/6045ib2401_hvlcc_mvme_switchgearib/6045ib2401-hvl-cc-mv-metal-enc-switchgear-ib/English/6045IB2401%20HVLcc%20MV%20Metal%20Encl%20Switchgear%20User%20Guide%20%28bookmap%29_0000211959.xml/%24/HVLCcGroundingSwitchApplication-988C0677",
+      "context": "施耐德开关柜应用说明明确采用 mechanical interlocking。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Duplex Switch Interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 289,
+      "independentlyVerified": true,
+      "matchedEnglish": "mechanical interlocking",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "290": [
+    {
+      "title": "APC Smart-UPS Battery Material Information",
+      "publisher": "Schneider Electric",
+      "url": "https://www.se.com/us/en/faqs/FA158828/",
+      "context": "建议去掉 storage 等非必要冗余；特指阀控密封铅酸蓄电池时可使用 VRLA battery。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Battery construction/chemistry",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 290,
+      "independentlyVerified": true,
+      "matchedEnglish": "maintenance-free lead acid batteries",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "291": [
+    {
+      "title": "Liebert EXS External Battery Cabinet Installer/User Guide",
+      "publisher": "Vertiv",
+      "url": "https://www.vertiv.com/495b2c/globalassets/products/critical-power/uninterruptible-power-supplies-ups/liebert-exs-ups2/vertiv-liebert-exs-ups-user-manual-15-40-kva-sl-71126.pdf",
+      "context": "蓄电池放电终止电压优先 end-of-discharge voltage；cut-off voltage 可作通用备选，但可能表示保护电路截止阈值。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.8.2 Battery End-of-Discharge Protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 291,
+      "independentlyVerified": true,
+      "matchedEnglish": "end-of-discharge voltage",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "292": [
+    {
+      "title": "The Essential CANDU—Nuclear Plant Systems",
+      "publisher": "University Network of Excellence in Nuclear Engineering",
+      "url": "https://unene.ca/essentialcandu/pdf/8%20-%20Nuclear%20Plant%20Systems.pdf",
+      "context": "标准设备表达 jacking oil pump；lifting oil pump 可作解释性备选但不保留括号混写。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Chapter 8: turbine lubricating oil system",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 292,
+      "independentlyVerified": true,
+      "matchedEnglish": "jacking oil pumps",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "294": [
+    {
+      "title": "Negative-Sequence Overcurrent Considerations for Induction Motor Loads",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://cms-cdn.selinc.com/assets/Literature/Publications/Technical%20Papers/6779_NegativeSequence_NM_20170209_Web3.pdf?v=20171110-231733",
+      "context": "SEL保护论文直接出现 negative-sequence current。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Section III; equivalent-circuit discussion",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 294,
+      "independentlyVerified": true,
+      "matchedEnglish": "negative-sequence current",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "295": [
+    {
+      "title": "SACE Infinitus—Solid-State Circuit Breaker",
+      "publisher": "ABB",
+      "url": "https://new.abb.com/low-voltage/products/circuit-breakers/sace-infinitus-solid-state-circuit-breaker",
+      "context": "冲击电流可指 inrush current、surge current 或 impulse current 等不同物理过程；ABB资料仅支持短路电流背景，尚不支持原译完整对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Bidirectional protection; circuit interruption",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 295,
+      "independentlyVerified": true,
+      "matchedEnglish": "short-circuit currents",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "296": [
+    {
+      "title": "Synchronous Generator—Construction and Working Principle",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/synchronous-generator/",
+      "context": "机组解列可用 generator disconnection from the grid；分岛运行 islanding 与解列操作不完全等值，需按事故/调度语境判断。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Construction and Excitation Systems",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 296,
+      "independentlyVerified": true,
+      "matchedEnglish": "islanding / generator and grid operation",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "297": [
+    {
+      "title": "Advance and Advance 27 Technical and Application Guide",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/5ae8caa784d9400ab4b283a1116a0297/1VAL107003-TG_RevC_AdvanceAdvance27-TechGuide_digital.pdf",
+      "context": "ABB开关柜运行条件明确讨论 condensation。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Normal operating conditions and service conditions",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 297,
+      "independentlyVerified": true,
+      "matchedEnglish": "condensation",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "298": [
+    {
+      "title": "ABB Review Special Report—Transformers in Renewable Applications",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/497c37c064b942f2981ab7c1598288ab/42-45%20sr811_EN_72dpi%20v2.pdf.pdf",
+      "context": "ABB资料明确说明干式变压器绕组，英文可用 dry-type transformer windings；复数依上下文处理。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Dry transformers; figure 03 (composite phrase not necessarily verbatim)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 298,
+      "independentlyVerified": true,
+      "matchedEnglish": "dry-type transformer; windings",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "299": [
+    {
+      "title": "Bushings for AC Applications",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/insulation-and-components/transformer-insulation-components/transformer-bushings/bushings-for-ac-applications",
+      "context": "日立能源产品页面直接使用 oil-filled bushings。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Bushings for AC applications",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 299,
+      "independentlyVerified": true,
+      "matchedEnglish": "oil-filled bushings",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "300": [
+    {
+      "title": "Minera GMX Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://download.se.com/files?p_Doc_Ref=Minera_GMX_Manual&p_File_Name=MTOGM001_Manual_GMX_998-20885621_2020-05.pdf&p_enDocType=User+guide",
+      "context": "变压器出厂试验明确使用 voltage ratio。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§7.1 Routine Tests",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 300,
+      "independentlyVerified": true,
+      "matchedEnglish": "measurement of voltage ratio",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "301": [
+    {
+      "title": "Minera GMX Manual",
+      "publisher": "Schneider Electric",
+      "url": "https://download.se.com/files?p_Doc_Ref=Minera_GMX_Manual&p_File_Name=MTOGM001_Manual_GMX_998-20885621_2020-05.pdf&p_enDocType=User+guide",
+      "context": "出处支持阻抗及压降相关变压器试验背景，未找到 internal impedance voltage drop 的完整固定用法。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "§7.1 Routine Tests",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 301,
+      "independentlyVerified": true,
+      "matchedEnglish": "short-circuit impedance / winding resistance",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "302": [
+    {
+      "title": "Tests on Transformer Radiators with Natural and Forced Air-Cooling",
+      "publisher": "Brown Boveri Review (ABB archive)",
+      "url": "https://library.e.abb.com/public/f90fb593e55343b5b99f078d03b6935e/bbc_mitteilungen_1931_e_11.pdf",
+      "context": "ABB历史技术文献直接使用 natural oil circulation；该术语在当前变压器冷却系统中仍应结合 ONAN 等冷却方式解释。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Introduction",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 302,
+      "independentlyVerified": true,
+      "matchedEnglish": "natural oil circulation",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "303": [
+    {
+      "title": "Mutual Inductance and Basic Operation—Transformers",
+      "publisher": "All About Circuits",
+      "url": "https://www.allaboutcircuits.com/TEXTBOOK/alternating-current/chpt-9/mutual-inductance-and-basic-operation/",
+      "context": "磁动势标准英语为 magnetomotive force (MMF)；不应与 magnetic flux 互换。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Magnetomotive Force",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 303,
+      "independentlyVerified": true,
+      "matchedEnglish": "magnetomotive force",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "304": [
+    {
+      "title": "Short-Term Reactive Power Load Forecasting Using Multiple Time-Series Model",
+      "publisher": "IFAC Proceedings Volumes (Elsevier)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1474667017346025",
+      "context": "来源仅支持无功负荷预测概念；“预报曲线”这一组合未在来源中核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 304,
+      "independentlyVerified": true,
+      "matchedEnglish": "short-term reactive power load forecasting",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "305": [
+    {
+      "title": "Bearing Liner—Steam Turbine Technical Drawing",
+      "publisher": "Bharat Heavy Electricals Ltd.",
+      "url": "https://tenders.bhel.com/sites/default/files/NIT-2023-10-12-06%3A39%3A07.pdf",
+      "context": "BHEL汽轮机部件工程图直接使用 bearing liner，须与轴承座 bearing housing 区别。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Drawing No. 1-11703-27110",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 305,
+      "independentlyVerified": true,
+      "matchedEnglish": "BEARING LINER",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "306": [
+    {
+      "title": "SEL-9L Line Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/9l",
+      "context": "保护装置间联跳常见 intertripping / direct transfer trip (DTT)；interlock trip 可能误指闭锁引起的跳闸。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Communications-Assisted Tripping",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 306,
+      "independentlyVerified": true,
+      "matchedEnglish": "intertripping direct transfer trip (DTT)",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "307": [
+    {
+      "title": "Transformers (Padmount)—Taps / Tap Changer",
+      "publisher": "Schneider Electric",
+      "url": "https://acespex.se.com/rpt/prodhelp.php?doc=pms_0040&grp=spex_pms&host=AOE&ndx=12128",
+      "context": "并接在绕组、设备和电路图中可能指并联连接；来源没有完整 parallel connection 的直接用例，仅记录变压器连接语境。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Taps / Tap Changer",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 307,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer tap/ratio connection context",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "308": [
+    {
+      "title": "Synchronous Generator—Construction and Working Principle",
+      "publisher": "IEEE Technology Navigator",
+      "url": "https://technav.ieee.org/topic/synchronous-generator/",
+      "context": "“他励旋转硅整流器”的结构可能涉及独立励磁和旋转整流组件，未查到完整组合；保留原译待设备图确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Construction and Excitation Systems",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 308,
+      "independentlyVerified": true,
+      "matchedEnglish": "rotating rectifier / excitation system",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "309": [
+    {
+      "title": "Sensitivity of Axial Velocity at the Air Gap Entrance to Flow Rate Distribution at Stator Radial Ventilation Ducts",
+      "publisher": "Energies (MDPI)",
+      "url": "https://www.mdpi.com/1996-1073/12/18/3442",
+      "context": "发电机冷却风道常用 radial ventilation duct；air duct 适用但较泛。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract; stator radial ventilation ducts",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 309,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator radial ventilation ducts",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "310": [
+    {
+      "title": "Technical Guidelines for the Development of Small Hydropower Plants—Design, Part 6-2: Electrical System",
+      "publisher": "UNIDO / INSHP",
+      "url": "https://www.unido.org/sites/default/files/files/2019-11/P6-2_DES_002-6-2.pdf",
+      "context": "UNIDO/INSHP 指南 §13.3、印刷第34页支持该技术系统；原词为简化表达，必要时可加 silicon-controlled。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§13.3; printed p.34, PDF page index 41",
+      "page": 34,
+      "pageVerified": true,
+      "sourceTermId": 310,
+      "independentlyVerified": true,
+      "matchedEnglish": "self-shunt static silicon-controlled excitation system",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "311": [
+    {
+      "title": "Online Monitoring Power Generation—Technical Documentation",
+      "publisher": "Siemens Energy",
+      "url": "https://assets.siemens-energy.com/dam/49dbe3bf-99f6-459b-ace5-b058007ce662/Online-Monitoring-PowerGen-pdf_Original%20file.pdf",
+      "context": "西门子能源监测文献直接使用 stator slot wedge。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§5.1 ISC Sensors—Flux Probes",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 311,
+      "independentlyVerified": true,
+      "matchedEnglish": "stator slot wedge",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "312": [
+    {
+      "title": "GE Generator Rotor Design, Operational Issues, and Refurbishment Options (GER-4212)",
+      "publisher": "GE Power Systems / GE Vernova",
+      "url": "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/reference/ger-4212-ge-generator-rotor-design-operational-issues-refurb-options.pdf",
+      "context": "GE 发电机转子图及专利资料均使用 axial fan / axial flow fan；英文连字符作定语时视句法调整。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Fig. 2, Fig. 14 and related sections",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 312,
+      "independentlyVerified": true,
+      "matchedEnglish": "retaining ring; axial fan; subslot cover; slot wedge; relative motion",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    },
+    {
+      "title": "Generator gas shield and related method",
+      "publisher": "Google Patents, US6791232B2",
+      "url": "https://patents.google.com/patent/US6791232B2/en",
+      "context": "GE 发电机转子图及专利资料均使用 axial fan / axial flow fan；英文连字符作定语时视句法调整。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Background and description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 312,
+      "independentlyVerified": true,
+      "matchedEnglish": "axial flow fan",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "313": [
+    {
+      "title": "Electric generator using a triangular diamagnetic levitating rotor system",
+      "publisher": "Review of Scientific Instruments (PubMed record)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19256668/",
+      "context": "来源有 EMF 与 waveform 用例，但未核实复合词 EMF waveform 的标准名称及图形含义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 313,
+      "independentlyVerified": true,
+      "matchedEnglish": "EMF; waveforms",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "314": [
+    {
+      "title": "Cooling system for an electrical machine with center rotor cooling ducts",
+      "publisher": "Google Patents, US20060279145A1",
+      "url": "https://patents.google.com/patent/US20060279145A1/en",
+      "context": "原词“通风副槽”是否专指转子绕组下的 ventilation subslot 需核图纸；来源仅提供相关结构。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Definitions / background",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 314,
+      "independentlyVerified": true,
+      "matchedEnglish": "subslots; radial cooling ducts",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    },
+    {
+      "title": "GE Generator Rotor Design, Operational Issues, and Refurbishment Options (GER-4212)",
+      "publisher": "GE Power Systems / GE Vernova",
+      "url": "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/reference/ger-4212-ge-generator-rotor-design-operational-issues-refurb-options.pdf",
+      "context": "原词“通风副槽”是否专指转子绕组下的 ventilation subslot 需核图纸；来源仅提供相关结构。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Fig. 2, Fig. 14 and related sections",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 314,
+      "independentlyVerified": true,
+      "matchedEnglish": "retaining ring; axial fan; subslot cover; slot wedge; relative motion",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "315": [
+    {
+      "title": "Method of inserting a stator winding into a stator",
+      "publisher": "Google Patents, US5022139A",
+      "url": "https://patents.google.com/patent/US5022139A/en",
+      "context": "电机定子嵌线工艺在专利说明中明确称 coil insertion。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Description; definition of coil insertion",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 315,
+      "independentlyVerified": true,
+      "matchedEnglish": "coil insertion",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "316": [
+    {
+      "title": "Coil insertion device and stator manufacturing method",
+      "publisher": "Google Patents, JP2025030755A; auto-translated English",
+      "url": "https://patents.google.com/patent/JP2025030755A/en",
+      "context": "只能证实槽内嵌线及径向方向，未核实完整“径向嵌线槽”的专有英文名称；自动翻译专利不作直接标准译名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Figure 1; machine translation—low confidence for composite term",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 316,
+      "independentlyVerified": true,
+      "matchedEnglish": "coil insertion; radial direction; slots",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "318": [
+    {
+      "title": "Effects of Flexible Operation on Turbines and Generators (1008351)",
+      "publisher": "Electric Power Research Institute",
+      "url": "https://restservice.epri.com/publicdownload/000000000001008351/0/Product",
+      "context": "EPRI讨论绕组槽中的滑移面和热位移，但并未直接证实 axial slip layer 这一完整词组。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "§4, Slip Planes; exact page not independently checked",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 318,
+      "independentlyVerified": true,
+      "matchedEnglish": "slip planes; relative thermal movement",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "319": [
+    {
+      "title": "Spacer block pattern for electrical inductive apparatus",
+      "publisher": "Google Patents, US4477791",
+      "url": "https://patents.google.com/patent/US4477791",
+      "context": "电气绕组专利说明直接出现 insulating spacer blocks；依数目用单/复数。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 319,
+      "independentlyVerified": true,
+      "matchedEnglish": "insulating spacer blocks",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "320": [
+    {
+      "title": "Effects of Flexible Operation on Turbines and Generators (1008351)",
+      "publisher": "Electric Power Research Institute",
+      "url": "https://restservice.epri.com/publicdownload/000000000001008351/0/Product",
+      "context": "EPRI报告明确出现 conformable material；具体是否为适形衬垫等按结构用途备注。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§4, Slip Planes; exact page not independently checked",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 320,
+      "independentlyVerified": true,
+      "matchedEnglish": "conformable material",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "321": [
+    {
+      "title": "Reduce Motor Downtime: Sequential Insulation Resistance Tests",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/insulation-testers/reduce-motor-downtime-with-sequential-insulation-resistance-tests",
+      "context": "Fluke电机绝缘测试资料使用 insulation to ground；用于电阻检测时宜具体写 insulation resistance to ground。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Insulation testing; winding resistance phase to ground",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 321,
+      "independentlyVerified": true,
+      "matchedEnglish": "insulation to ground / phase to ground insulation test",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "322": [
+    {
+      "title": "Analysis of vibration evolution and propagation characteristics due to mechanical degradation in transformer iron cores",
+      "publisher": "High Voltage (IET / Wiley)",
+      "url": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/hve2.70035",
+      "context": "电力变压器研究直接使用 core vibration；中文铁芯振动若指定子铁芯，需另注明适用设备。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 322,
+      "independentlyVerified": true,
+      "matchedEnglish": "core vibration",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "323": [
+    {
+      "title": "Electric generator using a triangular diamagnetic levitating rotor system",
+      "publisher": "Review of Scientific Instruments (PubMed record)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19256668/",
+      "context": "文献为 diamagnetic（抗磁的）材料性质应用场景，并非直接界定中文“抗磁性”或电力设备术语；需区分抗磁性 diamagnetism 与抗磁力结构。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract; narrower usage than material property diamagnetism",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 323,
+      "independentlyVerified": true,
+      "matchedEnglish": "diamagnetic levitating rotor",
+      "auditBatch": "batch007",
+      "verificationLimit": "C级仅有部分术语或概念背景；不支持完整复合词的定稿",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "326": [
+    {
+      "title": "powercore PP high permeability grades",
+      "publisher": "thyssenkrupp Steel",
+      "url": "https://www.thyssenkrupp-steel.com/en/products/electrical-steel/electrical-steel-non-grain-oriented/powercore-pp/powercore-pp.html",
+      "context": "电工钢厂家说明使用 high permeability grades；推荐高导磁 = high magnetic permeability，属于材料性质。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Product description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 326,
+      "independentlyVerified": true,
+      "matchedEnglish": "high permeability grades",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "327": [
+    {
+      "title": "Effects of Flexible Operation on Turbines and Generators (1008351)",
+      "publisher": "Electric Power Research Institute",
+      "url": "https://restservice.epri.com/publicdownload/000000000001008351/0/Product",
+      "context": "EPRI明确讨论定子线棒与铁芯之间的 relative thermal movement；范围限热位移语境。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§4, Slip Planes; exact page not independently checked",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 327,
+      "independentlyVerified": true,
+      "matchedEnglish": "relative thermal movement",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "328": [
+    {
+      "title": "GE Generator Rotor Design, Operational Issues, and Refurbishment Options (GER-4212)",
+      "publisher": "GE Power Systems / GE Vernova",
+      "url": "https://www.gevernova.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/reference/ger-4212-ge-generator-rotor-design-operational-issues-refurb-options.pdf",
+      "context": "GE发电机转子技术报告明确使用 retaining ring。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Fig. 2, Fig. 14 and related sections",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 328,
+      "independentlyVerified": true,
+      "matchedEnglish": "retaining ring",
+      "auditBatch": "batch007",
+      "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
+      "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
   ]
 }
