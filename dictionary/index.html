@@ -2,36 +2,36 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="维基熊通用英汉词典：按词性显示多条英文释义、中文辅助解释、音标、发音与例句。">
+<meta name="description" content="维基熊通用英汉词典：免费英语词典：按词性浏览英文释义、音标、发音和例句，词条概览完全由现有数据生成。">
 <meta name="theme-color" content="#12645e">
 <link rel="icon" type="image/svg+xml" href="../assets/bearwiki-mark.svg">
-<title>通用英汉词典｜维基熊 BearWiki</title>
-<link rel="stylesheet" href="./style.css?v=1.2.1">
-<script src="./app.js?v=1.2.1" defer></script>
+<title>通用英语词典｜维基熊 BearWiki</title>
+<link rel="stylesheet" href="./style.css?v=1.2.2">
+<script src="./app.js?v=1.2.2" defer></script>
 </head>
 <body>
 <header class="sitehead"><div class="wrap nav">
-<a class="brand" href="../" target="_blank" rel="noopener noreferrer"><img src="../assets/bearwiki-mark.svg" alt=""><span><strong>维基熊 BearWiki</strong><small>GENERAL ENGLISH–CHINESE DICTIONARY</small></span></a>
+<a class="brand" href="../" target="_blank" rel="noopener noreferrer"><img src="../assets/bearwiki-mark.svg" alt=""><span><strong>维基熊 BearWiki</strong><small>GENERAL ENGLISH DICTIONARY</small></span></a>
 <nav aria-label="站点导航"><a href="../" target="_blank" rel="noopener noreferrer">首页</a><a class="active" href="./" aria-current="page">通用词典</a><a href="../glossaries/" target="_blank" rel="noopener noreferrer">英中术语</a><a href="../entertainment/horizon-riders/" target="_blank" rel="noopener noreferrer">娱乐</a></nav>
 </div></header>
 <main class="wrap">
- <section class="hero"><div><div class="eyebrow">BEARWIKI · OPEN DICTIONARY · V1.1 · MULTI-SENSE</div><h1>通用英汉词典</h1><p>按词性浏览不同义项，同时查看音标、例句与逐义项中文辅助解释。免费使用，不需要账号。</p></div><div class="hero-quote">先弄清一个词的意思，<br>再慢慢读懂更大的世界。<span>BEARWIKI · WORDS & MEANINGS</span></div></section>
+ <section class="hero"><div><div class="eyebrow">BEARWIKI · OPEN DICTIONARY · V1.2.2 · NO TRANSLATION API</div><h1>通用英语词典</h1><p>按词性浏览英文多义项、音标、例句和发音。右侧自动汇总词条结构，<strong>不调用机器翻译或 AI 摘要接口</strong>，免费使用。</p></div><div class="hero-quote">先弄清一个词的意思，<br>再慢慢读懂更大的世界。<span>BEARWIKI · WORDS & MEANINGS</span></div></section>
  <section class="lookup-panel" aria-label="词典查询"><form id="searchForm" role="search"><label for="wordInput">输入英文单词或短语</label><div class="search-row"><input type="search" id="wordInput" name="q" placeholder="例如: serendipity / resilience / apple" autocomplete="off" spellcheck="false" maxlength="90" required><button type="submit" id="searchBtn">查词 <span aria-hidden="true">→</span></button></div></form>
  <div class="suggestions"><span>试试：</span><button type="button" data-example="serendipity">serendipity</button><button type="button" data-example="resilience">resilience</button><button type="button" data-example="apple">apple</button><button type="button" data-example="translation">translation</button></div>
- <p class="query-note">英文词义由免费在线词典接口提供；中文为第三方按义项生成的自动参考解释，<strong>不是经过编辑审校的权威释义</strong>。<a href="#sources">查看来源与限制</a></p>
+ <p class="query-note">释义来自 Free Dictionary API。本站已关闭机器翻译：<strong>不自动生成中文词义，也不调用 MyMemory 或 AI 摘要服务</strong>；右侧词条概览仅整理本次获得的原始数据。<a href="#sources">查看来源与限制</a></p>
  </section>
  <div id="status" class="status" role="status" aria-live="polite">输入单词开始查询。本站不保存你的查询到服务器。</div>
  <section id="results" class="results" aria-live="polite" hidden>
   <div class="results-main"><div id="wordHead" class="word-head"></div><div id="meanings" class="meanings"></div></div>
-  <aside class="results-side"><div class="side-card" id="zhCard"><div class="side-title">中文义项索引 <span class="auto-tag">机器辅助</span></div><div id="zhText" class="zh-text">查询中…</div><div id="zhCount" class="zh-count"></div><div class="small-note">按英文词义逐条自动翻译；同一单词可能有多个不相关的意思。机器译文未经人工审校，仅作线索。默认最多自动翻译 8 条，其他义项可在左侧按需补充。</div></div>
+  <aside class="results-side"><div class="side-card" id="overviewCard"><div class="side-title">词条概览 <span class="local-tag">本地整理 · 零翻译</span></div><div id="overview" class="overview" aria-live="polite">加载英文词条后显示。</div><p class="small-note">按接口返回的词性和义项数量自动统计，不是 AI 生成的总结；不提供或推断中文释义，也不会增加翻译请求。</p></div>
    <div class="side-card"><div class="side-title">其他词典 · 外部查询</div><div class="external-links" id="externalLinks"></div><p class="small-note">这些按钮会跳转到其他网站；本站未复制商业词典内容。</p></div>
   </aside>
  </section>
- <section class="empty-feature" id="emptyFeature"><div class="empty-ico">A<span>文</span></div><h2>从一个单词开始</h2><p>查词结果包含可获得的音标、英文释义、例句、近反义词与发音；中文解释按义项分别显示，保留英文原文以便核对。</p><div class="feature-tags"><span>免费查询</span><span>无需登录</span><span>按需加载</span><span>英语优先</span></div></section>
+ <section class="empty-feature" id="emptyFeature"><div class="empty-ico">A<span>文</span></div><h2>从一个英文单词开始</h2><p>查词结果展示词性、英文多义项、例句、可用的音标及发音。右侧只显示无需翻译接口的词条结构概览；中文释义将等待开放授权词库接入后再提供。</p><div class="feature-tags"><span>免费查询</span><span>无需登录</span><span>按需加载</span><span>英语优先</span></div></section>
  <section class="info" id="sources"><div class="info-head"><span class="eyebrow">ABOUT THE DICTIONARY</span><h2>数据来源与使用说明</h2></div><div class="info-grid">
   <article><h3>英文释义与发音</h3><p>查询时从 Free Dictionary API 获取词性、不同义项、例句和可用的音标、音频。不同词条的信息完整程度可能不同；接口不可用时不伪造结果。</p><a href="https://dictionaryapi.dev/" target="_blank" rel="noopener noreferrer">Free Dictionary API ↗</a></article>
-  <article><h3>中文辅助译文</h3><p>按需调用 MyMemory 免费翻译接口，为多个英文义项分别提供中文辅助解释。默认每次最多自动翻译 8 条，其他义项由用户主动补充；译文未经审校，可能不准确，不能作为专业术语的权威出处。匿名额度约 5,000 字符/日、单次请求文本上限 500 字节。</p><a href="https://mymemory.translated.net/doc/spec.php" target="_blank" rel="noopener noreferrer">MyMemory API 文档 ↗</a></article>
-  <article><h3>独立术语库</h3><p>财经、电力词库保留独立的术语与参考文献数据；本页不会自动把普通词典或机器翻译结果写入专业词库。</p><a href="../financial-glossary/">浏览财经术语 ↗</a></article>
- </div><p class="privacy">隐私说明：查词时会向第三方词典及翻译接口发送所输入的文本，由第三方按其政策处理。本站当前不设账户或历史记录服务器。无需注册或付费。</p></section>
+  <article><h3>无翻译额度消耗</h3><p>本版已停用所有机器翻译请求与逐义项翻译按钮；右侧词条概览仅统计并摘录本次查到的英文数据，不会调用 MyMemory 或生成式 AI。未来可在明确授权后引入可公开分发的汉英、英汉词库。</p><a href="../glossaries/" target="_blank" rel="noopener noreferrer">浏览专业术语库 ↗</a></article>
+  <article><h3>独立术语库</h3><p>财经、电力词库保留独立的术语与参考文献数据；本页不会自动把普通词典或机器翻译结果写入专业词库。</p><a href="../glossaries/" target="_blank" rel="noopener noreferrer">浏览英中术语目录 ↗</a></article>
+ </div><p class="privacy">隐私说明：查询英文词汇时，词语会发送至 Free Dictionary API，由其按相关政策处理；本站不再向机器翻译或 AI 摘要接口发送词条。本站当前不设账户或历史记录服务器。无需注册或付费。</p></section>
 </main><footer class="wrap footer"><span>维基熊 BearWiki · 词有所据，译有所依。</span><span><a href="../" target="_blank" rel="noopener noreferrer">返回首页</a> · <a href="https://github.com/BearBrother93/bilingual-terminology-Bearwiki/issues" target="_blank" rel="noopener noreferrer">反馈建议</a></span></footer>
 </body></html>
