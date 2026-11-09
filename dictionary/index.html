@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="维基熊通用英汉词典：免费查询英文词义、音标、英文例句、发音与中文辅助译文。">
+<meta name="theme-color" content="#12645e">
+<link rel="icon" type="image/svg+xml" href="../assets/bearwiki-mark.svg">
+<title>通用英汉词典｜维基熊 BearWiki</title>
+<link rel="stylesheet" href="./style.css">
+<script src="./app.js" defer></script>
+</head>
+<body>
+<header class="sitehead"><div class="wrap nav">
+ <a class="brand" href="../"><img src="../assets/bearwiki-mark.svg" alt=""><span><strong>维基熊 BearWiki</strong><small>GENERAL ENGLISH–CHINESE DICTIONARY</small></span></a>
+ <nav aria-label="站点导航"><a class="active" href="./" aria-current="page">通用词典</a><a href="../financial-glossary/">财经</a><a href="../power-glossary/">电力</a><a href="../entertainment/horizon-riders/">娱乐</a></nav>
+</div></header>
+<main class="wrap">
+ <section class="hero"><div><div class="eyebrow">BEARWIKI · OPEN DICTIONARY · V1.0</div><h1>通用英汉词典</h1><p>像翻开一本纸质词典那样查词：看读音、词性、释义和例句。免费使用，不需要账号。</p></div><div class="hero-quote">先弄清一个词的意思，<br>再慢慢读懂更大的世界。<span>BEARWIKI · WORDS & MEANINGS</span></div></section>
+ <section class="lookup-panel" aria-label="词典查询"><form id="searchForm" role="search"><label for="wordInput">输入英文单词或短语</label><div class="search-row"><input type="search" id="wordInput" name="q" placeholder="例如: serendipity / resilience / apple" autocomplete="off" spellcheck="false" maxlength="90" required><button type="submit" id="searchBtn">查词 <span aria-hidden="true">→</span></button></div></form>
+ <div class="suggestions"><span>试试：</span><button type="button" data-example="serendipity">serendipity</button><button type="button" data-example="resilience">resilience</button><button type="button" data-example="apple">apple</button><button type="button" data-example="translation">translation</button></div>
+ <p class="query-note">英文词义由免费在线词典接口提供；中文为第三方自动参考译文，<strong>不是经过编辑审校的权威释义</strong>。<a href="#sources">查看来源与限制</a></p>
+ </section>
+ <div id="status" class="status" role="status" aria-live="polite">输入单词开始查询。本站不保存你的查询到服务器。</div>
+ <section id="results" class="results" aria-live="polite" hidden>
+  <div class="results-main"><div id="wordHead" class="word-head"></div><div id="meanings" class="meanings"></div></div>
+  <aside class="results-side"><div class="side-card" id="zhCard"><div class="side-title">中文释义 · 参考</div><div id="zhText" class="zh-text">查询中…</div><div class="small-note">自动翻译可能遗漏词性、多义和语境，仅作为查词线索。</div><button id="senseTranslate" type="button" class="secondary-btn" hidden>翻译首条英文解释</button><div id="senseText" class="sense-note" hidden></div></div>
+   <div class="side-card"><div class="side-title">其他词典 · 外部查询</div><div class="external-links" id="externalLinks"></div><p class="small-note">这些按钮会跳转到其他网站；本站未复制商业词典内容。</p></div>
+  </aside>
+ </section>
+ <section class="empty-feature" id="emptyFeature"><div class="empty-ico">A<span>文</span></div><h2>从一个单词开始</h2><p>查词结果包含可获得的音标、英文释义、例句、近反义词与发音；中文翻译单独标注来源，不和英文原始释义混为一谈。</p><div class="feature-tags"><span>免费查询</span><span>无需登录</span><span>按需加载</span><span>英语优先</span></div></section>
+ <section class="info" id="sources"><div class="info-head"><span class="eyebrow">ABOUT THE DICTIONARY</span><h2>数据来源与使用说明</h2></div><div class="info-grid">
+  <article><h3>英文释义与发音</h3><p>查询时从 Free Dictionary API 获取词性、解释、例句和可用的音标、音频。不同词条的信息完整程度可能不同；接口不可用时不伪造结果。</p><a href="https://dictionaryapi.dev/" target="_blank" rel="noopener noreferrer">Free Dictionary API ↗</a></article>
+  <article><h3>中文辅助译文</h3><p>按需调用 MyMemory 免费翻译接口。译文自动生成或匹配，可能不准确，不能作为专业术语的权威出处。第三方服务可能有每日额度与网络限制。</p><a href="https://mymemory.translated.net/doc/spec.php" target="_blank" rel="noopener noreferrer">MyMemory API 文档 ↗</a></article>
+  <article><h3>独立术语库</h3><p>财经、电力词库保留独立的术语与参考文献数据；本页不会自动把普通词典或机器翻译结果写入专业词库。</p><a href="../financial-glossary/">浏览财经术语 ↗</a></article>
+ </div><p class="privacy">隐私说明：查词时会向第三方词典及翻译接口发送所输入的文本，由第三方按其政策处理。本站当前不设账户或历史记录服务器。无需注册或付费。</p></section>
+</main><footer class="wrap footer"><span>维基熊 BearWiki · 词有所据，译有所依。</span><span><a href="../">返回首页</a> · <a href="https://github.com/BearBrother93/bilingual-terminology-Bearwiki/issues" target="_blank" rel="noopener noreferrer">反馈建议</a></span></footer>
+</body></html>

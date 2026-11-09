@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="维基熊 BearWiki：中英双语专业术语与知识库，提供财经、电力术语检索、参考文献与独立游戏体验。">
+<meta name="description" content="维基熊 BearWiki：中英双语专业术语与知识库，提供通用英汉查词、财经、电力术语检索、参考文献与独立游戏体验。">
 <meta name="theme-color" content="#12645e">
 <link rel="icon" type="image/svg+xml" href="./assets/bearwiki-mark.svg">
 <title>维基熊 BearWiki｜双语术语与知识空间</title>
@@ -18,12 +18,22 @@
 @media(max-width:900px){.hero{grid-template-columns:1fr;gap:23px;padding:53px 0 43px}.hero-note{min-height:170px;padding:23px}.hero-note .line{margin:11px 0 8px}.game-card{grid-template-columns:1fr}.game-poster{min-height:235px;grid-row:1}.entertainment{padding:55px 0 65px}.modules{grid-template-columns:1fr 1fr}}
 @media(max-width:660px){.container{width:calc(100% - 34px)}.navigation{min-height:69px;gap:12px}.brand img{width:37px;height:37px}.brand strong{font-size:16px}.brand small{font-size:9px}.site-links{gap:13px;font-size:12px}.site-links .hide-mobile{display:none}.hero h1{font-size:38px}.hero-lead{font-size:14px}.modules{grid-template-columns:1fr}.module{padding:24px;min-height:218px}.game-copy{padding:26px 23px}.game-poster{min-height:210px}.game-copy h3{font-size:28px}.section-head{align-items:start;flex-direction:column;gap:4px}.site-footer{flex-direction:column;align-items:flex-start}.nav-dropdown>div{right:0}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* General English–Chinese dictionary / non-invasive landing-page addition */
+.dictionary-highlight{display:grid;grid-template-columns:1fr minmax(300px,.80fr);gap:25px;align-items:center;margin-top:5px;margin-bottom:55px;padding:29px 34px;border:1px solid #cfdfd4;background:linear-gradient(120deg,#eff7f1,#ffffff 66%);border-radius:20px;box-shadow:0 14px 38px #233e2b0a}
+.dictionary-highlight h2{font-family:"Noto Serif SC","Songti SC",Georgia,serif;font-size:30px;font-weight:640;line-height:1.3;margin:11px 0 8px}.dictionary-highlight h2 span{font:650 12px system-ui,sans-serif;letter-spacing:.05em;color:var(--teal)}
+.dictionary-highlight p{color:var(--muted);font-size:13px;line-height:1.9;margin:0 0 12px;max-width:565px}.dict-more{color:var(--teal);font-size:12px;font-weight:750}.dict-more:hover{text-decoration:underline}
+.dict-quick{background:white;border:1px solid #dfebe2;padding:19px;border-radius:13px;box-shadow:0 8px 32px #233e2b09}.dict-quick label{display:block;font-weight:750;font-size:12px;margin-bottom:10px}.dict-quick-row{display:flex;gap:7px}.dict-quick input{height:44px;min-width:0;flex:1;border:1px solid #cfded3;border-radius:8px;padding:0 11px;background:#fbfdfb;color:var(--ink);font:inherit;font-size:14px}.dict-quick input:focus{outline:2px solid #90b9a3;outline-offset:1px}.dict-quick button{white-space:nowrap;border:0;background:var(--teal);color:white;border-radius:8px;font-size:13px;font-weight:800;padding:0 16px;cursor:pointer}.dict-quick button:hover{background:#0a4944}.dict-quick small{display:block;margin-top:9px;color:#87968b;font-size:10px}
+@media(max-width:900px){.dictionary-highlight{grid-template-columns:1fr;padding:25px 25px;margin-bottom:45px}.dictionary-highlight h2{font-size:28px}}
+@media(max-width:660px){.dictionary-highlight{padding:22px 17px;gap:15px}.dictionary-highlight h2{font-size:25px}.dict-quick{padding:14px}.site-links{gap:8px;font-size:11px}.site-links>a{white-space:nowrap}.brand{gap:7px}.brand strong{font-size:14px}}
+@media(max-width:370px){.site-links{gap:5px;font-size:10px}.brand img{width:31px;height:31px}.brand strong{font-size:13px}}
 </style>
 </head>
 <body>
 <header class="site-head"><div class="container navigation">
 <a class="brand" href="./" aria-label="维基熊 BearWiki 首页"><img src="./assets/bearwiki-mark.svg" alt=""><span><strong>维基熊</strong><small>BEARWIKI</small></span></a>
 <nav class="site-links" aria-label="主导航">
+<a href="./dictionary/">通用词典</a>
 <a href="./financial-glossary/">财经术语</a>
 <a href="./power-glossary/">电力术语</a>
 <a class="hide-mobile" href="#library">知识库</a>
@@ -31,7 +41,16 @@
 </nav>
 </div></header>
 <main>
-<section class="container hero"><div><span class="kicker">BILINGUAL KNOWLEDGE SPACE</span><h1>词有所据，<br><em>译有所依。</em></h1><p class="hero-lead">维基熊 BearWiki 是持续建设中的双语专业术语与知识平台，目前开放财经、电力术语库及独立游戏。我们希望让术语更容易检索，让解释能够追溯出处，也让知识探索多一点乐趣。</p><div class="hero-tags"><span>双语检索</span><span>专业释义</span><span>文献溯源</span><span>持续校订</span></div></div><aside class="hero-note"><small>BEARWIKI / 我们的坚持</small><div class="line"></div><div class="note-mark">认真核对每一个词，<br>也保留一点好奇心。</div><p>区别资料事实与翻译判断，标明可核对的参考来源，并不断改进。</p></aside></section>
+<section class="container hero"><div><span class="kicker">BILINGUAL KNOWLEDGE SPACE</span><h1>词有所据，<br><em>译有所依。</em></h1><p class="hero-lead">维基熊 BearWiki 是持续建设中的双语专业术语与知识平台，目前开放通用英汉词典、财经与电力术语库及独立游戏。我们希望让术语更容易检索，让解释能够追溯出处，也让知识探索多一点乐趣。</p><div class="hero-tags"><span>双语检索</span><span>专业释义</span><span>文献溯源</span><span>持续校订</span></div></div><aside class="hero-note"><small>BEARWIKI / 我们的坚持</small><div class="line"></div><div class="note-mark">认真核对每一个词，<br>也保留一点好奇心。</div><p>区别资料事实与翻译判断，标明可核对的参考来源，并不断改进。</p></aside></section>
+<section class="container dictionary-highlight" aria-labelledby="dictionary-title">
+ <div class="dict-intro"><span class="kicker">GENERAL ENGLISH–CHINESE DICTIONARY</span>
+ <h2 id="dictionary-title">通用英汉词典 <span>· V1.0</span></h2>
+ <p>日常英文查词、音标与发音、英文释义和中文辅助译文。免费开放，不必登录；专业术语仍在独立分库中检索。</p>
+ <a class="dict-more" href="./dictionary/">了解词典与数据来源　↗</a></div>
+ <form class="dict-quick" action="./dictionary/" method="get" role="search"><label for="homepageWord">查一个英文单词</label>
+ <div class="dict-quick-row"><input id="homepageWord" name="q" type="search" placeholder="例如 serendipity" required maxlength="90" autocomplete="off" aria-label="查英文单词"><button type="submit">查词 →</button></div>
+ <small>中文解释为第三方自动参考译文，未经人工审校。</small></form>
+</section>
 <section class="container" id="library"><div class="section-head"><div><span class="kicker">KNOWLEDGE COLLECTIONS</span><h2>专业知识库</h2></div><p>以独立分库组织内容，持续扩充。</p></div>
 <div class="modules"><article class="module"><span class="pill">现已开放</span><small style="margin-top:16px">FINANCE & ACCOUNTING</small><h3>财经术语库</h3><p>支持英中双语查询、英文 A–Z 索引、词条链接与参考资料展示。现有数据持续核查和完善。</p><a class="link" href="./financial-glossary/">进入财经词库　↗</a></article>
 <article class="module"><span class="pill">现已开放</span><small style="margin-top:16px">POWER & ELECTRICAL ENGINEERING</small><h3>电力术语库</h3><p>收录电力、电气工程相关中英对照术语，方便按英文索引或关键词查找。来源与注释将逐步补充完善。</p><a class="link" href="./power-glossary/">进入电力词库　↗</a></article>
