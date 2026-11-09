@@ -11,3 +11,20 @@
 @media(max-width:570px){.wrap{width:calc(100% - 28px)}.nav{min-height:67px;gap:11px}.brand img{width:34px;height:34px}.brand strong{font-size:13px}.brand small{font-size:7px;letter-spacing:0}.nav nav{gap:10px;font-size:11px}.nav nav a[href="../entertainment/horizon-riders/"]{display:none}.hero h1{font-size:34px}.hero p{font-size:12px}.lookup-panel{padding:19px 16px}.search-row input{font-size:14px;padding:0 11px}.search-row button{padding:0 14px;min-width:75px}.results-main{padding:22px 18px}.word-head-row{align-items:flex-start}.results-side{grid-template-columns:1fr}.info-grid{grid-template-columns:1fr}.footer{flex-direction:column}.word-head h2{font-size:31px}}
 [hidden]{display:none!important}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+
+/* V1.1: multilingual dictionary sense alignment */
+.sense-item{position:relative}
+.sense-zh{margin:7px 0 4px;padding:8px 10px;border-left:3px solid #a3cdb4;background:#f0f7f1;color:#2b6449;border-radius:0 7px 7px 0;font-size:12px;line-height:1.85}
+.sense-zh.pending{background:#f7f9f7;color:#819287;border-color:#d8e3db}
+.sense-zh.loading{color:#608770;border-color:#92bfa7}
+.sense-zh.error{background:#fff8f3;color:#996b4f;border-color:#e7b9a0}
+.sense-translate{margin:5px 0 4px;padding:5px 10px;border:1px solid #cfe3d5;border-radius:7px;background:#f7fcf8;color:#266d53;font-size:11px;font-weight:700}
+.sense-translate:hover{background:#e6f3e9}
+.zh-index-group{padding:0 0 10px;margin-bottom:10px;border-bottom:1px solid #edf2ed}
+.zh-index-group:last-child{border-bottom:0;margin-bottom:0}
+.zh-index-group h4{font-size:11px;margin:0 0 5px;color:#19684e}
+.zh-index-list{margin:0;padding-left:19px;font-size:12px;line-height:1.75;color:#365b48;font-weight:500}
+.zh-index-list li{padding:3px 0;overflow-wrap:anywhere}
+.zh-index-empty{margin:0;font-size:12px;font-weight:400;color:#7d9486}
+.zh-count{font-size:10px;color:#7e9787;margin-top:9px}
+.auto-tag{display:inline-block;margin-left:4px;font-size:9px;padding:1px 6px;color:#4b8265;background:#eaf3eb;border-radius:5px;vertical-align:middle}
