@@ -1,11 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="维基熊 BearWiki：中英双语专业术语与知识库，提供通用英汉查词、财经、电力术语检索、参考文献与独立游戏体验。">
-<meta name="theme-color" content="#12645e">
-<link rel="icon" type="image/svg+xml" href="./assets/bearwiki-mark.svg">
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="维基熊 BearWiki：中英双语专业术语与知识库，提供通用英汉查词、财经、电力术语检索、参考文献与独立游戏体验。" name="description"/>
+<meta content="#12645e" name="theme-color"/>
+<link href="./assets/bearwiki-mark.svg" rel="icon" type="image/svg+xml"/>
 <title>维基熊 BearWiki｜双语术语与知识空间</title>
 <style>
 :root{--ink:#21352f;--muted:#677a70;--teal:#12645e;--deep:#0c413d;--pale:#edf5f0;--bg:#f7f8f5;--line:#dce5dd;--white:#fff;--radius:18px}
@@ -27,38 +28,41 @@
 @media(max-width:900px){.dictionary-highlight{grid-template-columns:1fr;padding:25px 25px;margin-bottom:45px}.dictionary-highlight h2{font-size:28px}}
 @media(max-width:660px){.dictionary-highlight{padding:22px 17px;gap:15px}.dictionary-highlight h2{font-size:25px}.dict-quick{padding:14px}.site-links{gap:8px;font-size:11px}.site-links>a{white-space:nowrap}.brand{gap:7px}.brand strong{font-size:14px}}
 @media(max-width:370px){.site-links{gap:5px;font-size:10px}.brand img{width:31px;height:31px}.brand strong{font-size:13px}}
-</style>
+
+/* Navigation update V1.2 */ .bw-editor-note{margin:20px 0 0;color:#64766b;font-size:12px;line-height:1.9;padding:14px 17px;background:#f1f5f1;border:1px solid #dce7dd;border-radius:12px}.site-links{flex-wrap:nowrap}.nav-dropdown>div{z-index:80} @media(max-width:720px){.navigation{gap:9px}.site-links{gap:10px}.site-links>a,.nav-dropdown summary{font-size:12px}.brand small{display:none}.nav-dropdown>div{right:-10px;min-width:218px}}</style>
 </head>
 <body>
 <header class="site-head"><div class="container navigation">
-<a class="brand" href="./" aria-label="维基熊 BearWiki 首页"><img src="./assets/bearwiki-mark.svg" alt=""><span><strong>维基熊</strong><small>BEARWIKI</small></span></a>
-<nav class="site-links" aria-label="主导航">
-<a href="./dictionary/">通用词典</a>
-<a href="./financial-glossary/">财经术语</a>
-<a href="./power-glossary/">电力术语</a>
-<a class="hide-mobile" href="#library">知识库</a>
-<details class="nav-dropdown"><summary>娱乐</summary><div><a href="./entertainment/horizon-riders/">极境飞驰 Horizon Riders<small>3D 摩托竞速 · V1.0</small></a></div></details>
+<a aria-label="维基熊 BearWiki 首页" class="brand" href="./"><img alt="" src="./assets/bearwiki-mark.svg"/><span><strong>维基熊</strong><small>BEARWIKI</small></span></a>
+<nav aria-label="主导航" class="site-links">
+<a href="./dictionary/" rel="noopener noreferrer" target="_blank">通用词典</a>
+<details class="nav-dropdown"><summary>英中术语</summary><div>
+<a href="./glossaries/" rel="noopener noreferrer" target="_blank">全部领域<small>分类、词条数量与编录说明</small></a>
+<a href="./financial-glossary/" rel="noopener noreferrer" target="_blank">财经术语<small>Finance · EN → ZH</small></a>
+<a href="./power-glossary/" rel="noopener noreferrer" target="_blank">电力术语<small>Power · EN → ZH</small></a>
+</div></details>
+<details class="nav-dropdown"><summary>娱乐</summary><div><a href="./entertainment/horizon-riders/" rel="noopener noreferrer" target="_blank">极境飞驰 Horizon Riders<small>3D 摩托竞速 · V1.0</small></a></div></details>
 </nav>
 </div></header>
 <main>
-<section class="container hero"><div><span class="kicker">BILINGUAL KNOWLEDGE SPACE</span><h1>词有所据，<br><em>译有所依。</em></h1><p class="hero-lead">维基熊 BearWiki 是持续建设中的双语专业术语与知识平台，目前开放通用英汉词典、财经与电力术语库及独立游戏。我们希望让术语更容易检索，让解释能够追溯出处，也让知识探索多一点乐趣。</p><div class="hero-tags"><span>双语检索</span><span>专业释义</span><span>文献溯源</span><span>持续校订</span></div></div><aside class="hero-note"><small>BEARWIKI / 我们的坚持</small><div class="line"></div><div class="note-mark">认真核对每一个词，<br>也保留一点好奇心。</div><p>区别资料事实与翻译判断，标明可核对的参考来源，并不断改进。</p></aside></section>
-<section class="container dictionary-highlight" aria-labelledby="dictionary-title">
- <div class="dict-intro"><span class="kicker">GENERAL ENGLISH–CHINESE DICTIONARY</span>
- <h2 id="dictionary-title">通用英汉词典 <span>· V1.0</span></h2>
- <p>日常英文查词、音标与发音、英文释义和中文辅助译文。免费开放，不必登录；专业术语仍在独立分库中检索。</p>
- <a class="dict-more" href="./dictionary/">了解词典与数据来源　↗</a></div>
- <form class="dict-quick" action="./dictionary/" method="get" role="search"><label for="homepageWord">查一个英文单词</label>
- <div class="dict-quick-row"><input id="homepageWord" name="q" type="search" placeholder="例如 serendipity" required maxlength="90" autocomplete="off" aria-label="查英文单词"><button type="submit">查词 →</button></div>
- <small>中文解释为第三方自动参考译文，未经人工审校。</small></form>
+<section class="container hero"><div><span class="kicker">BILINGUAL KNOWLEDGE SPACE</span><h1>词有所据，<br/><em>译有所依。</em></h1><p class="hero-lead">维基熊 BearWiki 是持续建设中的双语专业术语与知识平台，目前开放通用英汉词典、财经与电力术语库及独立游戏。我们希望让术语更容易检索，让解释能够追溯出处，也让知识探索多一点乐趣。</p><div class="hero-tags"><span>双语检索</span><span>专业释义</span><span>文献溯源</span><span>持续校订</span></div></div><aside class="hero-note"><small>BEARWIKI / 我们的坚持</small><div class="line"></div><div class="note-mark">认真核对每一个词，<br/>也保留一点好奇心。</div><p>区别资料事实与翻译判断，标明可核对的参考来源，并不断改进。</p></aside></section>
+<section aria-labelledby="dictionary-title" class="container dictionary-highlight">
+<div class="dict-intro"><span class="kicker">GENERAL ENGLISH–CHINESE DICTIONARY</span>
+<h2 id="dictionary-title">通用英汉词典 <span>· V1.0</span></h2>
+<p>日常英文查词、音标与发音、英文释义和中文辅助译文。免费开放，不必登录；专业术语仍在独立分库中检索。</p>
+<a class="dict-more" href="./dictionary/" rel="noopener noreferrer" target="_blank">了解词典与数据来源　↗</a></div>
+<form action="./dictionary/" class="dict-quick" method="get" role="search"><label for="homepageWord">查一个英文单词</label>
+<div class="dict-quick-row"><input aria-label="查英文单词" autocomplete="off" id="homepageWord" maxlength="90" name="q" placeholder="例如 serendipity" required="" type="search"/><button type="submit">查词 →</button></div>
+<small>中文解释为第三方自动参考译文，未经人工审校。</small></form>
 </section>
 <section class="container" id="library"><div class="section-head"><div><span class="kicker">KNOWLEDGE COLLECTIONS</span><h2>专业知识库</h2></div><p>以独立分库组织内容，持续扩充。</p></div>
-<div class="modules"><article class="module"><span class="pill">现已开放</span><small style="margin-top:16px">FINANCE & ACCOUNTING</small><h3>财经术语库</h3><p>支持英中双语查询、英文 A–Z 索引、词条链接与参考资料展示。现有数据持续核查和完善。</p><a class="link" href="./financial-glossary/">进入财经词库　↗</a></article>
-<article class="module"><span class="pill">现已开放</span><small style="margin-top:16px">POWER & ELECTRICAL ENGINEERING</small><h3>电力术语库</h3><p>收录电力、电气工程相关中英对照术语，方便按英文索引或关键词查找。来源与注释将逐步补充完善。</p><a class="link" href="./power-glossary/">进入电力词库　↗</a></article>
-<article class="module coming"><span class="pill">筹备中</span><small style="margin-top:16px">HISTORICAL TERMINOLOGY</small><h3>历史知识库</h3><p>规划收录中国古代行政区划、官职、历史民族及历史地理词条，强调不同时期义项、译法比较和文献溯源。</p><span class="link" style="color:#87998a;font-weight:600">正在编录，敬请关注</span></article></div></section>
-<section class="container entertainment" id="entertainment"><div class="section-head"><div><span class="kicker">ENTERTAINMENT & CREATIONS</span><h2>娱乐 · 个人创作</h2></div><p>不只有词典，偶尔也来一场竞速。</p></div>
-<div class="game-card"><div class="game-copy"><span class="kicker">WEBGL 3D / ARCADE RACING</span><h3>极境飞驰</h3><div class="eng">HORIZON RIDERS · V1.0</div><p>一款从童年越野摩托游戏获得灵感的简易网页单机竞速作品。六条特色赛道、六首原创背景音乐，操作偏街机风格，轻松上手，但也需要一点过弯和刹车技巧。</p><div class="feature-chips"><span>6 条赛道</span><span>6 首原创音乐</span><span>单人 / 多名 AI 车手</span><span>浏览器游玩</span></div><div class="game-buttons"><a class="play" href="./entertainment/horizon-riders/"><svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M8 5v14l11-7L8 5Z" fill="currentColor"/></svg>进入游戏</a></div>
+<div class="modules"><article class="module"><span class="pill">现已开放 · 2 个领域</span><small style="margin-top:16px">ENGLISH → CHINESE TERMINOLOGY</small><h3>英中术语</h3><p>财经与电力两个独立领域，按词头与中英文关键词检索；各库保留自己的数据与来源记录。</p><a class="link" href="./glossaries/" rel="noopener noreferrer" target="_blank">浏览术语领域目录 ↗</a></article>
+
+<article class="module coming"><span class="pill">筹备中</span><small style="margin-top:16px">HISTORICAL TERMINOLOGY</small><h3>历史知识库</h3><p>规划收录中国古代行政区划、官职、历史民族及历史地理词条，强调不同时期义项、译法比较和文献溯源。</p><span class="link" style="color:#87998a;font-weight:600">正在编录，敬请关注</span></article></div><p class="bw-editor-note">编录说明：术语拼写整理、去重、来源线索检索与格式检查部分采用 AI 辅助。资料仍在持续校订；AI 结果和外部链接不等于译法已获权威认证，请结合上下文及原始资料自行核查。</p></section>
+<section class="container entertainment" id="entertainment"><div class="section-head"><div><span class="kicker">ENTERTAINMENT &amp; CREATIONS</span><h2>娱乐 · 个人创作</h2></div><p>不只有词典，偶尔也来一场竞速。</p></div>
+<div class="game-card"><div class="game-copy"><span class="kicker">WEBGL 3D / ARCADE RACING</span><h3>极境飞驰</h3><div class="eng">HORIZON RIDERS · V1.0</div><p>一款从童年越野摩托游戏获得灵感的简易网页单机竞速作品。六条特色赛道、六首原创背景音乐，操作偏街机风格，轻松上手，但也需要一点过弯和刹车技巧。</p><div class="feature-chips"><span>6 条赛道</span><span>6 首原创音乐</span><span>单人 / 多名 AI 车手</span><span>浏览器游玩</span></div><div class="game-buttons"><a class="play" href="./entertainment/horizon-riders/" rel="noopener noreferrer" target="_blank"><svg aria-hidden="true" fill="none" viewbox="0 0 24 24"><path d="M8 5v14l11-7L8 5Z" fill="currentColor"></path></svg>进入游戏</a></div>
 <details class="game-details"><summary>游戏简介、操作与注意事项</summary><div class="desc"><p><strong>怎么玩：</strong>W / ↑ 加速，S / ↓ 刹车，A / D 转向，Space 俯身，C 切换视角，P 暂停；撞上护栏飞出赛道时，可按 R 复位。</p><p><strong>玩法定位：</strong>简化操作、偏街机体验，并非《Ride 4》等游戏那样的硬核摩托物理模拟；不会仅因压弯过大便自动摔车。</p><p><strong>关于制作：</strong>这是一个主要依靠个人兴趣、直觉和 AI 协助完成的作品，仍有许多可改进之处。欢迎试玩、提出意见与建议。</p><p>建议使用支持 WebGL、开启硬件加速的桌面浏览器；较低配置可在游戏设置中选择流畅画质。</p></div></details>
-</div><div class="game-poster" role="img" aria-label="抽象赛道插画，象征极境飞驰的山路竞速"><div class="poster-hill"></div><div class="poster-hill two"></div><div class="poster-title">HORIZON RIDERS</div><div class="poster-version">V1.0 · ORIGINAL SOUNDTRACK</div><div class="poster-badge">六条赛道 · 一键开玩</div></div></div></section>
+</div><div aria-label="抽象赛道插画，象征极境飞驰的山路竞速" class="game-poster" role="img"><div class="poster-hill"></div><div class="poster-hill two"></div><div class="poster-title">HORIZON RIDERS</div><div class="poster-version">V1.0 · ORIGINAL SOUNDTRACK</div><div class="poster-badge">六条赛道 · 一键开玩</div></div></div></section>
 </main>
 <footer class="container site-footer"><span><strong>维基熊 BearWiki</strong> · 可溯源的双语术语与知识库</span><span>内容持续补充与校订 · <a href="https://github.com/BearBrother93/bilingual-terminology-Bearwiki/issues" rel="noopener noreferrer" target="_blank">反馈与建议</a></span></footer>
 </body></html>
