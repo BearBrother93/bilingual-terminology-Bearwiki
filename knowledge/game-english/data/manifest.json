@@ -1,0 +1,16 @@
+{
+  "project": "BearWiki Game English",
+  "site_title": "游戏英语",
+  "subtitle": "原神英语趣谈",
+  "web_version": "1.0.0",
+  "content_version": "1.0.1-QA",
+  "entry_count": 67,
+  "chapter_count": 6,
+  "reference_count": 44,
+  "rendering": "text-only",
+  "source": "原神英语_词源与文化典故汇编_网站JSON准备稿.docx",
+  "source_version": "v1.0",
+  "last_structural_check": "2026-11-19",
+  "status": "可部署的静态网页初版；事实核查及来源逐条映射仍待后续进行",
+  "note": "本网站包移除了图片字段与图片模板，不改变67条词条的六项核心文本内容。"
+}

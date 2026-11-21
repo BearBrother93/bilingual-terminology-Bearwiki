@@ -1,0 +1,92 @@
+{
+  "chapter_id": "NPC",
+  "chapter_title": "蒙德特别人物",
+  "intro": "四位非可玩人物：历史人物、剧情人物与龙；NPC 一词在此作为专题标签，不表示都可在城内对话。",
+  "entry_count": 4,
+  "entries": [
+    {
+      "id": "NPC-01",
+      "chapter_id": "NPC",
+      "title": "西蒙·佩奇",
+      "zh_name": "西蒙·佩奇",
+      "en_name": "Seamus Pegg",
+      "category": "重要 NPC",
+      "etymology": "Seamus 是 James 的爱尔兰语对应形式，源头联系 Jacob；Pegg 是英语姓氏，来源可能涉及历史昵称或职业。Cardinal 是枢机卿，并非 Archbishop。",
+      "english_extensions": "相关词：cardinal, seneschal。",
+      "cultural_note": "早期英文曾见 Simon Page，后使用 Seamus Pegg，中文“西蒙·佩奇”保留旧译法。",
+      "evidence_note": "版本变化需以具体游戏文本版本为准；称号不写“大主教”的英文直译。",
+      "evidence_level": "待编辑分级",
+      "source_ids": [],
+      "chapter_reference_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N04"
+      ],
+      "review_status": "依据汇编稿整理；词源事实、官方命名意图及来源对应关系尚待逐条核验"
+    },
+    {
+      "id": "NPC-02",
+      "chapter_id": "NPC",
+      "title": "克利普斯",
+      "zh_name": "克利普斯",
+      "en_name": "Crepus",
+      "category": "重要 NPC",
+      "etymology": "Crepus 与拉丁语 crepusculum（黄昏）音形相近；Diluc 又可联系 diluculum（破晓）。",
+      "english_extensions": "相关词：twilight（黄昏）、dawn（黎明）。",
+      "cultural_note": "父子姓名的“黄昏／黎明”对照非常适合命名分析。",
+      "evidence_note": "对照是词源联想，不能写成官方确认。",
+      "evidence_level": "待编辑分级",
+      "source_ids": [],
+      "chapter_reference_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N04"
+      ],
+      "review_status": "依据汇编稿整理；词源事实、官方命名意图及来源对应关系尚待逐条核验"
+    },
+    {
+      "id": "NPC-03",
+      "chapter_id": "NPC",
+      "title": "温妮莎",
+      "zh_name": "温妮莎",
+      "en_name": "Vennessa",
+      "category": "重要 NPC",
+      "etymology": "Vennessa 与 Vanessa 音形相近；Vanessa 是斯威夫特所创造的英语人名，后进入蝴蝶属名。",
+      "english_extensions": "相关词：Vanessa（人名、蝴蝶属）。",
+      "cultural_note": "关联文学创名与自然科学命名。",
+      "evidence_note": "Vennessa 并非 Vanessa 完全同拼，游戏是否直接致敬未证实。",
+      "evidence_level": "待编辑分级",
+      "source_ids": [],
+      "chapter_reference_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N04"
+      ],
+      "review_status": "依据汇编稿整理；词源事实、官方命名意图及来源对应关系尚待逐条核验"
+    },
+    {
+      "id": "NPC-04",
+      "chapter_id": "NPC",
+      "title": "特瓦林",
+      "zh_name": "特瓦林",
+      "en_name": "Dvalin",
+      "category": "重要 NPC",
+      "etymology": "Dvalin 关联古诺尔斯语 Dvalinn，为北欧神话中的矮人名之一。",
+      "english_extensions": "与 Durin/Durinn 形成神话人名对照。",
+      "cultural_note": "《原神》中的特瓦林是龙，与北欧原型的身份不同。",
+      "evidence_note": "名字的文化来源与游戏人物类型应分开。",
+      "evidence_level": "待编辑分级",
+      "source_ids": [],
+      "chapter_reference_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N04"
+      ],
+      "review_status": "依据汇编稿整理；词源事实、官方命名意图及来源对应关系尚待逐条核验"
+    }
+  ]
+}

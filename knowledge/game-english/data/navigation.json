@@ -1,0 +1,161 @@
+{
+  "site_title": "游戏英语",
+  "subtitle": "原神英语趣谈",
+  "english_title": "Game English",
+  "series_title": "Genshin Impact English Notes",
+  "project_description": "从《原神》角色姓名、组织称号、地图地名与文化典故出发，探索英文名称背后的词源、构词、英语表达与文化关联。",
+  "disclaimer": "本栏目由 AI 辅助整理并经人工编辑，非 HoYoverse 官方发布或认证。词源与命名意图并非同一概念；部分内容属于可能关联或文化联想，尚未得到官方证实。内容可能存在疏漏，欢迎读者提供可靠资料、补充和指正。",
+  "scope": [
+    {
+      "id": "playable_characters",
+      "label": "实机角色",
+      "description": "可玩角色的中英文名称、姓名来源与相关英语表达。"
+    },
+    {
+      "id": "important_npcs",
+      "label": "重要 NPC",
+      "description": "具有重要剧情地位、历史背景或文化关联的人物。"
+    },
+    {
+      "id": "organizations",
+      "label": "组织与团体",
+      "description": "重要组织、团体及其成员称号。"
+    },
+    {
+      "id": "places",
+      "label": "地名与区域",
+      "description": "国家、城市、地理区域及重要场景名称。"
+    },
+    {
+      "id": "domains",
+      "label": "秘境与挑战",
+      "description": "副本、秘境、挑战名称及相关英语表达。"
+    },
+    {
+      "id": "cultural_references",
+      "label": "文化典故",
+      "description": "历史、神话、文学、宗教、戏剧及其他语言文化关联。"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "F",
+      "title": "愚人众执行官",
+      "intro": "命名主线：欧洲即兴喜剧（Commedia dell’arte）人物、历史词源与英文称号。",
+      "data_file": "chapters/F.json",
+      "entry_count": 13,
+      "reference_ids": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "F05",
+        "F06",
+        "F07",
+        "F08",
+        "F09",
+        "F10",
+        "F11",
+        "F12"
+      ]
+    },
+    {
+      "id": "M1",
+      "title": "蒙德角色 Part 1",
+      "intro": "十二位经典可玩角色；以姓名词源和可迁移英语词汇为主。",
+      "data_file": "chapters/M1.json",
+      "entry_count": 12,
+      "reference_ids": [
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06",
+        "M07",
+        "M08"
+      ]
+    },
+    {
+      "id": "M2",
+      "title": "蒙德角色 Part 2",
+      "intro": "十二位后续可玩角色；布伦妮（Prune）确认为正式可玩角色，魔女会成员另篇。",
+      "data_file": "chapters/M2.json",
+      "entry_count": 12,
+      "reference_ids": [
+        "M09",
+        "M10",
+        "M11",
+        "M12",
+        "M13",
+        "M14",
+        "M15"
+      ]
+    },
+    {
+      "id": "NPC",
+      "title": "蒙德特别人物",
+      "intro": "四位非可玩人物：历史人物、剧情人物与龙；NPC 一词在此作为专题标签，不表示都可在城内对话。",
+      "data_file": "chapters/NPC.json",
+      "entry_count": 4,
+      "reference_ids": [
+        "N01",
+        "N02",
+        "N03",
+        "N04"
+      ]
+    },
+    {
+      "id": "W",
+      "title": "魔女会 Hexenzirkel",
+      "intro": "七位已明确成员＋三个组织相关名称；世界树已移出，归入未来须弥篇。",
+      "data_file": "chapters/W.json",
+      "entry_count": 10,
+      "reference_ids": [
+        "W01",
+        "W02",
+        "W03",
+        "W04",
+        "W05",
+        "W06"
+      ]
+    },
+    {
+      "id": "P",
+      "title": "蒙德地名与秘境",
+      "intro": "十组地名、五组秘境及一条挑战名称；统一记录官方英文词形与构词。",
+      "data_file": "chapters/P.json",
+      "entry_count": 16,
+      "reference_ids": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P05",
+        "P06",
+        "P07"
+      ]
+    }
+  ],
+  "future_expansion": [
+    "璃月",
+    "稻妻",
+    "须弥",
+    "枫丹",
+    "纳塔",
+    "挪德卡莱",
+    "其他游戏专题"
+  ],
+  "editorial_principles": [
+    "区分历史词源、游戏命名意图与文化联想。",
+    "证据不足时保留限定措辞，不将推测表述为定论。",
+    "官方英文名称与游戏内设定应在发布前按当前版本核对。",
+    "参考来源应逐条建立与具体词条的对应关系。",
+    "本专题采用纯文字呈现，不收录角色立绘、游戏截图或其他图片素材。"
+  ],
+  "source_document": "原神英语_词源与文化典故汇编_网站JSON准备稿.docx",
+  "source_version": "v1.0",
+  "source_date": "2026-11-18",
+  "source_note": "本次转换忠实依据汇编稿内容，不进行外部事实补充或词源改写；原稿明确列出的待核事项仍保留待核状态。",
+  "contribution_guidance": "欢迎补充与指正。建议提交时注明词条编号、拟修改内容及可核查的资料链接；未经核实的推测不会直接作为确定结论发布。"
+}

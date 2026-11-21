@@ -1,0 +1,451 @@
+{
+  "dataset": "Game English — Genshin Impact English Notes",
+  "version": "1.0",
+  "reference_count": 44,
+  "references": [
+    {
+      "id": "F01",
+      "chapter_id": "F",
+      "citation_original": "HoYoverse — A Winter Night’s Lazzo",
+      "publisher": "HoYoverse",
+      "title": "A Winter Night’s Lazzo",
+      "url": "https://www.youtube.com/watch?v=TmaAOV4SJNQ",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F02",
+      "chapter_id": "F",
+      "citation_original": "HoYoWiki — Fatui",
+      "publisher": "HoYoWiki",
+      "title": "Fatui",
+      "url": "https://wiki.hoyolab.com/m/genshin/entry/7106?lang=en-us",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F03",
+      "chapter_id": "F",
+      "citation_original": "Treccani — Arlecchino",
+      "publisher": "Treccani",
+      "title": "Arlecchino",
+      "url": "https://www.treccani.it/vocabolario/arlecchino/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F04",
+      "chapter_id": "F",
+      "citation_original": "Treccani — Pulcinella",
+      "publisher": "Treccani",
+      "title": "Pulcinella",
+      "url": "https://www.treccani.it/vocabolario/pulcinella/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F05",
+      "chapter_id": "F",
+      "citation_original": "Treccani — Dottore",
+      "publisher": "Treccani",
+      "title": "Dottore",
+      "url": "https://www.treccani.it/vocabolario/dottore/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F06",
+      "chapter_id": "F",
+      "citation_original": "Treccani — Pantalone",
+      "publisher": "Treccani",
+      "title": "Pantalone",
+      "url": "https://www.treccani.it/vocabolario/pantalone1/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F07",
+      "chapter_id": "F",
+      "citation_original": "Online Etymology Dictionary — Scaramouche",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Scaramouche",
+      "url": "https://www.etymonline.com/word/scaramouche",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F08",
+      "chapter_id": "F",
+      "citation_original": "Online Etymology Dictionary — Marionette",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Marionette",
+      "url": "https://www.etymonline.com/word/marionette",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F09",
+      "chapter_id": "F",
+      "citation_original": "Online Etymology Dictionary — Knave",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Knave",
+      "url": "https://www.etymonline.com/word/knave",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F10",
+      "chapter_id": "F",
+      "citation_original": "Online Etymology Dictionary — Childe",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Childe",
+      "url": "https://www.etymonline.com/word/childe",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F11",
+      "chapter_id": "F",
+      "citation_original": "Collins — Regrator",
+      "publisher": "Collins",
+      "title": "Regrator",
+      "url": "https://www.collinsdictionary.com/dictionary/english/regrator",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "F12",
+      "chapter_id": "F",
+      "citation_original": "Treccani — Sandrone",
+      "publisher": "Treccani",
+      "title": "Sandrone",
+      "url": "https://www.treccani.it/enciclopedia/sandrone/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M01",
+      "chapter_id": "M1",
+      "citation_original": "HoYoverse — Mondstadt Characters",
+      "publisher": "HoYoverse",
+      "title": "Mondstadt Characters",
+      "url": "https://genshin.hoyoverse.com/en/character/mondstadt",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M02",
+      "chapter_id": "M1",
+      "citation_original": "Online Etymology Dictionary — Amber",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Amber",
+      "url": "https://www.etymonline.com/word/amber",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M03",
+      "chapter_id": "M1",
+      "citation_original": "Online Etymology Dictionary — Barbara",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Barbara",
+      "url": "https://www.etymonline.com/word/Barbara",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M04",
+      "chapter_id": "M1",
+      "citation_original": "Online Etymology Dictionary — Razor",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Razor",
+      "url": "https://www.etymonline.com/word/razor",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M05",
+      "chapter_id": "M1",
+      "citation_original": "Behind the Name — Lisa",
+      "publisher": "Behind the Name",
+      "title": "Lisa",
+      "url": "https://www.behindthename.com/name/lisa",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M06",
+      "chapter_id": "M1",
+      "citation_original": "Behind the Name — Bennett",
+      "publisher": "Behind the Name",
+      "title": "Bennett",
+      "url": "https://www.behindthename.com/name/bennett",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M07",
+      "chapter_id": "M1",
+      "citation_original": "Behind the Name — Alberich",
+      "publisher": "Behind the Name",
+      "title": "Alberich",
+      "url": "https://www.behindthename.com/name/alberich",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M08",
+      "chapter_id": "M1",
+      "citation_original": "Duden — Luftschloss",
+      "publisher": "Duden",
+      "title": "Luftschloss",
+      "url": "https://www.duden.de/rechtschreibung/Luftschloss",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M09",
+      "chapter_id": "M2",
+      "citation_original": "HoYoverse — Mondstadt Characters",
+      "publisher": "HoYoverse",
+      "title": "Mondstadt Characters",
+      "url": "https://genshin.hoyoverse.com/en/character/mondstadt",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M10",
+      "chapter_id": "M2",
+      "citation_original": "Online Etymology Dictionary — Albedo",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Albedo",
+      "url": "https://www.etymonline.com/word/albedo",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M11",
+      "chapter_id": "M2",
+      "citation_original": "Online Etymology Dictionary — Sucrose",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Sucrose",
+      "url": "https://www.etymonline.com/word/sucrose",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M12",
+      "chapter_id": "M2",
+      "citation_original": "Behind the Name — Eula",
+      "publisher": "Behind the Name",
+      "title": "Eula",
+      "url": "https://www.behindthename.com/name/eula",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M13",
+      "chapter_id": "M2",
+      "citation_original": "Behind the Name — Mika",
+      "publisher": "Behind the Name",
+      "title": "Mika",
+      "url": "https://www.behindthename.com/name/mika",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M14",
+      "chapter_id": "M2",
+      "citation_original": "Duden — Lohen",
+      "publisher": "Duden",
+      "title": "Lohen",
+      "url": "https://www.duden.de/rechtschreibung/lohen_brennen",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "M15",
+      "chapter_id": "M2",
+      "citation_original": "Online Etymology Dictionary — Prune",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Prune",
+      "url": "https://www.etymonline.com/word/prune",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "N01",
+      "chapter_id": "NPC",
+      "citation_original": "Genshin Impact Wiki — Seamus Pegg",
+      "publisher": "Genshin Impact Wiki",
+      "title": "Seamus Pegg",
+      "url": "https://genshin-impact.fandom.com/wiki/Seamus_Pegg",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "N02",
+      "chapter_id": "NPC",
+      "citation_original": "Genshin Impact Wiki — Crepus",
+      "publisher": "Genshin Impact Wiki",
+      "title": "Crepus",
+      "url": "https://genshin-impact.fandom.com/wiki/Crepus",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "N03",
+      "chapter_id": "NPC",
+      "citation_original": "Genshin Impact Official Manga — Dusty Chest",
+      "publisher": "Genshin Impact Official Manga",
+      "title": "Dusty Chest",
+      "url": "https://www.webtoons.com/en/canvas/genshin-impact/chapter-7-dusty-chest-part-1/viewer?episode_no=15&title_no=242646",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "N04",
+      "chapter_id": "NPC",
+      "citation_original": "Online Etymology Dictionary — Vanessa",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Vanessa",
+      "url": "https://www.etymonline.com/word/Vanessa",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "W01",
+      "chapter_id": "W",
+      "citation_original": "HoYoverse — Story Teaser: The Mages’ Tea Party",
+      "publisher": "HoYoverse",
+      "title": "Story Teaser: The Mages’ Tea Party",
+      "url": "https://www.youtube.com/watch?v=RigK4OwCCM8",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "W02",
+      "chapter_id": "W",
+      "citation_original": "Online Etymology Dictionary — Alice",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Alice",
+      "url": "https://www.etymonline.com/word/Alice",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "W03",
+      "chapter_id": "W",
+      "citation_original": "Behind the Name — Octavia",
+      "publisher": "Behind the Name",
+      "title": "Octavia",
+      "url": "https://www.behindthename.com/name/octavia",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "W04",
+      "chapter_id": "W",
+      "citation_original": "Wiktionary — Hexenzirkel",
+      "publisher": "Wiktionary",
+      "title": "Hexenzirkel",
+      "url": "https://de.wiktionary.org/wiki/Hexenzirkel",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "W05",
+      "chapter_id": "W",
+      "citation_original": "San Francisco Opera — The Rhinemaidens",
+      "publisher": "San Francisco Opera",
+      "title": "The Rhinemaidens",
+      "url": "https://www.sfopera.com/experience-wagners-ring/characters/the-rhinemaidens/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "W06",
+      "chapter_id": "W",
+      "citation_original": "HoYoverse — Official Site",
+      "publisher": "HoYoverse",
+      "title": "Official Site",
+      "url": "https://genshin.hoyoverse.com/",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P01",
+      "chapter_id": "P",
+      "citation_original": "Genshin Impact Wiki — Mondstadt",
+      "publisher": "Genshin Impact Wiki",
+      "title": "Mondstadt",
+      "url": "https://genshin-impact.fandom.com/wiki/Mondstadt",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P02",
+      "chapter_id": "P",
+      "citation_original": "Genshin Impact Wiki — Mondstadt Domains",
+      "publisher": "Genshin Impact Wiki",
+      "title": "Mondstadt Domains",
+      "url": "https://genshin-impact.fandom.com/wiki/Category:Mondstadt_Domains",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P03",
+      "chapter_id": "P",
+      "citation_original": "Online Etymology Dictionary — -dom",
+      "publisher": "Online Etymology Dictionary",
+      "title": "-dom",
+      "url": "https://www.etymonline.com/word/-dom",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P04",
+      "chapter_id": "P",
+      "citation_original": "Online Etymology Dictionary — Midsummer",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Midsummer",
+      "url": "https://www.etymonline.com/word/midsummer",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P05",
+      "chapter_id": "P",
+      "citation_original": "Online Etymology Dictionary — Elegy",
+      "publisher": "Online Etymology Dictionary",
+      "title": "Elegy",
+      "url": "https://www.etymonline.com/word/elegy",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P06",
+      "chapter_id": "P",
+      "citation_original": "Cambridge Dictionary — Rime",
+      "publisher": "Cambridge Dictionary",
+      "title": "Rime",
+      "url": "https://dictionary.cambridge.org/dictionary/english/rime",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    },
+    {
+      "id": "P07",
+      "chapter_id": "P",
+      "citation_original": "Behind the Name — Cecilia",
+      "publisher": "Behind the Name",
+      "title": "Cecilia",
+      "url": "https://www.behindthename.com/name/cecilia",
+      "source_type": "原稿所列来源；类型未另行核验",
+      "verification_status": "原稿所列来源；链接有效性及其对具体词条的支持关系尚未逐条核验。"
+    }
+  ],
+  "note": "参考文献按原稿分辑保留。原稿未将每条来源逐一映射到具体词条，因此 chapter_reference_ids 仅表示同辑来源范围，不代表每条来源均直接支持该辑全部词条。",
+  "chapter_scope_notes": {
+    "NPC": "下列为此前文案列出的游戏资料和语言资料入口；仅代表这一辑的参考范围，不代表每一条名称推断已被来源直接证实。"
+  }
+}

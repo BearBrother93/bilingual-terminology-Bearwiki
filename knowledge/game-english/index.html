@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f8f5">
+  <meta name="description" content="游戏英语｜原神英语趣谈。通过《原神》角色、组织、地名与文化典故探索英文名称背后的词源、构词和语言知识。">
+  <title>游戏英语｜原神英语趣谈 — 维基熊</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../../index.html" aria-label="返回维基熊首页">
+        <span class="brand-mark">熊</span>
+        <span class="brand-name">维基熊 <small>WIKIBEAR</small></span>
+      </a>
+      <nav class="top-nav" aria-label="主导航">
+        <a href="../../index.html">网站首页</a>
+        <span class="nav-current">游戏英语</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="hero">
+      <div class="eyebrow">WIKIBEAR · ENTERTAINMENT · GAME ENGLISH</div>
+      <div class="hero-line">
+        <div>
+          <h1 id="site-title">游戏英语</h1>
+          <p class="subtitle" id="site-subtitle">原神英语趣谈</p>
+          <p class="hero-description" id="project-description">从游戏角色姓名、组织称号、地图地名与文化典故出发，探索英文名称背后的词源、构词、英语表达与文化关联。</p>
+        </div>
+        <div class="hero-count"><strong id="entry-total">67</strong><span>个词条</span><i></i><strong id="chapter-total">6</strong><span>个专题</span></div>
+      </div>
+    </section>
+
+    <section class="notice" aria-label="项目说明">
+      <div class="notice-icon">i</div>
+      <div>
+        <strong>非官方语言文化整理项目</strong>
+        <p id="disclaimer">本栏目由 AI 辅助整理并经人工编辑，非 HoYoverse 官方发布或认证。部分内容属于可能关联或文化联想，尚未得到官方证实。欢迎提供可靠资料、补充和指正。</p>
+      </div>
+    </section>
+
+    <section class="scope-section">
+      <div class="section-heading">
+        <div><span class="section-kicker">WHAT WE COLLECT</span><h2>收录范围</h2></div>
+        <span class="section-note">从名称出发，延伸至语言与文化</span>
+      </div>
+      <div class="scope-grid" id="scope-grid"></div>
+    </section>
+
+    <section class="workspace" id="entries">
+      <aside class="sidebar">
+        <div class="sidebar-heading">
+          <div><span class="section-kicker">BROWSE & SEARCH</span><h2>专题目录</h2></div>
+          <span class="total-pill" id="sidebar-count">67 条</span>
+        </div>
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="search-input" type="search" placeholder="搜索中文、English 或词源关键词" autocomplete="off">
+          <button id="clear-search" type="button" aria-label="清空搜索" hidden>×</button>
+        </label>
+        <div class="search-hint" id="search-hint">支持中文名称、英文名称及词条正文检索</div>
+        <div class="chapter-list" id="chapter-list"></div>
+        <div class="sidebar-foot">选择专题浏览，或直接搜索全部 67 个词条。</div>
+      </aside>
+
+      <section class="content-panel">
+        <div class="results-head">
+          <div><span class="section-kicker" id="results-kicker">SELECT A CHAPTER</span><h2 id="results-title">全部专题</h2></div>
+          <span class="result-count" id="result-count">载入中</span>
+        </div>
+        <div class="results-layout">
+          <div class="entry-list" id="entry-list" aria-label="词条列表"></div>
+          <article class="entry-detail" id="entry-detail" aria-live="polite">
+            <div class="detail-placeholder">
+              <span class="placeholder-mark">W</span>
+              <h3>从一个名字开始探索</h3>
+              <p>选择左侧专题或词条，查看名称构成、词源线索、英语拓展与文化背景。</p>
+            </div>
+          </article>
+        </div>
+      </section>
+    </section>
+
+    <section class="method-section">
+      <div class="method-copy">
+        <span class="section-kicker">EDITORIAL NOTE</span>
+        <h2>内容说明与使用边界</h2>
+        <p>本专题由 AI 辅助整理，并经人工编辑。历史词源、游戏命名意图与文化联想并非同一概念；词典或历史资料能够说明一个词的来源，不等于能够证明游戏创作者有意采用了该来源。</p>
+        <p>原稿按专题辑别列出参考资料，当前页面保留其来源范围，但尚未将每一条来源逐一映射到具体词条。因此，参考链接不应被理解为对同辑所有词源判断的直接证明。</p>
+      </div>
+      <div class="method-points" id="editorial-principles"></div>
+    </section>
+
+    <section class="contribute">
+      <div>
+        <span class="section-kicker">OPEN KNOWLEDGE · OPEN TO CORRECTION</span>
+        <h2>欢迎补充与指正</h2>
+        <p id="contribution-guidance">如果发现更可靠的词源资料、官方英文文本中的细节，或现有条目存在错误，欢迎提供词条编号、具体建议和可核查的资料链接。</p>
+      </div>
+      <div class="contribute-mark">熊</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div><strong>维基熊 · 游戏英语</strong><span>Game English · Genshin Impact English Notes</span></div>
+    <p>非官方粉丝知识项目，与 HoYoverse 无隶属、赞助或认可关系。游戏相关名称及作品权利归其各自权利人所有。</p>
+    <a href="../../index.html">返回维基熊首页 ↑</a>
+  </footer>
+  <noscript>本页面需要启用 JavaScript 才能读取词条数据。</noscript>
+</body>
+</html>
