@@ -467,6 +467,23 @@
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
       "locator": "Reliability Indices definitions"
+    },
+    {
+      "title": "P3240.17 — Distribution Network Power Supply Reliability Data Management",
+      "publisher": "IEEE Standards Association",
+      "url": "https://standards.ieee.org/ieee/3240.17/12355/",
+      "context": "Project title; active PAR, not a finalized standard。IEEE标准项目题名含 power supply reliability；该项目仍为PAR，不可当成已颁布的正式标准。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Project title; active PAR, not a finalized standard",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 386,
+      "independentlyVerified": true,
+      "matchedEnglish": "power supply reliability",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "387": [
@@ -478,6 +495,23 @@
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
       "locator": "标准标题"
+    },
+    {
+      "title": "IEC 60372:2020 — Locking devices for ball and socket couplings",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/60781",
+      "context": "IEC 60372 official scope and terminology; full normative text not inspected。绝缘子球窝锁紧装置需分 split-pin、W-clip；普通 spring pin 不足以描述具体锁紧型式。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "IEC 60372 official scope and terminology; full normative text not inspected",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 387,
+      "independentlyVerified": true,
+      "matchedEnglish": "locking devices",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "389": [
@@ -509,6 +543,23 @@
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
       "locator": "适用范围"
+    },
+    {
+      "title": "T/TGZX 005—2024 — 70 kN系列碗头挂板",
+      "publisher": "晋中市太谷区铸造协会／全国团体标准信息平台",
+      "url": "https://www.ttbz.org.cn/Home/PdfFileStreamGet/c3QsMTMyNjEx",
+      "context": "第3章术语和定义：碗头挂板 — socket clevis；对该系列有效，其他型式须另核。T/TGZX 005-2024 第3章直接给出碗头挂板—socket clevis；但其他W型可为socket tongue/eye，须保留型式限制。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-17",
+      "locator": "第3章术语和定义：碗头挂板 — socket clevis；对该系列有效，其他型式须另核",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 390,
+      "independentlyVerified": true,
+      "matchedEnglish": "socket clevis",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "391": [
@@ -531,6 +582,23 @@
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
       "locator": "标准摘要"
+    },
+    {
+      "title": "Pin puller for insulator of power transmission line — WO2025060251A1",
+      "publisher": "Google Patents (published patent)",
+      "url": "https://patents.google.com/patent/WO2025060251A1/en",
+      "context": "中英机译专利文本：销钩 pin hook，用于绝缘子R销；不能直接证明 pin puller hook 为标准名。专利机器英译中“销钩”为 pin hook，但无法证明整体“拔销钩”为 pin puller hook 的标准名称。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "中英机译专利文本：销钩 pin hook，用于绝缘子R销；不能直接证明 pin puller hook 为标准名",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 392,
+      "independentlyVerified": true,
+      "matchedEnglish": "pin hook",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "393": [
@@ -551,6 +619,23 @@
       "evidenceGrade": "B",
       "verifiedAt": "2026-11-08",
       "locator": "论文标题与摘要"
+    },
+    {
+      "title": "Application Research on Q460 High-strength Steel Tube in Transmission Line Project",
+      "publisher": "Southern Energy Construction",
+      "url": "https://www.energychina.press/en/article/doi/10.16516/j.gedi.issn2095-8676.2017.04.017",
+      "context": "Title and abstract: Q460 high-strength steel tube in transmission-line towers。电力工程期刊标题和摘要支持 Q460 steel 用于输电铁塔。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Title and abstract: Q460 high-strength steel tube in transmission-line towers",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 393,
+      "independentlyVerified": true,
+      "matchedEnglish": "Q460 high-strength steel",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "394": [
@@ -562,6 +647,23 @@
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
       "locator": "Transmission lines"
+    },
+    {
+      "title": "Grading Rings for Composite Insulators",
+      "publisher": "Tsinlingm Power",
+      "url": "https://www.tsinlingm.com/grading-rings-for-composite-insulators.html",
+      "context": "Product title: HV grading rings for composite insulators。厂商直接使用 grading rings for composite insulators；注意与 corona ring 用法重叠但不恒等。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Product title: HV grading rings for composite insulators",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 394,
+      "independentlyVerified": true,
+      "matchedEnglish": "grading rings",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "396": [
@@ -584,6 +686,23 @@
       "evidenceGrade": "C",
       "verifiedAt": "2026-11-08",
       "locator": "R-type pin"
+    },
+    {
+      "title": "Pin puller for insulator of power transmission line — WO2025060251A1",
+      "publisher": "Google Patents (published patent)",
+      "url": "https://patents.google.com/patent/WO2025060251A1/en",
+      "context": "中英机译专利文本：销钩 pin hook，用于绝缘子R销；不能直接证明 pin puller hook 为标准名。专利有R销取销器/ pin remover 相关用例，但不保证包含拔、插两用构造。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "中英机译专利文本：销钩 pin hook，用于绝缘子R销；不能直接证明 pin puller hook 为标准名",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 397,
+      "independentlyVerified": true,
+      "matchedEnglish": "pin hook",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "398": [
@@ -609,6 +728,23 @@
       "sourceTermId": 1,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "IEC 61850 GOOSE-Based Methodology for Arc Flash Incident Energy Reduction",
+      "publisher": "MDPI",
+      "url": "https://www.mdpi.com/2673-4826/7/3/81",
+      "context": "Section 2.1.1: relay trip signals transferred via GOOSE message; 不能直接证实 protection message 为固定术语。IEC 61850 GOOSE messages 可承载保护信号；protection message 是描述性词组，尚无本中文特定消息类型直对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Section 2.1.1: relay trip signals transferred via GOOSE message; 不能直接证实 protection message 为固定术语",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 402,
+      "independentlyVerified": true,
+      "matchedEnglish": "GOOSE message",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "403": [
@@ -623,6 +759,23 @@
       "sourceTermId": 1,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "CBT 102: Retrieving Event Reports",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/selu/courses/cbt/102/",
+      "context": "Event reports, SER and event data from protection relays; 不是 protection event 的原词直证。SEL 使用 event report、SER；保护事件若指日志可为 protection event，但报告与事件不能直接等同。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Event reports, SER and event data from protection relays; 不是 protection event 的原词直证",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 403,
+      "independentlyVerified": true,
+      "matchedEnglish": "event reports",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "404": [
@@ -637,6 +790,23 @@
       "sourceTermId": 1,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "Transformer Protection",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/products/protection-and-control/transformer-protection-and-control/transformer-protection",
+      "context": "Official product category: devices for two- and three-winding transformer protection。日立保护IED/设备资料，印证保护装置对应 protection device/IED（具体可称 protective relay）。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Official product category: devices for two- and three-winding transformer protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 404,
+      "independentlyVerified": true,
+      "matchedEnglish": "protection IEDs / devices",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "405": [
@@ -651,6 +821,23 @@
       "sourceTermId": 2,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "RED650 — Line differential protection",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/substation-automation-protection-and-control/products/protection-and-control/relion-product-family/relion-650-series/red650",
+      "context": "Manufacturer uses line protection and line differential protection, but not 110/220 kV thresholds。日立明确 line protection，但并不把 110 kV and above 列为统一产品分类。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer uses line protection and line differential protection, but not 110/220 kV thresholds",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 405,
+      "independentlyVerified": true,
+      "matchedEnglish": "line differential protection",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "406": [
@@ -665,6 +852,40 @@
       "sourceTermId": 2,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "RED650 — Line differential protection",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/products-and-solutions/substation-automation-protection-and-control/products/protection-and-control/relion-product-family/relion-650-series/red650",
+      "context": "Manufacturer uses line protection and line differential protection, but not 110/220 kV thresholds。资料涉及 220 kV 及以上线路保护要求；中国具体配置不以国外规章为准。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer uses line protection and line differential protection, but not 110/220 kV thresholds",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 406,
+      "independentlyVerified": true,
+      "matchedEnglish": "line differential protection",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
+    },
+    {
+      "title": "Central Electricity Authority (Technical Standards for Connectivity to the Grid) Regulations, 2007",
+      "publisher": "India Kanoon — public regulations",
+      "url": "https://indiankanoon.org/doc/134799906/",
+      "context": "Grid connectivity: two main numerical distance protection schemes for transmission lines 220 kV and above。资料涉及 220 kV 及以上线路保护要求；中国具体配置不以国外规章为准。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Grid connectivity: two main numerical distance protection schemes for transmission lines 220 kV and above",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 406,
+      "independentlyVerified": true,
+      "matchedEnglish": "distance protection schemes for 220 kV and above",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "407": [
@@ -679,6 +900,23 @@
       "sourceTermId": 3,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-787-2/-3/-4 Transformer Protection Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/787-3-4/",
+      "context": "SEL-787-2 offers two-winding differential protection; SEL-787-3 offers three-winding differential protection。SEL 明确 two-winding differential protection；具体保护类型需与原装置匹配。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "SEL-787-2 offers two-winding differential protection; SEL-787-3 offers three-winding differential protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 407,
+      "independentlyVerified": true,
+      "matchedEnglish": "two-winding / three-winding differential protection",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "408": [
@@ -693,6 +931,23 @@
       "sourceTermId": 3,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-787-2/-3/-4 Transformer Protection Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/787-3-4/",
+      "context": "SEL-787-2 offers two-winding differential protection; SEL-787-3 offers three-winding differential protection。SEL 明确 three-winding differential protection；具体保护类型需与原装置匹配。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "SEL-787-2 offers two-winding differential protection; SEL-787-3 offers three-winding differential protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 408,
+      "independentlyVerified": true,
+      "matchedEnglish": "two-winding / three-winding differential protection",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "409": [
@@ -707,6 +962,23 @@
       "sourceTermId": 8,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "Control Features (Circuit Breaker Control)",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A",
+      "context": "Sections Local Mode / Remote Mode; exact English labels in equipment HMI。施耐德在开关柜本地控制模式下明确使用 Local mode。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Sections Local Mode / Remote Mode; exact English labels in equipment HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 409,
+      "independentlyVerified": true,
+      "matchedEnglish": "Local mode / Remote mode",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "410": [
@@ -720,6 +992,23 @@
       "sourceTermId": 9,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "Control Features (Circuit Breaker Control)",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A",
+      "context": "Sections Local Mode / Remote Mode; exact English labels in equipment HMI。施耐德在开关柜远程控制模式下明确使用 Remote mode。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Sections Local Mode / Remote Mode; exact English labels in equipment HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 410,
+      "independentlyVerified": true,
+      "matchedEnglish": "Local mode / Remote mode",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "411": [
@@ -733,6 +1022,23 @@
       "sourceTermId": 10,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-787 Transformer Protection Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/787/",
+      "context": "Manufacturer explains external faults, relay fault detection and monitoring。SEL 在继电保护语境直接使用 faults。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer explains external faults, relay fault detection and monitoring",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 411,
+      "independentlyVerified": true,
+      "matchedEnglish": "fault",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "412": [
@@ -746,6 +1052,23 @@
       "sourceTermId": 10,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-787 Transformer Protection Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/787/",
+      "context": "Product application: relay monitoring and maintenance of transformers; maintenance as general term。SEL 在设备维护语境使用 maintenance；大修应改 overhaul，不以该译概括所有检修等级。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Product application: relay monitoring and maintenance of transformers; maintenance as general term",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 412,
+      "independentlyVerified": true,
+      "matchedEnglish": "maintenance",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "413": [
@@ -759,6 +1082,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "Hybrid Switchgear PASS M0S — 420 kV",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/high-voltage-switchgear-and-breakers/hybrid-switchgear/hybrid-modules-for-72-5-420-kv/pass-m0s-for-420-kv",
+      "context": "Manufacturer: combined disconnector and earthing switches。厂家明确使用 earthing switch；俗称地刀不能机械译 ground knife。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer: combined disconnector and earthing switches",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 413,
+      "independentlyVerified": true,
+      "matchedEnglish": "earthing switches",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "414": [
@@ -772,6 +1112,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "Application 2: Breaker Operation — IO Module User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/io_module_user_guide/io-module-user-guide/English/BM_Input_Output%20Interface%20Module%20for%20LV%20Circuit%20Brea_354b1ab7_T000205118.xml/%24/TPC_Application2_BreakerOperation_354b1ab7_T000205297",
+      "context": "Control mode selection; local and remote open/close orders; not all are named trip commands。施耐德输入端 I6 为 Local close order；界面标签 local close 可用，需与过程描述区分。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Control mode selection; local and remote open/close orders; not all are named trip commands",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 414,
+      "independentlyVerified": true,
+      "matchedEnglish": "Local close order / Remote close order / Remote open order",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "415": [
@@ -785,6 +1142,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "Application 2: Breaker Operation — IO Module User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/io_module_user_guide/io-module-user-guide/English/BM_Input_Output%20Interface%20Module%20for%20LV%20Circuit%20Brea_354b1ab7_T000205118.xml/%24/TPC_Application2_BreakerOperation_354b1ab7_T000205297",
+      "context": "Control mode selection; local and remote open/close orders; not all are named trip commands。来源有 local open order，但跳闸 trip 与开断 open 不可无条件视作同义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Control mode selection; local and remote open/close orders; not all are named trip commands",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 415,
+      "independentlyVerified": true,
+      "matchedEnglish": "Local close order / Remote close order / Remote open order",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "416": [
@@ -798,6 +1172,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 5,
       "independentlyVerified": false
+    },
+    {
+      "title": "Application 2: Breaker Operation — IO Module User Guide",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/io_module_user_guide/io-module-user-guide/English/BM_Input_Output%20Interface%20Module%20for%20LV%20Circuit%20Brea_354b1ab7_T000205118.xml/%24/TPC_Application2_BreakerOperation_354b1ab7_T000205297",
+      "context": "Control mode selection; local and remote open/close orders; not all are named trip commands。施耐德 I3 为 Remote close order；remote close command 为合理的命令标签表达。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Control mode selection; local and remote open/close orders; not all are named trip commands",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 416,
+      "independentlyVerified": true,
+      "matchedEnglish": "Local close order / Remote close order / Remote open order",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "417": [
@@ -811,6 +1202,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 6,
       "independentlyVerified": false
+    },
+    {
+      "title": "Why Won’t an MCB Shunt Release Trip the Breaker During a Remote Test?",
+      "publisher": "ETEK Electric",
+      "url": "https://www.etek-china.com/residual-current-device/mcb-shunt-release-remote-trip-failure",
+      "context": "Explicit technical phrase remote trip command in product commissioning context。厂家文章直接使用 remote trip command，注意 remote open 不完全等于保护跳闸。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Explicit technical phrase remote trip command in product commissioning context",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 417,
+      "independentlyVerified": true,
+      "matchedEnglish": "remote trip command",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "418": [
@@ -824,6 +1232,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 7,
       "independentlyVerified": false
+    },
+    {
+      "title": "Masterpact MTZ Troubleshooting",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/masterpact-mtz/5bec4e87347bdf0001da09c1/English/English/0614IB1701EN%20Masterpact%20MTZ2_MTZ3%20User%20Guide%20%28bookmap%29_0000154416.xml/%24/MasterpactMTZTroubleshooting-E1B15CD5",
+      "context": "Manufacturer HMI string: Close has failed; proof of failure status wording。设备手册证实 close failure 文本，但未独立验证 close successful 是固定状态标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer HMI string: Close has failed; proof of failure status wording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 418,
+      "independentlyVerified": true,
+      "matchedEnglish": "Close has failed",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "419": [
@@ -837,6 +1262,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 8,
       "independentlyVerified": false
+    },
+    {
+      "title": "Masterpact MTZ Troubleshooting",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/masterpact-mtz/5bec4e87347bdf0001da09c1/English/English/0614IB1701EN%20Masterpact%20MTZ2_MTZ3%20User%20Guide%20%28bookmap%29_0000154416.xml/%24/MasterpactMTZTroubleshooting-E1B15CD5",
+      "context": "Manufacturer HMI string: Close has failed; proof of failure status wording。施耐德故障提示直接出现 Close has failed，可与 closing failed 状态对应。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer HMI string: Close has failed; proof of failure status wording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 419,
+      "independentlyVerified": true,
+      "matchedEnglish": "Close has failed",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "420": [
@@ -850,6 +1292,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 9,
       "independentlyVerified": false
+    },
+    {
+      "title": "Trouble Shooting — ABB SPAA 341 C/E351",
+      "publisher": "ManualsLib (ABB equipment manual reproduction)",
+      "url": "https://www.manualslib.com/manual/1376995/Abb-Spaa-341-C-E351.html?page=127",
+      "context": "Equipment failure indications: CB opening failed, CB closing failed。设备资料列出开断失败，不支持完整 tripping successful 固定状态标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Equipment failure indications: CB opening failed, CB closing failed",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 420,
+      "independentlyVerified": true,
+      "matchedEnglish": "CB opening failed / CB closing failed",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "421": [
@@ -863,6 +1322,23 @@
       "sourceTermId": 12,
       "sourcePartIndex": 10,
       "independentlyVerified": false
+    },
+    {
+      "title": "Trouble Shooting — ABB SPAA 341 C/E351",
+      "publisher": "ManualsLib (ABB equipment manual reproduction)",
+      "url": "https://www.manualslib.com/manual/1376995/Abb-Spaa-341-C-E351.html?page=127",
+      "context": "Equipment failure indications: CB opening failed, CB closing failed。设备资料使用 CB opening failed；结合断路器跳闸状态，推荐 trip failed（作为人机界面状态，需按设备定义）。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Equipment failure indications: CB opening failed, CB closing failed",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 421,
+      "independentlyVerified": true,
+      "matchedEnglish": "CB opening failed / CB closing failed",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "422": [
@@ -876,6 +1352,23 @@
       "sourceTermId": 13,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "Control Features (Circuit Breaker Control)",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A",
+      "context": "Defines circuit breaker operation, local/remote status and interlocking。厂商专章描述 circuit breaker control/operation；switching operation 需区分断路器和隔离开关。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Defines circuit breaker operation, local/remote status and interlocking",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 422,
+      "independentlyVerified": true,
+      "matchedEnglish": "circuit breaker operation",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "423": [
@@ -889,6 +1382,23 @@
       "sourceTermId": 13,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-787 Transformer Protection Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/787/",
+      "context": "Product application: relay monitoring and maintenance of transformers; maintenance as general term。设备维护证据支持 maintenance，但开关可指switch/disconnector/circuit breaker。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Product application: relay monitoring and maintenance of transformers; maintenance as general term",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 423,
+      "independentlyVerified": true,
+      "matchedEnglish": "maintenance",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "424": [
@@ -902,6 +1412,23 @@
       "sourceTermId": 13,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "Control Features (Circuit Breaker Control)",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A",
+      "context": "Sections Local Mode / Remote Mode; exact English labels in equipment HMI。厂商控制面板提供 switchgear mode/status，switch status signal 为合理专业用例组合，但未查精确组合的独立标准定义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Sections Local Mode / Remote Mode; exact English labels in equipment HMI",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 424,
+      "independentlyVerified": true,
+      "matchedEnglish": "Local mode / Remote mode",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "425": [
@@ -916,6 +1443,23 @@
       "sourceTermId": 14,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "T2 Grid Substation Technical Specifications — Common Bay Unit",
+      "publisher": "Ceylon Electricity Board",
+      "url": "https://www.ceb.lk/front_img/tender_pdf/200625100611Volume_05_of_08_GPDEEIIP_-_T2_-_P8_-_Lot_B_25_06_2020.pdf",
+      "context": "§6.11 Common bay unit for shared inputs and outputs; does not mean all Chinese 公用间隔。官方技术规范 common bay unit 指公用间隔功能装置，不能反推所有“公用间隔”都为 common bay。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§6.11 Common bay unit for shared inputs and outputs; does not mean all Chinese 公用间隔",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 425,
+      "independentlyVerified": true,
+      "matchedEnglish": "common bay unit",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "426": [
@@ -930,6 +1474,23 @@
       "sourceTermId": 14,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "KS Modular Indoor Transformer Substation Brochure",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/621fe34539c44a69ae9d9ff3249cd94b/KS%20modular%20system%20indoor.pdf",
+      "context": "Manufacturer lists transformer bay, line bay; no confirmed main transformer bay。厂家资料直接使用 transformer bay；main transformer bay 完整搭配尚待图纸确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer lists transformer bay, line bay; no confirmed main transformer bay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 426,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer bay / line bay",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "427": [
@@ -944,6 +1505,23 @@
       "sourceTermId": 14,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "KS Modular Indoor Transformer Substation Brochure",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/621fe34539c44a69ae9d9ff3249cd94b/KS%20modular%20system%20indoor.pdf",
+      "context": "Manufacturer lists transformer bay, line bay; no confirmed main transformer bay。ABB厂商设备目录使用 line bay，属于行业英文用例。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Manufacturer lists transformer bay, line bay; no confirmed main transformer bay",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 427,
+      "independentlyVerified": true,
+      "matchedEnglish": "transformer bay / line bay",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "428": [
@@ -957,6 +1535,23 @@
       "sourceTermId": 15,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "MasterPact MTZ — Troubleshooting: Control operations",
+      "publisher": "Schneider Electric",
+      "url": "https://productinfo.se.com/masterpactmtz2-3userguide/doca0101-mtz2-3-user-guide/English/BM_MasterPact%20MTZ2_3_b5effd44_T001601218.xml/%24/TPC_ControlOperationsFromIOModule_354b1ab7_T000221844",
+      "context": "Control mode Enable/Disable and orders, but 退出 mode is context sensitive。退出可能是禁用某功能或将装置退出运行；需要按设备/逻辑义项选择 disable 与 take out of service。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Control mode Enable/Disable and orders, but 退出 mode is context sensitive",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 428,
+      "independentlyVerified": true,
+      "matchedEnglish": "disabled",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
     }
   ],
   "429": [
@@ -970,6 +1565,38 @@
       "sourceTermId": 16,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "NB/T 12047—2026 继电保护和安全自动装置中压板在线监测技术规范（术语摘录）",
+      "publisher": "能源行业标准；经分析测试百科网二次转录，未见标准原文全文",
+      "url": "https://www.antpedia.com/standard/1627881148.html",
+      "context": "可证备自投及压板概念，不能确认整个 automatic transfer enable link 为设备固定名称。；来源局限：仅能核对硬/软压板类属；不包含任何一条本批具体功能压板完整译名。二次资料待标准原文核验。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "术语：硬压板—physical link；软压板—virtual link；2026-12-26实施（摘录）",
+      "matchedEnglish": "physical link / virtual link",
+      "sourceTermId": 429,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "LINK"
+    },
+    {
+      "title": "SEL-700BT Motor Bus Transfer Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/700bt",
+      "context": "可证备自投及压板概念，不能确认整个 automatic transfer enable link 为设备固定名称。；来源局限：仅说明备用电源切换与同期功能，不提供中文压板的完整对应译法。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Multifunction Bus Transfer; Synchronism Check",
+      "matchedEnglish": "automatic bus transfer / synchronism-check function",
+      "sourceTermId": 429,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SELBT"
     }
   ],
   "430": [
@@ -983,6 +1610,38 @@
       "sourceTermId": 16,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "NB/T 12047—2026 继电保护和安全自动装置中压板在线监测技术规范（术语摘录）",
+      "publisher": "能源行业标准；经分析测试百科网二次转录，未见标准原文全文",
+      "url": "https://www.antpedia.com/standard/1627881148.html",
+      "context": "ABB 有 Sync Check Enable 整定，但 enable link 的压板层面未得到直证。；来源局限：仅能核对硬/软压板类属；不包含任何一条本批具体功能压板完整译名。二次资料待标准原文核验。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "术语：硬压板—physical link；软压板—virtual link；2026-12-26实施（摘录）",
+      "matchedEnglish": "physical link / virtual link",
+      "sourceTermId": 430,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "LINK"
+    },
+    {
+      "title": "ABB Distribution Protection Unit 2000R — Instruction Booklet",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf",
+      "context": "ABB 有 Sync Check Enable 整定，但 enable link 的压板层面未得到直证。；来源局限：说明功能整定名称；不能证明特定压板本体译法。PDF 页码未逐页截图复核，故不记录页码。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Table 1-22 Synchronism Check Characteristics",
+      "matchedEnglish": "Sync Check Enable; Dead Bus - Live Line; Voltage Difference; Slip Cutoff Frequency",
+      "sourceTermId": 430,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB25"
     }
   ],
   "431": [
@@ -996,6 +1655,38 @@
       "sourceTermId": 16,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "NB/T 12047—2026 继电保护和安全自动装置中压板在线监测技术规范（术语摘录）",
+      "publisher": "能源行业标准；经分析测试百科网二次转录，未见标准原文全文",
+      "url": "https://www.antpedia.com/standard/1627881148.html",
+      "context": "Dead-bus 判据存在，但 dead-bus-check enable link 完整名称未经实证。；来源局限：仅能核对硬/软压板类属；不包含任何一条本批具体功能压板完整译名。二次资料待标准原文核验。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "术语：硬压板—physical link；软压板—virtual link；2026-12-26实施（摘录）",
+      "matchedEnglish": "physical link / virtual link",
+      "sourceTermId": 431,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "LINK"
+    },
+    {
+      "title": "ABB Distribution Protection Unit 2000R — Instruction Booklet",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf",
+      "context": "Dead-bus 判据存在，但 dead-bus-check enable link 完整名称未经实证。；来源局限：说明功能整定名称；不能证明特定压板本体译法。PDF 页码未逐页截图复核，故不记录页码。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Table 1-22 Synchronism Check Characteristics",
+      "matchedEnglish": "Sync Check Enable; Dead Bus - Live Line; Voltage Difference; Slip Cutoff Frequency",
+      "sourceTermId": 431,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB25"
     }
   ],
   "432": [
@@ -1009,6 +1700,22 @@
       "sourceTermId": 16,
       "sourcePartIndex": 5,
       "independentlyVerified": false
+    },
+    {
+      "title": "NB/T 12047—2026 继电保护和安全自动装置中压板在线监测技术规范（术语摘录）",
+      "publisher": "能源行业标准；经分析测试百科网二次转录，未见标准原文全文",
+      "url": "https://www.antpedia.com/standard/1627881148.html",
+      "context": "功能压板的类属可查，control logic enable link 暂作描述性名称。；来源局限：仅能核对硬/软压板类属；不包含任何一条本批具体功能压板完整译名。二次资料待标准原文核验。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "术语：硬压板—physical link；软压板—virtual link；2026-12-26实施（摘录）",
+      "matchedEnglish": "physical link / virtual link",
+      "sourceTermId": 432,
+      "sourcePartIndex": 5,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "LINK"
     }
   ],
   "433": [
@@ -1035,6 +1742,41 @@
       "sourceTermId": 16,
       "sourcePartIndex": 7,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "同期功能确有用途，未核实 synchronizing function enable link 完整标签。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 434,
+      "sourcePartIndex": 7,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "NB/T 12047—2026 继电保护和安全自动装置中压板在线监测技术规范（术语摘录）",
+      "publisher": "能源行业标准；经分析测试百科网二次转录，未见标准原文全文",
+      "url": "https://www.antpedia.com/standard/1627881148.html",
+      "context": "同期功能确有用途，未核实 synchronizing function enable link 完整标签。；来源局限：仅能核对硬/软压板类属；不包含任何一条本批具体功能压板完整译名。二次资料待标准原文核验。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "术语：硬压板—physical link；软压板—virtual link；2026-12-26实施（摘录）",
+      "matchedEnglish": "physical link / virtual link",
+      "sourceTermId": 434,
+      "sourcePartIndex": 7,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "LINK"
     }
   ],
   "435": [
@@ -1074,6 +1816,41 @@
       "sourceTermId": 16,
       "sourcePartIndex": 10,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "同步/准同期相关功能存在；quasi-synchronizing enable link 未见原生专业用例。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 437,
+      "sourcePartIndex": 10,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "NB/T 12047—2026 继电保护和安全自动装置中压板在线监测技术规范（术语摘录）",
+      "publisher": "能源行业标准；经分析测试百科网二次转录，未见标准原文全文",
+      "url": "https://www.antpedia.com/standard/1627881148.html",
+      "context": "同步/准同期相关功能存在；quasi-synchronizing enable link 未见原生专业用例。；来源局限：仅能核对硬/软压板类属；不包含任何一条本批具体功能压板完整译名。二次资料待标准原文核验。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "术语：硬压板—physical link；软压板—virtual link；2026-12-26实施（摘录）",
+      "matchedEnglish": "physical link / virtual link",
+      "sourceTermId": 437,
+      "sourcePartIndex": 10,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "LINK"
     }
   ],
   "438": [
@@ -1087,6 +1864,41 @@
       "sourceTermId": 17,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "Synchronism-Check Breaker Failure (25BF) Protection",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/api/download/blt9cd74be1c4f2eb4f/?lang=en-us",
+      "context": "原生资料使用 slip frequency；与 frequency difference 概念接近但可能有正负或绝对值区别。；来源局限：使用同期参数英文；未找到直接中英标准术语对照。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§3.2 Synchronism-Check Breaker Failure Protection; Fig. 2 Three parameters of synchronism",
+      "matchedEnglish": "Slip Frequency; Voltage Difference; Angle Difference",
+      "sourceTermId": 438,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "SEL25"
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "原生资料使用 slip frequency；与 frequency difference 概念接近但可能有正负或绝对值区别。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 438,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "439": [
@@ -1100,6 +1912,25 @@
       "sourceTermId": 17,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "ABB 明示 slip (frequency difference)；装置参数需按实际取有符号或绝对值。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 439,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "440": [
@@ -1113,6 +1944,25 @@
       "sourceTermId": 17,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "SYNCHROTACT 手册的 phase-angle difference 是同期测量的原生用语。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 440,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "441": [
@@ -1126,6 +1976,25 @@
       "sourceTermId": 17,
       "sourcePartIndex": 5,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "SYNCHROTACT 明确使用 voltage difference (ΔU)；注意区别允许压差和实际压差。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 441,
+      "sourcePartIndex": 5,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "442": [
@@ -1139,6 +2008,25 @@
       "sourceTermId": 18,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "角差判据可见，但 phase-angle criterion not met 是拟定 HMI 提示，未见完整厂商原文。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 442,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "443": [
@@ -1152,6 +2040,25 @@
       "sourceTermId": 18,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "频差判据可见，整句频差条件不满足仍是建议性界面语言。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 443,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "444": [
@@ -1165,6 +2072,25 @@
       "sourceTermId": 18,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "同期其他条件不满足缺具体条件定义，尚不能作为厂商标准提示。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 444,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "445": [
@@ -1178,6 +2104,25 @@
       "sourceTermId": 18,
       "sourcePartIndex": 5,
       "independentlyVerified": false
+    },
+    {
+      "title": "SYNCHROTACT Datasheet — SYNCHROTACT 6",
+      "publisher": "ABB Switzerland Ltd.",
+      "url": "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "context": "压差阈值明确，整句英文未取得直接厂商用例。；来源局限：专业英文原生用法；不证明特定中文 HMI 报错短句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "SYNCHROTACT 6: Principle of operation, 印刷第10页／PDF第10页",
+      "matchedEnglish": "voltage difference; slip (frequency difference); phase-angle difference; synchrocheck; paralleling criteria",
+      "sourceTermId": 445,
+      "sourcePartIndex": 5,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB6",
+      "verifiedPrintedPage": "10",
+      "pdfPageIndex": 9,
+      "pageVerification": "screenshot verified"
     }
   ],
   "447": [
@@ -1192,6 +2137,22 @@
       "sourceTermId": 20,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "TAPCON 250 Operating Instructions",
+      "publisher": "Maschinenfabrik Reinhausen",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf",
+      "context": "电压调节设备手册出现 blocking function；逻辑闭锁勿等同机械互锁。；来源局限：仅证明电压调节控制中的 blocking function，其他保护逻辑需以装置参数名核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§11.3 No regulation in AUTO mode / Blocking function",
+      "matchedEnglish": "Blocking function; Automatic voltage regulation is blocked",
+      "sourceTermId": 447,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "TAPCON"
     }
   ],
   "448": [
@@ -1206,6 +2167,22 @@
       "sourceTermId": 21,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "Manager, Electrical Power Distribution (Substation) — Position Description",
+      "publisher": "PacifiCorp",
+      "url": "https://careers.pacificorp.com/job/WALLA-WALLA-Manager%2C-Electrical-Power-Distribution-%28Substation%29-WA-99362/1440975900/",
+      "context": "现有官方职位写 Manager, Electrical Power Distribution (Substation)；substation manager 可理解，但中国“站长”职级尚待单位确认。；来源局限：证明变电站管理岗位存在，但不能认定某单位“站长”正式职称为 substation manager。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "General Purpose: manages day-to-day operations of electrical substations",
+      "matchedEnglish": "Manager, Electrical Power Distribution (Substation)",
+      "sourceTermId": 448,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SUBMGR"
     }
   ],
   "449": [
@@ -1234,6 +2211,22 @@
       "sourceTermId": 21,
       "sourcePartIndex": 4,
       "independentlyVerified": false
+    },
+    {
+      "title": "Shift Supervisor, Substation Operations — Position Description",
+      "publisher": "Eversource Energy",
+      "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/Shift-Supervisor--Substation-Operations_R-030590",
+      "context": "供电公司现行岗位名称包含 Shift Supervisor, Substation Operations；与“值长”职级关系仍需单位核实。；来源局限：英语职业名称的真实用例；并非中国电力企业“值长”职级的正式对译。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Position title and shift responsibilities",
+      "matchedEnglish": "Shift Supervisor, Substation Operations",
+      "sourceTermId": 450,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "SHIFT"
     }
   ],
   "451": [
@@ -1247,6 +2240,22 @@
       "sourceTermId": 24,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-TMU TiDL Merging Unit",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/tmu/",
+      "context": "可证远程采集和测量信号，general telemetry 尚无原生设备标签的证据。；来源局限：仅说明遥测遥信底层采集，不能证明“general telemetry / telecontrol / remote indication”的完整技术标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Data Digitization: remote data acquisition and discrete I/O",
+      "matchedEnglish": "remote data acquisition; discrete I/O",
+      "sourceTermId": 451,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SELTELEM"
     }
   ],
   "452": [
@@ -1260,6 +2269,22 @@
       "sourceTermId": 25,
       "sourcePartIndex": 2,
       "independentlyVerified": false
+    },
+    {
+      "title": "SEL-700BT Motor Bus Transfer Relay",
+      "publisher": "Schweitzer Engineering Laboratories",
+      "url": "https://selinc.com/products/700bt",
+      "context": "可证远程操控及电源切换领域用法，general telecontrol 未找到完整源用例。；来源局限：仅说明备用电源切换与同期功能，不提供中文压板的完整对应译法。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Multifunction Bus Transfer; Synchronism Check",
+      "matchedEnglish": "automatic bus transfer / synchronism-check function",
+      "sourceTermId": 452,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SELBT"
     }
   ],
   "26": [
@@ -7620,6 +8645,1859 @@
       "auditBatch": "batch007",
       "verificationLimit": "B级仅有英文技术文献用例，非中英直接对应",
       "sourceMethod": "检索英文资料、核对可见页面和节标题；未验证的文献页码记null"
+    }
+  ],
+  "329": [
+    {
+      "title": "Grounding for Employee Protection",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/etools/electric-power/hazardous-energy-control/grounding-employee-protection",
+      "context": "倒送电可指从负荷侧或备用通道向原线路反送电；backfeed 与 reverse energization 不能在所有场景下互换。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Grounding for Employee Protection",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 329,
+      "independentlyVerified": true,
+      "matchedEnglish": "backfeed",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "330": [
+    {
+      "title": "Contact Protection Circuit for Relay and Transistor Outputs",
+      "publisher": "Schneider Electric",
+      "url": "https://download.se.com/files?p_Doc_Ref=35011387K01000&p_File_Name=35011387_K01_000_05.pdf&p_enDocType=User+guide",
+      "context": "文献中是继电器输出端的保护电路，不能直接证明继电保护二次“保护回路”的完整概念。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Contact Protection Circuit; different function from relay-protection secondary circuits",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 330,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "331": [
+    {
+      "title": "Best Non-Contact Voltage Tester",
+      "publisher": "Fluke",
+      "url": "https://www.fluke.com/en-us/learn/blog/electrical/best-electrical-voltage-testers",
+      "context": "原 voltage tester pen 可理解但不够自然；现场笔式非接触验电工具宜用 pen-type voltage tester，非接触型需明确。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Overview; VoltAlert non-contact voltage detectors",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 331,
+      "independentlyVerified": true,
+      "matchedEnglish": "tester pen; non-contact voltage tester",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "332": [
+    {
+      "title": "IEC 61243-1:2021 — Live working — Voltage detectors",
+      "publisher": "International Electrotechnical Commission",
+      "url": "https://webstore.iec.ch/en/publication/61651",
+      "context": "IEC 61243-1 适用于交流高压电容式验电器，不涵盖所有电压检测器种类。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Scope and title",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 332,
+      "independentlyVerified": true,
+      "matchedEnglish": "voltage detector",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "333": [
+    {
+      "title": "Uninterruptible Power Supply (UPS) FAQs",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/my/en-us/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/uninterruptible-power-supply-faq.html",
+      "context": "“保安电源”在电厂保安段是专门系统；UPS 的 emergency power 不等同于电厂事故保安电源整体。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "UPS definition; does not distinguish 保安电源 vs 备用电源",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 333,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "334": [
+    {
+      "title": "29 CFR 1910.269 — Connecting and Removing Grounds",
+      "publisher": "U.S. OSHA",
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.269",
+      "context": "标准条文对接地线装拆先后顺序有明确要求；英文是操作说明，非中文直接对照。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "1910.269(n)(6)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 334,
+      "independentlyVerified": true,
+      "matchedEnglish": "connecting and removing grounds",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "335": [
+    {
+      "title": "Transformer distribution catalog — transformer terminology",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/transformer/files/transformer-distribution-catalog-volume-2-tab-ca08100003e.pdf",
+      "context": "降低电压为 step down the voltage；应注意 voltage reduction 与 voltage drop（电压降）不同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Transformer glossary, step-up and step-down entries",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 335,
+      "independentlyVerified": true,
+      "matchedEnglish": "step-down transformer",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "336": [
+    {
+      "title": "Earth-fault protection IFPTOC Overview",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/bb25b079fb85457f824bf61509a68ded/Next_gen_earth_fault_protection_2NGA001952_ENa.pdf",
+      "context": "ABB 将单相接地故障与接地故障保护关联，但未逐字出现源库完整组合。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Overview",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 336,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "337": [
+    {
+      "title": "IEC 60364-5-55 Auxiliary Circuits",
+      "publisher": "IEC via iTeh preview",
+      "url": "https://www.iteh.eu/catalog/standards/iec/043ba46d-cbbc-41fd-a5ba-d5c396eedde5/iec-60364-5-55-2011-amd1-2012",
+      "context": "仅见辅助回路额定电压；厂用电系统的供电电压等级需按电厂接线进一步核定。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "557.3.5.1; not directly station service power voltage level",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 337,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "338": [
+    {
+      "title": "Technical information: Three-phase transformers",
+      "publisher": "Noratel",
+      "url": "https://www.noratel.com/fileadmin/content/downloads/school/3phTransformer.pdf",
+      "context": "来源分开使用中性点和高压侧，不直接支持原英文语序。建议备选 neutral point on the transformer high-voltage side。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Three-phase connections; separate phrases",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 338,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "339": [
+    {
+      "title": "Technical Guidelines for the Development of Small Hydropower Plants — Terms and Definitions (SHP/TG 001:2019)",
+      "publisher": "UNIDO / INSHP",
+      "url": "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf",
+      "context": "UNIDO/INSHP §11.2.3 明确使用 generator-transformer unit connection。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§11.2.3, §11.2.6, §11.2.7; PDF page not independently verified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 339,
+      "independentlyVerified": true,
+      "matchedEnglish": "generator-transformer unit connection",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "340": [
+    {
+      "title": "Technical Guidelines for the Development of Small Hydropower Plants — Terms and Definitions (SHP/TG 001:2019)",
+      "publisher": "UNIDO / INSHP",
+      "url": "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf",
+      "context": "UNIDO/INSHP §11.2.6 备注明确 single-bus connection with bypass，较原 single bus with bypass 完整。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§11.2.3, §11.2.6, §11.2.7; PDF page not independently verified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 340,
+      "independentlyVerified": true,
+      "matchedEnglish": "single-bus connection with bypass",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "341": [
+    {
+      "title": "Transformer distribution catalog — transformer terminology",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/transformer/files/transformer-distribution-catalog-volume-2-tab-ca08100003e.pdf",
+      "context": "升压操作可用 step up the voltage，避免与 voltage rise 泛称完全等同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Transformer glossary, step-up and step-down entries",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 341,
+      "independentlyVerified": true,
+      "matchedEnglish": "step-up transformer",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "342": [
+    {
+      "title": "Digital Transformation Solution for Safe and Efficient Operation of Cogeneration Power Plant",
+      "publisher": "Yokogawa",
+      "url": "https://www.yokogawa.com/us/library/resources/references/successstory-tp-utilities/",
+      "context": "厂商确认交接班流程，但未直接使用 shift handover system 指代一套制度。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Operation management; does not define shift handover system",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 342,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "343": [
+    {
+      "title": "Power Xpert FMX — Medium Voltage Switchgear Panel",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/nz/en-gb/catalog/medium-voltage-power-distribution-control-systems/power-xpert-fmx---eaton1.html",
+      "context": "Eaton 柜型参数直接列出 outgoing feeder。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Technical characteristics, feeder types",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 343,
+      "independentlyVerified": true,
+      "matchedEnglish": "outgoing feeder",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "344": [
+    {
+      "title": "Power Xpert FMX — Medium Voltage Switchgear Panel",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/nz/en-gb/catalog/medium-voltage-power-distribution-control-systems/power-xpert-fmx---eaton1.html",
+      "context": "Eaton 柜型参数直接列出 incoming feeder。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Technical characteristics, feeder types",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 344,
+      "independentlyVerified": true,
+      "matchedEnglish": "incoming feeder",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "345": [
+    {
+      "title": "Bare Conductors — Product Catalogue (Power Cables)",
+      "publisher": "Prysmian Group / Draka",
+      "url": "https://baltics.prysmian.com/sites/default/files/atoms/files/Prysmian-Group-Baltics_Catalogue_PowerCables_EN-2022-april.pdf",
+      "context": "Prysmian 目录用于架空线路铝绞线；AAC 一般专指全铝绞线，不能涵盖所有铝包钢芯导线。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Construction; bare overhead conductor",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 345,
+      "independentlyVerified": true,
+      "matchedEnglish": "stranded aluminium conductor",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "347": [
+    {
+      "title": "CHLK25 Stay wire clamp — MV accessories",
+      "publisher": "Ensto",
+      "url": "https://www.ensto.com/products/medium-voltage-distribution-and-automation/mv-overhead-line-accessories/mv-stay-wire-accessories/chlk25/",
+      "context": "clamp 是上位词；电力线夹有 suspension clamp、tension clamp、stay wire clamp 等，具体按设备用途。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Product description; clamp is generic outside this device",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 347,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "348": [
+    {
+      "title": "SHS25K.165L Stay wire set — MV accessories",
+      "publisher": "Ensto",
+      "url": "https://www.ensto.com/products/medium-voltage-distribution-and-automation/mv-overhead-line-accessories/mv-stay-wire-accessories/shs25k.165l/",
+      "context": "架空线路拉线推荐 stay wire；原 stay 可描述支撑件，但单独使用范围较宽。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Product description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 348,
+      "independentlyVerified": true,
+      "matchedEnglish": "stay wire",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "349": [
+    {
+      "title": "Overhead Line Distribution Design Manual",
+      "publisher": "Evoenergy",
+      "url": "https://www.evoenergy.com.au/-/media/Project/Evoenergy/EVO/Documents/Manuals/PO07132-Overhead-Line-Distribution-Design-Manual.pdf",
+      "context": "线路设计手册图示使用 stayed pole，规范英文大小写改为小写。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§12.10.1; PDF page not independently verified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 349,
+      "independentlyVerified": true,
+      "matchedEnglish": "stayed pole",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "350": [
+    {
+      "title": "RUS Bulletin 1724E-224",
+      "publisher": "U.S. Department of Agriculture, Rural Utilities Service",
+      "url": "https://www.rd.usda.gov/files/UEP_Bulletin_1724E-224.pdf",
+      "context": "电杆安装回填是电网施工真实工序，保留并加注 pole-hole backfilling 语境。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Pole setting and backfill paragraphs; page not independently verified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 350,
+      "independentlyVerified": true,
+      "matchedEnglish": "pole backfill",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "353": [
+    {
+      "title": "IEC 62271-112:2021 — AC high-speed earthing switches",
+      "publisher": "IEC",
+      "url": "https://webstore.iec.ch/en/publication/66395",
+      "context": "IEC 标准范围使用 secondary arc extinction；灭弧可用 arc extinction，需区分抑弧/灭弧策略。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Scope; secondary arc extinction",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 353,
+      "independentlyVerified": true,
+      "matchedEnglish": "arc extinction",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "354": [
+    {
+      "title": "Best Management Practice #8: Steam Boiler Systems",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/cmei/femp/best-management-practice-8-steam-boiler-systems",
+      "context": "锅炉排污系统“扩容器”可对应 flash tank / flash vessel；不宜套用到所有压力容器。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Operations and Maintenance Options",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 354,
+      "independentlyVerified": true,
+      "matchedEnglish": "expansion flash tank",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "356": [
+    {
+      "title": "Electrical machine (WO2018028912A1)",
+      "publisher": "Magna Powertrain / Google Patents",
+      "url": "https://patents.google.com/patent/WO2018028912A1/en",
+      "context": "电机壳体专利有 stiffening ribs 用法，范围限结构加强筋。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract; electrical machine housing",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 356,
+      "independentlyVerified": true,
+      "matchedEnglish": "stiffening ribs",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "357": [
+    {
+      "title": "Best Management Practice #8: Steam Boiler Systems",
+      "publisher": "U.S. Department of Energy",
+      "url": "https://www.energy.gov/cmei/femp/best-management-practice-8-steam-boiler-systems",
+      "context": "美国能源部定义 boiler blowdown，即定期/连续排出锅炉水；不可泛化为污水排放。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Operations and Maintenance Options",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 357,
+      "independentlyVerified": true,
+      "matchedEnglish": "blowdown",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "358": [
+    {
+      "title": "Non-Segregated Phase Bus Duct",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/us/en-us/catalog/low-voltage-power-distribution-controls-systems/non-segregated-phase-bus-duct.html",
+      "context": "共箱母线可对应 non-segregated-phase bus；是否需加 bus duct 看设备结构。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Product description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 358,
+      "independentlyVerified": true,
+      "matchedEnglish": "non-segregated phase bus",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "359": [
+    {
+      "title": "Bus Systems: Non-Segregated Phase and Isolated Phase Bus Ducts",
+      "publisher": "Powell Industries",
+      "url": "https://www.powellind.com/bus-systems",
+      "context": "厂商明确区分 isolated-phase 与 non-segregated-phase bus ducts。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Bus Systems product categories",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 359,
+      "independentlyVerified": true,
+      "matchedEnglish": "isolated phase bus duct",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "360": [
+    {
+      "title": "Guide Specifications for Electrical Power Equipment",
+      "publisher": "Eaton",
+      "url": "https://origin-edge.eaton.com/us/en-us/support/business-resources/consultants-engineers/consultant---engineer-resources-for-medium-voltage-power---eaton/guide-specs.html",
+      "context": "enclosed bus 是上位表达；应区别 nonsegregated、segregated、isolated phase 类型。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Guide specification index; composite name not defined",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 360,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "361": [
+    {
+      "title": "Transient Response Analysis of Quasi-Synchronization and Self-Synchronization Grid-Connection Processes",
+      "publisher": "Engineering Reports / Wiley",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.70986",
+      "context": "论文解释自同期接入电网流程；self-synchronizing 是派生形容词，名词使用 self-synchronization。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§4 Self-Synchronization Grid-Connection Simulation",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 361,
+      "independentlyVerified": true,
+      "matchedEnglish": "self-synchronization",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "362": [
+    {
+      "title": "Practices for Generator Synchronizing Systems (TR 121)",
+      "publisher": "IEEE Power & Energy Society",
+      "url": "https://resourcecenter.ieee.org/publications/technical-reports/pes_tp_tr121_psrc_42924",
+      "context": "来源讨论同期测试，但未逐字证实“假同期—simulated synchronizing”；不得与实际并列或 out-of-phase synchronizing 混同。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Abstract: tests and commissioning; not equivalent to 假同期",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 362,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "363": [
+    {
+      "title": "Sizing Generators for Leading Power Factor",
+      "publisher": "Allen Windhorn, Kato Engineering (hosted by IEEE Houston)",
+      "url": "https://r5.ieee.org/houston/wp-content/uploads/sites/32/2018/04/Sizing-Generators-for-Leading-Power-Factor_white-paper_24Feb14.pdf",
+      "context": "发电机迟相运行建议 lagging power factor operation，原 lagging phase mode 语义过宽。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Lagging vs. Leading Power Factor; Generator Operation with a Leading Power Factor (first PDF page visually confirmed; other exact pages not asserted)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 363,
+      "independentlyVerified": true,
+      "matchedEnglish": "lagging power factor",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "364": [
+    {
+      "title": "Sizing Generators for Leading Power Factor",
+      "publisher": "Allen Windhorn, Kato Engineering (hosted by IEEE Houston)",
+      "url": "https://r5.ieee.org/houston/wp-content/uploads/sites/32/2018/04/Sizing-Generators-for-Leading-Power-Factor_white-paper_24Feb14.pdf",
+      "context": "发电机进相运行建议 leading power factor operation，原 leading phase mode 语义过宽。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Lagging vs. Leading Power Factor; Generator Operation with a Leading Power Factor (first PDF page visually confirmed; other exact pages not asserted)",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 364,
+      "independentlyVerified": true,
+      "matchedEnglish": "leading power factor",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "365": [
+    {
+      "title": "Fluke 433 Power Quality Analyzer Manual",
+      "publisher": "Fluke",
+      "url": "https://media.fluke.com/abafa5ca-3761-4970-905b-b10800be5bd2_original%20file.pdf",
+      "context": "用于电能表脉冲输出语境，英文 pulse 已获专业用例支持；切勿泛化为全部含义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Pulse count mode; no verified page",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 365,
+      "independentlyVerified": true,
+      "matchedEnglish": "pulse output",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "366": [
+    {
+      "title": "Uninterruptible Power Supply (UPS) FAQs",
+      "publisher": "Eaton",
+      "url": "https://www.eaton.com/au/en-gb/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/uninterruptible-power-supply-faq.html",
+      "context": "UPS 的 eco-mode 不一定等同于设备界面 Power Save Mode；需要设备型号与实际模式定义。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "UPS multimode; does not verify Power Save Mode wording",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 366,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "367": [
+    {
+      "title": "QUINT4-DIODE Redundancy module",
+      "publisher": "Phoenix Contact",
+      "url": "https://www.phoenixcontact.com/en-pc/products/redundancy-module-quint4-diode-48dc-2x20-1x40-2907720",
+      "context": "文献明确使用 diode redundancy module；尚不直接证明独立器件“冗余二极管—redundant diode”的固定术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-09",
+      "locator": "Product description; not an independent redundant diode definition",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 367,
+      "independentlyVerified": false,
+      "matchedEnglish": null,
+      "auditBatch": "batch008",
+      "verificationLimit": "只证明背景或部分用语，不足以支持完整译法",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "368": [
+    {
+      "title": "Transformer Testing Examples for Fluke Norma 5000",
+      "publisher": "Fluke",
+      "url": "https://media.fluke.com/7f9803f6-e983-4c15-9ff8-b106006640ee_original%20file.pdf",
+      "context": "变压器变比测试明确使用 turns ratio；和 voltage ratio 概念相近但测试条件不同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Transformer tests — turns ratio; page unverified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 368,
+      "independentlyVerified": true,
+      "matchedEnglish": "turns ratio",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "369": [
+    {
+      "title": "Metal Enclosed Capacitor Banks MMCB",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/capacitors-and-filters/medium-voltage-capacitors-and-filters/capacitor-banks/metal-enclosed-capacitor-banks-mmcb",
+      "context": "电容器在电力无功补偿电容器组中有明确设备用例。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Product description",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 369,
+      "independentlyVerified": true,
+      "matchedEnglish": "capacitor",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "370": [
+    {
+      "title": "Optimal Time of Use Electricity Pricing Model and Its Application to Electrical Distribution System",
+      "publisher": "IEEE Access / DOI",
+      "url": "https://doi.org/10.1109/ACCESS.2019.2938415",
+      "context": "IEEE论文将系统网损拆分为 active power loss 与 reactive power loss。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Section C, active power loss index; mathematical formula",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 370,
+      "independentlyVerified": true,
+      "matchedEnglish": "active power loss",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "371": [
+    {
+      "title": "Optimal Time of Use Electricity Pricing Model and Its Application to Electrical Distribution System",
+      "publisher": "IEEE Access / DOI",
+      "url": "https://doi.org/10.1109/ACCESS.2019.2938415",
+      "context": "数学定义中的无功损耗；不可与无功功率消耗完全混同。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Section C, active power loss index; mathematical formula",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 371,
+      "independentlyVerified": true,
+      "matchedEnglish": "reactive power loss",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "372": [
+    {
+      "title": "IEC 60076-1:2011 — Power Transformers, General, definitions",
+      "publisher": "IEC text preview via iTeh",
+      "url": "https://www.iteh.fr/catalog/standards/iec/67f4e201-43c2-4552-9d29-f64d9dc2295c/iec-60076-1-2011",
+      "context": "IEC 60076-1:2011 §3.6.1 定义了无负载损耗。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.6.1, §3.6.2",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 372,
+      "independentlyVerified": true,
+      "matchedEnglish": "no-load loss",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "373": [
+    {
+      "title": "IEC 60076-1:2011 — Power Transformers, General, definitions",
+      "publisher": "IEC text preview via iTeh",
+      "url": "https://www.iteh.fr/catalog/standards/iec/67f4e201-43c2-4552-9d29-f64d9dc2295c/iec-60076-1-2011",
+      "context": "IEC 60076-1:2011 §3.6.2 定义了空载电流。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.6.1, §3.6.2",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 373,
+      "independentlyVerified": true,
+      "matchedEnglish": "no-load current",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "374": [
+    {
+      "title": "IEC 60909-0:2026 — Short Circuit Currents (Definitions Preview)",
+      "publisher": "IEC text preview via iTeh",
+      "url": "https://standards.iteh.ai/catalog/standards/iec/111c61a1-d4a4-4eb4-9655-ba4785738720/iec-60909-0-2026",
+      "context": "IEC 60909-0:2026 §3.17.1 设备序阻抗定义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.17.1–3.17.3",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 374,
+      "independentlyVerified": true,
+      "matchedEnglish": "positive-sequence impedance",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "375": [
+    {
+      "title": "IEC 60909-0:2026 — Short Circuit Currents (Definitions Preview)",
+      "publisher": "IEC text preview via iTeh",
+      "url": "https://standards.iteh.ai/catalog/standards/iec/111c61a1-d4a4-4eb4-9655-ba4785738720/iec-60909-0-2026",
+      "context": "IEC 60909-0:2026 §3.17.2 设备序阻抗定义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.17.1–3.17.3",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 375,
+      "independentlyVerified": true,
+      "matchedEnglish": "negative-sequence impedance",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "376": [
+    {
+      "title": "IEC 60909-0:2026 — Short Circuit Currents (Definitions Preview)",
+      "publisher": "IEC text preview via iTeh",
+      "url": "https://standards.iteh.ai/catalog/standards/iec/111c61a1-d4a4-4eb4-9655-ba4785738720/iec-60909-0-2026",
+      "context": "IEC 60909-0:2026 §3.17.3 设备序阻抗定义。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§3.17.1–3.17.3",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 376,
+      "independentlyVerified": true,
+      "matchedEnglish": "zero-sequence impedance",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "377": [
+    {
+      "title": "Technical Guidelines for the Development of Small Hydropower Plants — Terms and Definitions (SHP/TG 001:2019)",
+      "publisher": "UNIDO / INSHP",
+      "url": "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf",
+      "context": "UNIDO 指用 section-breaker 分段的一段母线；原 sectionalized busbar 可以描述分段母线设备，不一定指全接线形式。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§11.2.3, §11.2.6, §11.2.7; PDF page not independently verified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 377,
+      "independentlyVerified": true,
+      "matchedEnglish": "single-bus section connection",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "378": [
+    {
+      "title": "Technical Guidelines for the Development of Small Hydropower Plants — Terms and Definitions (SHP/TG 001:2019)",
+      "publisher": "UNIDO / INSHP",
+      "url": "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf",
+      "context": "UNIDO §11.2.7 使用 double-bus connection；原 double busbar 更偏设备/母线名称。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "§11.2.3, §11.2.6, §11.2.7; PDF page not independently verified",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 378,
+      "independentlyVerified": true,
+      "matchedEnglish": "double-bus connection",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "494": [
+    {
+      "title": "Spacer device for overhead line (CA2938428C)",
+      "publisher": "Patent publication / Google Patents",
+      "url": "https://patents.google.com/patent/CA2938428C/en",
+      "context": "架空输电线路中间隔棒常用 conductor spacer；阻尼型才具体称 spacer-damper。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-09",
+      "locator": "Description [0065]; application-specific concept",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 494,
+      "independentlyVerified": true,
+      "matchedEnglish": "spacer device",
+      "auditBatch": "batch008",
+      "verificationLimit": "仅是专业英文用例，并非中英直接对应",
+      "sourceMethod": "通过公开来源的可见检索文本、术语定义或产品页面核查；PDF未逐页目视确认，页码不填写"
+    }
+  ],
+  "379": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "Typical customer requirements: Single busbar or double busbar configuration。单母线表示母线型式或单母线接线时须按语境区分：single busbar 与 single-busbar arrangement。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Typical customer requirements: Single busbar or double busbar configuration",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 379,
+      "independentlyVerified": true,
+      "matchedEnglish": "single busbar",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
+    }
+  ],
+  "383": [
+    {
+      "title": "Station Level Solutions",
+      "publisher": "Hitachi Energy",
+      "url": "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions",
+      "context": "Typical customer requirements: Single busbar or double busbar configuration。国网典设属行业缩写；typical design 有文献用例，但 State Grid typical design 不是核实的官方书名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Typical customer requirements: Single busbar or double busbar configuration",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 383,
+      "independentlyVerified": true,
+      "matchedEnglish": "single busbar",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
+    }
+  ],
+  "395": [
+    {
+      "title": "Research and Application of Remote Backup Automatic Switching of 110 kV Power Grid in Bayannur",
+      "publisher": "中国电力／论文英文摘要",
+      "url": "https://epjournal.csee.org.cn/rc-pub/front/front-article/download/101751094/lowqualitypdf/%E8%BF%9C%E6%96%B9%E5%A4%87%E8%87%AA%E6%8A%95%E5%9C%A8%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94110%20kV%E7%94%B5%E7%BD%91%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8.pdf",
+      "context": "英文作者单位使用 Bayannur Electric Power Bureau；不能证明候选 Bayannur Power Supply Branch 为官方名。供电分公司／供电局组织名称已有不同英文表述；Bayannur Power Supply Branch 未核成官方标准译名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "英文作者单位使用 Bayannur Electric Power Bureau；不能证明候选 Bayannur Power Supply Branch 为官方名",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 395,
+      "independentlyVerified": true,
+      "matchedEnglish": "Bayannur Electric Power Bureau",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
+    }
+  ],
+  "401": [
+    {
+      "title": "IEC TR 61328:2017 — Stringing equipment and accessory items",
+      "publisher": "IEC standard catalogue preview",
+      "url": "https://standards.theiteh.com/catalog/standards/iec/fa84aaf5-6318-4f6c-9b9f-42b7f114520b/iec-tr-61328-2017",
+      "context": "§5.4.4 reel winders 与 §5.4.10 stringing rollers 分列，反证 wire rollers 不是收线整套装置。IEC 把 reel winders 与 stringing rollers 分列；原 wire rollers 不等于整套收线装置。暂采用描述译法，须按现场设备确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§5.4.4 reel winders 与 §5.4.10 stringing rollers 分列，反证 wire rollers 不是收线整套装置",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 401,
+      "independentlyVerified": true,
+      "matchedEnglish": "reel winders / stringing rollers",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
+    },
+    {
+      "title": "Take-up machine convenient to installation cable conductor — CN213356559U",
+      "publisher": "Google Patents (published patent; English machine translation)",
+      "url": "https://patents.google.com/patent/CN213356559U/en",
+      "context": "英文机译专利描述 take-up machine 用于缆线收线；不同设备型号仍需核实。IEC 把 reel winders 与 stringing rollers 分列；原 wire rollers 不等于整套收线装置。暂采用描述译法，须按现场设备确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "英文机译专利描述 take-up machine 用于缆线收线；不同设备型号仍需核实",
+      "page": null,
+      "pageVerified": false,
+      "sourceTermId": 401,
+      "independentlyVerified": true,
+      "matchedEnglish": "take-up machine",
+      "auditBatch": "batch009",
+      "verificationLimit": "A=来源明确中英直对；B=英文专业用例；C=背景或部分对应。PDF页码未经逐页确认，因此不提供准确页码。",
+      "sourceMethod": "公开检索结果及可见网页内容核对；不将来源所在网页的完整内容视为已阅读全文"
+    }
+  ],
+  "446": [
+    {
+      "title": "Automatic voltage regulator with function for suppressing overshoot — US20050104561A1",
+      "publisher": "United States Patent and Trademark Office（Google Patents索引）",
+      "url": "https://patents.google.com/patent/US20050104561A1/en",
+      "context": "英文专利在发电机自动电压调节器控制中使用 proportional coefficient。；来源局限：英文专利原文直接出现该术语，但未给出中文译法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Abstract; Description: integral coefficient and proportional coefficient",
+      "matchedEnglish": "proportional coefficient",
+      "sourceTermId": 446,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "AVRPROP"
+    }
+  ],
+  "453": [
+    {
+      "title": "COM600 Station Automation — LON-LAG Master OPC 3.2 User’s Guide",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf",
+      "context": "站控通信有 SPS/DPS 遥信数据类，general remote indication 为描述性组合。；来源局限：双点状态码可以用于分析不一致，但未直接出现“double-point indication discrepancy”整句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§5.2.2.2 Double point status (DPS), 印刷第98页（源页标示；未截图复核）",
+      "matchedEnglish": "double point status; intermediate-state; off; on; bad-state",
+      "sourceTermId": 453,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB600"
+    }
+  ],
+  "454": [
+    {
+      "title": "Small Type Display Unit for Energy Measuring Unit — EMU4-D65 User’s Manual",
+      "publisher": "Mitsubishi Electric",
+      "url": "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "context": "电能测量界面明确使用 lower limit、lower limit voltage alarm。；来源局限：原生英文上/下限告警；未提供某设备“响铃”的完整告警标签。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§7.5 Alarm mode; §7.5.1 screen sequence，印刷第108页（文本查得；网页截图未成功）",
+      "matchedEnglish": "Upper limit current alarm; Lower limit voltage alarm; upper/lower limit",
+      "sourceTermId": 454,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "MITSU"
+    }
+  ],
+  "455": [
+    {
+      "title": "Small Type Display Unit for Energy Measuring Unit — EMU4-D65 User’s Manual",
+      "publisher": "Mitsubishi Electric",
+      "url": "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "context": "三菱测量手册明确存在 upper limit current/voltage alarm；未必是具体监控屏同一条提示。；来源局限：原生英文上/下限告警；未提供某设备“响铃”的完整告警标签。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§7.5 Alarm mode; §7.5.1 screen sequence，印刷第108页（文本查得；网页截图未成功）",
+      "matchedEnglish": "Upper limit current alarm; Lower limit voltage alarm; upper/lower limit",
+      "sourceTermId": 455,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "MITSU"
+    }
+  ],
+  "456": [
+    {
+      "title": "Small Type Display Unit for Energy Measuring Unit — EMU4-D65 User’s Manual",
+      "publisher": "Mitsubishi Electric",
+      "url": "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "context": "可证 upper limit alarm，但是否附 audible alarm / bell 取决于原装置告警配置。；来源局限：原生英文上/下限告警；未提供某设备“响铃”的完整告警标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§7.5 Alarm mode; §7.5.1 screen sequence，印刷第108页（文本查得；网页截图未成功）",
+      "matchedEnglish": "Upper limit current alarm; Lower limit voltage alarm; upper/lower limit",
+      "sourceTermId": 456,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "MITSU"
+    }
+  ],
+  "457": [
+    {
+      "title": "Small Type Display Unit for Energy Measuring Unit — EMU4-D65 User’s Manual",
+      "publisher": "Mitsubishi Electric",
+      "url": "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "context": "三菱测量手册明确存在 lower limit current/voltage alarm。；来源局限：原生英文上/下限告警；未提供某设备“响铃”的完整告警标签。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§7.5 Alarm mode; §7.5.1 screen sequence，印刷第108页（文本查得；网页截图未成功）",
+      "matchedEnglish": "Upper limit current alarm; Lower limit voltage alarm; upper/lower limit",
+      "sourceTermId": 457,
+      "sourcePartIndex": 5,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "MITSU"
+    }
+  ],
+  "458": [
+    {
+      "title": "Small Type Display Unit for Energy Measuring Unit — EMU4-D65 User’s Manual",
+      "publisher": "Mitsubishi Electric",
+      "url": "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "context": "可证 lower limit alarm；响铃是声音输出动作，缺原设备 UI 完整名称。；来源局限：原生英文上/下限告警；未提供某设备“响铃”的完整告警标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§7.5 Alarm mode; §7.5.1 screen sequence，印刷第108页（文本查得；网页截图未成功）",
+      "matchedEnglish": "Upper limit current alarm; Lower limit voltage alarm; upper/lower limit",
+      "sourceTermId": 458,
+      "sourcePartIndex": 6,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "MITSU"
+    }
+  ],
+  "459": [
+    {
+      "title": "Asset Monitoring & Condition-Based Health Status — Siemens Tender Specifications",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29",
+      "context": "有 upper limits 阈值监控；above upper limit 是状态说明，未见同款 HMI 字串。；来源局限：阈值告警背景支持，未见本批完整报警及响铃界面术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Limit supervision: Upper alert, Upper warning, Lower alert, Lower warning threshold limit",
+      "matchedEnglish": "Upper limits / Lower limits; upper/lower alert",
+      "sourceTermId": 459,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SIEMALARM"
+    }
+  ],
+  "460": [
+    {
+      "title": "Asset Monitoring & Condition-Based Health Status — Siemens Tender Specifications",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29",
+      "context": "有 lower limits 阈值监控；below lower limit 是状态说明，未见同款 HMI 字串。；来源局限：阈值告警背景支持，未见本批完整报警及响铃界面术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Limit supervision: Upper alert, Upper warning, Lower alert, Lower warning threshold limit",
+      "matchedEnglish": "Upper limits / Lower limits; upper/lower alert",
+      "sourceTermId": 460,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SIEMALARM"
+    }
+  ],
+  "461": [
+    {
+      "title": "Asset Monitoring & Condition-Based Health Status — Siemens Tender Specifications",
+      "publisher": "Siemens",
+      "url": "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29",
+      "context": "电压越限概念有依据，但“节点1”设备节点语义和全句均未独立确认。；来源局限：阈值告警背景支持，未见本批完整报警及响铃界面术语。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Limit supervision: Upper alert, Upper warning, Lower alert, Lower warning threshold limit",
+      "matchedEnglish": "Upper limits / Lower limits; upper/lower alert",
+      "sourceTermId": 461,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "SIEMALARM"
+    }
+  ],
+  "462": [
+    {
+      "title": "DGP Digital Generator Protection System — Instruction Manual",
+      "publisher": "GE Multilin / GE Vernova",
+      "url": "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "context": "GE 继保手册直接以 DIGITAL OUTPUT TEST 命名功能，可支持开出传动试验语境。；来源局限：原生英文实用例，不等于所有“开出传动”功能的同一个试验步骤。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§4.6.3 T2: Digital Output Tests，印刷第4-11页（PDF文本）",
+      "matchedEnglish": "DIGITAL OUTPUT TESTS; DIG OUT TEST",
+      "sourceTermId": 462,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "GEOUT"
+    }
+  ],
+  "463": [
+    {
+      "title": "COM600 Station Automation — LON-LAG Master OPC 3.2 User’s Guide",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf",
+      "context": "站控遥信可记录开关变位，但未见地刀变位的完整英文作为预定义点名。；来源局限：双点状态码可以用于分析不一致，但未直接出现“double-point indication discrepancy”整句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§5.2.2.2 Double point status (DPS), 印刷第98页（源页标示；未截图复核）",
+      "matchedEnglish": "double point status; intermediate-state; off; on; bad-state",
+      "sourceTermId": 463,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB600"
+    }
+  ],
+  "464": [
+    {
+      "title": "COM600 Station Automation — LON-LAG Master OPC 3.2 User’s Guide",
+      "publisher": "ABB",
+      "url": "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf",
+      "context": "ABB 的双点状态有 intermediate-state / bad-state；不能直接等于双触点状态不一致。；来源局限：双点状态码可以用于分析不一致，但未直接出现“double-point indication discrepancy”整句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§5.2.2.2 Double point status (DPS), 印刷第98页（源页标示；未截图复核）",
+      "matchedEnglish": "double point status; intermediate-state; off; on; bad-state",
+      "sourceTermId": 464,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "ABB600"
+    }
+  ],
+  "466": [
+    {
+      "title": "FIST 6-4 — Management of Protective Relay Settings",
+      "publisher": "U.S. Bureau of Reclamation",
+      "url": "https://usbr.gov/power/data/fist/FIST_6-4_%281-2022%29.pdf",
+      "context": "可见继电保护设置的一般分类，不足以确认 conventional setting 是常规定值的正式分类名称。；来源局限：正式继电保护记录管理用语；需区分“定值模板”和“定值文件”。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Relay Records Database, §Create relay entry, Setting template，印刷第17页（PDF文本）",
+      "matchedEnglish": "Setting template",
+      "sourceTermId": 466,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "FIST"
+    }
+  ],
+  "467": [
+    {
+      "title": "FIST 6-4 — Management of Protective Relay Settings",
+      "publisher": "U.S. Bureau of Reclamation",
+      "url": "https://usbr.gov/power/data/fist/FIST_6-4_%281-2022%29.pdf",
+      "context": "美国垦务局继保定值管理手册直接使用 Setting template。；来源局限：正式继电保护记录管理用语；需区分“定值模板”和“定值文件”。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Relay Records Database, §Create relay entry, Setting template，印刷第17页（PDF文本）",
+      "matchedEnglish": "Setting template",
+      "sourceTermId": 467,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "FIST"
+    }
+  ],
+  "468": [
+    {
+      "title": "DGP Digital Generator Protection System — Instruction Manual",
+      "publisher": "GE Multilin / GE Vernova",
+      "url": "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "context": "继电器有 digital input 与 settings，但 digital-input setting 的具体参数形式不清。；来源局限：原生英文实用例，不等于所有“开出传动”功能的同一个试验步骤。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§4.6.3 T2: Digital Output Tests，印刷第4-11页（PDF文本）",
+      "matchedEnglish": "DIGITAL OUTPUT TESTS; DIG OUT TEST",
+      "sourceTermId": 468,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "GEOUT"
+    }
+  ],
+  "469": [
+    {
+      "title": "DGP Digital Generator Protection System — Instruction Manual",
+      "publisher": "GE Multilin / GE Vernova",
+      "url": "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "context": "开出板端子对应数字输出接点，出口是动作出口；整句尚未找到装置实际标注。；来源局限：原生英文实用例，不等于所有“开出传动”功能的同一个试验步骤。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§4.6.3 T2: Digital Output Tests，印刷第4-11页（PDF文本）",
+      "matchedEnglish": "DIGITAL OUTPUT TESTS; DIG OUT TEST",
+      "sourceTermId": 469,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "GEOUT"
+    }
+  ],
+  "470": [
+    {
+      "title": "DGP Digital Generator Protection System — Instruction Manual",
+      "publisher": "GE Multilin / GE Vernova",
+      "url": "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "context": "输出返回/复归有设备实践，但 digital-output terminal reset 未见同款终端标签。；来源局限：原生英文实用例，不等于所有“开出传动”功能的同一个试验步骤。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§4.6.3 T2: Digital Output Tests，印刷第4-11页（PDF文本）",
+      "matchedEnglish": "DIGITAL OUTPUT TESTS; DIG OUT TEST",
+      "sourceTermId": 470,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "GEOUT"
+    }
+  ],
+  "471": [
+    {
+      "title": "DGP Digital Generator Protection System — Instruction Manual",
+      "publisher": "GE Multilin / GE Vernova",
+      "url": "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "context": "有输出动作和复归行为，具体超时报警及完整 HMI 文本未取得。；来源局限：原生英文实用例，不等于所有“开出传动”功能的同一个试验步骤。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§4.6.3 T2: Digital Output Tests，印刷第4-11页（PDF文本）",
+      "matchedEnglish": "DIGITAL OUTPUT TESTS; DIG OUT TEST",
+      "sourceTermId": 471,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "GEOUT"
+    }
+  ],
+  "472": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "控制系统调整电压的成功状态可以描述，但“voltage regulation successful”完整状态提示未核。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 472,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    }
+  ],
+  "473": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "电压调节异常与 AVC alarm 有据，但具体失败提示未核。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 473,
+      "sourcePartIndex": 3,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    }
+  ],
+  "474": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "调压控制手册直接出现 raise/lower 操作和 raise tap 参数。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 474,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "UVR-1 Universal Voltage Regulator Control — Operation Manual",
+      "publisher": "GE Vernova Grid Solutions",
+      "url": "https://www.gevernova.com/grid-solutions/products/manuals/volt_reg/uvr-1_operation_manual.pdf",
+      "context": "调压控制手册直接出现 raise/lower 操作和 raise tap 参数。；来源局限：直接证明术语在变压器调压控制中的英文用法；运行状态中文显示文本未直接配对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Tap Runaway Blocking; Raise/Lower Tap Position Report Limit",
+      "matchedEnglish": "Tap Runaway Blocking; raise tap / lower tap",
+      "sourceTermId": 474,
+      "sourcePartIndex": 4,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "GEUVR"
+    }
+  ],
+  "475": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "控制器在变压器分接开关上下档操作中使用 lower tap。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 475,
+      "sourcePartIndex": 5,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "UVR-1 Universal Voltage Regulator Control — Operation Manual",
+      "publisher": "GE Vernova Grid Solutions",
+      "url": "https://www.gevernova.com/grid-solutions/products/manuals/volt_reg/uvr-1_operation_manual.pdf",
+      "context": "控制器在变压器分接开关上下档操作中使用 lower tap。；来源局限：直接证明术语在变压器调压控制中的英文用法；运行状态中文显示文本未直接配对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Tap Runaway Blocking; Raise/Lower Tap Position Report Limit",
+      "matchedEnglish": "Tap Runaway Blocking; raise tap / lower tap",
+      "sourceTermId": 475,
+      "sourcePartIndex": 5,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "GEUVR"
+    }
+  ],
+  "476": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "调压装置失控连续换档可称 tap changer runaway，原文 tap runaway 较简短，可作为设备报警短标签。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 476,
+      "sourcePartIndex": 6,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "UVR-1 Universal Voltage Regulator Control — Operation Manual",
+      "publisher": "GE Vernova Grid Solutions",
+      "url": "https://www.gevernova.com/grid-solutions/products/manuals/volt_reg/uvr-1_operation_manual.pdf",
+      "context": "调压装置失控连续换档可称 tap changer runaway，原文 tap runaway 较简短，可作为设备报警短标签。；来源局限：直接证明术语在变压器调压控制中的英文用法；运行状态中文显示文本未直接配对。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Tap Runaway Blocking; Raise/Lower Tap Position Report Limit",
+      "matchedEnglish": "Tap Runaway Blocking; raise tap / lower tap",
+      "sourceTermId": 476,
+      "sourcePartIndex": 6,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch010",
+      "sourceCode": "GEUVR"
+    }
+  ],
+  "477": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "资料提及 runaway prevention 与 operating time，但滑档时间具体指检测时间、持续时间还是超时定值不明。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 477,
+      "sourcePartIndex": 7,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    }
+  ],
+  "478": [
+    {
+      "title": "SuperTAPP SG — Voltage Control & Monitoring Relay, Technical Reference FP1034-U-11 v4.5",
+      "publisher": "Fundamentals Ltd.",
+      "url": "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "context": "调压停止动作客观存在，但完整命令应依控制界面确认 stop tap changing 是否最合适。；来源局限：失控连续换档可称 tap changer runaway；单独“滑档时间”的具体测量定义和 UI 名称未核实。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.3.4 Voltage Control and Tapchanger Monitoring and Alarms；印刷第34页／PDF第34页（截图核实）",
+      "matchedEnglish": "raise, lower, in progress; runaway prevention; voltage high/low limit",
+      "sourceTermId": 478,
+      "sourcePartIndex": 8,
+      "independentlyVerified": true,
+      "sourceSupport": "partial_background",
+      "auditBatch": "batch010",
+      "sourceCode": "FUND",
+      "verifiedPrintedPage": "34",
+      "pdfPageIndex": 33,
+      "pageVerification": "screenshot verified"
+    }
+  ],
+  "479": [
+    {
+      "title": "Section 502.8 — SCADA Technical and Operating Requirements",
+      "publisher": "Alberta Electric System Operator (AESO)",
+      "url": "https://www.aeso.ca/assets/Uploads/Section-502.8-SCADA-Technical-and-Operating-Requirements-2019-01-23.pdf",
+      "context": "变压器有载分接开关/AVR控制语境中的目标电压设定值；AESO技术要求使用 transformer voltage regulation setpoint，IEEE C57.153亦使用 voltage setpoint。与 tap position（分接位置）区分。 来源局限：Direct professional usage of the exact English phrase in SCADA technical requirements; monolingual English source, not bilingual direct equivalence.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Telemetry requirements table: “Transformer voltage regulation setpoint if the transformer has a load tap changer”; no page number entered because screenshot-level page verification was not completed.",
+      "matchedEnglish": "Transformer voltage regulation setpoint",
+      "sourceTermId": 479,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "AESO"
+    },
+    {
+      "title": "IEEE Std C57.153-2015 — IEEE Guide for Paralleling Regulating Transformers",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "url": "https://www.normsplash.com/FreeDownload/171232816/IEEE-C57.153-2015-en.pdf",
+      "context": "变压器有载分接开关/AVR控制语境中的目标电压设定值；AESO技术要求使用 transformer voltage regulation setpoint，IEEE C57.153亦使用 voltage setpoint。与 tap position（分接位置）区分。 来源局限：IEEE standard terminology for the voltage setpoint in tap-changer control; document accessed through a third-party standards mirror.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Figure 5 note: “V=Voltage Setpoint of tap changer control”; page not entered as a verified page because screenshot-level page verification was not completed.",
+      "matchedEnglish": "Voltage Setpoint of tap changer control",
+      "sourceTermId": 479,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "IEEE_C57_153"
+    }
+  ],
+  "480": [
+    {
+      "title": "TAPCON® 250 Expert — Operating Instructions (8595028/07 EN)",
+      "publisher": "Maschinenfabrik Reinhausen GmbH",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf",
+      "context": "指由远方控制系统发出的调压命令。TAPCON资料区分 remote desired value setting（远方设定值选择/设置）与REMOTE模式下的控制命令；若具体指升/降档命令，应按设备界面进一步细化为 remote raise/lower tap command。 来源局限：Supports remote setting/selection of voltage regulation values, but does not establish the exact HMI label “remote voltage-regulation command”.",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§9.4.2.1 “Setting the desired value”; “Changing the remote desired value setting”; remote commands are processed in REMOTE mode. Page number omitted pending screenshot verification.",
+      "matchedEnglish": "Remote desired value setting; desired value; commands via digital inputs or the control system",
+      "sourceTermId": 480,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "background_partial",
+      "auditBatch": "batch011",
+      "sourceCode": "MR_TAPCON250"
+    }
+  ],
+  "481": [
+    {
+      "title": "TAPCON® 230 AVT — Operating Instructions (7820299/04 EN)",
+      "publisher": "Maschinenfabrik Reinhausen GmbH",
+      "url": "https://cache.industry.siemens.com/dl/files/903/109815903/att_1125487/v1/BAL_7820299_04_001_EN_TC230_AVT.pdf",
+      "context": "变压器分接开关当前所处档位；制造商手册使用 tap position，IEC 60214-1亦定义 tap position / service tap positions。 来源局限：Manufacturer operating instructions; directly supports the terminology in an on-load tap-changer control context.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§9.4.2 “Tap position capture method”; §4.4 “Operating modes”; §9.2.2 tap-change command behavior. Page number omitted pending screenshot verification.",
+      "matchedEnglish": "tap position; tap-change operation; tap-change command",
+      "sourceTermId": 481,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "MR_TAPCON230"
+    },
+    {
+      "title": "IEC 60214-1:2014 — Tap-changers: Performance Requirements and Tests",
+      "publisher": "International Electrotechnical Commission (IEC)",
+      "url": "https://standards.iteh.ai/catalog/standards/clc/bef7b443-7161-4d6a-b71b-32e9cbefa1bb/en-60214-1-2014",
+      "context": "变压器分接开关当前所处档位；制造商手册使用 tap position，IEC 60214-1亦定义 tap position / service tap positions。 来源局限：Standardized technical definitions for tap-changer operation and tap positions; catalog text accessed through iTeh.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Clause 3.26, “tap-change operation”; clause 3.36, “number of service tap positions”.",
+      "matchedEnglish": "tap-change operation; tap position",
+      "sourceTermId": 481,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "IEC60214_1"
+    }
+  ],
+  "482": [
+    {
+      "title": "TAPCON® 250 Expert — Operating Instructions (8595028/07 EN)",
+      "publisher": "Maschinenfabrik Reinhausen GmbH",
+      "url": "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf",
+      "context": "变压器分接开关的中性位置。制造商手册参数名为 Neutral position；如需强调档位，可在说明文字中写 neutral tap position。 来源局限：Supports remote setting/selection of voltage regulation values, but does not establish the exact HMI label “remote voltage-regulation command”.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§9.4.2.1 “Setting the desired value”; “Changing the remote desired value setting”; remote commands are processed in REMOTE mode. Page number omitted pending screenshot verification.",
+      "matchedEnglish": "Remote desired value setting; desired value; commands via digital inputs or the control system",
+      "sourceTermId": 482,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "MR_TAPCON250"
+    }
+  ],
+  "483": [
+    {
+      "title": "IEC 60214-1:2014 — Tap-changers: Performance Requirements and Tests",
+      "publisher": "International Electrotechnical Commission (IEC)",
+      "url": "https://standards.iteh.ai/catalog/standards/clc/bef7b443-7161-4d6a-b71b-32e9cbefa1bb/en-60214-1-2014",
+      "context": "泛指变压器分接开关调节/换档过程时可用 tap changing；IEC 60214-1将单次从一个运行档位切换到相邻档位的完整操作定义为 tap-change operation，需按上下文区分。 来源局限：Standardized technical definitions for tap-changer operation and tap positions; catalog text accessed through iTeh.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Clause 3.26, “tap-change operation”; clause 3.36, “number of service tap positions”.",
+      "matchedEnglish": "tap-change operation; tap position",
+      "sourceTermId": 483,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "IEC60214_1"
+    },
+    {
+      "title": "TAPCON® 230 AVT — Operating Instructions (7820299/04 EN)",
+      "publisher": "Maschinenfabrik Reinhausen GmbH",
+      "url": "https://cache.industry.siemens.com/dl/files/903/109815903/att_1125487/v1/BAL_7820299_04_001_EN_TC230_AVT.pdf",
+      "context": "泛指变压器分接开关调节/换档过程时可用 tap changing；IEC 60214-1将单次从一个运行档位切换到相邻档位的完整操作定义为 tap-change operation，需按上下文区分。 来源局限：Manufacturer operating instructions; directly supports the terminology in an on-load tap-changer control context.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§9.4.2 “Tap position capture method”; §4.4 “Operating modes”; §9.2.2 tap-change command behavior. Page number omitted pending screenshot verification.",
+      "matchedEnglish": "tap position; tap-change operation; tap-change command",
+      "sourceTermId": 483,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "MR_TAPCON230"
+    }
+  ],
+  "484": [
+    {
+      "title": "IEEE Std C37.1-2007 — IEEE Standard for SCADA and Automation Systems",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "url": "https://tic.uis.edu.co/ava/pluginfile.php/90807/mod_resource/content/1/C37.1-2007%20IEEE%20Standard%20for%20Scada%20and%20Automation%20Systems.pdf",
+      "context": "电力监控/SCADA系统中的主站，IEEE Std C37.1-2007使用 SCADA master station；不建议直译为 supervisory master station。 来源局限：IEEE standard explicitly uses “SCADA master station”; document accessed through an academic institutional file host.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§4.2 “Master station (control center) architecture and functions”; Annex A “SCADA master station functions”.",
+      "matchedEnglish": "SCADA master station",
+      "sourceTermId": 484,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "IEEE_C37_1"
+    }
+  ],
+  "485": [
+    {
+      "title": "RCS-9798A/B Protection Management Unit — Instruction Manual",
+      "publisher": "NR Electric Co., Ltd.",
+      "url": "https://www.scribd.com/document/695438368/RCS-9798AB-Instruction-Manual-EN-General-X-R1-02-EN-TXZZ0104-0086-0003",
+      "context": "继电保护信息管理、定值维护及站内继保设备交互所用工程师工作站。NR Electric RCS-9798A/B手册明确使用 relay protection engineering workstation。 来源局限：Manufacturer manual text, hosted on Scribd rather than the manufacturer's own domain.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§1.1 “Application”; the manual explicitly names “relay protection engineering workstation” and describes its station-level role. Page number omitted pending screenshot verification.",
+      "matchedEnglish": "relay protection engineering workstation",
+      "sourceTermId": 485,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "NR_RCS9798"
+    }
+  ],
+  "486": [
+    {
+      "title": "2017 Federal Hydropower Replacements Book Blue — Justification No. 22: Digital Fault Recorder",
+      "publisher": "U.S. Department of the Interior, Bureau of Reclamation; Western Area Power Administration; U.S. Army Corps of Engineers; Bonneville Power Administration",
+      "url": "https://www.usbr.gov/power/data/2017_Federal_Hydropower_Replacements_Book_Blue_1.1.pdf",
+      "context": "用于录波数据汇集、显示和故障分析的工作站。USBR资料称集中式设备为 fault recorder master station；QEI资料称 DFR 数据送至 workstation display and analysis software。若实际架构为集中主站，应改称 fault recorder master station。 来源局限：Government power-sector source supports the functions of a fault-recorder master station, not the exact compound “fault recorder workstation”.",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Justification No. 22, Historical Background: master stations for fault recorders retrieve, analyze, and archive recorder data. Appendix page number omitted pending screenshot verification.",
+      "matchedEnglish": "fault recorder; master stations for fault recorders",
+      "sourceTermId": 486,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "background_partial",
+      "auditBatch": "batch011",
+      "sourceCode": "USBR_DFR"
+    },
+    {
+      "title": "DC Trace Digital Waveform Capture",
+      "publisher": "QEI Automation Solutions",
+      "url": "https://www.qeiinc.com/product/dc-trace/",
+      "context": "用于录波数据汇集、显示和故障分析的工作站。USBR资料称集中式设备为 fault recorder master station；QEI资料称 DFR 数据送至 workstation display and analysis software。若实际架构为集中主站，应改称 fault recorder master station。 来源局限：Supports workstation-based display and analysis of DFR data; not a bilingual direct equivalence for “录波后台”.",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "Product description: DCT-9600 Digital Fault Recorder sends captured fault data to DC Trace workstation display and analysis software.",
+      "matchedEnglish": "Digital Fault Recorder (DFR); workstation display and analysis software",
+      "sourceTermId": 486,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "background_partial",
+      "auditBatch": "batch011",
+      "sourceCode": "QEI_DFTRACE"
+    }
+  ],
+  "487": [
+    {
+      "title": "Understanding Time-of-Use Rates",
+      "publisher": "American Public Power Association (APPA)",
+      "url": "https://www.publicpower.org/periodical/article/understanding-time-use-rates",
+      "context": "分时电价或峰谷电价语境中的峰时/峰段；通常与 off-peak period 对举。具体时段由电价方案规定。 来源局限：Industry association source directly supports both tariff-period expressions.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Section “Structure”: describes distinct peak and off-peak periods in time-of-use rates.",
+      "matchedEnglish": "peak period; off-peak period",
+      "sourceTermId": 487,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "APPA_TOU"
+    },
+    {
+      "title": "Energy Glossary",
+      "publisher": "California Energy Commission",
+      "url": "https://www.energy.ca.gov/resources/energy-glossary",
+      "context": "分时电价或峰谷电价语境中的峰时/峰段；通常与 off-peak period 对举。具体时段由电价方案规定。 来源局限：Official state energy glossary; supports tariff context, not a direct bilingual pairing.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Entries “TIME-OF-USE (TOU)” and “TIME-OF-USE RATES”; defines peak, partial-peak, and off-peak periods.",
+      "matchedEnglish": "peak hours; off-peak hours; off-peak",
+      "sourceTermId": 487,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "CEC_GLOSSARY"
+    }
+  ],
+  "488": [
+    {
+      "title": "Understanding Time-of-Use Rates",
+      "publisher": "American Public Power Association (APPA)",
+      "url": "https://www.publicpower.org/periodical/article/understanding-time-use-rates",
+      "context": "分时电价或峰谷电价语境中的谷时/低谷时段；通常与 peak period 对举。部分电价方案还细分 partial-peak / super off-peak。 来源局限：Industry association source directly supports both tariff-period expressions.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Section “Structure”: describes distinct peak and off-peak periods in time-of-use rates.",
+      "matchedEnglish": "peak period; off-peak period",
+      "sourceTermId": 488,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "APPA_TOU"
+    },
+    {
+      "title": "Energy Glossary",
+      "publisher": "California Energy Commission",
+      "url": "https://www.energy.ca.gov/resources/energy-glossary",
+      "context": "分时电价或峰谷电价语境中的谷时/低谷时段；通常与 peak period 对举。部分电价方案还细分 partial-peak / super off-peak。 来源局限：Official state energy glossary; supports tariff context, not a direct bilingual pairing.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "Entries “TIME-OF-USE (TOU)” and “TIME-OF-USE RATES”; defines peak, partial-peak, and off-peak periods.",
+      "matchedEnglish": "peak hours; off-peak hours; off-peak",
+      "sourceTermId": 488,
+      "sourcePartIndex": 2,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "CEC_GLOSSARY"
+    }
+  ],
+  "489": [
+    {
+      "title": "400 kV GIS Substation — Engineering Design Document, Technical Specification, Volume 5.1",
+      "publisher": "Thermal Power Plant Holding Company (TPPH); Ghods Niroo Engineering Company (GNEC)",
+      "url": "https://www.scribd.com/document/797995731/Vol-5-1-400-KV-GIS-SUBSTATION-Technical-Specification",
+      "context": "电力监控语境中的“事故”需按具体事件性质处理：电气设备/系统故障可用 fault；更广义的运行事件可用 incident。当前并列写法仅作检索入口，不代表两者在所有场景可互换。 来源局限：Project technical specification hosted on Scribd; use as professional project-document evidence, not as an international standard.",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.4.19 “Annunciators”, “General alarm points”; §20.3.4.12 “Fault Incident Records”. Page numbers not entered as verified pages.",
+      "matchedEnglish": "General alarm points; fault incident records",
+      "sourceTermId": 489,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "background_partial",
+      "auditBatch": "batch011",
+      "sourceCode": "TPPH_GIS"
+    }
+  ],
+  "490": [
+    {
+      "title": "400 kV GIS Substation — Engineering Design Document, Technical Specification, Volume 5.1",
+      "publisher": "Thermal Power Plant Holding Company (TPPH); Ghods Niroo Engineering Company (GNEC)",
+      "url": "https://www.scribd.com/document/797995731/Vol-5-1-400-KV-GIS-SUBSTATION-Technical-Specification",
+      "context": "站内汇总告警/公共告警信号；变电站技术规格中使用 general alarm points。若指多点汇总的公共告警，也可依设备界面采用 common alarm。 来源局限：Project technical specification hosted on Scribd; use as professional project-document evidence, not as an international standard.",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-17",
+      "locator": "§15.4.19 “Annunciators”, “General alarm points”; §20.3.4.12 “Fault Incident Records”. Page numbers not entered as verified pages.",
+      "matchedEnglish": "General alarm points; fault incident records",
+      "sourceTermId": 490,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "professional_english_usage",
+      "auditBatch": "batch011",
+      "sourceCode": "TPPH_GIS"
+    }
+  ],
+  "492": [
+    {
+      "title": "SIPROCESS GA700 — Operation with SIMATIC PDM, Operating Manual (A5E31930531-01)",
+      "publisher": "Siemens AG",
+      "url": "https://support.industry.siemens.com/cs/attachments/69268843/A5E31930531-01_SIPROCESS_GA700_PDM_BHB_en.pdf",
+      "context": "建议作为告警界面短句处理为 zero-drift check failed。Siemens分析仪手册分别使用 Zero drift ... outside tolerance 与 Calibration tolerance exceeded at zero point；仅能支持零漂/零点校验相关术语组件，且资料并非电力专用设备，故列C级。 来源局限：This is a process gas analyzer manual, not a power-system-specific source; it supports the zero-drift/calibration message components only.",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-17",
+      "locator": "§8.2 OXYMAT 7 message list: “Calibration tolerance exceeded at zero point” and “Zero drift MR1 to MR4 outside tolerance”. Page number omitted pending screenshot verification.",
+      "matchedEnglish": "Calibration tolerance exceeded at zero point; Zero drift ... outside tolerance",
+      "sourceTermId": 492,
+      "sourcePartIndex": 1,
+      "independentlyVerified": true,
+      "sourceSupport": "background_partial",
+      "auditBatch": "batch011",
+      "sourceCode": "SIEMENS_GA700"
     }
   ]
 }

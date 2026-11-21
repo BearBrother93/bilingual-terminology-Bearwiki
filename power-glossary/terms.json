@@ -4679,205 +4679,366 @@
     "en": "backfeed / reverse energization",
     "zh": "倒送电",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：倒送电可指从负荷侧或备用通道向原线路反送电；backfeed 与 reverse energization 不能在所有场景下互换。",
     "sourceRow": 335,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.osha.gov/etools/electric-power/hazardous-energy-control/grounding-employee-protection"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 330,
     "en": "protection circuit",
     "zh": "保护回路",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：文献中是继电器输出端的保护电路，不能直接证明继电保护二次“保护回路”的完整概念。",
     "sourceRow": 336,
-    "referenceIds": []
+    "referenceIds": [
+      "https://download.se.com/files?p_Doc_Ref=35011387K01000&p_File_Name=35011387_K01_000_05.pdf&p_enDocType=User+guide"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 331,
-    "en": "voltage tester pen",
+    "en": "pen-type voltage tester",
     "zh": "验电笔",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：原 voltage tester pen 可理解但不够自然；现场笔式非接触验电工具宜用 pen-type voltage tester，非接触型需明确。",
     "sourceRow": 337,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.fluke.com/en-us/learn/blog/electrical/best-electrical-voltage-testers"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "voltage tester pen",
+        "after": "pen-type voltage tester",
+        "basis": "相较 voltage tester pen 更自然；现场非接触型可精确为 non-contact voltage tester pen。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 332,
     "en": "voltage detector",
     "zh": "验电器",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：IEC 61243-1 适用于交流高压电容式验电器，不涵盖所有电压检测器种类。",
     "sourceRow": 338,
-    "referenceIds": []
+    "referenceIds": [
+      "https://webstore.iec.ch/en/publication/61651"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 333,
     "en": "emergency power supply",
     "zh": "保安电源",
     "status": "已核对",
-    "note": "原文为“保安电源”，区别于一般备用电源。",
+    "note": "原文为“保安电源”，区别于一般备用电源。\nV2.8：“保安电源”在电厂保安段是专门系统；UPS 的 emergency power 不等同于电厂事故保安电源整体。",
     "sourceRow": 339,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/my/en-us/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/uninterruptible-power-supply-faq.html"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 334,
     "en": "install and remove grounding conductors",
     "zh": "装拆接地线",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：标准条文对接地线装拆先后顺序有明确要求；英文是操作说明，非中文直接对照。",
     "sourceRow": 340,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.269"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 335,
     "en": "step down the voltage / voltage reduction",
     "zh": "降压",
     "status": "已修订",
-    "note": "“压降”才是 voltage drop。",
+    "note": "“压降”才是 voltage drop。\nV2.8：降低电压为 step down the voltage；应注意 voltage reduction 与 voltage drop（电压降）不同。",
     "sourceRow": 341,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/transformer/files/transformer-distribution-catalog-volume-2-tab-ca08100003e.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 336,
     "en": "single phase earthing protection",
     "zh": "单相接地保护",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：ABB 将单相接地故障与接地故障保护关联，但未逐字出现源库完整组合。",
     "sourceRow": 342,
-    "referenceIds": []
+    "referenceIds": [
+      "https://library.e.abb.com/public/bb25b079fb85457f824bf61509a68ded/Next_gen_earth_fault_protection_2NGA001952_ENa.pdf"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 337,
     "en": "auxiliary power system voltage level",
     "zh": "厂用电电压等级",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：仅见辅助回路额定电压；厂用电系统的供电电压等级需按电厂接线进一步核定。",
     "sourceRow": 343,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.iteh.eu/catalog/standards/iec/043ba46d-cbbc-41fd-a5ba-d5c396eedde5/iec-60364-5-55-2011-amd1-2012"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 338,
     "en": "neutral point at high-voltage side transformer",
     "zh": "变压器高压侧中性点",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：来源分开使用中性点和高压侧，不直接支持原英文语序。建议备选 neutral point on the transformer high-voltage side。",
     "sourceRow": 344,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.noratel.com/fileadmin/content/downloads/school/3phTransformer.pdf"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 339,
     "en": "generator-transformer unit connection",
     "zh": "发变组单元接线",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：UNIDO/INSHP §11.2.3 明确使用 generator-transformer unit connection。",
     "sourceRow": 345,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 340,
-    "en": "single bus with bypass",
+    "en": "single-bus connection with bypass",
     "zh": "单母线带旁路",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：UNIDO/INSHP §11.2.6 备注明确 single-bus connection with bypass，较原 single bus with bypass 完整。",
     "sourceRow": 346,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "single bus with bypass",
+        "after": "single-bus connection with bypass",
+        "basis": "依据 UNIDO/INSHP §11.2.6 的完整术语替换缩略表达。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 341,
     "en": "step up the voltage / voltage increase",
     "zh": "升压",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：升压操作可用 step up the voltage，避免与 voltage rise 泛称完全等同。",
     "sourceRow": 347,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/transformer/files/transformer-distribution-catalog-volume-2-tab-ca08100003e.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 342,
     "en": "shift handover system",
     "zh": "交接班制",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：厂商确认交接班流程，但未直接使用 shift handover system 指代一套制度。",
     "sourceRow": 348,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.yokogawa.com/us/library/resources/references/successstory-tp-utilities/"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 343,
     "en": "outgoing feeder",
     "zh": "出线",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：Eaton 柜型参数直接列出 outgoing feeder。",
     "sourceRow": 349,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/nz/en-gb/catalog/medium-voltage-power-distribution-control-systems/power-xpert-fmx---eaton1.html"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 344,
     "en": "incoming feeder",
     "zh": "进线",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：Eaton 柜型参数直接列出 incoming feeder。",
     "sourceRow": 350,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/nz/en-gb/catalog/medium-voltage-power-distribution-control-systems/power-xpert-fmx---eaton1.html"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 345,
     "en": "stranded aluminium conductor",
     "zh": "铝绞线",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：Prysmian 目录用于架空线路铝绞线；AAC 一般专指全铝绞线，不能涵盖所有铝包钢芯导线。",
     "sourceRow": 351,
-    "referenceIds": []
+    "referenceIds": [
+      "https://baltics.prysmian.com/sites/default/files/atoms/files/Prysmian-Group-Baltics_Catalogue_PowerCables_EN-2022-april.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 346,
-    "en": "spacer rod / spacer",
-    "zh": "定位棒/间隔棒",
+    "en": "spacer rod",
+    "zh": "定位棒",
     "status": "已修订",
-    "note": "两种名称依具体构件区分。",
+    "note": "两种名称依具体构件区分。\nV2.8：原始中英文两项混合；本轮将“定位棒”单列。缺少图纸，不能认定为 spacer rod 或 positioning rod 的某一具体构件。",
     "sourceRow": 352,
-    "referenceIds": []
+    "referenceIds": [],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "spacer rod / spacer",
+        "after": "spacer rod",
+        "basis": "原合并英译保留暂用；定位棒应待图纸确认，spacer rod 可能属间隔棒组件而非定位棒。"
+      }
+    ],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：未找到可用于核定原译的来源（D级）",
+    "splitFrom": 346,
+    "splitIndex": 1,
+    "splitCount": 2
   },
   {
     "id": 347,
     "en": "clamp",
     "zh": "线夹",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：clamp 是上位词；电力线夹有 suspension clamp、tension clamp、stay wire clamp 等，具体按设备用途。",
     "sourceRow": 353,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.ensto.com/products/medium-voltage-distribution-and-automation/mv-overhead-line-accessories/mv-stay-wire-accessories/chlk25/"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 348,
-    "en": "stay",
+    "en": "stay wire",
     "zh": "拉线",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：架空线路拉线推荐 stay wire；原 stay 可描述支撑件，但单独使用范围较宽。",
     "sourceRow": 354,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.ensto.com/products/medium-voltage-distribution-and-automation/mv-overhead-line-accessories/mv-stay-wire-accessories/shs25k.165l/"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "stay",
+        "after": "stay wire",
+        "basis": "架空线路拉线为导线/拉索，在此优先 stay wire。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 349,
-    "en": "Stayed pole",
+    "en": "stayed pole",
     "zh": "拉线杆",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：线路设计手册图示使用 stayed pole，规范英文大小写改为小写。",
     "sourceRow": 355,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.evoenergy.com.au/-/media/Project/Evoenergy/EVO/Documents/Manuals/PO07132-Overhead-Line-Distribution-Design-Manual.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "Stayed pole",
+        "after": "stayed pole",
+        "basis": "英文普通名词统一小写。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 350,
     "en": "backfill",
     "zh": "回填",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：电杆安装回填是电网施工真实工序，保留并加注 pole-hole backfilling 语境。",
     "sourceRow": 356,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.rd.usda.gov/files/UEP_Bulletin_1724E-224.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 351,
     "en": "equipotential live working",
     "zh": "等电位作业",
     "status": "已修订",
-    "note": "与原词条“等电位作业”合并；原首选 equipotential live working。DL/T 881-2019 术语作 equipotential working。",
+    "note": "与原词条“等电位作业”合并；原首选 equipotential live working。DL/T 881-2019 术语作 equipotential working。\nV2.8：继承既有 DL/T 881-2019 双语核查记录，不重复生成相同来源。",
     "sourceRow": 357,
     "sourceAdditions": [
       {
@@ -4896,14 +5057,17 @@
     "referenceIds": [
       "https://m.antpedia.com/standard/8005952.html",
       "https://www.osha.gov/etools/electric-power/energized-deenergized-work/live-line-bare-hand-work"
-    ]
+    ],
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批复核：沿用此前已核实的中英直接对应资料（A级），未重复新建来源。"
   },
   {
     "id": 352,
     "en": "live working",
     "zh": "带电作业",
     "status": "已修订",
-    "note": "同原库“带电作业”合并；live-line work 可作替代英译，IEC/GB 首选 live working。",
+    "note": "同原库“带电作业”合并；live-line work 可作替代英译，IEC/GB 首选 live working。\nV2.8：继承既有 GB/T 2900.55-2016 中英标准标题资料，不重复生成相同来源。",
     "sourceRow": 358,
     "sourceAdditions": [
       {
@@ -4919,241 +5083,442 @@
     "referenceIds": [
       "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=340EC99A1191D1166C65D67140DEA723",
       "https://www.osha.gov/etools/electric-power/energized-deenergized-work/live-line-bare-hand-work"
-    ]
+    ],
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批复核：沿用此前已核实的中英直接对应资料（A级），未重复新建来源。"
   },
   {
     "id": 353,
     "en": "arc suppression / extinction",
     "zh": "灭弧",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：IEC 标准范围使用 secondary arc extinction；灭弧可用 arc extinction，需区分抑弧/灭弧策略。",
     "sourceRow": 359,
-    "referenceIds": []
+    "referenceIds": [
+      "https://webstore.iec.ch/en/publication/66395"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 354,
     "en": "flash tank / flash vessel",
     "zh": "扩容器",
     "status": "已修订",
-    "note": "蒸汽或排污系统语境；expander 过泛。",
+    "note": "蒸汽或排污系统语境；expander 过泛。\nV2.8：锅炉排污系统“扩容器”可对应 flash tank / flash vessel；不宜套用到所有压力容器。",
     "sourceRow": 360,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.energy.gov/cmei/femp/best-management-practice-8-steam-boiler-systems"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 355,
     "en": "localization rib",
     "zh": "位筋",
     "status": "待确认",
-    "note": "“位筋”疑似原文错字，暂不擅改，须查图纸。",
+    "note": "“位筋”疑似原文错字，暂不擅改，须查图纸。\nV2.8：“位筋”疑缺字，可能涉及定位筋/限位筋；需核原稿或图纸，暂不更改或编造来源。",
     "sourceRow": 361,
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：未找到可用于核定原译的来源（D级）"
   },
   {
     "id": 356,
     "en": "stiffening rib",
     "zh": "加强筋",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：电机壳体专利有 stiffening ribs 用法，范围限结构加强筋。",
     "sourceRow": 362,
-    "referenceIds": []
+    "referenceIds": [
+      "https://patents.google.com/patent/WO2018028912A1/en"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 357,
     "en": "blowdown",
     "zh": "排污",
     "status": "已修订",
-    "note": "锅炉系统语境。",
+    "note": "锅炉系统语境。\nV2.8：美国能源部定义 boiler blowdown，即定期/连续排出锅炉水；不可泛化为污水排放。",
     "sourceRow": 363,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.energy.gov/cmei/femp/best-management-practice-8-steam-boiler-systems"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 358,
-    "en": "non-segregated phase busbar",
+    "en": "non-segregated-phase bus",
     "zh": "共箱母线",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：共箱母线可对应 non-segregated-phase bus；是否需加 bus duct 看设备结构。",
     "sourceRow": 364,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/us/en-us/catalog/low-voltage-power-distribution-controls-systems/non-segregated-phase-bus-duct.html"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "non-segregated phase busbar",
+        "after": "non-segregated-phase bus",
+        "basis": "根据 Eaton 的母线产品术语补充连字符，作为形容词结构。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 359,
     "en": "isolated-phase bus duct",
     "zh": "分相封闭母线",
     "status": "已修订",
-    "note": "与共箱母线区分。",
+    "note": "与共箱母线区分。\nV2.8：厂商明确区分 isolated-phase 与 non-segregated-phase bus ducts。",
     "sourceRow": 365,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.powellind.com/bus-systems"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 360,
     "en": "enclosed bus",
     "zh": "封闭母线",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：enclosed bus 是上位表达；应区别 nonsegregated、segregated、isolated phase 类型。",
     "sourceRow": 366,
-    "referenceIds": []
+    "referenceIds": [
+      "https://origin-edge.eaton.com/us/en-us/support/business-resources/consultants-engineers/consultant---engineer-resources-for-medium-voltage-power---eaton/guide-specs.html"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 361,
-    "en": "self-synchronizing",
+    "en": "self-synchronization",
     "zh": "自同期",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：论文解释自同期接入电网流程；self-synchronizing 是派生形容词，名词使用 self-synchronization。",
     "sourceRow": 367,
-    "referenceIds": []
+    "referenceIds": [
+      "https://onlinelibrary.wiley.com/doi/full/10.1002/eng2.70986"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "self-synchronizing",
+        "after": "self-synchronization",
+        "basis": "改为技术过程的名词，self-synchronizing 可作形容词。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 362,
     "en": "simulated synchronizing",
     "zh": "假同期",
     "status": "已修订",
-    "note": "通常指不实际并列的同期试验；须结合运行规程。",
+    "note": "通常指不实际并列的同期试验；须结合运行规程。\nV2.8：来源讨论同期测试，但未逐字证实“假同期—simulated synchronizing”；不得与实际并列或 out-of-phase synchronizing 混同。",
     "sourceRow": 368,
-    "referenceIds": []
+    "referenceIds": [
+      "https://resourcecenter.ieee.org/publications/technical-reports/pes_tp_tr121_psrc_42924"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 363,
-    "en": "lagging phase mode",
+    "en": "lagging power factor operation",
     "zh": "迟相方式",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：发电机迟相运行建议 lagging power factor operation，原 lagging phase mode 语义过宽。",
     "sourceRow": 369,
-    "referenceIds": []
+    "referenceIds": [
+      "https://r5.ieee.org/houston/wp-content/uploads/sites/32/2018/04/Sizing-Generators-for-Leading-Power-Factor_white-paper_24Feb14.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "lagging phase mode",
+        "after": "lagging power factor operation",
+        "basis": "原 lagging phase mode 不明确功率因数状态，改用更具体的发电机运行表达。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 364,
-    "en": "leading phase mode",
+    "en": "leading power factor operation",
     "zh": "进相方式",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：发电机进相运行建议 leading power factor operation，原 leading phase mode 语义过宽。",
     "sourceRow": 370,
-    "referenceIds": []
+    "referenceIds": [
+      "https://r5.ieee.org/houston/wp-content/uploads/sites/32/2018/04/Sizing-Generators-for-Leading-Power-Factor_white-paper_24Feb14.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "leading phase mode",
+        "after": "leading power factor operation",
+        "basis": "原 leading phase mode 不明确功率因数状态，改用更具体的发电机运行表达。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 365,
-    "en": "Pulse",
+    "en": "pulse",
     "zh": "脉冲",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：用于电能表脉冲输出语境，英文 pulse 已获专业用例支持；切勿泛化为全部含义。",
     "sourceRow": 371,
-    "referenceIds": []
+    "referenceIds": [
+      "https://media.fluke.com/abafa5ca-3761-4970-905b-b10800be5bd2_original%20file.pdf"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "Pulse",
+        "after": "pulse",
+        "basis": "统一通用技术名词大小写，定义限定在电能表脉冲输出等设备信号。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 366,
-    "en": "Power Save Mode",
+    "en": "power save mode",
     "zh": "节电模式",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：UPS 的 eco-mode 不一定等同于设备界面 Power Save Mode；需要设备型号与实际模式定义。",
     "sourceRow": 372,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.eaton.com/au/en-gb/products/backup-power-ups-surge-it-power-distribution/backup-power-ups/uninterruptible-power-supply-faq.html"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "Power Save Mode",
+        "after": "power save mode",
+        "basis": "统一普通技术名词大小写，仍保持C级待查型号。"
+      }
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 367,
     "en": "redundant diode",
     "zh": "冗余二极管",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：文献明确使用 diode redundancy module；尚不直接证明独立器件“冗余二极管—redundant diode”的固定术语。",
     "sourceRow": 373,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.phoenixcontact.com/en-pc/products/redundancy-module-quint4-diode-48dc-2x20-1x40-2907720"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：仅部分用语或行业背景（C级），完整译法尚待补证"
   },
   {
     "id": 368,
     "en": "turns ratio",
     "zh": "匝数比",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：变压器变比测试明确使用 turns ratio；和 voltage ratio 概念相近但测试条件不同。",
     "sourceRow": 374,
-    "referenceIds": []
+    "referenceIds": [
+      "https://media.fluke.com/7f9803f6-e983-4c15-9ff8-b106006640ee_original%20file.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 369,
-    "en": "Capacitor",
+    "en": "capacitor",
     "zh": "电容器",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：电容器在电力无功补偿电容器组中有明确设备用例。",
     "sourceRow": 375,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/capacitors-and-filters/medium-voltage-capacitors-and-filters/capacitor-banks/metal-enclosed-capacitor-banks-mmcb"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.8",
+        "date": "2026-11-09",
+        "field": "en",
+        "before": "Capacitor",
+        "after": "capacitor",
+        "basis": "统一普通技术名词大小写。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 370,
     "en": "active power loss",
     "zh": "有功损耗",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：IEEE论文将系统网损拆分为 active power loss 与 reactive power loss。",
     "sourceRow": 376,
-    "referenceIds": []
+    "referenceIds": [
+      "https://doi.org/10.1109/ACCESS.2019.2938415"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 371,
     "en": "reactive power loss",
     "zh": "无功损耗",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：数学定义中的无功损耗；不可与无功功率消耗完全混同。",
     "sourceRow": 377,
-    "referenceIds": []
+    "referenceIds": [
+      "https://doi.org/10.1109/ACCESS.2019.2938415"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 372,
     "en": "no-load loss",
     "zh": "空载损耗",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：IEC 60076-1:2011 §3.6.1 定义了无负载损耗。",
     "sourceRow": 378,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.iteh.fr/catalog/standards/iec/67f4e201-43c2-4552-9d29-f64d9dc2295c/iec-60076-1-2011"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 373,
     "en": "no-load current",
     "zh": "空载电流",
     "status": "已核对",
-    "note": "",
+    "note": "V2.8：IEC 60076-1:2011 §3.6.2 定义了空载电流。",
     "sourceRow": 379,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.iteh.fr/catalog/standards/iec/67f4e201-43c2-4552-9d29-f64d9dc2295c/iec-60076-1-2011"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 374,
     "en": "positive-sequence impedance",
     "zh": "正序阻抗",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：IEC 60909-0:2026 §3.17.1 设备序阻抗定义。",
     "sourceRow": 380,
-    "referenceIds": []
+    "referenceIds": [
+      "https://standards.iteh.ai/catalog/standards/iec/111c61a1-d4a4-4eb4-9655-ba4785738720/iec-60909-0-2026"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 375,
     "en": "negative-sequence impedance",
     "zh": "负序阻抗",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：IEC 60909-0:2026 §3.17.2 设备序阻抗定义。",
     "sourceRow": 381,
-    "referenceIds": []
+    "referenceIds": [
+      "https://standards.iteh.ai/catalog/standards/iec/111c61a1-d4a4-4eb4-9655-ba4785738720/iec-60909-0-2026"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 376,
     "en": "zero-sequence impedance",
     "zh": "零序阻抗",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：IEC 60909-0:2026 §3.17.3 设备序阻抗定义。",
     "sourceRow": 382,
-    "referenceIds": []
+    "referenceIds": [
+      "https://standards.iteh.ai/catalog/standards/iec/111c61a1-d4a4-4eb4-9655-ba4785738720/iec-60909-0-2026"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 377,
     "en": "sectionalized busbar",
     "zh": "分段母线",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：UNIDO 指用 section-breaker 分段的一段母线；原 sectionalized busbar 可以描述分段母线设备，不一定指全接线形式。",
     "sourceRow": 383,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 378,
     "en": "double busbar",
     "zh": "双母线",
     "status": "已修订",
-    "note": "",
+    "note": "V2.8：UNIDO §11.2.7 使用 double-bus connection；原 double busbar 更偏设备/母线名称。",
     "sourceRow": 384,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.unido.org/sites/default/files/files/2020-01/P1_001.pdf"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：核实英语专业用例（B级），非中文英文标准直接对应"
   },
   {
     "id": 379,
@@ -5162,7 +5527,12 @@
     "status": "已修订",
     "note": "",
     "sourceRow": 385,
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 380,
@@ -5175,7 +5545,10 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines"
-    ]
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 381,
@@ -5188,7 +5561,10 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://www.osha.gov/etools/electric-power/energized-deenergized-work"
-    ]
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 382,
@@ -5204,18 +5580,36 @@
     ],
     "referenceIds": [
       "https://m.antpedia.com/standard/8005952.html"
-    ]
+    ],
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "中英直接对应证据"
   },
   {
     "id": 383,
-    "en": "state grid standard design",
+    "en": "State Grid typical design",
     "zh": "国网典设",
     "status": "待确认",
     "note": "“国网典设”指国家电网典型设计/标准化设计；英文是否为机构官方译法待核对。",
     "sourceRow": 7,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
-    "referenceIds": []
+    "referenceIds": [
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/substation-automation-systems/station-level-solutions"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.9",
+        "date": "2026-11-17",
+        "field": "en",
+        "before": "state grid standard design",
+        "after": "State Grid typical design",
+        "reason": "原 state grid standard design 的 standard 不宜替代 typical；仍是描述性非官方书名。"
+      }
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 384,
@@ -5229,7 +5623,10 @@
     "referenceIds": [
       "https://www.antpedia.com/standard/7401432-1.html",
       "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=9382CD35BFF080286D645B1B2B9B9F98"
-    ]
+    ],
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "中英直接对应证据"
   },
   {
     "id": 385,
@@ -5245,7 +5642,10 @@
     ],
     "referenceIds": [
       "https://webstore.iec.ch/en/publication/3611"
-    ]
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 386,
@@ -5258,21 +5658,29 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://technav.ieee.org/topic/power-distribution-reliability/",
-      "https://www.eia.gov/electricity/Annual/table.php?t=epa_11_02.html"
-    ]
+      "https://www.eia.gov/electricity/Annual/table.php?t=epa_11_02.html",
+      "https://standards.ieee.org/ieee/3240.17/12355/"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 387,
     "en": "spring pin",
     "zh": "弹簧销",
     "status": "待确认",
-    "note": "“弹簧销”在绝缘子球窝连接处一般为锁紧销（locking device/pin）；请依零件图确认具体型式。",
+    "note": "“弹簧销”在绝缘子球窝连接处一般为锁紧销（locking device/pin）；请依零件图确认具体型式。；球窝绝缘子锁紧装置常为 split-pin 或 W-clip，必须依零件图。",
     "sourceRow": 12,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
-      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151"
-    ]
+      "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151",
+      "https://webstore.iec.ch/en/publication/60781"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 388,
@@ -5283,7 +5691,10 @@
     "sourceRow": 13,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "无合格来源，待确认"
   },
   {
     "id": 389,
@@ -5300,20 +5711,27 @@
     "referenceIds": [
       "https://www.antpedia.com/standard/1379397315.html",
       "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=09329E7F7657F6BD144F38D69A897151"
-    ]
+    ],
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "中英直接对应证据"
   },
   {
     "id": 390,
     "en": "socket clevis",
     "zh": "碗头挂板",
     "status": "待确认",
-    "note": "电力绝缘子连接金具，socket clevis 为可查到的行业器件名称；需按图纸核对挂板细分型号。",
+    "note": "电力绝缘子连接金具，socket clevis 为可查到的行业器件名称；需按图纸核对挂板细分型号。；不同型式需区分：WS型多称 socket clevis，W型可能为 socket eye 或 socket tongue；禁止跨型号概括。",
     "sourceRow": 15,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
-      "https://www.antpedia.com/standard/7401432-1.html"
-    ]
+      "https://www.antpedia.com/standard/7401432-1.html",
+      "https://www.ttbz.org.cn/Home/PdfFileStreamGet/c3QsMTMyNjEx"
+    ],
+    "evidenceGrade": "A",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "中英直接对应证据"
   },
   {
     "id": 391,
@@ -5326,7 +5744,10 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://webstore.iec.ch/en/publication/3612"
-    ]
+    ],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "无合格来源，待确认"
   },
   {
     "id": 392,
@@ -5338,8 +5759,12 @@
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
-      "https://webstore.iec.ch/en/publication/3612"
-    ]
+      "https://webstore.iec.ch/en/publication/3612",
+      "https://patents.google.com/patent/WO2025060251A1/en"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 393,
@@ -5352,8 +5777,12 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://hbsle.cbpt.cnki.net/portal/journal/portal/client/paper/24e03a1ae4d78cb4ebaaedaa7577a1a5",
-      "https://www.cepc.com.cn/CN/Y2011/V32/I4/29"
-    ]
+      "https://www.cepc.com.cn/CN/Y2011/V32/I4/29",
+      "https://www.energychina.press/en/article/doi/10.16516/j.gedi.issn2095-8676.2017.04.017"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 394,
@@ -5365,19 +5794,28 @@
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines"
-    ]
+      "https://www.osha.gov/etools/electric-power/illustrated-glossary/transmission-lines",
+      "https://www.tsinlingm.com/grading-rings-for-composite-insulators.html"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 395,
     "en": "Bayannur Power Supply Branch",
     "zh": "巴彦淖尔供电公司",
     "status": "待确认",
-    "note": "机构专名需核实其现行英文官方名称；Bayannur Power Supply Branch 暂作原表候选，不得标称官方。",
+    "note": "机构专名需核实其现行英文官方名称；Bayannur Power Supply Branch 暂作原表候选，不得标称官方。；学术论文作者单位出现 Bayannur Electric Power Bureau，另有 Bayannur Power Supply Branch 的描述译法，未取得官方译名；内蒙古电力系统不应擅归为国网机构。",
     "sourceRow": 31,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
-    "referenceIds": []
+    "referenceIds": [
+      "https://epjournal.csee.org.cn/rc-pub/front/front-article/download/101751094/lowqualitypdf/%E8%BF%9C%E6%96%B9%E5%A4%87%E8%87%AA%E6%8A%95%E5%9C%A8%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94110%20kV%E7%94%B5%E7%BD%91%E7%9A%84%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8.pdf"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 396,
@@ -5390,7 +5828,10 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://www.eia.gov/tools/glossary/index.php?id=Electric"
-    ]
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 397,
@@ -5402,8 +5843,12 @@
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
-      "https://www.antpedia.com/standard/1379397315.html"
-    ]
+      "https://www.antpedia.com/standard/1379397315.html",
+      "https://patents.google.com/patent/WO2025060251A1/en"
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 398,
@@ -5416,7 +5861,10 @@
     "category": "电力 / 输配电与线路检修",
     "referenceIds": [
       "https://m.antpedia.com/standard/8005952.html"
-    ]
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "专业英文用例证据"
   },
   {
     "id": 399,
@@ -5427,7 +5875,10 @@
     "sourceRow": 37,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "无合格来源，待确认"
   },
   {
     "id": 400,
@@ -5438,48 +5889,73 @@
     "sourceRow": 38,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
-    "referenceIds": []
+    "referenceIds": [],
+    "evidenceGrade": "D",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "无合格来源，待确认"
   },
   {
     "id": 401,
-    "en": "wire rollers",
+    "en": "conductor take-up equipment",
     "zh": "收线装置",
     "status": "待确认",
-    "note": "“wire rollers”一般指导线滚轮，不一定是整套收线装置；需结合机械图纸辨别 winching/take-up/reeling 机构。",
+    "note": "“wire rollers”一般指导线滚轮，不一定是整套收线装置；需结合机械图纸辨别 winching/take-up/reeling 机构。；wire rollers 不代表整套收线设备；conductor take-up equipment 为暂拟泛称，按设备型号定稿。",
     "sourceRow": 44,
     "sourceFile": "巴盟供电局术语表-CE.xlsx",
     "category": "电力 / 输配电与线路检修",
-    "referenceIds": []
+    "referenceIds": [
+      "https://standards.theiteh.com/catalog/standards/iec/fa84aaf5-6318-4f6c-9b9f-42b7f114520b/iec-tr-61328-2017",
+      "https://patents.google.com/patent/CN213356559U/en"
+    ],
+    "revisionHistory": [
+      {
+        "version": "2.9",
+        "date": "2026-11-17",
+        "field": "en",
+        "before": "wire rollers",
+        "after": "conductor take-up equipment",
+        "reason": "原 wire rollers 为导线滚轮而不是收线装置；暂用宽泛设备表达，待具体结构确认。"
+      }
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009",
+    "verificationStatus": "仅背景或部分证据，待补证"
   },
   {
     "id": 402,
     "en": "protection message",
     "zh": "保护报文",
     "status": "已修订",
-    "note": "“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。；由原词条 #1 的第 2/4 项拆出；译法须逐项核实。",
+    "note": "“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。；由原词条 #1 的第 2/4 项拆出；译法须逐项核实。；V2.9：IEC 61850 GOOSE messages 可承载保护信号；protection message 是描述性词组，尚无本中文特定消息类型直对。",
     "sourceRow": 7,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.mdpi.com/2673-4826/7/3/81"
     ],
     "splitFrom": 1,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 403,
     "en": "protection event",
     "zh": "保护事件",
     "status": "已修订",
-    "note": "“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。；由原词条 #1 的第 3/4 项拆出；译法须逐项核实。",
+    "note": "“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。；由原词条 #1 的第 3/4 项拆出；译法须逐项核实。；V2.9：SEL 使用 event report、SER；保护事件若指日志可为 protection event，但报告与事件不能直接等同。",
     "sourceRow": 7,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://selinc.com/selu/courses/cbt/102/"
     ],
     "splitFrom": 1,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 404,
@@ -5489,42 +5965,52 @@
     "note": "“报文”指通信/事件消息时用 message；保护装置也可依具体设备称 protective relay。；由原词条 #1 的第 4/4 项拆出；译法须逐项核实。",
     "sourceRow": 7,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/substation-automation-protection-and-control/products/protection-and-control/transformer-protection-and-control/transformer-protection"
     ],
     "splitFrom": 1,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 405,
     "en": "line protection for 110 kV and above",
     "zh": "110 kV及以上线路保护",
     "status": "已修订",
-    "note": "规范电压单位为 kV；具体继电器可称 relay。；由原词条 #2 的第 2/3 项拆出；译法须逐项核实。",
+    "note": "规范电压单位为 kV；具体继电器可称 relay。；由原词条 #2 的第 2/3 项拆出；译法须逐项核实。；V2.9：日立明确 line protection，但并不把 110 kV and above 列为统一产品分类。",
     "sourceRow": 8,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.hitachienergy.com/products-and-solutions/substation-automation-protection-and-control/products/protection-and-control/relion-product-family/relion-650-series/red650"
     ],
     "splitFrom": 2,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 406,
     "en": "line protection for 220 kV and above",
     "zh": "220 kV及以上线路保护",
     "status": "已修订",
-    "note": "规范电压单位为 kV；具体继电器可称 relay。；由原词条 #2 的第 3/3 项拆出；译法须逐项核实。",
+    "note": "规范电压单位为 kV；具体继电器可称 relay。；由原词条 #2 的第 3/3 项拆出；译法须逐项核实。；V2.9：资料涉及 220 kV 及以上线路保护要求；中国具体配置不以国外规章为准。",
     "sourceRow": 8,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.hitachienergy.com/products-and-solutions/substation-automation-protection-and-control/products/protection-and-control/relion-product-family/relion-650-series/red650",
+      "https://indiankanoon.org/doc/134799906/"
     ],
     "splitFrom": 2,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 407,
@@ -5534,12 +6020,15 @@
     "note": "原文“两卷/三卷”表述改为“双绕组/三绕组”。；由原词条 #3 的第 2/3 项拆出；译法须逐项核实。",
     "sourceRow": 9,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://selinc.com/products/787-3-4/"
     ],
     "splitFrom": 3,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 408,
@@ -5549,12 +6038,15 @@
     "note": "原文“两卷/三卷”表述改为“双绕组/三绕组”。；由原词条 #3 的第 3/3 项拆出；译法须逐项核实。",
     "sourceRow": 9,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://selinc.com/products/787-3-4/"
     ],
     "splitFrom": 3,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 409,
@@ -5564,12 +6056,15 @@
     "note": "状态/控制模式按界面语境区分。；由原词条 #8 的第 2/2 项拆出；译法须逐项核实。",
     "sourceRow": 14,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A"
     ],
     "splitFrom": 8,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 410,
@@ -5579,12 +6074,15 @@
     "note": "状态/控制模式按界面语境区分。；由原词条 #9 的第 2/2 项拆出；译法须逐项核实。",
     "sourceRow": 15,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A"
     ],
     "splitFrom": 9,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 411,
@@ -5594,12 +6092,15 @@
     "note": "overhaul 是大修，不等同一般检修。；由原词条 #10 的第 2/3 项拆出；译法须逐项核实。",
     "sourceRow": 16,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://selinc.com/products/787/"
     ],
     "splitFrom": 10,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 412,
@@ -5609,12 +6110,15 @@
     "note": "overhaul 是大修，不等同一般检修。；由原词条 #10 的第 3/3 项拆出；译法须逐项核实。",
     "sourceRow": 16,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://selinc.com/products/787/"
     ],
     "splitFrom": 10,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 413,
@@ -5624,12 +6128,15 @@
     "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 2/10 项拆出；译法须逐项核实。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://www.hitachienergy.com/us/en/products-and-solutions/high-voltage-switchgear-and-breakers/hybrid-switchgear/hybrid-modules-for-72-5-420-kv/pass-m0s-for-420-kv"
     ],
     "splitFrom": 12,
     "splitIndex": 2,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 414,
@@ -5639,27 +6146,33 @@
     "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 3/10 项拆出；译法须逐项核实。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://productinfo.se.com/io_module_user_guide/io-module-user-guide/English/BM_Input_Output%20Interface%20Module%20for%20LV%20Circuit%20Brea_354b1ab7_T000205118.xml/%24/TPC_Application2_BreakerOperation_354b1ab7_T000205297"
     ],
     "splitFrom": 12,
     "splitIndex": 3,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 415,
     "en": "local trip",
     "zh": "就地跳闸",
     "status": "已修订",
-    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 4/10 项拆出；译法须逐项核实。",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 4/10 项拆出；译法须逐项核实。；V2.9：来源有 local open order，但跳闸 trip 与开断 open 不可无条件视作同义。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://productinfo.se.com/io_module_user_guide/io-module-user-guide/English/BM_Input_Output%20Interface%20Module%20for%20LV%20Circuit%20Brea_354b1ab7_T000205118.xml/%24/TPC_Application2_BreakerOperation_354b1ab7_T000205297"
     ],
     "splitFrom": 12,
     "splitIndex": 4,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 416,
@@ -5669,87 +6182,135 @@
     "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 5/10 项拆出；译法须逐项核实。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://productinfo.se.com/io_module_user_guide/io-module-user-guide/English/BM_Input_Output%20Interface%20Module%20for%20LV%20Circuit%20Brea_354b1ab7_T000205118.xml/%24/TPC_Application2_BreakerOperation_354b1ab7_T000205297"
     ],
     "splitFrom": 12,
     "splitIndex": 5,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 417,
     "en": "remote trip command",
     "zh": "远方跳闸命令",
     "status": "已修订",
-    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 6/10 项拆出；译法须逐项核实。",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 6/10 项拆出；译法须逐项核实。；V2.9：厂家文章直接使用 remote trip command，注意 remote open 不完全等于保护跳闸。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://www.etek-china.com/residual-current-device/mcb-shunt-release-remote-trip-failure"
     ],
     "splitFrom": 12,
     "splitIndex": 6,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 418,
-    "en": "closing successful",
+    "en": "close operation successful",
     "zh": "合闸成功",
     "status": "已修订",
-    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 7/10 项拆出；译法须逐项核实。",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 7/10 项拆出；译法须逐项核实。；V2.9：设备手册证实 close failure 文本，但未独立验证 close successful 是固定状态标签。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://productinfo.se.com/masterpact-mtz/5bec4e87347bdf0001da09c1/English/English/0614IB1701EN%20Masterpact%20MTZ2_MTZ3%20User%20Guide%20%28bookmap%29_0000154416.xml/%24/MasterpactMTZTroubleshooting-E1B15CD5"
     ],
     "splitFrom": 12,
     "splitIndex": 7,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "revisionHistory": [
+      {
+        "version": "2.9",
+        "date": "2026-11-17",
+        "field": "en",
+        "before": "closing successful",
+        "after": "close operation successful",
+        "reason": "状态说明中比 closing successful 更自然，仍缺厂商该完整标签的直接对应。"
+      }
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 419,
     "en": "closing failed",
     "zh": "合闸失败",
     "status": "已修订",
-    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 8/10 项拆出；译法须逐项核实。",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 8/10 项拆出；译法须逐项核实。；V2.9：施耐德故障提示直接出现 Close has failed，可与 closing failed 状态对应。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://productinfo.se.com/masterpact-mtz/5bec4e87347bdf0001da09c1/English/English/0614IB1701EN%20Masterpact%20MTZ2_MTZ3%20User%20Guide%20%28bookmap%29_0000154416.xml/%24/MasterpactMTZTroubleshooting-E1B15CD5"
     ],
     "splitFrom": 12,
     "splitIndex": 8,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 420,
-    "en": "tripping successful",
+    "en": "trip operation successful",
     "zh": "跳闸成功",
     "status": "已修订",
-    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 9/10 项拆出；译法须逐项核实。",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 9/10 项拆出；译法须逐项核实。；V2.9：设备资料列出开断失败，不支持完整 tripping successful 固定状态标签。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://www.manualslib.com/manual/1376995/Abb-Spaa-341-C-E351.html?page=127"
     ],
     "splitFrom": 12,
     "splitIndex": 9,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "revisionHistory": [
+      {
+        "version": "2.9",
+        "date": "2026-11-17",
+        "field": "en",
+        "before": "tripping successful",
+        "after": "trip operation successful",
+        "reason": "比 tripping successful 更适合断路器操作结果说明；完整标签尚待核实。"
+      }
+    ],
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 421,
-    "en": "tripping failed",
+    "en": "trip failed",
     "zh": "跳闸失败",
     "status": "已修订",
-    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 10/10 项拆出；译法须逐项核实。",
+    "note": "合闸/跳闸命令应按实际对象区分断路器与接地开关，不能一概写 CB。；由原词条 #12 的第 10/10 项拆出；译法须逐项核实。；V2.9：设备资料使用 CB opening failed；结合断路器跳闸状态，推荐 trip failed（作为人机界面状态，需按设备定义）。",
     "sourceRow": 18,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://www.manualslib.com/manual/1376995/Abb-Spaa-341-C-E351.html?page=127"
     ],
     "splitFrom": 12,
     "splitIndex": 10,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "revisionHistory": [
+      {
+        "version": "2.9",
+        "date": "2026-11-17",
+        "field": "en",
+        "before": "tripping failed",
+        "after": "trip failed",
+        "reason": "故障状态标签更接近产品手册中的 trip/opening failed；应区分保护动作与设备实际开断。"
+      }
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 422,
@@ -5759,12 +6320,15 @@
     "note": "“开关”如指断路器应改 circuit breaker；switchgear 是成套开关设备。；由原词条 #13 的第 2/4 项拆出；译法须逐项核实。",
     "sourceRow": 19,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A"
     ],
     "splitFrom": 13,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 423,
@@ -5774,12 +6338,15 @@
     "note": "“开关”如指断路器应改 circuit breaker；switchgear 是成套开关设备。；由原词条 #13 的第 3/4 项拆出；译法须逐项核实。",
     "sourceRow": 19,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://selinc.com/products/787/"
     ],
     "splitFrom": 13,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 424,
@@ -5789,42 +6356,51 @@
     "note": "“开关”如指断路器应改 circuit breaker；switchgear 是成套开关设备。；由原词条 #13 的第 4/4 项拆出；译法须逐项核实。",
     "sourceRow": 19,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://productinfo.se.com/d3982892_substationmonitoringdevice-ib/d3982892-substation-monitoring-device-ib/English/D3982892%20-%20SMD%20Quick%20Start%20Guide%20in%20SureSeT%20Switchgear%20%28bookmap%29_DD01228990.xml/%24/ControlFeaturesCircuitBreakerAndAux-C5083D0A"
     ],
     "splitFrom": 13,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 425,
     "en": "common bay",
     "zh": "公用间隔",
     "status": "已审校",
-    "note": "由原词条 #14 的第 2/4 项拆出；译法须逐项核实。",
+    "note": "由原词条 #14 的第 2/4 项拆出；译法须逐项核实。；V2.9：官方技术规范 common bay unit 指公用间隔功能装置，不能反推所有“公用间隔”都为 common bay。",
     "sourceRow": 20,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://www.ceb.lk/front_img/tender_pdf/200625100611Volume_05_of_08_GPDEEIIP_-_T2_-_P8_-_Lot_B_25_06_2020.pdf"
     ],
     "splitFrom": 14,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 426,
     "en": "main transformer bay",
     "zh": "主变间隔",
     "status": "已审校",
-    "note": "由原词条 #14 的第 3/4 项拆出；译法须逐项核实。",
+    "note": "由原词条 #14 的第 3/4 项拆出；译法须逐项核实。；V2.9：厂家资料直接使用 transformer bay；main transformer bay 完整搭配尚待图纸确认。",
     "sourceRow": 20,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/621fe34539c44a69ae9d9ff3249cd94b/KS%20modular%20system%20indoor.pdf"
     ],
     "splitFrom": 14,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 427,
@@ -5834,94 +6410,119 @@
     "note": "由原词条 #14 的第 4/4 项拆出；译法须逐项核实。",
     "sourceRow": 20,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/621fe34539c44a69ae9d9ff3249cd94b/KS%20modular%20system%20indoor.pdf"
     ],
     "splitFrom": 14,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "专业英文用例证据",
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 428,
     "en": "disable / take out of service",
     "zh": "退出",
     "status": "已修订",
-    "note": "保护功能投退与设备投退按场景选择。；由原词条 #15 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "保护功能投退与设备投退按场景选择。；由原词条 #15 的第 2/2 项拆出；译法须逐项核实。；V2.9：退出可能是禁用某功能或将装置退出运行；需要按设备/逻辑义项选择 disable 与 take out of service。",
     "sourceRow": 21,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://productinfo.se.com/masterpactmtz2-3userguide/doca0101-mtz2-3-user-guide/English/BM_MasterPact%20MTZ2_3_b5effd44_T001601218.xml/%24/TPC_ControlOperationsFromIOModule_354b1ab7_T000221844"
     ],
     "splitFrom": 15,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "仅背景或部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastAuditedBatch": "batch009"
   },
   {
     "id": 429,
     "en": "automatic transfer enable link",
     "zh": "备自投压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 2/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 2/10 项拆出；译法须逐项核实；第十批：可证备自投及压板概念，不能确认整个 automatic transfer enable link 为设备固定名称。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.antpedia.com/standard/1627881148.html",
+      "https://selinc.com/products/700bt"
     ],
     "splitFrom": 16,
     "splitIndex": 2,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 430,
     "en": "synchronism-check enable link",
     "zh": "检同期压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 3/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 3/10 项拆出；译法须逐项核实；第十批：ABB 有 Sync Check Enable 整定，但 enable link 的压板层面未得到直证。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.antpedia.com/standard/1627881148.html",
+      "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf"
     ],
     "splitFrom": 16,
     "splitIndex": 3,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 431,
     "en": "dead-bus-check enable link",
     "zh": "检无压压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 4/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 4/10 项拆出；译法须逐项核实；第十批：Dead-bus 判据存在，但 dead-bus-check enable link 完整名称未经实证。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.antpedia.com/standard/1627881148.html",
+      "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf"
     ],
     "splitFrom": 16,
     "splitIndex": 4,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 432,
     "en": "control logic enable link",
     "zh": "控制逻辑投入压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 5/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 5/10 项拆出；译法须逐项核实；第十批：功能压板的类属可查，control logic enable link 暂作描述性名称。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://www.antpedia.com/standard/1627881148.html"
     ],
     "splitFrom": 16,
     "splitIndex": 5,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 433,
     "en": "general-purpose link",
     "zh": "普通压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 6/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 6/10 项拆出；译法须逐项核实；第十批：“普通压板”是具体端子硬压板、软压板还是空置连片未确定；general-purpose link 无适当出处。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/"
@@ -5929,29 +6530,37 @@
     "splitFrom": 16,
     "splitIndex": 6,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：无合格直证，待确认",
+    "evidenceGrade": "D",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 434,
     "en": "synchronizing function enable link",
     "zh": "同期功能压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 7/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 7/10 项拆出；译法须逐项核实；第十批：同期功能确有用途，未核实 synchronizing function enable link 完整标签。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "https://www.antpedia.com/standard/1627881148.html"
     ],
     "splitFrom": 16,
     "splitIndex": 7,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 435,
     "en": "synchronizing contact mode 12/13/14 link",
     "zh": "同期接点12/13/14方式压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 8/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 8/10 项拆出；译法须逐项核实；第十批：原文 12/13/14 编码未知；不可从同期装置通用文献推断该压板的模式名称。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/"
@@ -5959,14 +6568,17 @@
     "splitFrom": 16,
     "splitIndex": 8,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：无合格直证，待确认",
+    "evidenceGrade": "D",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 436,
     "en": "fixed synchronizing contact mode link",
     "zh": "同期接点固定方式压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 9/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 9/10 项拆出；译法须逐项核实；第十批：“固定方式”具体接点逻辑无原始设备资料；完整译法待核。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/"
@@ -5974,192 +6586,246 @@
     "splitFrom": 16,
     "splitIndex": 9,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：无合格直证，待确认",
+    "evidenceGrade": "D",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 437,
     "en": "quasi-synchronizing enable link",
     "zh": "准同期压板",
     "status": "已修订",
-    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 10/10 项拆出；译法须逐项核实。",
+    "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 10/10 项拆出；译法须逐项核实；第十批：同步/准同期相关功能存在；quasi-synchronizing enable link 未见原生专业用例。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "https://www.antpedia.com/standard/1627881148.html"
     ],
     "splitFrom": 16,
     "splitIndex": 10,
     "splitCount": 10,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 438,
     "en": "slip frequency",
     "zh": "同期滑差",
     "status": "已修订",
-    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 2/5 项拆出；译法须逐项核实。",
+    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 2/5 项拆出；译法须逐项核实；第十批：原生资料使用 slip frequency；与 frequency difference 概念接近但可能有正负或绝对值区别。",
     "sourceRow": 23,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://selinc.com/api/download/blt9cd74be1c4f2eb4f/?lang=en-us",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 17,
     "splitIndex": 2,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 439,
     "en": "frequency difference",
     "zh": "同期频差",
     "status": "已修订",
-    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 3/5 项拆出；译法须逐项核实。",
+    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 3/5 项拆出；译法须逐项核实；第十批：ABB 明示 slip (frequency difference)；装置参数需按实际取有符号或绝对值。",
     "sourceRow": 23,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 17,
     "splitIndex": 3,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 440,
     "en": "phase-angle difference",
     "zh": "同期相差",
     "status": "已修订",
-    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 4/5 项拆出；译法须逐项核实。",
+    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 4/5 项拆出；译法须逐项核实；第十批：SYNCHROTACT 手册的 phase-angle difference 是同期测量的原生用语。",
     "sourceRow": 23,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 17,
     "splitIndex": 4,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 441,
     "en": "voltage difference",
     "zh": "同期压差",
     "status": "已修订",
-    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 5/5 项拆出；译法须逐项核实。",
+    "note": "“滑差”通常为频率差；指标及单位依装置定义。；由原词条 #17 的第 5/5 项拆出；译法须逐项核实；第十批：SYNCHROTACT 明确使用 voltage difference (ΔU)；注意区别允许压差和实际压差。",
     "sourceRow": 23,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 17,
     "splitIndex": 5,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 442,
     "en": "phase-angle criterion not met",
     "zh": "准同期角差条件不满足",
     "status": "已修订",
-    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 2/5 项拆出；译法须逐项核实。",
+    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 2/5 项拆出；译法须逐项核实；第十批：角差判据可见，但 phase-angle criterion not met 是拟定 HMI 提示，未见完整厂商原文。",
     "sourceRow": 24,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 18,
     "splitIndex": 2,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 443,
     "en": "frequency-difference criterion not met",
     "zh": "准同期频差条件不满足",
     "status": "已修订",
-    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 3/5 项拆出；译法须逐项核实。",
+    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 3/5 项拆出；译法须逐项核实；第十批：频差判据可见，整句频差条件不满足仍是建议性界面语言。",
     "sourceRow": 24,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 18,
     "splitIndex": 3,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 444,
     "en": "other synchronizing criteria not met",
     "zh": "准同期其他条件不满足",
     "status": "已修订",
-    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 4/5 项拆出；译法须逐项核实。",
+    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 4/5 项拆出；译法须逐项核实；第十批：同期其他条件不满足缺具体条件定义，尚不能作为厂商标准提示。",
     "sourceRow": 24,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 18,
     "splitIndex": 4,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 445,
     "en": "voltage-difference criterion not met",
     "zh": "准同期压差条件不满足",
     "status": "已修订",
-    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 5/5 项拆出；译法须逐项核实。",
+    "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 5/5 项拆出；译法须逐项核实；第十批：压差阈值明确，整句英文未取得直接厂商用例。",
     "sourceRow": 24,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
     ],
     "splitFrom": 18,
     "splitIndex": 5,
     "splitCount": 5,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 446,
     "en": "proportional coefficient",
     "zh": "比例系数",
     "status": "已审校",
-    "note": "由原词条 #19 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "由原词条 #19 的第 2/2 项拆出；译法须逐项核实；第十批：英文专利在发电机自动电压调节器控制中使用 proportional coefficient。",
     "sourceRow": 25,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://patents.google.com/patent/US20050104561A1/en"
+    ],
     "splitFrom": 19,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 447,
     "en": "blocking function",
     "zh": "闭锁功能",
     "status": "已修订",
-    "note": "保护逻辑用 blocking，机械/电气互锁用 interlocking。；由原词条 #20 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "保护逻辑用 blocking，机械/电气互锁用 interlocking。；由原词条 #20 的第 2/2 项拆出；译法须逐项核实；第十批：电压调节设备手册出现 blocking function；逻辑闭锁勿等同机械互锁。",
     "sourceRow": 26,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf"
     ],
     "splitFrom": 20,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 448,
     "en": "substation manager",
     "zh": "站长",
     "status": "已修订",
-    "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 2/4 项拆出；译法须逐项核实。",
+    "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 2/4 项拆出；译法须逐项核实；第十批：现有官方职位写 Manager, Electrical Power Distribution (Substation)；substation manager 可理解，但中国“站长”职级尚待单位确认。",
     "sourceRow": 27,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://careers.pacificorp.com/job/WALLA-WALLA-Manager%2C-Electrical-Power-Distribution-%28Substation%29-WA-99362/1440975900/"
     ],
     "splitFrom": 21,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 449,
     "en": "duty operator",
     "zh": "正值",
     "status": "已修订",
-    "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 3/4 项拆出；译法须逐项核实。",
+    "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 3/4 项拆出；译法须逐项核实；第十批：“正值”是中国电力值班岗位层级，duty operator 不能无岗位表直接认定；需岗位职责、编制或双语表。",
     "sourceRow": 27,
     "referenceIds": [
       "https://www.osha.gov/etools/electric-power/glossary-terms"
@@ -6167,572 +6833,835 @@
     "splitFrom": 21,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：无合格直证，待确认",
+    "evidenceGrade": "D",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 450,
     "en": "shift supervisor",
     "zh": "值长",
     "status": "已修订",
-    "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 4/4 项拆出；译法须逐项核实。",
+    "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 4/4 项拆出；译法须逐项核实；第十批：供电公司现行岗位名称包含 Shift Supervisor, Substation Operations；与“值长”职级关系仍需单位核实。",
     "sourceRow": 27,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/Shift-Supervisor--Substation-Operations_R-030590"
     ],
     "splitFrom": 21,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 451,
     "en": "general telemetry",
     "zh": "通用遥测",
     "status": "已修订",
-    "note": "telemetering 亦用于测量过程；数据点宜用 telemetry value。；由原词条 #24 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "telemetering 亦用于测量过程；数据点宜用 telemetry value。；由原词条 #24 的第 2/2 项拆出；译法须逐项核实；第十批：可证远程采集和测量信号，general telemetry 尚无原生设备标签的证据。",
     "sourceRow": 30,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://selinc.com/products/tmu/"
     ],
     "splitFrom": 24,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 452,
     "en": "general telecontrol",
     "zh": "通用遥控",
     "status": "已审校",
-    "note": "由原词条 #25 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "由原词条 #25 的第 2/2 项拆出；译法须逐项核实；第十批：可证远程操控及电源切换领域用法，general telecontrol 未找到完整源用例。",
     "sourceRow": 31,
     "referenceIds": [
-      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826"
+      "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
+      "https://selinc.com/products/700bt"
     ],
     "splitFrom": 25,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "待逐项查证"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 453,
     "en": "general remote indication",
     "zh": "通用遥信",
     "status": "已审校",
-    "note": "由原词条 #27 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "由原词条 #27 的第 2/2 项拆出；译法须逐项核实；第十批：站控通信有 SPS/DPS 遥信数据类，general remote indication 为描述性组合。",
     "sourceRow": 33,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf"
+    ],
     "splitFrom": 27,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 454,
     "en": "lower limit",
     "zh": "下限值",
     "status": "已审校",
-    "note": "由原词条 #28 的第 2/6 项拆出；译法须逐项核实。",
+    "note": "由原词条 #28 的第 2/6 项拆出；译法须逐项核实；第十批：电能测量界面明确使用 lower limit、lower limit voltage alarm。",
     "sourceRow": 34,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+    ],
     "splitFrom": 28,
     "splitIndex": 2,
     "splitCount": 6,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 455,
     "en": "upper-limit alarm",
     "zh": "越上限报警",
     "status": "已审校",
-    "note": "由原词条 #28 的第 3/6 项拆出；译法须逐项核实。",
+    "note": "由原词条 #28 的第 3/6 项拆出；译法须逐项核实；第十批：三菱测量手册明确存在 upper limit current/voltage alarm；未必是具体监控屏同一条提示。",
     "sourceRow": 34,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+    ],
     "splitFrom": 28,
     "splitIndex": 3,
     "splitCount": 6,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 456,
     "en": "upper-limit audible alarm",
     "zh": "越上限响铃",
     "status": "已审校",
-    "note": "由原词条 #28 的第 4/6 项拆出；译法须逐项核实。",
+    "note": "由原词条 #28 的第 4/6 项拆出；译法须逐项核实；第十批：可证 upper limit alarm，但是否附 audible alarm / bell 取决于原装置告警配置。",
     "sourceRow": 34,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+    ],
     "splitFrom": 28,
     "splitIndex": 4,
     "splitCount": 6,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 457,
     "en": "lower-limit alarm",
     "zh": "越下限报警",
     "status": "已审校",
-    "note": "由原词条 #28 的第 5/6 项拆出；译法须逐项核实。",
+    "note": "由原词条 #28 的第 5/6 项拆出；译法须逐项核实；第十批：三菱测量手册明确存在 lower limit current/voltage alarm。",
     "sourceRow": 34,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+    ],
     "splitFrom": 28,
     "splitIndex": 5,
     "splitCount": 6,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 458,
     "en": "lower-limit audible alarm",
     "zh": "越下限响铃",
     "status": "已审校",
-    "note": "由原词条 #28 的第 6/6 项拆出；译法须逐项核实。",
+    "note": "由原词条 #28 的第 6/6 项拆出；译法须逐项核实；第十批：可证 lower limit alarm；响铃是声音输出动作，缺原设备 UI 完整名称。",
     "sourceRow": 34,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+    ],
     "splitFrom": 28,
     "splitIndex": 6,
     "splitCount": 6,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 459,
     "en": "above upper limit",
     "zh": "越上限",
     "status": "已审校",
-    "note": "由原词条 #29 的第 2/3 项拆出；译法须逐项核实。",
+    "note": "由原词条 #29 的第 2/3 项拆出；译法须逐项核实；第十批：有 upper limits 阈值监控；above upper limit 是状态说明，未见同款 HMI 字串。",
     "sourceRow": 35,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29"
+    ],
     "splitFrom": 29,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 460,
     "en": "below lower limit",
     "zh": "越下限",
     "status": "已审校",
-    "note": "由原词条 #29 的第 3/3 项拆出；译法须逐项核实。",
+    "note": "由原词条 #29 的第 3/3 项拆出；译法须逐项核实；第十批：有 lower limits 阈值监控；below lower limit 是状态说明，未见同款 HMI 字串。",
     "sourceRow": 35,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29"
+    ],
     "splitFrom": 29,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 461,
     "en": "node 1 voltage limit violation",
     "zh": "节点1电压越限",
     "status": "已修订",
-    "note": "原文“越限电压”不必然等于过电压，可高于上限或低于下限。；由原词条 #31 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "原文“越限电压”不必然等于过电压，可高于上限或低于下限。；由原词条 #31 的第 2/2 项拆出；译法须逐项核实；第十批：电压越限概念有依据，但“节点1”设备节点语义和全句均未独立确认。",
     "sourceRow": 37,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29"
+    ],
     "splitFrom": 31,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 462,
     "en": "digital output test",
     "zh": "开出传动",
     "status": "已修订",
-    "note": "“传动”在继保试验语境通常指输出传动试验。；由原词条 #41 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "“传动”在继保试验语境通常指输出传动试验。；由原词条 #41 的第 2/2 项拆出；译法须逐项核实；第十批：GE 继保手册直接以 DIGITAL OUTPUT TEST 命名功能，可支持开出传动试验语境。",
     "sourceRow": 47,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+    ],
     "splitFrom": 41,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 463,
     "en": "earthing switch status change",
     "zh": "地刀变位",
     "status": "已修订",
-    "note": "双位置遥信的两个触点不一致，需按设备定义核实。；由原词条 #42 的第 2/3 项拆出；译法须逐项核实。",
+    "note": "双位置遥信的两个触点不一致，需按设备定义核实。；由原词条 #42 的第 2/3 项拆出；译法须逐项核实；第十批：站控遥信可记录开关变位，但未见地刀变位的完整英文作为预定义点名。",
     "sourceRow": 48,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf"
+    ],
     "splitFrom": 42,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 464,
     "en": "double-point indication discrepancy",
     "zh": "双位置遥信变位不一致",
     "status": "已修订",
-    "note": "双位置遥信的两个触点不一致，需按设备定义核实。；由原词条 #42 的第 3/3 项拆出；译法须逐项核实。",
+    "note": "双位置遥信的两个触点不一致，需按设备定义核实。；由原词条 #42 的第 3/3 项拆出；译法须逐项核实；第十批：ABB 的双点状态有 intermediate-state / bad-state；不能直接等于双触点状态不一致。",
     "sourceRow": 48,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf"
+    ],
     "splitFrom": 42,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 465,
     "en": "device template",
     "zh": "装置模板",
     "status": "已审校",
-    "note": "由原词条 #43 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "由原词条 #43 的第 2/2 项拆出；译法须逐项核实；第十批：装置模板只是一般软件设计概念，未找到本系统确切的保护装置模板字段；暂保留待核。",
     "sourceRow": 49,
     "referenceIds": [],
     "splitFrom": 43,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：无合格直证，待确认",
+    "evidenceGrade": "D",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 466,
     "en": "conventional setting",
     "zh": "常规定值",
     "status": "已审校",
-    "note": "由原词条 #44 的第 2/4 项拆出；译法须逐项核实。",
+    "note": "由原词条 #44 的第 2/4 项拆出；译法须逐项核实；第十批：可见继电保护设置的一般分类，不足以确认 conventional setting 是常规定值的正式分类名称。",
     "sourceRow": 50,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://usbr.gov/power/data/fist/FIST_6-4_%281-2022%29.pdf"
+    ],
     "splitFrom": 44,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 467,
     "en": "setting template",
     "zh": "定值模板",
     "status": "已审校",
-    "note": "由原词条 #44 的第 3/4 项拆出；译法须逐项核实。",
+    "note": "由原词条 #44 的第 3/4 项拆出；译法须逐项核实；第十批：美国垦务局继保定值管理手册直接使用 Setting template。",
     "sourceRow": 50,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://usbr.gov/power/data/fist/FIST_6-4_%281-2022%29.pdf"
+    ],
     "splitFrom": 44,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 468,
     "en": "digital-input setting",
     "zh": "开入定值",
     "status": "已审校",
-    "note": "由原词条 #44 的第 4/4 项拆出；译法须逐项核实。",
+    "note": "由原词条 #44 的第 4/4 项拆出；译法须逐项核实；第十批：继电器有 digital input 与 settings，但 digital-input setting 的具体参数形式不清。",
     "sourceRow": 50,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+    ],
     "splitFrom": 44,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 469,
     "en": "digital-output board terminal output",
     "zh": "开出板端子出口",
     "status": "已修订",
-    "note": "继保语境中的出口通常是动作出口，不应译为 outlet。；由原词条 #45 的第 2/2 项拆出；译法须逐项核实。",
+    "note": "继保语境中的出口通常是动作出口，不应译为 outlet。；由原词条 #45 的第 2/2 项拆出；译法须逐项核实；第十批：开出板端子对应数字输出接点，出口是动作出口；整句尚未找到装置实际标注。",
     "sourceRow": 51,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+    ],
     "splitFrom": 45,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 470,
     "en": "digital-output terminal reset",
     "zh": "开出板端子收回",
     "status": "已修订",
-    "note": "收回指输出返回/复归，需核对装置逻辑。；由原词条 #46 的第 2/3 项拆出；译法须逐项核实。",
+    "note": "收回指输出返回/复归，需核对装置逻辑。；由原词条 #46 的第 2/3 项拆出；译法须逐项核实；第十批：输出返回/复归有设备实践，但 digital-output terminal reset 未见同款终端标签。",
     "sourceRow": 52,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+    ],
     "splitFrom": 46,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 471,
     "en": "digital output failed to reset within timeout",
     "zh": "开出超时未收回",
     "status": "已修订",
-    "note": "收回指输出返回/复归，需核对装置逻辑。；由原词条 #46 的第 3/3 项拆出；译法须逐项核实。",
+    "note": "收回指输出返回/复归，需核对装置逻辑。；由原词条 #46 的第 3/3 项拆出；译法须逐项核实；第十批：有输出动作和复归行为，具体超时报警及完整 HMI 文本未取得。",
     "sourceRow": 52,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+    ],
     "splitFrom": 46,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 472,
     "en": "voltage regulation successful",
     "zh": "调压成功",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 2/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 2/10 项拆出；译法须逐项核实；第十批：控制系统调整电压的成功状态可以描述，但“voltage regulation successful”完整状态提示未核。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 2,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 473,
     "en": "voltage regulation failed",
     "zh": "调压失败",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 3/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 3/10 项拆出；译法须逐项核实；第十批：电压调节异常与 AVC alarm 有据，但具体失败提示未核。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 3,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 474,
     "en": "raise tap",
     "zh": "调压升档",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 4/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 4/10 项拆出；译法须逐项核实；第十批：调压控制手册直接出现 raise/lower 操作和 raise tap 参数。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://www.gevernova.com/grid-solutions/products/manuals/volt_reg/uvr-1_operation_manual.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 4,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 475,
     "en": "lower tap",
     "zh": "调压降档",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 5/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 5/10 项拆出；译法须逐项核实；第十批：控制器在变压器分接开关上下档操作中使用 lower tap。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://www.gevernova.com/grid-solutions/products/manuals/volt_reg/uvr-1_operation_manual.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 5,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 476,
-    "en": "tap runaway",
+    "en": "tap changer runaway",
     "zh": "调压滑档",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 6/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 6/10 项拆出；译法须逐项核实；第十批：调压装置失控连续换档可称 tap changer runaway，原文 tap runaway 较简短，可作为设备报警短标签。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://www.gevernova.com/grid-solutions/products/manuals/volt_reg/uvr-1_operation_manual.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 6,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 477,
     "en": "tap-runaway detection time",
     "zh": "滑档时间",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 7/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 7/10 项拆出；译法须逐项核实；第十批：资料提及 runaway prevention 与 operating time，但滑档时间具体指检测时间、持续时间还是超时定值不明。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 7,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 478,
     "en": "stop tap changing",
     "zh": "调压停止",
     "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 8/10 项拆出；译法须逐项核实。",
+    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 8/10 项拆出；译法须逐项核实；第十批：调压停止动作客观存在，但完整命令应依控制界面确认 stop tap changing 是否最合适。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 8,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch010"
   },
   {
     "id": 479,
     "en": "voltage regulation setpoint",
     "zh": "调压定值",
-    "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 9/10 项拆出；译法须逐项核实。",
+    "status": "已核查",
+    "note": "变压器有载分接开关/AVR控制语境中的目标电压设定值；AESO技术要求使用 transformer voltage regulation setpoint，IEEE C57.153亦使用 voltage setpoint。与 tap position（分接位置）区分。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.aeso.ca/assets/Uploads/Section-502.8-SCADA-Technical-and-Operating-Requirements-2019-01-23.pdf",
+      "https://www.normsplash.com/FreeDownload/171232816/IEEE-C57.153-2015-en.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 9,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "enAlt": [
+      "transformer voltage regulation setpoint"
+    ],
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 480,
     "en": "remote voltage regulation command",
     "zh": "远方调压命令",
-    "status": "已修订",
-    "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 10/10 项拆出；译法须逐项核实。",
+    "status": "已核查（待补证）",
+    "note": "指由远方控制系统发出的调压命令。TAPCON资料区分 remote desired value setting（远方设定值选择/设置）与REMOTE模式下的控制命令；若具体指升/降档命令，应按设备界面进一步细化为 remote raise/lower tap command。",
     "sourceRow": 53,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf"
+    ],
     "splitFrom": 47,
     "splitIndex": 10,
     "splitCount": 10,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "enAlt": [
+      "remote desired-value setting",
+      "remote tap-change command",
+      "remote raise/lower tap command"
+    ],
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 481,
     "en": "tap position",
     "zh": "分接头档位",
-    "status": "已修订",
-    "note": "变压器调压语境。；由原词条 #48 的第 2/3 项拆出；译法须逐项核实。",
+    "status": "已核查",
+    "note": "变压器分接开关当前所处档位；制造商手册使用 tap position，IEC 60214-1亦定义 tap position / service tap positions。",
     "sourceRow": 54,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://cache.industry.siemens.com/dl/files/903/109815903/att_1125487/v1/BAL_7820299_04_001_EN_TC230_AVT.pdf",
+      "https://standards.iteh.ai/catalog/standards/clc/bef7b443-7161-4d6a-b71b-32e9cbefa1bb/en-60214-1-2014"
+    ],
     "splitFrom": 48,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 482,
-    "en": "neutral tap position",
+    "en": "neutral position",
     "zh": "中心档位",
     "status": "已修订",
-    "note": "变压器调压语境。；由原词条 #48 的第 3/3 项拆出；译法须逐项核实。",
+    "note": "变压器分接开关的中性位置。制造商手册参数名为 Neutral position；如需强调档位，可在说明文字中写 neutral tap position。",
     "sourceRow": 54,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf"
+    ],
     "splitFrom": 48,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "enAlt": [
+      "neutral tap position"
+    ],
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 483,
     "en": "tap changing",
     "zh": "分接头调节",
-    "status": "已审校",
-    "note": "由原词条 #49 的第 2/2 项拆出；译法须逐项核实。",
+    "status": "已核查",
+    "note": "泛指变压器分接开关调节/换档过程时可用 tap changing；IEC 60214-1将单次从一个运行档位切换到相邻档位的完整操作定义为 tap-change operation，需按上下文区分。",
     "sourceRow": 55,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://standards.iteh.ai/catalog/standards/clc/bef7b443-7161-4d6a-b71b-32e9cbefa1bb/en-60214-1-2014",
+      "https://cache.industry.siemens.com/dl/files/903/109815903/att_1125487/v1/BAL_7820299_04_001_EN_TC230_AVT.pdf"
+    ],
     "splitFrom": 49,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "enAlt": [
+      "tap-change operation"
+    ],
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 484,
-    "en": "supervisory master station",
+    "en": "SCADA master station",
     "zh": "监控主站",
-    "status": "已审校",
-    "note": "由原词条 #50 的第 2/2 项拆出；译法须逐项核实。",
+    "status": "已修订",
+    "note": "电力监控/SCADA系统中的主站，IEEE Std C37.1-2007使用 SCADA master station；不建议直译为 supervisory master station。",
     "sourceRow": 56,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://tic.uis.edu.co/ava/pluginfile.php/90807/mod_resource/content/1/C37.1-2007%20IEEE%20Standard%20for%20Scada%20and%20Automation%20Systems.pdf"
+    ],
     "splitFrom": 50,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 485,
-    "en": "protection engineering workstation",
+    "en": "relay protection engineering workstation",
     "zh": "继保工程师站",
     "status": "已修订",
-    "note": "“录波后台”并非 waveform recording unit 本体。；由原词条 #51 的第 2/3 项拆出；译法须逐项核实。",
+    "note": "继电保护信息管理、定值维护及站内继保设备交互所用工程师工作站。NR Electric RCS-9798A/B手册明确使用 relay protection engineering workstation。",
     "sourceRow": 57,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.scribd.com/document/695438368/RCS-9798AB-Instruction-Manual-EN-General-X-R1-02-EN-TXZZ0104-0086-0003"
+    ],
     "splitFrom": 51,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 486,
-    "en": "fault recorder workstation",
+    "en": "fault-record analysis workstation",
     "zh": "录波后台",
-    "status": "已修订",
-    "note": "“录波后台”并非 waveform recording unit 本体。；由原词条 #51 的第 3/3 项拆出；译法须逐项核实。",
+    "status": "已修订（待补证）",
+    "note": "用于录波数据汇集、显示和故障分析的工作站。USBR资料称集中式设备为 fault recorder master station；QEI资料称 DFR 数据送至 workstation display and analysis software。若实际架构为集中主站，应改称 fault recorder master station。",
     "sourceRow": 57,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.usbr.gov/power/data/2017_Federal_Hydropower_Replacements_Book_Blue_1.1.pdf",
+      "https://www.qeiinc.com/product/dc-trace/"
+    ],
     "splitFrom": 51,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "enAlt": [
+      "DFR analysis workstation",
+      "fault recorder master station"
+    ],
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 487,
     "en": "peak period",
     "zh": "峰时",
-    "status": "已审校",
-    "note": "由原词条 #53 的第 2/3 项拆出；译法须逐项核实。",
+    "status": "已核查",
+    "note": "分时电价或峰谷电价语境中的峰时/峰段；通常与 off-peak period 对举。具体时段由电价方案规定。",
     "sourceRow": 59,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.publicpower.org/periodical/article/understanding-time-use-rates",
+      "https://www.energy.ca.gov/resources/energy-glossary"
+    ],
     "splitFrom": 53,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 488,
     "en": "off-peak period",
     "zh": "谷时",
-    "status": "已审校",
-    "note": "由原词条 #53 的第 3/3 项拆出；译法须逐项核实。",
+    "status": "已核查",
+    "note": "分时电价或峰谷电价语境中的谷时/低谷时段；通常与 peak period 对举。部分电价方案还细分 partial-peak / super off-peak。",
     "sourceRow": 59,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.publicpower.org/periodical/article/understanding-time-use-rates",
+      "https://www.energy.ca.gov/resources/energy-glossary"
+    ],
     "splitFrom": 53,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 489,
     "en": "fault / incident",
     "zh": "事故",
-    "status": "已修订",
-    "note": "“事故”在监控画面通常指事故告警，不宜直译 accident。；由原词条 #56 的第 2/4 项拆出；译法须逐项核实。",
+    "status": "已核查（待补证）",
+    "note": "电力监控语境中的“事故”需按具体事件性质处理：电气设备/系统故障可用 fault；更广义的运行事件可用 incident。当前并列写法仅作检索入口，不代表两者在所有场景可互换。",
     "sourceRow": 62,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.scribd.com/document/797995731/Vol-5-1-400-KV-GIS-SUBSTATION-Technical-Specification"
+    ],
     "splitFrom": 56,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "enAlt": [
+      "fault",
+      "incident"
+    ],
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 490,
     "en": "general alarm",
     "zh": "告警总",
-    "status": "已修订",
-    "note": "“事故”在监控画面通常指事故告警，不宜直译 accident。；由原词条 #56 的第 3/4 项拆出；译法须逐项核实。",
+    "status": "已核查",
+    "note": "站内汇总告警/公共告警信号；变电站技术规格中使用 general alarm points。若指多点汇总的公共告警，也可依设备界面采用 common alarm。",
     "sourceRow": 62,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.scribd.com/document/797995731/Vol-5-1-400-KV-GIS-SUBSTATION-Technical-Specification"
+    ],
     "splitFrom": 56,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：专业英文用例",
+    "enAlt": [
+      "common alarm"
+    ],
+    "evidenceGrade": "B",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 491,
     "en": "general fault alarm",
     "zh": "事故总",
-    "status": "已修订",
-    "note": "“事故”在监控画面通常指事故告警，不宜直译 accident。；由原词条 #56 的第 4/4 项拆出；译法须逐项核实。",
+    "status": "待核实",
+    "note": "“事故总”缺少对应设备的信号表、画面标签或逻辑定义；general fault alarm 目前只是暂拟描述，不能视为已核实译名。需确认其是否为事故汇总、总跳闸或主保护动作信号。",
     "sourceRow": 62,
     "referenceIds": [],
     "splitFrom": 56,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：未找到合格来源，待补证",
+    "evidenceGrade": "D",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 492,
-    "en": "zero-drift calibration error",
+    "en": "zero-drift check failed",
     "zh": "零漂校验出错",
-    "status": "已审校",
-    "note": "由原词条 #57 的第 2/2 项拆出；译法须逐项核实。",
+    "status": "已修订（待补证）",
+    "note": "建议作为告警界面短句处理为 zero-drift check failed。Siemens分析仪手册分别使用 Zero drift ... outside tolerance 与 Calibration tolerance exceeded at zero point；仅能支持零漂/零点校验相关术语组件，且资料并非电力专用设备，故列C级。",
     "sourceRow": 63,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://support.industry.siemens.com/cs/attachments/69268843/A5E31930531-01_SIPROCESS_GA700_PDM_BHB_en.pdf"
+    ],
     "splitFrom": 57,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "尚未开展来源核查"
+    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "enAlt": [
+      "zero-drift outside tolerance",
+      "zero-point calibration error"
+    ],
+    "evidenceGrade": "C",
+    "lastReviewedAt": "2026-11-17",
+    "reviewBatch": "batch011",
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
   },
   {
     "id": 493,
@@ -6751,5 +7680,22 @@
     "verificationStatus": "已检到专业英文用例；非双语直对",
     "evidenceGrade": "B",
     "lastAuditedBatch": "batch005"
+  },
+  {
+    "id": 494,
+    "en": "conductor spacer",
+    "zh": "间隔棒",
+    "status": "拆分新增（第八批）",
+    "note": "从ID346的“定位棒/间隔棒”拆出；本义项限定架空输电线相间或分裂导线间隔构件。阻尼功能另需注明 spacer damper。",
+    "sourceRow": 352,
+    "splitFrom": 346,
+    "splitIndex": 2,
+    "splitCount": 2,
+    "referenceIds": [
+      "https://patents.google.com/patent/CA2938428C/en"
+    ],
+    "evidenceGrade": "B",
+    "lastAuditedBatch": "batch008",
+    "verificationStatus": "第八批：架空输电线路专业英文用例（B级），非中英直接对照"
   }
 ]
