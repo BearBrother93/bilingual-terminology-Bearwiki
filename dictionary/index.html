@@ -1,37 +1,10 @@
 <!doctype html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="维基熊通用英汉词典：免费英语词典：按词性浏览英文释义、音标、发音和例句，词条概览完全由现有数据生成。">
-<meta name="theme-color" content="#12645e">
-<link rel="icon" type="image/svg+xml" href="../assets/bearwiki-mark.svg">
-<title>通用英语词典｜维基熊 BearWiki</title>
-<link rel="stylesheet" href="./style.css?v=1.2.2">
-<script src="./app.js?v=1.2.2" defer></script>
-</head>
-<body>
-<header class="sitehead"><div class="wrap nav">
-<a class="brand" href="../" target="_blank" rel="noopener noreferrer"><img src="../assets/bearwiki-mark.svg" alt=""><span><strong>维基熊 BearWiki</strong><small>GENERAL ENGLISH DICTIONARY</small></span></a>
-<nav aria-label="站点导航"><a href="../" target="_blank" rel="noopener noreferrer">首页</a><a class="active" href="./" aria-current="page">通用词典</a><a href="../glossaries/" target="_blank" rel="noopener noreferrer">英中术语</a><a href="../entertainment/horizon-riders/" target="_blank" rel="noopener noreferrer">娱乐</a></nav>
-</div></header>
-<main class="wrap">
- <section class="hero"><div><div class="eyebrow">BEARWIKI · OPEN DICTIONARY · V1.2.2 · NO TRANSLATION API</div><h1>通用英语词典</h1><p>按词性浏览英文多义项、音标、例句和发音。右侧自动汇总词条结构，<strong>不调用机器翻译或 AI 摘要接口</strong>，免费使用。</p></div><div class="hero-quote">先弄清一个词的意思，<br>再慢慢读懂更大的世界。<span>BEARWIKI · WORDS & MEANINGS</span></div></section>
- <section class="lookup-panel" aria-label="词典查询"><form id="searchForm" role="search"><label for="wordInput">输入英文单词或短语</label><div class="search-row"><input type="search" id="wordInput" name="q" placeholder="例如: serendipity / resilience / apple" autocomplete="off" spellcheck="false" maxlength="90" required><button type="submit" id="searchBtn">查词 <span aria-hidden="true">→</span></button></div></form>
- <div class="suggestions"><span>试试：</span><button type="button" data-example="serendipity">serendipity</button><button type="button" data-example="resilience">resilience</button><button type="button" data-example="apple">apple</button><button type="button" data-example="translation">translation</button></div>
- <p class="query-note">释义来自 Free Dictionary API。本站已关闭机器翻译：<strong>不自动生成中文词义，也不调用 MyMemory 或 AI 摘要服务</strong>；右侧词条概览仅整理本次获得的原始数据。<a href="#sources">查看来源与限制</a></p>
- </section>
- <div id="status" class="status" role="status" aria-live="polite">输入单词开始查询。本站不保存你的查询到服务器。</div>
- <section id="results" class="results" aria-live="polite" hidden>
-  <div class="results-main"><div id="wordHead" class="word-head"></div><div id="meanings" class="meanings"></div></div>
-  <aside class="results-side"><div class="side-card" id="overviewCard"><div class="side-title">词条概览 <span class="local-tag">本地整理 · 零翻译</span></div><div id="overview" class="overview" aria-live="polite">加载英文词条后显示。</div><p class="small-note">按接口返回的词性和义项数量自动统计，不是 AI 生成的总结；不提供或推断中文释义，也不会增加翻译请求。</p></div>
-   <div class="side-card"><div class="side-title">其他词典 · 外部查询</div><div class="external-links" id="externalLinks"></div><p class="small-note">这些按钮会跳转到其他网站；本站未复制商业词典内容。</p></div>
-  </aside>
- </section>
- <section class="empty-feature" id="emptyFeature"><div class="empty-ico">A<span>文</span></div><h2>从一个英文单词开始</h2><p>查词结果展示词性、英文多义项、例句、可用的音标及发音。右侧只显示无需翻译接口的词条结构概览；中文释义将等待开放授权词库接入后再提供。</p><div class="feature-tags"><span>免费查询</span><span>无需登录</span><span>按需加载</span><span>英语优先</span></div></section>
- <section class="info" id="sources"><div class="info-head"><span class="eyebrow">ABOUT THE DICTIONARY</span><h2>数据来源与使用说明</h2></div><div class="info-grid">
-  <article><h3>英文释义与发音</h3><p>查询时从 Free Dictionary API 获取词性、不同义项、例句和可用的音标、音频。不同词条的信息完整程度可能不同；接口不可用时不伪造结果。</p><a href="https://dictionaryapi.dev/" target="_blank" rel="noopener noreferrer">Free Dictionary API ↗</a></article>
-  <article><h3>无翻译额度消耗</h3><p>本版已停用所有机器翻译请求与逐义项翻译按钮；右侧词条概览仅统计并摘录本次查到的英文数据，不会调用 MyMemory 或生成式 AI。未来可在明确授权后引入可公开分发的汉英、英汉词库。</p><a href="../glossaries/" target="_blank" rel="noopener noreferrer">浏览专业术语库 ↗</a></article>
-  <article><h3>独立术语库</h3><p>财经、电力词库保留独立的术语与参考文献数据；本页不会自动把普通词典或机器翻译结果写入专业词库。</p><a href="../glossaries/" target="_blank" rel="noopener noreferrer">浏览英中术语目录 ↗</a></article>
- </div><p class="privacy">隐私说明：查询英文词汇时，词语会发送至 Free Dictionary API，由其按相关政策处理；本站不再向机器翻译或 AI 摘要接口发送词条。本站当前不设账户或历史记录服务器。无需注册或付费。</p></section>
-</main><footer class="wrap footer"><span>维基熊 BearWiki · 词有所据，译有所依。</span><span><a href="../" target="_blank" rel="noopener noreferrer">返回首页</a> · <a href="https://github.com/BearBrother93/bilingual-terminology-Bearwiki/issues" target="_blank" rel="noopener noreferrer">反馈建议</a></span></footer>
-</body></html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#12645e"><meta name="description" content="维基熊开放词典：汉英本地查询、英文反向检索与在线英英释义。保留词性、多义项及来源评分，按需加载。"><title>多语词典｜维基熊 BearWiki</title><link rel="icon" href="./bearwiki-mark.svg" type="image/svg+xml"><link rel="stylesheet" href="./style.css?v=2.0.1"><script type="module" src="./app.js?v=2.0.1"></script></head>
+<body><header><div class="wrap nav"><a class="brand" href="../" target="_blank" rel="noopener"><img src="./bearwiki-mark.svg" alt=""><span><strong>维基熊 BearWiki</strong><small>OPEN DICTIONARIES</small></span></a><nav aria-label="站点导航"><a href="../" target="_blank" rel="noopener">首页</a><a href="./" aria-current="page">通用词典</a><a href="../glossaries/" target="_blank" rel="noopener">专业术语</a><a href="../knowledge/" target="_blank" rel="noopener">知识专题</a></nav></div></header>
+<main class="wrap"><section class="hero"><div><p class="eyebrow">BEARWIKI · WORDS & MEANINGS</p><h1>词有所据，译有所依。</h1><p class="intro">从一个词出发，读懂另一种语言。<br>查阅原有释义，保留每一条来源。</p></div><div class="edition"><strong>多语词典 <span>V2.0</span></strong><p>首批：汉英开放词库<br>136,854 条记录 · 64 个来源分片</p><a href="./sources.html">来源与授权说明</a></div></section>
+<section class="search-panel" aria-label="查词"><form id="searchForm" role="search"><div class="controls"><div><label for="direction">检索方向</label><select id="direction" name="dir"><option value="auto">自动识别 · 中英</option><option value="zh-en">汉英 · 本地词库</option><option value="en-zh">英汉 · 汉英词库反查</option><option value="en-en">英英 · 在线词典</option></select></div><div><label for="match">匹配方式</label><select id="match"><option value="auto">优先精确匹配</option><option value="exact">仅精确匹配</option><option value="prefix">前缀搜索</option></select></div></div><label class="sr-only" for="wordInput">输入词语</label><div class="search-row"><input id="wordInput" name="q" type="search" placeholder="输入中文或英文词语，例如：苹果 / apple" autocomplete="off" spellcheck="false" list="candidates" maxlength="256" required><datalist id="candidates"></datalist><button type="submit" id="searchBtn">查词</button></div></form><div class="examples"><span>试试</span><button data-q="苹果" data-dir="zh-en">苹果</button><button data-q="中央银行" data-dir="zh-en">中央银行</button><button data-q="apple" data-dir="en-zh">apple</button><button data-q="charge" data-dir="en-en">charge</button></div><p class="hint" id="directionNote">中文查询支持简繁检索别名；英文默认保留在线英英查询，也可切换本地反查。</p></section>
+<p id="status" class="status" role="status" aria-live="polite">输入词语开始。选择本地词库时，无需外部词典接口。</p>
+<section id="results" class="results" hidden><div><div class="result-header"><h2 id="resultTitle"></h2><span id="resultKind" class="tag"></span></div><div id="meanings"></div><button id="loadMore" class="secondary" hidden>加载更多</button></div><aside><section class="side-card"><div class="side-heading"><h3>词条概览</h3><button id="toggleOverview" aria-expanded="true">关闭</button></div><div id="overview"></div></section><section class="side-card"><h3>其他词典</h3><div id="externalLinks" class="external-links"></div><p class="muted">外部链接在新标签页打开，内容由相应网站提供。</p></section></aside></section>
+<section id="emptyFeature" class="welcome"><span class="wordmark">A<span>文</span></span><h2>查词，也看来源。</h2><p>汉英与反查结果在本站按需加载。英英释义、音标和音频沿用原有免费接口，单独标明来源。</p><div class="tags"><span>精确与前缀</span><span>简繁检索</span><span>多义项展示</span><span>零翻译接口</span></div></section>
+<section class="notice"><h2>关于这一批词典</h2><p>本站词典经过 AI 辅助整理及初步复核，尚未完成全面人工审校，欢迎读者补充与指正。原有释义、词性及评分均予保留；来源评分不代表本站准确率。</p><p>英汉方向为汉英词库中现有英文译法的反向索引，不是独立英汉词典。日英、英日、日汉、汉日将在相应数据与授权核验完成后加入。</p><a href="./sources.html">查看来源、许可与数据范围</a></section>
+</main><footer class="wrap"><span>维基熊 BearWiki · 开放、可溯源的双语知识</span><a href="https://github.com/BearBrother93/bilingual-terminology-Bearwiki/issues" target="_blank" rel="noopener noreferrer">补充与指正</a></footer><noscript>请启用 JavaScript 使用查词功能；来源说明页无需 JavaScript。</noscript></body></html>

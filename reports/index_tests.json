@@ -1,0 +1,110 @@
+{
+  "transport": "Local file-backed fetch; live HTTP/UI tested separately in browser",
+  "checks": 20,
+  "all_index_keys_verified": 244232,
+  "all_index_postings_verified": 365014,
+  "counts": {
+    "zh-en": 223235,
+    "en-zh": 20997
+  },
+  "cases": [
+    {
+      "direction": "zh-en",
+      "query": "苹果",
+      "count": 1,
+      "expected": "蘋果",
+      "pass": true
+    },
+    {
+      "direction": "zh-en",
+      "query": "蘋果",
+      "count": 1,
+      "expected": "蘋果",
+      "pass": true
+    },
+    {
+      "direction": "zh-en",
+      "query": "中央银行",
+      "count": 1,
+      "expected": "中央銀行",
+      "pass": true
+    },
+    {
+      "direction": "zh-en",
+      "query": "巴勒斯坦",
+      "count": 1,
+      "expected": "巴勒斯坦",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "query": "apple",
+      "count": 9,
+      "expected": "蘋果",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "query": "APPLE",
+      "count": 9,
+      "expected": "蘋果",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "query": "  APPLE  ",
+      "count": 9,
+      "expected": "蘋果",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "query": "central bank",
+      "count": 1,
+      "expected": "中央銀行",
+      "pass": true
+    },
+    {
+      "direction": "zh-en",
+      "prefix": "中",
+      "candidates": 478,
+      "pagination": "40 per page",
+      "pass": true
+    },
+    {
+      "direction": "zh-en",
+      "prefix": "𠮷",
+      "candidates": 0,
+      "pagination": "40 per page",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "prefix": "a",
+      "candidates": 1950,
+      "pagination": "40 per page",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "prefix": "app",
+      "candidates": 52,
+      "pagination": "40 per page",
+      "pass": true
+    },
+    {
+      "direction": "en-zh",
+      "prefix": "central ",
+      "candidates": 16,
+      "pagination": "40 per page",
+      "pass": true
+    }
+  ],
+  "cache_reuse_pass": true,
+  "failed_request_retry_pass": true,
+  "metrics": {
+    "requests": 32,
+    "cacheHits": 356,
+    "bytes": 784107
+  }
+}

@@ -1,18 +1,9 @@
-# 维基熊通用词典 V1.2.2（零翻译接口版）
+# BearWiki 多语词典 V2.0 · 首批汉英集成
 
-## 更新目的
-取消 V1.2.1 的自动中文释义、逐义项翻译按钮和 MyMemory 请求。右侧改为“词条概览”，统计同一次 Free Dictionary API 返回的英文词性、义项、例句数，并摘录各词性的第一条英文释义。**不是 AI 总结，也不调用任何 AI 摘要/翻译服务。**
+用本目录整体替换仓库现有 dictionary/。保留文件层级，不要放成 dictionary/dictionary/。不需要 npm、服务器、付费接口或构建命令。
 
-## 部署
-把 ZIP 中 `dictionary/` 文件夹内的 `index.html`、`app.js`、`style.css` 上传到 GitHub 仓库现有的 `dictionary/` 文件夹覆盖同名文件。**不要**上传整个目录到 `dictionary/dictionary/`。
+完整部署、测试结果、统计口径与后续接入说明在交付包 reports/、tools/ 和根目录 README.md。
 
-不会覆盖仓库根目录主页、英中术语、财经、电力、娱乐游戏文件或任何 JSON 术语数据。
+公开说明：sources.html。词库清单：catalog.json。原数据来源与哈希：data/wikdict-zh-en/版本/source.json。
 
-浏览 https://bearbrother93.github.io/bilingual-terminology-Bearwiki/dictionary/?q=charge 检查新版；必要时 Ctrl+Shift+R 强制刷新。
-
-## 数据与限制
-* 英文释义仍通过 `api.dictionaryapi.dev` 按需在线查询；不保证接口总可用。
-* 未引入任何本地英汉释义数据，所以本版**暂不提供站内中文词义**；需要中文词义可使用右侧外部词典链接。
-* 输入汉字时不执行在线翻译；提示仅支持英文查询。
-* 右侧结构化概览来自同一份英文 API 数据，不发送额外请求，不产生翻译/AI 费用。
-* 若未来导入开放授权的英汉词典，可重新提供真实的中文义项。
+本批提供汉英（含简繁检索别名）、英汉反查及既有在线英英能力；日语方向待相应数据到位。所有原始记录和义项保留；本轮未进行语言二审。

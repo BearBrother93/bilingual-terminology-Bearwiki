@@ -1,0 +1,13 @@
+WikDict Chinese–English data (BearWiki Gemini-reviewed edition)
+Attribution: Wiktionary contributors; DBnary; WikDict by Karl Bartel; BearWiki compilation.
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Source: https://www.wikdict.com/page/download
+Upstream database identified in supplied review report: https://download.wikdict.com/dictionaries/sqlite/2/zh-en.sqlite3
+Snapshot identifier: not supplied; current official download is not claimed to be the exact historical input.
+Input: G版-zh-en-00.json through G版-zh-en-63.json; 136854 records.
+Prior modification: AI-assisted compilation and preliminary review with Gemini.
+This release: lossless JSON re-sharding, indexes, simplified/traditional search aliases; no language re-review or definition edits.
+Adapted data and derived lexical indexes continue under CC BY-SA 4.0. Retain attribution, the license link and this modification notice. No endorsement by upstream contributors is implied.
+OpenCC notices apply separately to the character conversion tool/dictionaries; website UI code is separate from dictionary content.

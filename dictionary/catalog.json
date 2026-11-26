@@ -1,0 +1,1 @@
+{"schema":1,"version":"2.0-batch01","local":[{"id":"wikdict-zh-en","base":"data/wikdict-zh-en/20261125-54c42e57589d/","records":136854,"chunk_size":256,"directions":["zh-en","en-zh"]}],"directions":[{"id":"zh-en","label":"汉英 · 本地词库"},{"id":"en-zh","label":"英汉 · 汉英词库反查"},{"id":"en-en","label":"英英 · 在线词典"}],"pending":["ja-en","en-ja","ja-zh","zh-ja"]}
