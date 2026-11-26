@@ -1597,6 +1597,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "SELBT"
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 429,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "证明备自投功能压板存在，但 automatic transfer enable link 仅描述性组合。"
     }
   ],
   "430": [
@@ -1642,6 +1657,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "ABB25"
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 430,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "原厂中文列“检同期软压板”；英文 synchrocheck 仅功能证据。"
     }
   ],
   "431": [
@@ -1687,6 +1717,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "ABB25"
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 431,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "中文手册明确“检无压软压板”；dead-bus-check enable link 未直接出现。"
     }
   ],
   "432": [
@@ -1716,6 +1761,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "LINK"
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 432,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "控制逻辑投入与软硬压板投退属于同一装置类别，但非完整英文直证。"
     }
   ],
   "433": [
@@ -1729,6 +1789,21 @@
       "sourceTermId": 16,
       "sourcePartIndex": 6,
       "independentlyVerified": false
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 433,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "“普通压板”无确切器件类别；一般 protection link 也不能验证 general-purpose link。"
     }
   ],
   "434": [
@@ -1777,6 +1852,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "LINK"
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 434,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "同期功能压板语境可证，但 enable link 英语组合没有原厂证据。"
     }
   ],
   "435": [
@@ -1790,6 +1880,21 @@
       "sourceTermId": 16,
       "sourcePartIndex": 8,
       "independentlyVerified": false
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 435,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "数字12/13/14的方式编码含义未知；背景资料不能核定完整术语。"
     }
   ],
   "436": [
@@ -1803,6 +1908,21 @@
       "sourceTermId": 16,
       "sourcePartIndex": 9,
       "independentlyVerified": false
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 436,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "“固定方式”涉及接点逻辑未知；无合格的完整英文名。"
     }
   ],
   "437": [
@@ -1851,6 +1971,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "LINK"
+    },
+    {
+      "title": "PCS-9611A-GZK线路保护装置技术使用说明书",
+      "publisher": "南瑞继保（第三方转载）",
+      "url": "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00",
+      "context": "表中明确列检无压软压板、检同期软压板及0/1投退；仅验证中文概念与功能，不验证本库完整英语标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§5.4.6 压板设置；表5.4-6（中文手册转载）",
+      "sourceType": "第三方转载的厂家中文手册",
+      "independentlyVerified": true,
+      "sourceTermId": 437,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "准同期是一类同期操作，实际名称可能是 synchronizing enable / check enable；目前只保留暂译。"
     }
   ],
   "438": [
@@ -2027,6 +2162,21 @@
       "verifiedPrintedPage": "10",
       "pdfPageIndex": 9,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "Woodward SPM-D2-11 — Synchronization operating conditions",
+      "publisher": "Woodward（ManualsLib转录）",
+      "url": "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25",
+      "context": "厂家手册描述频率、相角和电压等同期条件，未出现本库四条完整中文HMI提示所对应的英文原句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operating Conditions; Synchronization（网页第25页）",
+      "sourceType": "厂家手册的第三方HTML转载",
+      "independentlyVerified": true,
+      "sourceTermId": 442,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "相角差确为同期条件；整句 phase-angle criterion not met 是拟拟的提示短句。"
     }
   ],
   "443": [
@@ -2059,6 +2209,21 @@
       "verifiedPrintedPage": "10",
       "pdfPageIndex": 9,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "Woodward SPM-D2-11 — Synchronization operating conditions",
+      "publisher": "Woodward（ManualsLib转录）",
+      "url": "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25",
+      "context": "厂家手册描述频率、相角和电压等同期条件，未出现本库四条完整中文HMI提示所对应的英文原句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operating Conditions; Synchronization（网页第25页）",
+      "sourceType": "厂家手册的第三方HTML转载",
+      "independentlyVerified": true,
+      "sourceTermId": 443,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "频差条件已由原厂同期说明支持，完整失败消息仍缺。"
     }
   ],
   "444": [
@@ -2091,6 +2256,21 @@
       "verifiedPrintedPage": "10",
       "pdfPageIndex": 9,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "Woodward SPM-D2-11 — Synchronization operating conditions",
+      "publisher": "Woodward（ManualsLib转录）",
+      "url": "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25",
+      "context": "厂家手册描述频率、相角和电压等同期条件，未出现本库四条完整中文HMI提示所对应的英文原句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operating Conditions; Synchronization（网页第25页）",
+      "sourceType": "厂家手册的第三方HTML转载",
+      "independentlyVerified": true,
+      "sourceTermId": 444,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "“其他条件”并未定义，不应理解为一项标准判据。"
     }
   ],
   "445": [
@@ -2123,6 +2303,21 @@
       "verifiedPrintedPage": "10",
       "pdfPageIndex": 9,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "Woodward SPM-D2-11 — Synchronization operating conditions",
+      "publisher": "Woodward（ManualsLib转录）",
+      "url": "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25",
+      "context": "厂家手册描述频率、相角和电压等同期条件，未出现本库四条完整中文HMI提示所对应的英文原句。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operating Conditions; Synchronization（网页第25页）",
+      "sourceType": "厂家手册的第三方HTML转载",
+      "independentlyVerified": true,
+      "sourceTermId": 445,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "电压差为同期必要判据；未见整句电压差条件不满足消息。"
     }
   ],
   "447": [
@@ -2197,6 +2392,21 @@
       "sourceTermId": 21,
       "sourcePartIndex": 3,
       "independentlyVerified": false
+    },
+    {
+      "title": "Entergy Transmission Function Job Titles and Descriptions",
+      "publisher": "Entergy",
+      "url": "https://www.oasis.oati.com/woa/docs/EES/EESdocs/Entergy_Transmission_Function_Job_Titles_and_Descriptions_20210211.htm",
+      "context": "区分班组负责人、值班运行员及调度运营岗位；未出现中国特定职级“正值”的直接英文对应。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "System Operator, Lead；Shift Supervisor",
+      "sourceType": "电力企业公开职位说明",
+      "independentlyVerified": true,
+      "sourceTermId": 449,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "美方岗位仅能区分 lead operator、shift supervisor；中国“正值”内部职级未知。"
     }
   ],
   "450": [
@@ -2256,6 +2466,36 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "SELTELEM"
+    },
+    {
+      "title": "SSC600 Smart Substation Control and Protection — Functions, Codes and Symbols",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/SSC600-and-SSC600-SW-Operation-Manual/1.5/en-US/Functions-codes-and-symbols",
+      "context": "列明 Generic control point、Earthing switch indication 等功能名称；未直接定义“通用遥测/遥控/遥信”的原界面标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Table 4；Generic control point / Earthing switch indication",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 451,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "遥测数据存在，但 general telemetry 不一定为装置规定数据类别。"
+    },
+    {
+      "title": "REC615 Modbus Communication Protocol Manual — Modbus Data Implementation",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/REC615-Modbus-Communication-Protocol-Manual/PCL1/en-US/Modbus-data-implementation",
+      "context": "支持 measurement 和 indication 数据点的专业上下文，不能直接确证 general telemetry 或 general remote indication 组合词。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Modbus data implementation; IEC 61850 measurement and indication data",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 451,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "遥测数据存在，但 general telemetry 不一定为装置规定数据类别。"
     }
   ],
   "452": [
@@ -2285,6 +2525,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "SELBT"
+    },
+    {
+      "title": "SSC600 Smart Substation Control and Protection — Functions, Codes and Symbols",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/SSC600-and-SSC600-SW-Operation-Manual/1.5/en-US/Functions-codes-and-symbols",
+      "context": "列明 Generic control point、Earthing switch indication 等功能名称；未直接定义“通用遥测/遥控/遥信”的原界面标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Table 4；Generic control point / Earthing switch indication",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 452,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "ABB具有 Generic control point（单点控制），不能简单等同通用遥控项。"
     }
   ],
   "26": [
@@ -9667,6 +9922,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "ABB600"
+    },
+    {
+      "title": "REC615 Modbus Communication Protocol Manual — Modbus Data Implementation",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/REC615-Modbus-Communication-Protocol-Manual/PCL1/en-US/Modbus-data-implementation",
+      "context": "支持 measurement 和 indication 数据点的专业上下文，不能直接确证 general telemetry 或 general remote indication 组合词。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Modbus data implementation; IEC 61850 measurement and indication data",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 453,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "indication data 可证，general remote indication 的完整界面字段未实证。"
     }
   ],
   "454": [
@@ -9721,6 +9991,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "MITSU"
+    },
+    {
+      "title": "Creating an Out of Reference Range Alarm",
+      "publisher": "Schneider Electric",
+      "url": "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9",
+      "context": "页面搜索结果明确列 Above upper limit / Below lower limit 消息字段及 Audible alert；未直接列本项目“越上限响铃”等整句设备告警名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Alarm messages: Above upper limit, Below lower limit, Audible alert",
+      "sourceType": "Schneider Electric官方在线说明",
+      "independentlyVerified": true,
+      "sourceTermId": 456,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "上限警报与 audible alert 两功能存在；未发现原装置完整“越上限响铃”英语标签。"
     }
   ],
   "457": [
@@ -9757,6 +10042,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "MITSU"
+    },
+    {
+      "title": "Creating an Out of Reference Range Alarm",
+      "publisher": "Schneider Electric",
+      "url": "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9",
+      "context": "页面搜索结果明确列 Above upper limit / Below lower limit 消息字段及 Audible alert；未直接列本项目“越上限响铃”等整句设备告警名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Alarm messages: Above upper limit, Below lower limit, Audible alert",
+      "sourceType": "Schneider Electric官方在线说明",
+      "independentlyVerified": true,
+      "sourceTermId": 458,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "下限告警与声音提示为可组合功能，但不能当成源界面原文。"
     }
   ],
   "459": [
@@ -9775,6 +10075,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "SIEMALARM"
+    },
+    {
+      "title": "Creating an Out of Reference Range Alarm",
+      "publisher": "Schneider Electric",
+      "url": "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9",
+      "context": "页面搜索结果明确列 Above upper limit / Below lower limit 消息字段及 Audible alert；未直接列本项目“越上限响铃”等整句设备告警名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-22",
+      "locator": "Alarm messages: Above upper limit, Below lower limit, Audible alert",
+      "sourceType": "Schneider Electric官方在线说明",
+      "independentlyVerified": true,
+      "sourceTermId": 459,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": true,
+      "evidenceBoundary": "施耐德官方告警设置字段使用 Above upper limit；英语用法成立。"
     }
   ],
   "460": [
@@ -9793,6 +10108,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "SIEMALARM"
+    },
+    {
+      "title": "Creating an Out of Reference Range Alarm",
+      "publisher": "Schneider Electric",
+      "url": "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9",
+      "context": "页面搜索结果明确列 Above upper limit / Below lower limit 消息字段及 Audible alert；未直接列本项目“越上限响铃”等整句设备告警名。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-22",
+      "locator": "Alarm messages: Above upper limit, Below lower limit, Audible alert",
+      "sourceType": "Schneider Electric官方在线说明",
+      "independentlyVerified": true,
+      "sourceTermId": 460,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": true,
+      "evidenceBoundary": "施耐德官方告警设置字段使用 Below lower limit；英语用法成立。"
     }
   ],
   "461": [
@@ -9811,6 +10141,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "SIEMALARM"
+    },
+    {
+      "title": "Creating an Out of Reference Range Alarm",
+      "publisher": "Schneider Electric",
+      "url": "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9",
+      "context": "页面搜索结果明确列 Above upper limit / Below lower limit 消息字段及 Audible alert；未直接列本项目“越上限响铃”等整句设备告警名。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Alarm messages: Above upper limit, Below lower limit, Audible alert",
+      "sourceType": "Schneider Electric官方在线说明",
+      "independentlyVerified": true,
+      "sourceTermId": 461,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "voltage limit 可参照告警阈值，但 node 1 设备节点编号未在公开资料核实。"
     }
   ],
   "462": [
@@ -9847,6 +10192,36 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "ABB600"
+    },
+    {
+      "title": "SSC600 Smart Substation Control and Protection — Functions, Codes and Symbols",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/SSC600-and-SSC600-SW-Operation-Manual/1.5/en-US/Functions-codes-and-symbols",
+      "context": "列明 Generic control point、Earthing switch indication 等功能名称；未直接定义“通用遥测/遥控/遥信”的原界面标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Table 4；Generic control point / Earthing switch indication",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 463,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "ABB用 Earthing switch indication 与位置监测，较 status change 更贴近电气刀闸“变位”；尚非原文直对。"
+    },
+    {
+      "title": "P3SXSWI Position Indication and Validity Check",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/REX640-Technical-Manual/PCL4/en-US/P3SXSWI-Position-indication-and-validity-check",
+      "context": "监测接地开关/隔离开关位置，可报告 faulty 或 intermediate position；支持变位/双位置状态概念，不证明原句一致。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operation principle; faulty or intermediate position; Event delay",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 463,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "ABB用 Earthing switch indication 与位置监测，较 status change 更贴近电气刀闸“变位”；尚非原文直对。"
     }
   ],
   "464": [
@@ -9865,6 +10240,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "ABB600"
+    },
+    {
+      "title": "P3SXSWI Position Indication and Validity Check",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/REX640-Technical-Manual/PCL4/en-US/P3SXSWI-Position-indication-and-validity-check",
+      "context": "监测接地开关/隔离开关位置，可报告 faulty 或 intermediate position；支持变位/双位置状态概念，不证明原句一致。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operation principle; faulty or intermediate position; Event delay",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 464,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "ABB装置报告 faulty/intermediate position；“双位置遥信变位不一致”两接点具体逻辑仍未完全验证。"
     }
   ],
   "466": [
@@ -9883,6 +10273,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "FIST"
+    },
+    {
+      "title": "Relion 615 Series Technical Manual — Settings",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/615-series-Technical-Manual/5.0-FP1-IEC/en-US/Settings?contentId=yc2MADtFmlCnEeud8ooILg",
+      "context": "明确有 Binary input settings（开入定值/输入设置类）；另有多种 settings 类别，但“常规定值”具体分类不明。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Settings → Binary input settings；Settings groups",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 466,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "ABB设置分组存在，但 conventional setting 未核为“常规定值”专业分类名。"
     }
   ],
   "467": [
@@ -9919,6 +10324,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "GEOUT"
+    },
+    {
+      "title": "Relion 615 Series Technical Manual — Settings",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/615-series-Technical-Manual/5.0-FP1-IEC/en-US/Settings?contentId=yc2MADtFmlCnEeud8ooILg",
+      "context": "明确有 Binary input settings（开入定值/输入设置类）；另有多种 settings 类别，但“常规定值”具体分类不明。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-22",
+      "locator": "Settings → Binary input settings；Settings groups",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 468,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": true,
+      "evidenceBoundary": "ABB明确有 Binary input settings，建议术语标准化为 binary input setting。"
     }
   ],
   "469": [
@@ -9937,6 +10357,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "GEOUT"
+    },
+    {
+      "title": "RTT Desktop Test Set — Legacy",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/electrification/automation/protection-control-metering/accessories/rtt-desktop-test-set-legacy",
+      "context": "支持接点输出与继电保护测试语境；不包含本项目端子出口/收回/超时的完整原始状态消息。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Product overview; Contact Output status indicators",
+      "sourceType": "GE Vernova原厂产品页面",
+      "independentlyVerified": true,
+      "sourceTermId": 469,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "继电器输出接点/状态可证，开出板端子出口可能指动作脉冲而非硬件端口。"
     }
   ],
   "470": [
@@ -9955,6 +10390,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "GEOUT"
+    },
+    {
+      "title": "REC615 Grid Automation — RLCM Operation Principle",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/REC615-Technical-Manual/PCL1/en-US/RLCM-Operation-principle",
+      "context": "记录输出动作、撤销和复归机制；未出现“开出板端子收回/开出超时未收回”的原HMI字串。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operation principle; BLOCK and RESET_OUT",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 470,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "relay reset / deassert 机制可证，端子“收回”具体动作需确认。"
     }
   ],
   "471": [
@@ -9973,6 +10423,21 @@
       "sourceSupport": "partial_background",
       "auditBatch": "batch010",
       "sourceCode": "GEOUT"
+    },
+    {
+      "title": "REC615 Grid Automation — RLCM Operation Principle",
+      "publisher": "ABB",
+      "url": "https://techdoc.relays.protection-control.abb/r/REC615-Technical-Manual/PCL1/en-US/RLCM-Operation-principle",
+      "context": "记录输出动作、撤销和复归机制；未出现“开出板端子收回/开出超时未收回”的原HMI字串。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Operation principle; BLOCK and RESET_OUT",
+      "sourceType": "ABB官方HTML技术手册",
+      "independentlyVerified": true,
+      "sourceTermId": 471,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "有超时与输出复归的技术语境，但整句告警未在原厂查得。"
     }
   ],
   "472": [
@@ -9994,6 +10459,21 @@
       "verifiedPrintedPage": "34",
       "pdfPageIndex": 33,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "On-Load Tap Changers for Power Transformers — Tap Changer Basics",
+      "publisher": "Maschinenfabrik Reinhausen",
+      "url": "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics",
+      "context": "描述电压调节越限后向有载分接开关发出 switching command；不能证明特定“成功/失败/停止”HMI提示原文。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Automatic mode; Voltage regulation; Switching command",
+      "sourceType": "制造商官方知识页面",
+      "independentlyVerified": true,
+      "sourceTermId": 472,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "电压调节操作存在；voltage regulation successful 不是已核实的完整厂家状态提示。"
     }
   ],
   "473": [
@@ -10015,6 +10495,21 @@
       "verifiedPrintedPage": "34",
       "pdfPageIndex": 33,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "On-Load Tap Changers for Power Transformers — Tap Changer Basics",
+      "publisher": "Maschinenfabrik Reinhausen",
+      "url": "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics",
+      "context": "描述电压调节越限后向有载分接开关发出 switching command；不能证明特定“成功/失败/停止”HMI提示原文。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Automatic mode; Voltage regulation; Switching command",
+      "sourceType": "制造商官方知识页面",
+      "independentlyVerified": true,
+      "sourceTermId": 473,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "同理缺少完整调压失败原文，不将机械组合升级为B。"
     }
   ],
   "474": [
@@ -10147,6 +10642,21 @@
       "verifiedPrintedPage": "34",
       "pdfPageIndex": 33,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "RTMU Control & Monitor Relay — User Manual",
+      "publisher": "Fundamentals（Manualzz转录）",
+      "url": "https://manualzz.com/doc/4157436/fundamentals-rtmu-1m--2m-control-and-monitor-relay-user-manual",
+      "context": "定义 tap changer runaway 和原因；不直接确定“滑档时间”究竟是检测时间、动作时间还是延迟设定。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "§1.4.4 Runaway Prevention",
+      "sourceType": "厂家手册第三方HTML转载",
+      "independentlyVerified": true,
+      "sourceTermId": 477,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "tap-changer runaway 及时间延迟有依据，但“滑档时间”确切参数未定义。"
     }
   ],
   "478": [
@@ -10168,6 +10678,36 @@
       "verifiedPrintedPage": "34",
       "pdfPageIndex": 33,
       "pageVerification": "screenshot verified"
+    },
+    {
+      "title": "On-Load Tap Changers for Power Transformers — Tap Changer Basics",
+      "publisher": "Maschinenfabrik Reinhausen",
+      "url": "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics",
+      "context": "描述电压调节越限后向有载分接开关发出 switching command；不能证明特定“成功/失败/停止”HMI提示原文。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Automatic mode; Voltage regulation; Switching command",
+      "sourceType": "制造商官方知识页面",
+      "independentlyVerified": true,
+      "sourceTermId": 478,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "厂家说明有调压控制指令和停止动作，但不同系统中“调压停止”可能是命令或状态。"
+    },
+    {
+      "title": "Wireless Remote Controlling Device Suitable for On-Load Voltage Regulating Switch of Main Transformer",
+      "publisher": "Google Patents（中文专利机器英译）",
+      "url": "https://patents.google.com/patent/CN104157128A/en",
+      "context": "专利涉及远方调压命令及升、降、停按键；英语由机器翻译，不视为官方中英词汇直对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Abstract；step-up / step-down / stop buttons",
+      "sourceType": "中国专利的机器翻译网页",
+      "independentlyVerified": true,
+      "sourceTermId": 478,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "厂家说明有调压控制指令和停止动作，但不同系统中“调压停止”可能是命令或状态。"
     }
   ],
   "479": [
@@ -10220,6 +10760,36 @@
       "sourceSupport": "background_partial",
       "auditBatch": "batch011",
       "sourceCode": "MR_TAPCON250"
+    },
+    {
+      "title": "On-Load Tap Changers for Power Transformers — Tap Changer Basics",
+      "publisher": "Maschinenfabrik Reinhausen",
+      "url": "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics",
+      "context": "描述电压调节越限后向有载分接开关发出 switching command；不能证明特定“成功/失败/停止”HMI提示原文。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Automatic mode; Voltage regulation; Switching command",
+      "sourceType": "制造商官方知识页面",
+      "independentlyVerified": true,
+      "sourceTermId": 480,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "存在远方升降档等命令，remote voltage regulation command 为概括性表达。"
+    },
+    {
+      "title": "Wireless Remote Controlling Device Suitable for On-Load Voltage Regulating Switch of Main Transformer",
+      "publisher": "Google Patents（中文专利机器英译）",
+      "url": "https://patents.google.com/patent/CN104157128A/en",
+      "context": "专利涉及远方调压命令及升、降、停按键；英语由机器翻译，不视为官方中英词汇直对。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Abstract；step-up / step-down / stop buttons",
+      "sourceType": "中国专利的机器翻译网页",
+      "independentlyVerified": true,
+      "sourceTermId": 480,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "存在远方升降档等命令，remote voltage regulation command 为概括性表达。"
     }
   ],
   "481": [
@@ -10376,6 +10946,36 @@
       "sourceSupport": "background_partial",
       "auditBatch": "batch011",
       "sourceCode": "QEI_DFTRACE"
+    },
+    {
+      "title": "EnerVista Viewpoint Monitoring",
+      "publisher": "GE Vernova",
+      "url": "https://www.gevernova.com/electrification/automation/substation-solutions/software-tools/enervista-viewpoint-monitoring",
+      "context": "原厂明确提到集中故障数据和远程工作站；支持录波后台的分析工作站语境，但架构是否为主站需确认。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "Features; fault analysis; remote workstation",
+      "sourceType": "GE Vernova原厂产品页面",
+      "independentlyVerified": true,
+      "sourceTermId": 486,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "GE/SEL公开页面支持故障录波集中分析和工作站；录波后台可能是软件、服务器或主站。"
+    },
+    {
+      "title": "SEL-5601-2 Synchrowave Event Software",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/5601-2/",
+      "context": "明确提及继电保护事件记录分析及COMTRADE文件；不证明某个“录波后台”设备级标签。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "COMTRADE Viewer; event visualization and analysis",
+      "sourceType": "SEL原厂产品页面",
+      "independentlyVerified": true,
+      "sourceTermId": 486,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "GE/SEL公开页面支持故障录波集中分析和工作站；录波后台可能是软件、服务器或主站。"
     }
   ],
   "487": [
@@ -10462,6 +11062,21 @@
       "sourceSupport": "background_partial",
       "auditBatch": "batch011",
       "sourceCode": "TPPH_GIS"
+    },
+    {
+      "title": "电网故障信息自动采集与发布装置（CN105871645A）",
+      "publisher": "中国专利公开文本（Google Patents）",
+      "url": "https://patents.google.com/patent/CN105871645A/zh",
+      "context": "明确区分事故总信号、保护动作信号、开关变位信号，支持事故为故障事件的电网语境；不证明所有“事故”都应译 fault。",
+      "evidenceGrade": "C",
+      "verifiedAt": "2026-11-22",
+      "locator": "说明书：事故总、保护动作、开关变位信号",
+      "sourceType": "中文专利原文",
+      "independentlyVerified": true,
+      "sourceTermId": 489,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": false,
+      "evidenceBoundary": "中文专利明确事故与保护动作及开关变位关联；fault/incident 是按语境的备选，非无条件同义。"
     }
   ],
   "490": [
@@ -10498,6 +11113,40 @@
       "sourceSupport": "background_partial",
       "auditBatch": "batch011",
       "sourceCode": "SIEMENS_GA700"
+    }
+  ],
+  "465": [
+    {
+      "title": "SEL-651RD Advanced Digital Control",
+      "publisher": "Schweitzer Engineering Laboratories (SEL)",
+      "url": "https://selinc.com/products/651rd/",
+      "context": "原厂明确使用 device template tool，用于设备配置模板；支持 device template 的电力自动化专业用法。",
+      "evidenceGrade": "B",
+      "verifiedAt": "2026-11-22",
+      "locator": "Details → Configuration → acSELerator QuickSet",
+      "sourceType": "SEL原厂产品页面",
+      "independentlyVerified": true,
+      "sourceTermId": 465,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": true,
+      "evidenceBoundary": "SEL厂商明确使用 device template tool，核实在继电保护配置软件中的术语。"
+    }
+  ],
+  "491": [
+    {
+      "title": "饶威：《变电站事故总信号的实现及其改进》／The Implementation and Improvement of Substation General Fault Signal",
+      "publisher": "饶威（原刊2014年第5期；第三方网页转载）",
+      "url": "https://www.safehoo.com/Essay/Electric/202106/5643493.shtml",
+      "context": "原中文题名中的“事故总信号”与英文题名中的 general fault signal 明确对应；转载页面需复核原刊版式。",
+      "evidenceGrade": "A",
+      "verifiedAt": "2026-11-22",
+      "locator": "中英论文标题、英文摘要及“事故总”中文说明；原刊页码待对照",
+      "sourceType": "中英论文第三方全文转载",
+      "independentlyVerified": true,
+      "sourceTermId": 491,
+      "supplementBatch": "v3.2-supplement040",
+      "supportsFullTerm": true,
+      "evidenceBoundary": "2014年双语论文标题直接对应“事故总信号”与 general fault signal；原先 general fault alarm 未得直证。"
     }
   ]
 }

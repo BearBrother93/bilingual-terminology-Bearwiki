@@ -6442,174 +6442,237 @@
     "id": 429,
     "en": "automatic transfer enable link",
     "zh": "备自投压板",
-    "status": "已修订",
+    "status": "待补证",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 2/10 项拆出；译法须逐项核实；第十批：可证备自投及压板概念，不能确认整个 automatic transfer enable link 为设备固定名称。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/",
       "https://www.antpedia.com/standard/1627881148.html",
-      "https://selinc.com/products/700bt"
+      "https://selinc.com/products/700bt",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 2,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "证明备自投功能压板存在，但 automatic transfer enable link 仅描述性组合。",
+    "remainingVerificationNeed": "装置英文定值表或压板编号表",
+    "revisionHistory": []
   },
   {
     "id": 430,
     "en": "synchronism-check enable link",
     "zh": "检同期压板",
-    "status": "已修订",
+    "status": "待补证",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 3/10 项拆出；译法须逐项核实；第十批：ABB 有 Sync Check Enable 整定，但 enable link 的压板层面未得到直证。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/",
       "https://www.antpedia.com/standard/1627881148.html",
-      "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf"
+      "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 3,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "原厂中文列“检同期软压板”；英文 synchrocheck 仅功能证据。",
+    "remainingVerificationNeed": "该设备英文功能压板原名",
+    "revisionHistory": []
   },
   {
     "id": 431,
     "en": "dead-bus-check enable link",
     "zh": "检无压压板",
-    "status": "已修订",
+    "status": "待补证",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 4/10 项拆出；译法须逐项核实；第十批：Dead-bus 判据存在，但 dead-bus-check enable link 完整名称未经实证。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/",
       "https://www.antpedia.com/standard/1627881148.html",
-      "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf"
+      "https://library.e.abb.com/public/4389a0be8090d033c1256e5400409172/IB7.11.1.7-4e%20add%20v5.4%20add%20v6.13.pdf",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 4,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "中文手册明确“检无压软压板”；dead-bus-check enable link 未直接出现。",
+    "remainingVerificationNeed": "英文原厂软压板参数表",
+    "revisionHistory": []
   },
   {
     "id": 432,
     "en": "control logic enable link",
     "zh": "控制逻辑投入压板",
-    "status": "已修订",
+    "status": "待补证",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 5/10 项拆出；译法须逐项核实；第十批：功能压板的类属可查，control logic enable link 暂作描述性名称。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/",
-      "https://www.antpedia.com/standard/1627881148.html"
+      "https://www.antpedia.com/standard/1627881148.html",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 5,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "控制逻辑投入与软硬压板投退属于同一装置类别，但非完整英文直证。",
+    "remainingVerificationNeed": "装置控制字/压板原版表",
+    "revisionHistory": []
   },
   {
     "id": 433,
     "en": "general-purpose link",
     "zh": "普通压板",
-    "status": "已修订",
+    "status": "待确认",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 6/10 项拆出；译法须逐项核实；第十批：“普通压板”是具体端子硬压板、软压板还是空置连片未确定；general-purpose link 无适当出处。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 6,
     "splitCount": 10,
-    "verificationStatus": "独立核查：无合格直证，待确认",
+    "verificationStatus": "第二轮补证：关键概念或型号缺资料，译法不可定稿",
     "evidenceGrade": "D",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "D",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "“普通压板”无确切器件类别；一般 protection link 也不能验证 general-purpose link。",
+    "remainingVerificationNeed": "压板实物照片或厂家型号",
+    "revisionHistory": []
   },
   {
     "id": 434,
     "en": "synchronizing function enable link",
     "zh": "同期功能压板",
-    "status": "已修订",
+    "status": "待补证",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 7/10 项拆出；译法须逐项核实；第十批：同期功能确有用途，未核实 synchronizing function enable link 完整标签。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/",
       "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
-      "https://www.antpedia.com/standard/1627881148.html"
+      "https://www.antpedia.com/standard/1627881148.html",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 7,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "同期功能压板语境可证，但 enable link 英语组合没有原厂证据。",
+    "remainingVerificationNeed": "同期控制装置英文参数页",
+    "revisionHistory": []
   },
   {
     "id": 435,
     "en": "synchronizing contact mode 12/13/14 link",
     "zh": "同期接点12/13/14方式压板",
-    "status": "已修订",
+    "status": "待确认",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 8/10 项拆出；译法须逐项核实；第十批：原文 12/13/14 编码未知；不可从同期装置通用文献推断该压板的模式名称。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 8,
     "splitCount": 10,
-    "verificationStatus": "独立核查：无合格直证，待确认",
+    "verificationStatus": "第二轮补证：关键概念或型号缺资料，译法不可定稿",
     "evidenceGrade": "D",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "D",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "数字12/13/14的方式编码含义未知；背景资料不能核定完整术语。",
+    "remainingVerificationNeed": "带12/13/14模式说明的原设备手册",
+    "revisionHistory": []
   },
   {
     "id": 436,
     "en": "fixed synchronizing contact mode link",
     "zh": "同期接点固定方式压板",
-    "status": "已修订",
+    "status": "待确认",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 9/10 项拆出；译法须逐项核实；第十批：“固定方式”具体接点逻辑无原始设备资料；完整译法待核。",
     "sourceRow": 22,
     "referenceIds": [
-      "https://selinc.com/products/categories/protective-relays/"
+      "https://selinc.com/products/categories/protective-relays/",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 9,
     "splitCount": 10,
-    "verificationStatus": "独立核查：无合格直证，待确认",
+    "verificationStatus": "第二轮补证：关键概念或型号缺资料，译法不可定稿",
     "evidenceGrade": "D",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "D",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "“固定方式”涉及接点逻辑未知；无合格的完整英文名。",
+    "remainingVerificationNeed": "原厂接点配置图/英文说明",
+    "revisionHistory": []
   },
   {
     "id": 437,
     "en": "quasi-synchronizing enable link",
     "zh": "准同期压板",
-    "status": "已修订",
+    "status": "待补证",
     "note": "此处“压板”为继电保护功能压板；实体压板与软压板需按具体设备区分。原文 12/13/14 的含义未给出，保留代码。；由原词条 #16 的第 10/10 项拆出；译法须逐项核实；第十批：同步/准同期相关功能存在；quasi-synchronizing enable link 未见原生专业用例。",
     "sourceRow": 22,
     "referenceIds": [
       "https://selinc.com/products/categories/protective-relays/",
       "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
-      "https://www.antpedia.com/standard/1627881148.html"
+      "https://www.antpedia.com/standard/1627881148.html",
+      "https://studylib.net/doc/28192191/pcs-9611a-gzk-x-%E8%AF%B4%E6%98%8E%E4%B9%A6-%E5%9B%BD%E5%86%85%E4%B8%AD%E6%96%87-%E5%9B%BD%E7%BD%91%E6%A0%87%E5%87%86%E7%89%88-x-r1.00"
     ],
     "splitFrom": 16,
     "splitIndex": 10,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "准同期是一类同期操作，实际名称可能是 synchronizing enable / check enable；目前只保留暂译。",
+    "remainingVerificationNeed": "设备原始压板清单",
+    "revisionHistory": []
   },
   {
     "id": 438,
@@ -6692,77 +6755,105 @@
     "id": 442,
     "en": "phase-angle criterion not met",
     "zh": "准同期角差条件不满足",
-    "status": "已修订",
+    "status": "待补证",
     "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 2/5 项拆出；译法须逐项核实；第十批：角差判据可见，但 phase-angle criterion not met 是拟定 HMI 提示，未见完整厂商原文。",
     "sourceRow": 24,
     "referenceIds": [
       "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25"
     ],
     "splitFrom": 18,
     "splitIndex": 2,
     "splitCount": 5,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "相角差确为同期条件；整句 phase-angle criterion not met 是拟拟的提示短句。",
+    "remainingVerificationNeed": "实际同期装置HMI英文原文",
+    "revisionHistory": []
   },
   {
     "id": 443,
     "en": "frequency-difference criterion not met",
     "zh": "准同期频差条件不满足",
-    "status": "已修订",
+    "status": "待补证",
     "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 3/5 项拆出；译法须逐项核实；第十批：频差判据可见，整句频差条件不满足仍是建议性界面语言。",
     "sourceRow": 24,
     "referenceIds": [
       "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25"
     ],
     "splitFrom": 18,
     "splitIndex": 3,
     "splitCount": 5,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "频差条件已由原厂同期说明支持，完整失败消息仍缺。",
+    "remainingVerificationNeed": "实际HMI告警字符串",
+    "revisionHistory": []
   },
   {
     "id": 444,
     "en": "other synchronizing criteria not met",
     "zh": "准同期其他条件不满足",
-    "status": "已修订",
+    "status": "待补证",
     "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 4/5 项拆出；译法须逐项核实；第十批：同期其他条件不满足缺具体条件定义，尚不能作为厂商标准提示。",
     "sourceRow": 24,
     "referenceIds": [
       "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25"
     ],
     "splitFrom": 18,
     "splitIndex": 4,
     "splitCount": 5,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "“其他条件”并未定义，不应理解为一项标准判据。",
+    "remainingVerificationNeed": "设备条件组合逻辑及原标签",
+    "revisionHistory": []
   },
   {
     "id": 445,
     "en": "voltage-difference criterion not met",
     "zh": "准同期压差条件不满足",
-    "status": "已修订",
+    "status": "待补证",
     "note": "原文英文末两项顺序错位；改为与中文顺序一致。；由原词条 #18 的第 5/5 项拆出；译法须逐项核实；第十批：压差阈值明确，整句英文未取得直接厂商用例。",
     "sourceRow": 24,
     "referenceIds": [
       "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf"
+      "https://library.e.abb.com/public/6c374fb83850448797e391fdaf177eb5/3BHS901067E01%20F.pdf",
+      "https://www.manualslib.com/manual/2397854/Woodward-Spm-D2-11.html?page=25"
     ],
     "splitFrom": 18,
     "splitIndex": 5,
     "splitCount": 5,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "电压差为同期必要判据；未见整句电压差条件不满足消息。",
+    "remainingVerificationNeed": "原装置英文告警表",
+    "revisionHistory": []
   },
   {
     "id": 446,
@@ -6805,7 +6896,7 @@
     "id": 448,
     "en": "substation manager",
     "zh": "站长",
-    "status": "已修订",
+    "status": "已核对（专业用例）",
     "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 2/4 项拆出；译法须逐项核实；第十批：现有官方职位写 Manager, Electrical Power Distribution (Substation)；substation manager 可理解，但中国“站长”职级尚待单位确认。",
     "sourceRow": 27,
     "referenceIds": [
@@ -6815,28 +6906,41 @@
     "splitFrom": 21,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：已检到原生专业英文用例",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "B",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "电力企业正式岗位名称支持用法；中国站长可能偏运行管理，不可机械与部门经理同职级。",
+    "remainingVerificationNeed": "中国企业岗位说明（判断职级对等）",
+    "revisionHistory": []
   },
   {
     "id": 449,
     "en": "duty operator",
     "zh": "正值",
-    "status": "已修订",
+    "status": "待确认",
     "note": "正值、值长为岗位称谓，依单位职级核定。；由原词条 #21 的第 3/4 项拆出；译法须逐项核实；第十批：“正值”是中国电力值班岗位层级，duty operator 不能无岗位表直接认定；需岗位职责、编制或双语表。",
     "sourceRow": 27,
     "referenceIds": [
-      "https://www.osha.gov/etools/electric-power/glossary-terms"
+      "https://www.osha.gov/etools/electric-power/glossary-terms",
+      "https://www.oasis.oati.com/woa/docs/EES/EESdocs/Entergy_Transmission_Function_Job_Titles_and_Descriptions_20210211.htm"
     ],
     "splitFrom": 21,
     "splitIndex": 3,
     "splitCount": 4,
-    "verificationStatus": "独立核查：无合格直证，待确认",
+    "verificationStatus": "第二轮补证：关键概念或型号缺资料，译法不可定稿",
     "evidenceGrade": "D",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "D",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "美方岗位仅能区分 lead operator、shift supervisor；中国“正值”内部职级未知。",
+    "remainingVerificationNeed": "中文岗位等级表和所在电网企业官方对照",
+    "revisionHistory": []
   },
   {
     "id": 450,
@@ -6861,57 +6965,79 @@
     "id": 451,
     "en": "general telemetry",
     "zh": "通用遥测",
-    "status": "已修订",
+    "status": "待补证",
     "note": "telemetering 亦用于测量过程；数据点宜用 telemetry value。；由原词条 #24 的第 2/2 项拆出；译法须逐项核实；第十批：可证远程采集和测量信号，general telemetry 尚无原生设备标签的证据。",
     "sourceRow": 30,
     "referenceIds": [
       "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "https://selinc.com/products/tmu/"
+      "https://selinc.com/products/tmu/",
+      "https://techdoc.relays.protection-control.abb/r/SSC600-and-SSC600-SW-Operation-Manual/1.5/en-US/Functions-codes-and-symbols",
+      "https://techdoc.relays.protection-control.abb/r/REC615-Modbus-Communication-Protocol-Manual/PCL1/en-US/Modbus-data-implementation"
     ],
     "splitFrom": 24,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "遥测数据存在，但 general telemetry 不一定为装置规定数据类别。",
+    "remainingVerificationNeed": "特定监控软件英文分类字段",
+    "revisionHistory": []
   },
   {
     "id": 452,
     "en": "general telecontrol",
     "zh": "通用遥控",
-    "status": "已审校",
+    "status": "待补证",
     "note": "由原词条 #25 的第 2/2 项拆出；译法须逐项核实；第十批：可证远程操控及电源切换领域用法，general telecontrol 未找到完整源用例。",
     "sourceRow": 31,
     "referenceIds": [
       "https://www.hitachienergy.com/us/en/careers/open-jobs/details/JID3-219826",
-      "https://selinc.com/products/700bt"
+      "https://selinc.com/products/700bt",
+      "https://techdoc.relays.protection-control.abb/r/SSC600-and-SSC600-SW-Operation-Manual/1.5/en-US/Functions-codes-and-symbols"
     ],
     "splitFrom": 25,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "ABB具有 Generic control point（单点控制），不能简单等同通用遥控项。",
+    "remainingVerificationNeed": "原软件遥控分类的正式英文名",
+    "revisionHistory": []
   },
   {
     "id": 453,
     "en": "general remote indication",
     "zh": "通用遥信",
-    "status": "已审校",
+    "status": "待补证",
     "note": "由原词条 #27 的第 2/2 项拆出；译法须逐项核实；第十批：站控通信有 SPS/DPS 遥信数据类，general remote indication 为描述性组合。",
     "sourceRow": 33,
     "referenceIds": [
-      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf"
+      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf",
+      "https://techdoc.relays.protection-control.abb/r/REC615-Modbus-Communication-Protocol-Manual/PCL1/en-US/Modbus-data-implementation"
     ],
     "splitFrom": 27,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "indication data 可证，general remote indication 的完整界面字段未实证。",
+    "remainingVerificationNeed": "SCADA软件数据点分类界面",
+    "revisionHistory": []
   },
   {
     "id": 454,
@@ -6953,19 +7079,26 @@
     "id": 456,
     "en": "upper-limit audible alarm",
     "zh": "越上限响铃",
-    "status": "已审校",
+    "status": "待补证",
     "note": "由原词条 #28 的第 4/6 项拆出；译法须逐项核实；第十批：可证 upper limit alarm，但是否附 audible alarm / bell 取决于原装置告警配置。",
     "sourceRow": 34,
     "referenceIds": [
-      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9"
     ],
     "splitFrom": 28,
     "splitIndex": 4,
     "splitCount": 6,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "上限警报与 audible alert 两功能存在；未发现原装置完整“越上限响铃”英语标签。",
+    "remainingVerificationNeed": "对应HMI告警字串",
+    "revisionHistory": []
   },
   {
     "id": 457,
@@ -6989,73 +7122,101 @@
     "id": 458,
     "en": "lower-limit audible alarm",
     "zh": "越下限响铃",
-    "status": "已审校",
+    "status": "待补证",
     "note": "由原词条 #28 的第 6/6 项拆出；译法须逐项核实；第十批：可证 lower limit alarm；响铃是声音输出动作，缺原设备 UI 完整名称。",
     "sourceRow": 34,
     "referenceIds": [
-      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf"
+      "https://dl.mitsubishielectric.com/dl/fa/document/manual/ems/ib63a24/ib63a24e.pdf",
+      "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9"
     ],
     "splitFrom": 28,
     "splitIndex": 6,
     "splitCount": 6,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "下限告警与声音提示为可组合功能，但不能当成源界面原文。",
+    "remainingVerificationNeed": "对应HMI告警字串",
+    "revisionHistory": []
   },
   {
     "id": 459,
     "en": "above upper limit",
     "zh": "越上限",
-    "status": "已审校",
+    "status": "已核对（专业用例）",
     "note": "由原词条 #29 的第 2/3 项拆出；译法须逐项核实；第十批：有 upper limits 阈值监控；above upper limit 是状态说明，未见同款 HMI 字串。",
     "sourceRow": 35,
     "referenceIds": [
-      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29"
+      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29",
+      "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9"
     ],
     "splitFrom": 29,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：已检到原生专业英文用例",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "B",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "施耐德官方告警设置字段使用 Above upper limit；英语用法成立。",
+    "remainingVerificationNeed": "可选：确认是否需写 exceeds upper limit",
+    "revisionHistory": []
   },
   {
     "id": 460,
     "en": "below lower limit",
     "zh": "越下限",
-    "status": "已审校",
+    "status": "已核对（专业用例）",
     "note": "由原词条 #29 的第 3/3 项拆出；译法须逐项核实；第十批：有 lower limits 阈值监控；below lower limit 是状态说明，未见同款 HMI 字串。",
     "sourceRow": 35,
     "referenceIds": [
-      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29"
+      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29",
+      "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9"
     ],
     "splitFrom": 29,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：已检到原生专业英文用例",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "B",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "施耐德官方告警设置字段使用 Below lower limit；英语用法成立。",
+    "remainingVerificationNeed": "可选：确认是否需写 falls below lower limit",
+    "revisionHistory": []
   },
   {
     "id": 461,
     "en": "node 1 voltage limit violation",
     "zh": "节点1电压越限",
-    "status": "已修订",
+    "status": "待补证",
     "note": "原文“越限电压”不必然等于过电压，可高于上限或低于下限。；由原词条 #31 的第 2/2 项拆出；译法须逐项核实；第十批：电压越限概念有依据，但“节点1”设备节点语义和全句均未独立确认。",
     "sourceRow": 37,
     "referenceIds": [
-      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29"
+      "https://ausschreibungstexte.siemens.com/tiplv/Data/E/Electrical_Distribution%2C_Industrial_Controls/Energ/Software_and_Apps_for_configuration%2C_vi/O/On-premise_asset_monitoring_and_condition-based_health_status_monitoring_application_for_assets_at_medium-_and_low-voltage_l/%28LV_WQZDVQEA86WMDEKR3ZTA8KESP0%29",
+      "https://ecostruxure-building-help.se.com/bms/topics/show?id=5118&locale=en-US&prerelease=false&productversion=1.9"
     ],
     "splitFrom": 31,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "voltage limit 可参照告警阈值，但 node 1 设备节点编号未在公开资料核实。",
+    "remainingVerificationNeed": "节点1的点表与电压上下限方向",
+    "revisionHistory": []
   },
   {
     "id": 462,
@@ -7077,73 +7238,110 @@
   },
   {
     "id": 463,
-    "en": "earthing switch status change",
+    "en": "earthing switch position change",
     "zh": "地刀变位",
-    "status": "已修订",
+    "status": "待补证",
     "note": "双位置遥信的两个触点不一致，需按设备定义核实。；由原词条 #42 的第 2/3 项拆出；译法须逐项核实；第十批：站控遥信可记录开关变位，但未见地刀变位的完整英文作为预定义点名。",
     "sourceRow": 48,
     "referenceIds": [
-      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf"
+      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf",
+      "https://techdoc.relays.protection-control.abb/r/SSC600-and-SSC600-SW-Operation-Manual/1.5/en-US/Functions-codes-and-symbols",
+      "https://techdoc.relays.protection-control.abb/r/REX640-Technical-Manual/PCL4/en-US/P3SXSWI-Position-indication-and-validity-check"
     ],
     "splitFrom": 42,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "ABB用 Earthing switch indication 与位置监测，较 status change 更贴近电气刀闸“变位”；尚非原文直对。",
+    "remainingVerificationNeed": "原装置事件名及变位定义",
+    "revisionHistory": [
+      {
+        "date": "2026-11-22",
+        "from": "earthing switch status change",
+        "to": "earthing switch position change",
+        "reason": "ABB用 Earthing switch indication 与位置监测，较 status change 更贴近电气刀闸“变位”；尚非原文直对。"
+      }
+    ]
   },
   {
     "id": 464,
     "en": "double-point indication discrepancy",
     "zh": "双位置遥信变位不一致",
-    "status": "已修订",
+    "status": "待补证",
     "note": "双位置遥信的两个触点不一致，需按设备定义核实。；由原词条 #42 的第 3/3 项拆出；译法须逐项核实；第十批：ABB 的双点状态有 intermediate-state / bad-state；不能直接等于双触点状态不一致。",
     "sourceRow": 48,
     "referenceIds": [
-      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf"
+      "https://library.e.abb.com/public/0363bdcfcfbf48efc1257b130056a437/COM600_LON-LAG%20Master%20OPC%203.2_usg_755284_ENf.pdf",
+      "https://techdoc.relays.protection-control.abb/r/REX640-Technical-Manual/PCL4/en-US/P3SXSWI-Position-indication-and-validity-check"
     ],
     "splitFrom": 42,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "ABB装置报告 faulty/intermediate position；“双位置遥信变位不一致”两接点具体逻辑仍未完全验证。",
+    "remainingVerificationNeed": "点表或IEC 60870 双点状态码说明",
+    "revisionHistory": []
   },
   {
     "id": 465,
     "en": "device template",
     "zh": "装置模板",
-    "status": "已审校",
+    "status": "已核对（专业用例）",
     "note": "由原词条 #43 的第 2/2 项拆出；译法须逐项核实；第十批：装置模板只是一般软件设计概念，未找到本系统确切的保护装置模板字段；暂保留待核。",
     "sourceRow": 49,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://selinc.com/products/651rd/"
+    ],
     "splitFrom": 43,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：无合格直证，待确认",
+    "verificationStatus": "第二轮补证：已检到原生专业英文用例",
     "evidenceGrade": "D",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "B",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "SEL厂商明确使用 device template tool，核实在继电保护配置软件中的术语。",
+    "remainingVerificationNeed": "无必要，若部署须确认该软件的具体模板类型",
+    "revisionHistory": []
   },
   {
     "id": 466,
     "en": "conventional setting",
     "zh": "常规定值",
-    "status": "已审校",
+    "status": "待补证",
     "note": "由原词条 #44 的第 2/4 项拆出；译法须逐项核实；第十批：可见继电保护设置的一般分类，不足以确认 conventional setting 是常规定值的正式分类名称。",
     "sourceRow": 50,
     "referenceIds": [
-      "https://usbr.gov/power/data/fist/FIST_6-4_%281-2022%29.pdf"
+      "https://usbr.gov/power/data/fist/FIST_6-4_%281-2022%29.pdf",
+      "https://techdoc.relays.protection-control.abb/r/615-series-Technical-Manual/5.0-FP1-IEC/en-US/Settings?contentId=yc2MADtFmlCnEeud8ooILg"
     ],
     "splitFrom": 44,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "ABB设置分组存在，但 conventional setting 未核为“常规定值”专业分类名。",
+    "remainingVerificationNeed": "厂家定值菜单原文",
+    "revisionHistory": []
   },
   {
     "id": 467,
@@ -7165,111 +7363,160 @@
   },
   {
     "id": 468,
-    "en": "digital-input setting",
+    "en": "binary input setting",
     "zh": "开入定值",
-    "status": "已审校",
+    "status": "已核对（专业用例）",
     "note": "由原词条 #44 的第 4/4 项拆出；译法须逐项核实；第十批：继电器有 digital input 与 settings，但 digital-input setting 的具体参数形式不清。",
     "sourceRow": 50,
     "referenceIds": [
-      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "https://techdoc.relays.protection-control.abb/r/615-series-Technical-Manual/5.0-FP1-IEC/en-US/Settings?contentId=yc2MADtFmlCnEeud8ooILg"
     ],
     "splitFrom": 44,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：已检到原生专业英文用例",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "B",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "ABB明确有 Binary input settings，建议术语标准化为 binary input setting。",
+    "remainingVerificationNeed": "与原厂开入定值参数一一匹配时再终审",
+    "revisionHistory": [
+      {
+        "date": "2026-11-22",
+        "from": "digital-input setting",
+        "to": "binary input setting",
+        "reason": "ABB明确有 Binary input settings，建议术语标准化为 binary input setting。"
+      }
+    ]
   },
   {
     "id": 469,
     "en": "digital-output board terminal output",
     "zh": "开出板端子出口",
-    "status": "已修订",
+    "status": "待补证",
     "note": "继保语境中的出口通常是动作出口，不应译为 outlet。；由原词条 #45 的第 2/2 项拆出；译法须逐项核实；第十批：开出板端子对应数字输出接点，出口是动作出口；整句尚未找到装置实际标注。",
     "sourceRow": 51,
     "referenceIds": [
-      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "https://www.gevernova.com/electrification/automation/protection-control-metering/accessories/rtt-desktop-test-set-legacy"
     ],
     "splitFrom": 45,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "继电器输出接点/状态可证，开出板端子出口可能指动作脉冲而非硬件端口。",
+    "remainingVerificationNeed": "原设备开出板测试界面",
+    "revisionHistory": []
   },
   {
     "id": 470,
     "en": "digital-output terminal reset",
     "zh": "开出板端子收回",
-    "status": "已修订",
+    "status": "待补证",
     "note": "收回指输出返回/复归，需核对装置逻辑。；由原词条 #46 的第 2/3 项拆出；译法须逐项核实；第十批：输出返回/复归有设备实践，但 digital-output terminal reset 未见同款终端标签。",
     "sourceRow": 52,
     "referenceIds": [
-      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "https://techdoc.relays.protection-control.abb/r/REC615-Technical-Manual/PCL1/en-US/RLCM-Operation-principle"
     ],
     "splitFrom": 46,
     "splitIndex": 2,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "relay reset / deassert 机制可证，端子“收回”具体动作需确认。",
+    "remainingVerificationNeed": "开出板原动作逻辑",
+    "revisionHistory": []
   },
   {
     "id": 471,
     "en": "digital output failed to reset within timeout",
     "zh": "开出超时未收回",
-    "status": "已修订",
+    "status": "待补证",
     "note": "收回指输出返回/复归，需核对装置逻辑。；由原词条 #46 的第 3/3 项拆出；译法须逐项核实；第十批：有输出动作和复归行为，具体超时报警及完整 HMI 文本未取得。",
     "sourceRow": 52,
     "referenceIds": [
-      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf"
+      "https://www.gevernova.com/electrification/sites/default/files/resources/products/manuals/dgp/dgpman-f.pdf",
+      "https://techdoc.relays.protection-control.abb/r/REC615-Technical-Manual/PCL1/en-US/RLCM-Operation-principle"
     ],
     "splitFrom": 46,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "有超时与输出复归的技术语境，但整句告警未在原厂查得。",
+    "remainingVerificationNeed": "设备告警日志原文",
+    "revisionHistory": []
   },
   {
     "id": 472,
     "en": "voltage regulation successful",
     "zh": "调压成功",
-    "status": "已修订",
+    "status": "待补证",
     "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 2/10 项拆出；译法须逐项核实；第十批：控制系统调整电压的成功状态可以描述，但“voltage regulation successful”完整状态提示未核。",
     "sourceRow": 53,
     "referenceIds": [
-      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics"
     ],
     "splitFrom": 47,
     "splitIndex": 2,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "电压调节操作存在；voltage regulation successful 不是已核实的完整厂家状态提示。",
+    "remainingVerificationNeed": "对应控制系统调压成功消息",
+    "revisionHistory": []
   },
   {
     "id": 473,
     "en": "voltage regulation failed",
     "zh": "调压失败",
-    "status": "已修订",
+    "status": "待补证",
     "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 3/10 项拆出；译法须逐项核实；第十批：电压调节异常与 AVC alarm 有据，但具体失败提示未核。",
     "sourceRow": 53,
     "referenceIds": [
-      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics"
     ],
     "splitFrom": 47,
     "splitIndex": 3,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "同理缺少完整调压失败原文，不将机械组合升级为B。",
+    "remainingVerificationNeed": "对应控制系统调压失败消息",
+    "revisionHistory": []
   },
   {
     "id": 474,
@@ -7332,37 +7579,52 @@
     "id": 477,
     "en": "tap-runaway detection time",
     "zh": "滑档时间",
-    "status": "已修订",
+    "status": "待补证",
     "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 7/10 项拆出；译法须逐项核实；第十批：资料提及 runaway prevention 与 operating time，但滑档时间具体指检测时间、持续时间还是超时定值不明。",
     "sourceRow": 53,
     "referenceIds": [
-      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://manualzz.com/doc/4157436/fundamentals-rtmu-1m--2m-control-and-monitor-relay-user-manual"
     ],
     "splitFrom": 47,
     "splitIndex": 7,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "tap-changer runaway 及时间延迟有依据，但“滑档时间”确切参数未定义。",
+    "remainingVerificationNeed": "厂家定义：检测时间/持续时间/动作时间",
+    "revisionHistory": []
   },
   {
     "id": 478,
     "en": "stop tap changing",
     "zh": "调压停止",
-    "status": "已修订",
+    "status": "待补证",
     "note": "“滑档”具体是分接开关失控连续换档还是异常滑移，应按设备说明确认。；由原词条 #47 的第 8/10 项拆出；译法须逐项核实；第十批：调压停止动作客观存在，但完整命令应依控制界面确认 stop tap changing 是否最合适。",
     "sourceRow": 53,
     "referenceIds": [
-      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf"
+      "https://fundamentals.tech/wp-content/uploads/2022/05/FP1034-U-11-4.5-SuperTAPP-SG-Technical-Reference-BAU.pdf",
+      "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics",
+      "https://patents.google.com/patent/CN104157128A/en"
     ],
     "splitFrom": 47,
     "splitIndex": 8,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
-    "reviewBatch": "batch010"
+    "reviewBatch": "batch010",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "厂家说明有调压控制指令和停止动作，但不同系统中“调压停止”可能是命令或状态。",
+    "remainingVerificationNeed": "原HMI究竟为按钮还是状态",
+    "revisionHistory": []
   },
   {
     "id": 479,
@@ -7391,16 +7653,18 @@
     "id": 480,
     "en": "remote voltage regulation command",
     "zh": "远方调压命令",
-    "status": "已核查（待补证）",
+    "status": "待补证",
     "note": "指由远方控制系统发出的调压命令。TAPCON资料区分 remote desired value setting（远方设定值选择/设置）与REMOTE模式下的控制命令；若具体指升/降档命令，应按设备界面进一步细化为 remote raise/lower tap command。",
     "sourceRow": 53,
     "referenceIds": [
-      "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf"
+      "https://www.reinhausen.com/fileadmin/downloadcenter/products/voltage_regulators/tapcon_250/ba/expert/8595028_en.pdf",
+      "https://www.reinhausen.com/newsroom/mr-knowledge-base/tap-changer-basics",
+      "https://patents.google.com/patent/CN104157128A/en"
     ],
     "splitFrom": 47,
     "splitIndex": 10,
     "splitCount": 10,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "enAlt": [
       "remote desired-value setting",
       "remote tap-change command",
@@ -7409,7 +7673,13 @@
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
     "reviewBatch": "batch011",
-    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "存在远方升降档等命令，remote voltage regulation command 为概括性表达。",
+    "remainingVerificationNeed": "具体是升档、降档还是设定值指令",
+    "revisionHistory": []
   },
   {
     "id": 481,
@@ -7518,17 +7788,19 @@
     "id": 486,
     "en": "fault-record analysis workstation",
     "zh": "录波后台",
-    "status": "已修订（待补证）",
+    "status": "待补证",
     "note": "用于录波数据汇集、显示和故障分析的工作站。USBR资料称集中式设备为 fault recorder master station；QEI资料称 DFR 数据送至 workstation display and analysis software。若实际架构为集中主站，应改称 fault recorder master station。",
     "sourceRow": 57,
     "referenceIds": [
       "https://www.usbr.gov/power/data/2017_Federal_Hydropower_Replacements_Book_Blue_1.1.pdf",
-      "https://www.qeiinc.com/product/dc-trace/"
+      "https://www.qeiinc.com/product/dc-trace/",
+      "https://www.gevernova.com/electrification/automation/substation-solutions/software-tools/enervista-viewpoint-monitoring",
+      "https://selinc.com/products/5601-2/"
     ],
     "splitFrom": 51,
     "splitIndex": 3,
     "splitCount": 3,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "enAlt": [
       "DFR analysis workstation",
       "fault recorder master station"
@@ -7536,7 +7808,13 @@
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
     "reviewBatch": "batch011",
-    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "GE/SEL公开页面支持故障录波集中分析和工作站；录波后台可能是软件、服务器或主站。",
+    "remainingVerificationNeed": "系统架构、产品名称、官方界面",
+    "revisionHistory": []
   },
   {
     "id": 487,
@@ -7582,16 +7860,17 @@
     "id": 489,
     "en": "fault / incident",
     "zh": "事故",
-    "status": "已核查（待补证）",
+    "status": "待补证",
     "note": "电力监控语境中的“事故”需按具体事件性质处理：电气设备/系统故障可用 fault；更广义的运行事件可用 incident。当前并列写法仅作检索入口，不代表两者在所有场景可互换。",
     "sourceRow": 62,
     "referenceIds": [
-      "https://www.scribd.com/document/797995731/Vol-5-1-400-KV-GIS-SUBSTATION-Technical-Specification"
+      "https://www.scribd.com/document/797995731/Vol-5-1-400-KV-GIS-SUBSTATION-Technical-Specification",
+      "https://patents.google.com/patent/CN105871645A/zh"
     ],
     "splitFrom": 56,
     "splitIndex": 2,
     "splitCount": 4,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "enAlt": [
       "fault",
       "incident"
@@ -7599,7 +7878,13 @@
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
     "reviewBatch": "batch011",
-    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "中文专利明确事故与保护动作及开关变位关联；fault/incident 是按语境的备选，非无条件同义。",
+    "remainingVerificationNeed": "原点表中“事故”分类的定义",
+    "revisionHistory": []
   },
   {
     "id": 490,
@@ -7625,26 +7910,41 @@
   },
   {
     "id": 491,
-    "en": "general fault alarm",
+    "en": "general fault signal",
     "zh": "事故总",
-    "status": "待核实",
+    "status": "已核实（直对）",
     "note": "“事故总”缺少对应设备的信号表、画面标签或逻辑定义；general fault alarm 目前只是暂拟描述，不能视为已核实译名。需确认其是否为事故汇总、总跳闸或主保护动作信号。",
     "sourceRow": 62,
-    "referenceIds": [],
+    "referenceIds": [
+      "https://www.safehoo.com/Essay/Electric/202106/5643493.shtml"
+    ],
     "splitFrom": 56,
     "splitIndex": 4,
     "splitCount": 4,
-    "verificationStatus": "独立核查：未找到合格来源，待补证",
+    "verificationStatus": "第二轮补证：已找到中英直接对应（原刊仍待核）",
     "evidenceGrade": "D",
     "lastReviewedAt": "2026-11-17",
     "reviewBatch": "batch011",
-    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。",
+    "currentEvidenceGrade": "A",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "2014年双语论文标题直接对应“事故总信号”与 general fault signal；原先 general fault alarm 未得直证。",
+    "remainingVerificationNeed": "原刊扫描件确认标题与印刷页码",
+    "revisionHistory": [
+      {
+        "date": "2026-11-22",
+        "from": "general fault alarm",
+        "to": "general fault signal",
+        "reason": "2014年双语论文标题直接对应“事故总信号”与 general fault signal；原先 general fault alarm 未得直证。"
+      }
+    ]
   },
   {
     "id": 492,
     "en": "zero-drift check failed",
     "zh": "零漂校验出错",
-    "status": "已修订（待补证）",
+    "status": "待补证",
     "note": "建议作为告警界面短句处理为 zero-drift check failed。Siemens分析仪手册分别使用 Zero drift ... outside tolerance 与 Calibration tolerance exceeded at zero point；仅能支持零漂/零点校验相关术语组件，且资料并非电力专用设备，故列C级。",
     "sourceRow": 63,
     "referenceIds": [
@@ -7653,7 +7953,7 @@
     "splitFrom": 57,
     "splitIndex": 2,
     "splitCount": 2,
-    "verificationStatus": "独立核查：背景/部分证据，待补证",
+    "verificationStatus": "第二轮补证：有背景或部分证据；完整表述仍待确认",
     "enAlt": [
       "zero-drift outside tolerance",
       "zero-point calibration error"
@@ -7661,7 +7961,13 @@
     "evidenceGrade": "C",
     "lastReviewedAt": "2026-11-17",
     "reviewBatch": "batch011",
-    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。"
+    "sourceNote": "本批来源仅支持记录中所述的专业英语用法或背景；A级须有可核实的中英直接对应证据。",
+    "currentEvidenceGrade": "C",
+    "supplementRound": "v3.2-supplement040",
+    "supplementReviewedAt": "2026-11-22",
+    "supplementEvidenceNote": "现有 Siemens 气体分析设备资料只能证明零点校验错误类表述，不能移植为电力保护装置固定告警。",
+    "remainingVerificationNeed": "原电力设备零漂校验报错界面；不能援引无关行业设备作B证据",
+    "revisionHistory": []
   },
   {
     "id": 493,
