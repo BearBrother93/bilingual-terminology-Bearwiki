@@ -1,4 +1,4 @@
-import {getJSON,LocalDictionary,normalize,metrics} from './engine.js?v=1.0-progressive';
+import {getJSON,LocalDictionary,normalize,metrics} from './engine.js?v=1.0-fused-20261128';
 const $=id=>document.getElementById(id),el=(tag,cls='',value)=>{const n=document.createElement(tag);n.className=cls;if(value!==undefined)n.textContent=value;return n;};
 let configPromise,localPromise,request=0,suggestRequest=0,timer,active=null;
 function catalog(){return configPromise??=(getJSON('./catalog.json',{fresh:true}).catch(e=>{configPromise=null;throw e;}));}
@@ -23,9 +23,14 @@ function renderLocal({record:r,id,review,shard},q,dir){
  const caption=el('p','source-label');caption.append(link('WikDict · BearWiki 渐进编录版','https://www.wikdict.com/page/about'),document.createTextNode(' · '+(dir==='en-zh'?'英文译法反查':'汉英')+' · '+shard));card.append(caption);
  if(dir==='zh-en'&&normalize(r.w)!==normalize(q))card.append(el('p','meta','通过检索别名匹配；原词头为“'+r.w+'”。'));
  const t=el('p','translation');t.append(rich(r.t));card.append(t);
+ if(r.zh_cn||r.zh_tw){const forms=el('div','gloss');if(r.zh_cn)forms.append(el('p','meta','大陆简体：'+r.zh_cn));if(r.zh_tw)forms.append(el('p','meta','臺灣繁體：'+r.zh_tw));if(r.script_region?.notes)forms.append(el('p','muted',r.script_region.notes));card.append(forms);}
+ const enrich=r.senses_enrichment;if(enrich){for(const s of enrich.detailed_senses||[]){if(r.d.some(d=>d.translation===s.en_translation&&d.gloss===s.zh_gloss))continue;const sec=el('section','sense-group');sec.append(el('h4','',s.pos||'义项'),el('p','',s.en_translation||''));if(s.zh_gloss)sec.append(el('p','gloss',s.zh_gloss));card.append(sec);}if(enrich.semantic_notes)card.append(el('p','gloss',enrich.semantic_notes));if(enrich.synonym_discrimination)card.append(el('p','gloss',typeof enrich.synonym_discrimination==='string'?enrich.synonym_discrimination:(enrich.synonym_discrimination.summary||JSON.stringify(enrich.synonym_discrimination))));}
+ if(r.sources){const sec=el('section','sense-group');sec.append(el('h4','','文献与核实状态'),el('p','meta',r.sources.verification_status||'待核实'));if(r.sources.evidence_text)sec.append(el('p','gloss',r.sources.evidence_text));for(const u of r.sources.urls||[])sec.append(link('参考来源',u),document.createTextNode(' '));card.append(sec);}
+ if(r.review_meta?.user_confirmation_status)card.append(el('p','meta','审校状态：'+r.review_meta.user_confirmation_status));
+
  if(review?.conflict)card.append(el('p','warning','人工修订旧值冲突：暂显示基础记录，待编辑复核。'));else if(review){card.append(el('p','meta','已登记人工确认修订：'+(review.reason||'')));for(const ref of review.references||[]){const section=el('div','gloss');section.append(el('p','meta',ref.description||ref.id),el('p','muted',ref.reported_verification||'未登记核实状态'));for(const url of ref.urls||[])section.append(link('参考来源',url),document.createTextNode(' '));card.append(section);}}
- if(!r.g&&!review?.status)card.append(el('p','warning','原始来源标记 g=false；尚未通过全面人工审校，请结合语境核实。'));
- if(!r.d.length)card.append(el('p','muted','本条未提供详细义项或词性，仅展示原文件已有译法。'));
+ if(r.g===false&&!review?.status)card.append(el('p','warning','原始来源标记 g=false；尚未通过全面人工审校，请结合语境核实。'));
+ if(!r.d.length&&!r.senses_enrichment?.detailed_senses?.length)card.append(el('p','muted','本条未提供详细义项或词性，仅展示原文件已有译法。'));
  const groups=new Map();for(const s of r.d){const pos=s.pos||'词性未提供';if(!groups.has(pos))groups.set(pos,[]);groups.get(pos).push(s);}
  for(const [pos,senses] of groups){const section=el('section','sense-group'),list=el('ol');section.append(el('h4','',pos));for(const s of senses){const li=el('li');li.append(rich(s.translation));if(s.gloss!==null&&s.gloss!==undefined&&s.gloss!==''){const g=el('div','gloss');g.append(rich(s.gloss));li.append(g);}li.append(el('div','meta','来源评分：'+String(s.score)+' · 原编号：'+String(s.id)));list.append(li);}section.append(list);card.append(section);}
  card.append(link('查看维基词典词头','https://zh.wiktionary.org/wiki/'+encodeURIComponent(r.w)),document.createTextNode(' · '),link('CC BY-SA 4.0','https://creativecommons.org/licenses/by-sa/4.0/'),metadata(r));return card;

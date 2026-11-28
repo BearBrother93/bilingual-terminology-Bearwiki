@@ -39,7 +39,7 @@ export class LocalDictionary{
   }
   const zh=new Map(),en=new Map();function add(map,key,id){key=normalize(key);if(!key)return;if(!map.has(key))map.set(key,new Set());map.get(key).add(id);}
   // Translation strings and individual pipe/semicolon-separated alternatives only; no word tokenization.
-  for(const {record:r,id} of rows){add(zh,r.w,id);for(const t of [r.t,...r.d.map(s=>s.translation||'')]){const clean=String(t).replace(/<\/?(?:u|b|i|em|strong|sup|sub)>/gi,'');add(en,clean,id);for(const a of clean.split(/[|;；]/))add(en,a,id);}}
+  for(const {record:r,id} of rows){for(const k of [r.w,r.zh_cn,r.zh_tw])if(typeof k==='string')add(zh,k,id);for(const t of [r.t,...r.d.map(s=>s.translation||''),...(r.senses_enrichment?.detailed_senses||[]).map(s=>s.en_translation||'')]){const clean=String(t).replace(/<\/?(?:u|b|i|em|strong|sup|sub)>/gi,'');add(en,clean,id);for(const a of clean.split(/[|;；]/))add(en,a,id);}}
   for(const a of ed.aliases){if(typeof a.query==='string'&&byWord.has(a.w))add(zh,a.query,byWord.get(a.w));}
   return {rows,warnings,shardCount:manifest.shards.length,maps:{'zh-en':zh,'en-zh':en},keys:{'zh-en':[...zh.keys()].sort(),'en-zh':[...en.keys()].sort()}};
  }
