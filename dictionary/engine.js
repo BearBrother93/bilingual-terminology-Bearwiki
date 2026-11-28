@@ -18,32 +18,32 @@ export async function getJSON(path,{fresh=false,timeout=15000}={}){
  })();pending.set(path,task);
  try{return await task;}finally{pending.delete(path);}
 }
-export function lowerRoute(routes,q){let lo=0,hi=routes.length;while(lo<hi){const mid=(lo+hi)>>1;if(routes[mid].last<q)lo=mid+1;else hi=mid;}return lo;}
+
+// Only explicitly published shards are read. No automatic fine slicing or reverse index files.
 export class LocalDictionary{
- constructor(config,root='./'){this.config=config;this.base=root+config.base;this.chunk=config.chunk_size;}
- async index(direction){if(!this.config.directions.includes(direction))throw Error('Unsupported direction');return getJSON(this.base+direction+'.json');}
- async exact(direction,query){
-  const q=normalize(query),{routes}=await this.index(direction),i=lowerRoute(routes,q);
-  if(!routes[i]||routes[i].first>q)return [];
-  const rows=await getJSON(this.base+routes[i].path);return rows.find(r=>r[0]===q)?.[1]||[];
+ constructor(config,root='./'){this.config=config;this.base=root+config.base;this.loading=null;}
+ async load(){if(!this.loading)this.loading=this.build().catch(e=>{this.loading=null;throw e;});return this.loading;}
+ async build(){
+  const [manifest,ed,refs]=await Promise.all(['manifest.json','corrections.json','references.json'].map(n=>getJSON(this.base+n,{fresh:true})));
+  if(!Array.isArray(manifest.shards)||manifest.shards.some(n=>!/^zh-en-(?:[0-5][0-9]|6[0-3])\.json$/.test(n))||new Set(manifest.shards).size!==manifest.shards.length)throw Error('发布清单分片名不合法或重复');
+  if(!Array.isArray(ed.corrections)||!Array.isArray(ed.aliases)||!refs.references||typeof refs.references!=='object')throw Error('修订或来源文件格式错误');
+  const rows=[],byWord=new Map(),warnings=[];
+  for(let i=0;i<manifest.shards.length;i+=4){const files=manifest.shards.slice(i,i+4);const groups=await Promise.all(files.map(n=>getJSON(this.base+'shards/'+n,{fresh:true})));
+   groups.forEach((group,j)=>{if(!Array.isArray(group))throw Error(files[j]+' 不是词条数组');for(const r of group){if(!r||typeof r.w!=='string'||!r.w.trim()||typeof r.t!=='string'||!Array.isArray(r.d))throw Error(files[j]+' 词条结构不合法');if(byWord.has(r.w))throw Error('重复词头：'+r.w);byWord.set(r.w,rows.length);rows.push({record:r,id:rows.length,shard:files[j],review:null});}});
+  }
+  const equal=(a,b)=>JSON.stringify(a)===JSON.stringify(b), seen=new Set();
+  for(const c of ed.corrections){if(c.status!=='human_confirmed'||!byWord.has(c.w))continue;const item=rows[byWord.get(c.w)];if(seen.has(c.w))throw Error('重复人工修订：'+c.w);seen.add(c.w);
+   const patch=c.set||{},expected=c.expected||{},keys=Object.keys(patch);if(keys.some(k=>!['t','d'].includes(k))||keys.some(k=>!(k in expected))||('t'in patch&&typeof patch.t!=='string')||('d'in patch&&!Array.isArray(patch.d)))throw Error('不合法的修订：'+c.w);
+   if(!keys.every(k=>equal(item.record[k],expected[k])||equal(item.record[k],patch[k]))){warnings.push(c.w);item.review={conflict:true};continue;}
+   item.record={...item.record,...patch};item.review={...c,references:(c.reference_ids||[]).map(id=>({id,...(refs.references[id]||{})}))};
+  }
+  const zh=new Map(),en=new Map();function add(map,key,id){key=normalize(key);if(!key)return;if(!map.has(key))map.set(key,new Set());map.get(key).add(id);}
+  // Translation strings and individual pipe/semicolon-separated alternatives only; no word tokenization.
+  for(const {record:r,id} of rows){add(zh,r.w,id);for(const t of [r.t,...r.d.map(s=>s.translation||'')]){const clean=String(t).replace(/<\/?(?:u|b|i|em|strong|sup|sub)>/gi,'');add(en,clean,id);for(const a of clean.split(/[|;；]/))add(en,a,id);}}
+  for(const a of ed.aliases){if(typeof a.query==='string'&&byWord.has(a.w))add(zh,a.query,byWord.get(a.w));}
+  return {rows,warnings,shardCount:manifest.shards.length,maps:{'zh-en':zh,'en-zh':en},keys:{'zh-en':[...zh.keys()].sort(),'en-zh':[...en.keys()].sort()}};
  }
- async prefix(direction,query,offset=0,limit=40){
-  const q=normalize(query);if(!q)return {items:[],more:false};
-  const {routes}=await this.index(direction);const items=[];let skipped=0;
-  for(let i=lowerRoute(routes,q);i<routes.length&&routes[i].first<=q+'\uffff';i++){
-   const rows=await getJSON(this.base+routes[i].path);
-   for(const [key,ids] of rows){
-    if(!key.startsWith(q))continue;
-    if(skipped++<offset)continue;
-    if(items.length===limit)return {items,more:true};
-    items.push({key,count:ids.length});
-   }
-  }return {items,more:false};
- }
- async records(ids){
-  // At most four record shards in flight. Caller pages the full posting list.
-  const chunks=[...new Set(ids.map(id=>Math.floor(id/this.chunk)))],data=new Map();
-  for(let i=0;i<chunks.length;i+=4)await Promise.all(chunks.slice(i,i+4).map(async c=>data.set(c,await getJSON(this.base+'records/'+String(c).padStart(4,'0')+'.json'))));
-  return ids.map(id=>{const record=data.get(Math.floor(id/this.chunk))[id%this.chunk];if(!record)throw Error('Missing record '+id);return {id,record};});
- }
+ async exact(dir,query){const s=await this.load();return [...(s.maps[dir].get(normalize(query))||[])];}
+ async prefix(dir,query,offset=0,limit=40){const q=normalize(query);if(!q)return {items:[],more:false};const s=await this.load(),keys=s.keys[dir],map=s.maps[dir];let lo=0,hi=keys.length;while(lo<hi){const mid=(lo+hi)>>1;if(keys[mid]<q)lo=mid+1;else hi=mid;}let i=lo+offset;const items=[];for(;i<keys.length&&keys[i].startsWith(q)&&items.length<limit;i++)items.push({key:keys[i],count:map.get(keys[i]).size});return {items,more:i<keys.length&&keys[i].startsWith(q)};}
+ async records(ids){const s=await this.load();return ids.map(id=>s.rows[id]);}
 }

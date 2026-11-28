@@ -1,11 +1,11 @@
-import {getJSON,LocalDictionary,normalize,metrics} from './engine.js?v=2.0.1';
+import {getJSON,LocalDictionary,normalize,metrics} from './engine.js?v=1.0-progressive';
 const $=id=>document.getElementById(id),el=(tag,cls='',value)=>{const n=document.createElement(tag);n.className=cls;if(value!==undefined)n.textContent=value;return n;};
 let configPromise,localPromise,request=0,suggestRequest=0,timer,active=null;
 function catalog(){return configPromise??=(getJSON('./catalog.json',{fresh:true}).catch(e=>{configPromise=null;throw e;}));}
 async function local(){if(!localPromise)localPromise=catalog().then(c=>new LocalDictionary(c.local.find(d=>d.id==='wikdict-zh-en'))).catch(e=>{localPromise=null;throw e;});return localPromise;}
 function status(s,error=false){$('status').textContent=s;$('status').className='status'+(error?' error':'');}
 function direction(q){const d=$('direction').value;return d==='auto'?(/[\p{Script=Han}]/u.test(q)?'zh-en':'en-en'):d;}
-function note(){const d=$('direction').value;$('directionNote').textContent=({'auto':'中文查询支持简繁检索别名；英文默认保留在线英英查询，也可切换本地反查。','zh-en':'简繁字形仅用于检索匹配；原词头、译法、词性及来源评分保持原样。','en-zh':'从汉英词库的现有英文译法反查中文，不是独立英汉词典；英文不区分大小写。','en-en':'使用 Free Dictionary API 在线查询；会发送所查词语。前缀候选来自本地汉英词库反向索引，英英查询仍为精确查询。'})[d];}
+function note(){const d=$('direction').value;$('directionNote').textContent=({'auto':'中文查询支持已登记的简繁检索别名；英文默认保留在线英英查询，也可切换本地反查。','zh-en':'已登记的简繁字形仅用于检索匹配；原词头、译法、词性及来源评分保持原样。','en-zh':'从汉英词库的现有英文译法反查中文，不是独立英汉词典；英文不区分大小写。','en-en':'使用 Free Dictionary API 在线查询；会发送所查词语。前缀候选来自本地汉英词库反向索引，英英查询仍为精确查询。'})[d];}
 function links(q){const n=$('externalLinks');n.replaceChildren();for(const [label,url] of [['维基词典','https://zh.wiktionary.org/wiki/'+encodeURIComponent(q)],['必应词典','https://www.bing.com/dict/search?q='+encodeURIComponent(q)],['剑桥英汉词典','https://dictionary.cambridge.org/dictionary/english-chinese-simplified/'+encodeURIComponent(q)]]){const a=el('a','',label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';n.append(a);}}
 function link(label,url){try{const u=new URL(url);if(u.protocol!=='https:')return el('span','',label);const a=el('a','',label);a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';return a;}catch{return el('span','',label);}}
 // Safe, narrowly whitelisted formatting. Unknown tags stay visible as literal source text.
@@ -17,13 +17,14 @@ function speak(word,lang,audio=''){
 function speechButton(word,lang,audio=''){const b=el('button','audio-btn',audio?'播放音频':'系统朗读');b.type='button';b.title=audio?'播放词典返回的音频；失败时尝试系统语音':'使用设备语音，不是词典录音';b.onclick=()=>speak(word,lang,audio);return b;}
 function overview(stats,noteText){const n=$('overview');n.replaceChildren();const grid=el('div','stats');for(const [v,k] of stats){const cell=el('div','stat');cell.append(el('strong','',String(v)),el('span','',k));grid.append(cell);}n.append(grid,el('p','muted',noteText));}
 function metadata(record){const d=el('details');d.append(el('summary','','原始字段与来源评分'));d.append(el('p','meta','s / score：原始来源评分；i / importance：重要性；g / source_is_good：原始来源标记。它们不等于本站准确率。'));const pre=el('pre','',JSON.stringify(record,null,2));d.append(pre);return d;}
-function renderLocal({record:r,id},q,dir){
+function renderLocal({record:r,id,review,shard},q,dir){
  const card=el('article','entry');card.dataset.recordId=String(id);
  const h=el('div','entry-head');h.append(el('h3','',r.w),speechButton(r.w,'zh-CN'));card.append(h);
- const caption=el('p','source-label');caption.append(link('WikDict · Gemini 初步复核版','https://www.wikdict.com/page/about'),document.createTextNode(' · '+(dir==='en-zh'?'英文译法反查':'汉英')+' · 记录 '+id));card.append(caption);
- if(dir==='zh-en'&&normalize(r.w)!==normalize(q))card.append(el('p','meta','通过简繁检索别名匹配；原词头为“'+r.w+'”。'));
+ const caption=el('p','source-label');caption.append(link('WikDict · BearWiki 渐进编录版','https://www.wikdict.com/page/about'),document.createTextNode(' · '+(dir==='en-zh'?'英文译法反查':'汉英')+' · '+shard));card.append(caption);
+ if(dir==='zh-en'&&normalize(r.w)!==normalize(q))card.append(el('p','meta','通过检索别名匹配；原词头为“'+r.w+'”。'));
  const t=el('p','translation');t.append(rich(r.t));card.append(t);
- if(!r.g)card.append(el('p','warning','原始来源标记 g=false；尚未通过全面人工审校，请结合语境核实。'));
+ if(review?.conflict)card.append(el('p','warning','人工修订旧值冲突：暂显示基础记录，待编辑复核。'));else if(review){card.append(el('p','meta','已登记人工确认修订：'+(review.reason||'')));for(const ref of review.references||[]){const section=el('div','gloss');section.append(el('p','meta',ref.description||ref.id),el('p','muted',ref.reported_verification||'未登记核实状态'));for(const url of ref.urls||[])section.append(link('参考来源',url),document.createTextNode(' '));card.append(section);}}
+ if(!r.g&&!review?.status)card.append(el('p','warning','原始来源标记 g=false；尚未通过全面人工审校，请结合语境核实。'));
  if(!r.d.length)card.append(el('p','muted','本条未提供详细义项或词性，仅展示原文件已有译法。'));
  const groups=new Map();for(const s of r.d){const pos=s.pos||'词性未提供';if(!groups.has(pos))groups.set(pos,[]);groups.get(pos).push(s);}
  for(const [pos,senses] of groups){const section=el('section','sense-group'),list=el('ol');section.append(el('h4','',pos));for(const s of senses){const li=el('li');li.append(rich(s.translation));if(s.gloss!==null&&s.gloss!==undefined&&s.gloss!==''){const g=el('div','gloss');g.append(rich(s.gloss));li.append(g);}li.append(el('div','meta','来源评分：'+String(s.score)+' · 原编号：'+String(s.id)));list.append(li);}section.append(list);card.append(section);}
@@ -45,7 +46,7 @@ async function showPage(id){
    for(const c of items){const b=el('button','candidate',c.key);b.append(el('small','',c.count+' 条关联记录'));b.onclick=()=>{ $('match').value='auto';lookup(c.key);};grid.append(b);}
    s.offset+=items.length;more.hidden=!hasMore;more.textContent='更多前缀候选';overview([[s.offset,'已展示候选']],'点击候选词查看完整记录；候选包含本地索引中的简繁别名。');
    status(s.offset?`已显示 ${s.offset} 个前缀候选${hasMore?'，可以继续展开':''}。${s.dir==='en-en'?'候选来自本地反向索引；选择后查询在线英英释义。':''}`:'当前词库没有匹配项；这不代表该词不存在。');
-   if(!s.offset)$('meanings').append(el('p','entry','本批数据尚未收录该检索词。可以尝试另一种字形、缩短前缀，或使用右侧外部词典。'));
+   if(!s.offset)$('meanings').append(el('p','entry','本站暂未收录该检索词。可以尝试另一种字形、缩短前缀，或使用右侧外部词典。'));
   }
  }catch(e){if(id!==request)return;status('数据未能完整加载，请重试。'+(e.name==='AbortError'?'请求超时。':e.message),true);more.hidden=false;more.textContent='重试加载';}
  finally{if(id===request)more.disabled=false;}
@@ -74,12 +75,12 @@ async function lookup(value,{updateUrl=true}={}){
  $('emptyFeature').hidden=true;$('results').hidden=false;$('meanings').replaceChildren();$('loadMore').hidden=true;$('resultTitle').textContent=q;$('resultKind').textContent=({'zh-en':'WikDict · 汉英','en-zh':'WikDict · 反向检索','en-en':'在线英英'})[dir];$('overview').replaceChildren(el('p','muted','正在查询…'));links(q);status('正在查询：'+q+' …');$('searchBtn').disabled=true;
  try{
   if(dir==='en-en'&&$('match').value!=='prefix'){await online(q,id);return;}
-  const dict=await local();if(id!==request)return;const indexDir=dir==='en-en'?'en-zh':dir;
+  const dict=await local();const loaded=await dict.load();$('editionCount').textContent=`${loaded.rows.length.toLocaleString()} 个词头 · ${loaded.shardCount} 个发布分片`;if(id!==request)return;const indexDir=dir==='en-en'?'en-zh':dir;
   const ids=$('match').value==='prefix'?[]:await dict.exact(indexDir,q);if(id!==request)return;
   if(ids.length){active={kind:'records',dict,q,dir,ids,offset:0,senses:0};await showPage(id);}
-  else if($('match').value==='exact'){$('meanings').append(el('p','entry','当前数据没有精确匹配。可切换前缀搜索，或使用外部词典。'));overview([[0,'精确匹配']],'没有以机器翻译补造结果。');status('没有精确匹配。');}
+  else if($('match').value==='exact'){$('meanings').append(el('p','entry','本站暂未收录该检索词（精确匹配）。可切换前缀搜索，或使用外部词典。'));overview([[0,'精确匹配']],'没有以机器翻译补造结果。');status('没有精确匹配。');}
   else{active={kind:'prefix',dict,q,dir,indexDir,offset:0};await showPage(id);}
- }catch(e){if(id!==request)return;status('本地词库加载失败。请确认 dictionary/data 目录完整，稍后重试。',true);$('meanings').append(el('p','entry','数据暂不可用；已有内容没有被删除。错误：'+e.message));}
+ }catch(e){if(id!==request)return;status('本地词库加载失败。请确认 dictionary/data 目录完整，稍后重试。',true);$('meanings').append(el('p','entry','数据暂不可用，请核对发布清单及已登记分片。错误：'+e.message));}
  finally{if(id===request)$('searchBtn').disabled=false;}
 }
 $('searchForm').onsubmit=e=>{e.preventDefault();lookup($('wordInput').value);};
@@ -92,3 +93,5 @@ window.addEventListener('popstate',()=>{const p=new URLSearchParams(location.sea
 const params=new URLSearchParams(location.search);if(['auto','zh-en','en-zh','en-en'].includes(params.get('dir')))$('direction').value=params.get('dir');if(['auto','exact','prefix'].includes(params.get('match')))$('match').value=params.get('match');note();if(params.get('q'))lookup(params.get('q'),{updateUrl:false});
 // Exposes only counters for performance QA, never query history or dictionary payloads.
 window.bearwikiMetrics=metrics;
+
+local().then(async dict=>{const m=await getJSON(dict.base+'manifest.json',{fresh:true});$('editionCount').textContent=m.shards.length?`${m.shards.length} 个发布分片 · 查询后统计词头`:'0 个词头 · 待分批收录';}).catch(()=>{$('editionCount').textContent='发布清单暂不可用';});
