@@ -1,4 +1,6 @@
 {
   "version": "1.0",
-  "shards": []
+  "shards": [
+    "zh-en-00.json"
+  ]
 }
